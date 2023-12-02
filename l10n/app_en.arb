@@ -762,77 +762,23 @@
     "webUI": "Open in WEB",
     "webView": "Web View",
     "whatsNew": "What's New?",
-    "@getPremium": {
-        "description": ""
-    },
     "getPremium": "Get Premium",
-    "@alreadyGetPremium": {
-        "description": ""
-    },
     "alreadyGetPremium": "Premium Purchased",
-    "@purchaseExpireAt": {
-        "description": ""
-    },
     "purchaseExpireAt": "Premium Subscription will automatically renew on ",
-    "@iapFaq": {
-        "description": ""
-    },
     "iapFaq": "In-App Purchase FAQ",
-    "@restorePurchase": {
-        "description": ""
-    },
     "restorePurchase": "Restore Purchase",
-    "@share": {
-        "description": ""
-    },
     "share": "Share",
-    "@discordServer": {
-        "description": ""
-    },
     "discordServer": "Discord Server",
-    "@externalRepository": {
-        "description": ""
-    },
     "externalRepository": "Extension Settings",
-    "@addRepository": {
-        "description": ""
-    },
     "addRepository": "Add External Extensions",
-    "@externalRepositoryUrl": {
-        "description": ""
-    },
     "externalRepositoryUrl": "Extension Repository Url",
-    "@externalRepositoryUrlShort": {
-        "description": ""
-    },
     "externalRepositoryUrlShort": "Extension Repository Url",
-    "@copyRightClaim": {
-        "description": ""
-    },
     "copyRightClaim": "Copyright claim",
-    "@history": {
-        "description": ""
-    },
     "history": "History",
-    "@useSysProxy": {
-        "description": ""
-    },
     "useSysProxy": "Use system proxy settings",
-    "@clearCookies": {
-        "description": ""
-    },
     "clearCookies": "Clear Cookies",
-    "@clearCache": {
-        "description": ""
-    },
     "clearCache": "Clear Cache",
-    "@termsUrl": {
-        "description": ""
-    },
     "termsUrl": "Terms of Use",
-    "@privacyUrl": {
-        "description": ""
-    },
     "privacyUrl": "Privacy Policy",
     "recentlyDownloaded": "Recently Downloaded",
     "oneTracker": "1 tracker",
