@@ -510,5 +510,5 @@
   "mangaSortLatestChapterFetch": "Дата загрузки главы",
   "@mangaSortLatestChapterFetch": {},
   "onlySearchPinSource": "Искать только закрепленные источники",
-  "@onlySearchPinSource": {},
+  "@onlySearchPinSource": {}
 }
