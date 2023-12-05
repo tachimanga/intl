@@ -469,7 +469,7 @@
   "@nsfwInfo": {
     "description": "Hint text to show that the nsfw switch cannot prevent incorrectly flagged extensions from surfacing"
   },
-  "readerNavigationLayoutInvert": "بالنقر",
+  "readerNavigationLayoutInvert": "عكس مناطق اللمس",
   "@readerNavigationLayoutInvert": {
     "description": "Switch title to invert Tap to scroll in reader screen"
   },
@@ -621,7 +621,7 @@
   "@readerModeWebtoon": {
     "description": "Radio button text for Reader Mode Type - Webtoon"
   },
-  "readerNavigationLayout": "نوع الانتقال",
+  "readerNavigationLayout": "مناطق اللمس",
   "@readerNavigationLayout": {
     "description": "Popup title and Button text of Reader Navigation Layout popup"
   },
@@ -892,5 +892,13 @@
   "autoBackupFailTip": "فشل في إنشاء النسخة الاحتياطية التلقائية قبل الاستعادة. يرجى إلغاء النسخ الاحتياطية التلقائية والمحاولة مرة أخرى.",
   "restartApp": "إعادة تشغيل التطبيق",
   "confirm": "تأكيد",
-  "dummy": "dummy"
+  "onlySearchPinSource": "تضمين المصادر المثبتة فقط",
+  "noNextChapter": "لا يوجدُ فصل تالي",
+  "doubleTapZoomIn": "انقر مرتين لتكبِّر",
+  "mangaSortLatestChapterFetch": "تاريخ الرفع",
+  "prevPage": "السابق",
+  "nextPage": "التالي",
+  "leftPage": "يسار",
+  "rightPage": "يمين",
+  "tapMenu": "القائمة"
 }
