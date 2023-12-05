@@ -246,7 +246,7 @@
   "@readerModeSingleVertical": {},
   "readerModeWebtoon": "Webtoon",
   "@readerModeWebtoon": {},
-  "readerNavigationLayout": "Tipo de navegación",
+  "readerNavigationLayout": "Zonas de toque",
   "@readerNavigationLayout": {},
   "readerNavigationLayoutDefault": "Predeterminado",
   "@readerNavigationLayoutDefault": {},
@@ -254,7 +254,7 @@
   "@readerNavigationLayoutDisabled": {},
   "readerNavigationLayoutEdge": "Borde",
   "@readerNavigationLayoutEdge": {},
-  "readerNavigationLayoutInvert": "Invertir el toque",
+  "readerNavigationLayoutInvert": "Invertir zonas de toque",
   "@readerNavigationLayoutInvert": {},
   "readerNavigationLayoutKindlish": "Estilo Kindle",
   "@readerNavigationLayoutKindlish": {},
@@ -492,8 +492,6 @@
   "@restartApp": {},
   "confirm": "Confirmar",
   "@confirm": {},
-  "dummy": "dummy",
-  "@dummy": {},
   "privacyUrl": "Política de privacidad",
   "@privacyUrl": {
     "description": ""
@@ -506,9 +504,9 @@
   "@copyRightClaim": {
     "description": ""
   },
-  "noNextChapter": "No hay un próximo capítulo",
+  "noNextChapter": "No hay ningún capítulo más",
   "@noNextChapter": {},
-  "doubleTapZoomIn": "Doble toque para ampliar",
+  "doubleTapZoomIn": "Ampliar tocando dos veces la pantalla",
   "@doubleTapZoomIn": {},
   "onlySearchPinSource": "Incluir sólo fuentes fijadas",
   "@onlySearchPinSource": {},
@@ -526,10 +524,15 @@
   "@mangaGridSize": {
     "description": "Popup title and Button text to change Manga Grid size"
   },
-  "readerScrollAnimation": "Animación del desplazamiento",
+  "readerScrollAnimation": "Transiciones de página animadas",
   "@readerScrollAnimation": {},
   "termsUrl": "Condiciones de uso",
   "@termsUrl": {
     "description": ""
-  }
+  },
+  "prevPage": "Anterior",
+  "nextPage": "Siguiente",
+  "leftPage": "Izquierda",
+  "rightPage": "Derecha",
+  "tapMenu": "Menú"
 }

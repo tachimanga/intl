@@ -435,7 +435,7 @@
   "@readerNavigationLayoutDefault": {
     "description": "Radio button text for Reader Navigation Layout - Default"
   },
-  "readerNavigationLayout": "点按布局",
+  "readerNavigationLayout": "点按区域",
   "@readerNavigationLayout": {
     "description": "Popup title and Button text of Reader Navigation Layout popup"
   },
@@ -815,5 +815,16 @@
   "autoBackupFailTip": "在恢复之前自动备份失败。请取消自动备份，然后重试。",
   "restartApp": "重启应用",
   "confirm": "确认",
-  "dummy": "dummy"
+  "allScanlators": "所有Scanlators",
+  "scanlators": "Scanlators",
+  "onlySearchPinSource": "只包含固定来源",
+  "noNextChapter": "后面没有啦",
+  "readerScrollAnimation": "页面过渡动画",
+  "doubleTapZoomIn": "双击放大",
+  "mangaSortLatestChapterFetch": "章节获取时间",
+  "prevPage": "上一页",
+  "nextPage": "下一页",
+  "leftPage": "左",
+  "rightPage": "右",
+  "tapMenu": "菜单"
 }

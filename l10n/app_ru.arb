@@ -511,6 +511,4 @@
   "@mangaSortLatestChapterFetch": {},
   "onlySearchPinSource": "Искать только закрепленные источники",
   "@onlySearchPinSource": {},
-  "dummy": "заглушка",
-  "@dummy": {}
 }

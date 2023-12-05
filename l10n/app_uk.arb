@@ -349,7 +349,7 @@
   "@readerModeWebtoon": {
     "description": "Radio button text for Reader Mode Type - Webtoon"
   },
-  "readerNavigationLayout": "Макет навігації",
+  "readerNavigationLayout": "Зони тицяння",
   "@readerNavigationLayout": {
     "description": "Popup title and Button text of Reader Navigation Layout popup"
   },
@@ -365,7 +365,7 @@
   "@readerNavigationLayoutEdge": {
     "description": "Radio button text for Reader Navigation Layout - Edge"
   },
-  "readerScrollAnimation": "Анімація прокрутки",
+  "readerScrollAnimation": "Анімація переходів сторінки",
   "@readerScrollAnimation": {
     "description": "Switch title to Disable scroll animation in reader screen"
   },
@@ -713,7 +713,7 @@
   "@quickSearchSource": {
     "description": "Quick Open Hint text for Source S with prefill '@S'"
   },
-  "readerNavigationLayoutInvert": "Інвертувати дотик",
+  "readerNavigationLayoutInvert": "Інвертувати зони тицяння",
   "@readerNavigationLayoutInvert": {
     "description": "Switch title to invert Tap to scroll in reader screen"
   },
@@ -900,5 +900,13 @@
   "autoBackupFailTip": "Не вдалося створити автоматичну резервну копію перед відновленням. Скасуйте автоматичну резервну копію й спробуйте ще раз.",
   "restartApp": "Перезапустити програму",
   "confirm": "Підтвердити",
-  "dummy": "dummy"
+  "onlySearchPinSource": "Включити тільки прикріплені джерела",
+  "noNextChapter": "Наступної частини немає",
+  "doubleTapZoomIn": "Двічі торкніться, щоб збільшити",
+  "mangaSortLatestChapterFetch": "Дата отримання розділу",
+  "prevPage": "Попередній",
+  "nextPage": "Наступний",
+  "leftPage": "Зліва",
+  "rightPage": "Зправа",
+  "tapMenu": "Меню"
 }

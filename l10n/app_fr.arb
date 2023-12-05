@@ -381,7 +381,7 @@
   "@readerModeWebtoon": {
     "description": "Radio button text for Reader Mode Type - Webtoon"
   },
-  "readerNavigationLayout": "Disposition de la navigation",
+  "readerNavigationLayout": "Zones tactiles",
   "@readerNavigationLayout": {
     "description": "Popup title and Button text of Reader Navigation Layout popup"
   },
@@ -393,7 +393,7 @@
   "@readerNavigationLayoutDisabled": {
     "description": "Radio button text for Reader Navigation Layout - Disabled"
   },
-  "readerScrollAnimation": "Animation de défilement",
+  "readerScrollAnimation": "Activer les transitions",
   "@readerScrollAnimation": {
     "description": "Switch title to Disable scroll animation in reader screen"
   },
@@ -751,59 +751,48 @@
   "@update": {
     "description": "Button text to update the extension"
   },
-  "quickSearchSource": "",
   "@quickSearchSource": {
     "description": "Quick Open Hint text for Source S with prefill '@S'"
   },
-  "quickSearchSourceManga": "",
   "@quickSearchSourceManga": {
     "description": "Quick Open Hint text for searching Manga M in Source S with prefill '@S/M'"
   },
-  "quickSearchCategoryMangaChapter": "",
   "@quickSearchCategoryMangaChapter": {
     "description": "Quick Open Hint text for searching Chapter name CN from Manga M in Source S with prefill '#C/M:CN'"
   },
-  "readerNavigationLayoutEdge": "",
   "@readerNavigationLayoutEdge": {
     "description": "Radio button text for Reader Navigation Layout - Edge"
   },
-  "readerNavigationLayoutInvert": "",
+  "readerNavigationLayoutInvert": "Inverser les zones tactiles",
   "@readerNavigationLayoutInvert": {
     "description": "Switch title to invert Tap to scroll in reader screen"
   },
-  "serverPort": "",
   "@serverPort": {
     "description": "Popup title and Button text to update Server Port"
   },
-  "serverPortHintText": "",
   "@serverPortHintText": {
     "description": "Text Filed hint text to update Server Port"
   },
-  "noServerFound": "",
   "@noServerFound": {
     "description": "Text to show that no Server found in locale network"
   },
-  "findServer": "",
   "@findServer": {
     "description": "Button text of Find Server"
   },
-  "allScanlators": "",
+  "allScanlators": "Tous les scanlateurs",
   "@allScanlators": {
     "description": "Text for all Scanlators in manga description screen chapter filter"
   },
-  "quickSearchCategory": "",
   "@quickSearchCategory": {
     "description": "Quick Open Hint text for Category C with prefill '#C'"
   },
-  "quickSearchContext": "",
   "@quickSearchContext": {
     "description": "Quick Open Hint text for query X"
   },
-  "scanlators": "",
+  "scanlators": "Scanlateurs",
   "@scanlators": {
     "description": "Title text for Scanlators"
   },
-  "quickSearchCategoryManga": "",
   "@quickSearchCategoryManga": {
     "description": "Quick Open Hint text for searching Manga M in Category C with prefill '#C/M'"
   },
@@ -880,5 +869,13 @@
   "autoBackupFailTip": "Échec de la création de la sauvegarde automatique avant la restauration. Veuillez annuler la sauvegarde automatique et réessayer.",
   "restartApp": "Redémarrer l'application",
   "confirm": "Confirmer",
-  "dummy": "dummy"
+  "onlySearchPinSource": "Inclure uniquement les sources épinglées",
+  "noNextChapter": "C'était le dernier chapitre",
+  "doubleTapZoomIn": "Appuyez deux fois pour zoomer",
+  "mangaSortLatestChapterFetch": "Date de récupération du chapitre",
+  "prevPage": "Précédent",
+  "nextPage": "Suivant",
+  "leftPage": "Gauche",
+  "rightPage": "Droite",
+  "tapMenu": "Menu"
 }
