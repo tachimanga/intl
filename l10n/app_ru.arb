@@ -619,5 +619,8 @@
   "num_categories": "{num} категорий",
   "label_default": "По умолчанию",
   "action_move_category": "Настройка категорий",
-  "readerAdvancedSubtitle": "Жесты, масштабирование и строка состояния"
+  "readerAdvancedSubtitle": "Жесты, масштабирование и строка состояния",
+  "dataUsageSectionTitle": "Использование данных",
+  "networkSectionTitle": "Сеть",
+  "logsSectionTitle": "Журналы"
 }
