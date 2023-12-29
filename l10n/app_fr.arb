@@ -930,5 +930,8 @@
   "num_categories": "{num} catégories",
   "label_default": "Par défaut",
   "action_move_category": "Définir les catégories",
-  "readerAdvancedSubtitle": "Geste, zoom et barre d'état."
+  "readerAdvancedSubtitle": "Geste, zoom et barre d'état.",
+  "dataUsageSectionTitle": "Utilisation des données",
+  "networkSectionTitle": "Réseau",
+  "logsSectionTitle": "Journaux"
 }

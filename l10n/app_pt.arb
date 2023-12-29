@@ -310,5 +310,8 @@
   "num_categories": "{num} categorias",
   "label_default": "Padrão",
   "action_move_category": "Definir categorias",
-  "readerAdvancedSubtitle": "Gesto, zoom e barra de status."
+  "readerAdvancedSubtitle": "Gesto, zoom e barra de status.",
+  "dataUsageSectionTitle": "Uso de dados",
+  "networkSectionTitle": "Rede",
+  "logsSectionTitle": "Registros"
 }

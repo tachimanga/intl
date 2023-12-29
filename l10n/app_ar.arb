@@ -953,5 +953,8 @@
   "num_categories": "{num} فئات",
   "label_default": "افتراضي",
   "action_move_category": "تعيين الفئات",
-  "readerAdvancedSubtitle": "الإيماءة والتكبير وشريط الحالة."
+  "readerAdvancedSubtitle": "الإيماءة والتكبير وشريط الحالة.",
+  "dataUsageSectionTitle": "استخدام البيانات",
+  "networkSectionTitle": "الشبكة",
+  "logsSectionTitle": "السجلات"
 }

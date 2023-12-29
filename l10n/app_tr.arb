@@ -312,5 +312,8 @@
   "num_categories": "{num} kategoriler",
   "label_default": "Varsayılan",
   "action_move_category": "Kategorileri ayarla",
-  "readerAdvancedSubtitle": "Dokunma, yakınlaştırma ve durum çubuğu."
+  "readerAdvancedSubtitle": "Dokunma, yakınlaştırma ve durum çubuğu.",
+  "dataUsageSectionTitle": "Veri kullanımı",
+  "networkSectionTitle": "Ağ",
+  "logsSectionTitle": "Günlükler"
 }
