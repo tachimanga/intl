@@ -612,5 +612,12 @@
   "byPassTimeout": "Не удалось обойти Cloudflare",
   "@byPassTimeout": {},
   "theme_midnightdusk": "Полуночные Сумерки",
-  "@theme_midnightdusk": {}
+  "@theme_midnightdusk": {},
+  "default_category": "Категория по умолчанию",
+  "default_category_summary": "Всегда спрашивать",
+  "one_category": "1 категория",
+  "num_categories": "{num} категорий",
+  "label_default": "По умолчанию",
+  "action_move_category": "Настройка категорий",
+  "readerAdvancedSubtitle": "Жесты, масштабирование и строка состояния"
 }
