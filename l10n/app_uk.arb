@@ -1047,5 +1047,8 @@
   "num_categories": "{num} категорії",
   "label_default": "Стандартний",
   "action_move_category": "Встановити категорії",
-  "readerAdvancedSubtitle": "Жест, масштабування та панель стану."
+  "readerAdvancedSubtitle": "Жест, масштабування та панель стану.",
+  "dataUsageSectionTitle": "Використання даних",
+  "networkSectionTitle": "Мережа",
+  "logsSectionTitle": "Журнали"
 }
