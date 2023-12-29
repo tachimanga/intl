@@ -585,5 +585,8 @@
   "num_categories": "{num} categorías",
   "label_default": "Predeterminado",
   "action_move_category": "Establecer categorías",
-  "readerAdvancedSubtitle": "Gestos, zoom y barra de estado."
+  "readerAdvancedSubtitle": "Gestos, zoom y barra de estado.",
+  "dataUsageSectionTitle": "Uso de datos",
+  "networkSectionTitle": "Red",
+  "logsSectionTitle": "Registros"
 }

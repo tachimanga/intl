@@ -310,5 +310,8 @@
   "num_categories": "{num} 個分類",
   "label_default": "預設",
   "action_move_category": "設定分類",
-  "readerAdvancedSubtitle": "手勢、縮放和狀態列。"
+  "readerAdvancedSubtitle": "手勢、縮放和狀態列。",
+  "dataUsageSectionTitle": "數據使用",
+  "networkSectionTitle": "網絡",
+  "logsSectionTitle": "日誌"
 }

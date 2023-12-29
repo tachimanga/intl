@@ -903,5 +903,8 @@
   "num_categories": "{num} categories",
   "label_default": "Default",
   "action_move_category": "Set categories",
-  "readerAdvancedSubtitle": "Gesture, zooming, and status bar."
+  "readerAdvancedSubtitle": "Gesture, zooming, and status bar.",
+  "dataUsageSectionTitle": "Data usage",
+  "networkSectionTitle": "Network",
+  "logsSectionTitle": "Logs"
 }
