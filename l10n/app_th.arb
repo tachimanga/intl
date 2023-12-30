@@ -320,5 +320,9 @@
   "pinned_sources": "ที่ตรึงไว้",
   "ext_updates_pending": "อัปเดตที่รอดำเนินการ",
   "other_source": "อื่น ๆ",
-  "multi_lang": "หลายภาษา"
+  "multi_lang": "หลายภาษา",
+  "enableLog": "เปิดใช้งานบันทึก",
+  "exportLog": "ส่งออกบันทึก",
+  "cookiesCleared": "ล้างคุกกี้แล้ว",
+  "cacheCleared": "ล้างแคช"
 }

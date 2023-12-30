@@ -625,5 +625,9 @@
   "pinned_sources": "Закреплено",
   "ext_updates_pending": "Доступны обновления",
   "other_source": "Другое",
-  "multi_lang": "Многоязыковое"
+  "multi_lang": "Многоязыковое",
+  "enableLog": "Включить журнал",
+  "exportLog": "Экспортировать журнал",
+  "cookiesCleared": "Cookies очищены",
+  "cacheCleared": "Кэш очищен"
 }

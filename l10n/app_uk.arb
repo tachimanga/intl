@@ -1051,5 +1051,9 @@
   "pinned_sources": "Прикріплено",
   "ext_updates_pending": "Очікуються оновлення",
   "other_source": "Інші",
-  "multi_lang": "Багатомовне"
+  "multi_lang": "Багатомовне",
+  "enableLog": "Увімкнути журнал",
+  "exportLog": "Експортувати журнал",
+  "cookiesCleared": "Cookies очищено",
+  "cacheCleared": "Кеш очищено"
 }
