@@ -939,6 +939,5 @@
   "multi_lang": "Multiple",
   "enableLog": "Activer le journal",
   "exportLog": "Exporter le journal",
-  "cookiesCleared": "Cookies effacés",
-  "cacheCleared": "Cache effacé"
+  "cookiesCleared": "Cookies effacés"
 }
