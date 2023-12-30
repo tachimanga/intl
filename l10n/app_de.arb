@@ -320,5 +320,9 @@
   "pinned_sources": "Angeheftet",
   "ext_updates_pending": "Aktualisierungen ausstehend",
   "other_source": "Andere",
-  "multi_lang": "Mehrere Sprachen"
+  "multi_lang": "Mehrere Sprachen",
+  "enableLog": "Protokoll aktivieren",
+  "exportLog": "Protokoll exportieren",
+  "cookiesCleared": "Cookies gelöscht",
+  "cacheCleared": "Cache gelöscht"
 }

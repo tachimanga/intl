@@ -320,5 +320,9 @@
   "pinned_sources": "Fixado",
   "ext_updates_pending": "Atualizações pendentes",
   "other_source": "Outras",
-  "multi_lang": "Multi"
+  "multi_lang": "Multi",
+  "enableLog": "Ativar log",
+  "exportLog": "Exportar log",
+  "cookiesCleared": "Cookies Limpos",
+  "cacheCleared": "Cache Limpo"
 }

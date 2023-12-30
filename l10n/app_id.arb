@@ -320,5 +320,9 @@
   "pinned_sources": "Tersemat",
   "ext_updates_pending": "Pembaruan tertunda",
   "other_source": "Lainnya",
-  "multi_lang": "Multi"
+  "multi_lang": "Multi",
+  "enableLog": "Aktifkan log",
+  "exportLog": "Ekspor log",
+  "cookiesCleared": "Cookies Dihapus",
+  "cacheCleared": "Cache Dihapus"
 }

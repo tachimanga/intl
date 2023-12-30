@@ -320,5 +320,9 @@
   "pinned_sources": "İğnelenmiş",
   "ext_updates_pending": "Bekleyen güncellemeler",
   "other_source": "Diğer",
-  "multi_lang": "Çoklu"
+  "multi_lang": "Çoklu",
+  "enableLog": "Günlüğü etkinleştir",
+  "exportLog": "Günlüğü dışa aktar",
+  "cookiesCleared": "Çerezler Temizlendi",
+  "cacheCleared": "Önbellek Temizlendi"
 }
