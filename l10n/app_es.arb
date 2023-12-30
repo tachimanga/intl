@@ -587,5 +587,9 @@
   "pinned_sources": "Ancladas",
   "ext_updates_pending": "Actualizaciones pendientes",
   "other_source": "Otros",
-  "multi_lang": "Varios idiomas"
+  "multi_lang": "Varios idiomas",
+  "enableLog": "Activar registro",
+  "exportLog": "Exportar registro",
+  "cookiesCleared": "Cookies borradas",
+  "cacheCleared": "Caché borrada"
 }

@@ -320,5 +320,9 @@
   "pinned_sources": "Đã ghim",
   "ext_updates_pending": "Cập nhật đang chờ",
   "other_source": "Khác",
-  "multi_lang": "Đa Ngôn Ngữ"
+  "multi_lang": "Đa Ngôn Ngữ",
+  "enableLog": "Bật nhật ký",
+  "exportLog": "Xuất nhật ký",
+  "cookiesCleared": "Xóa Cookies",
+  "cacheCleared": "Xóa Bộ nhớ cache"
 }
