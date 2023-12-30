@@ -130,7 +130,6 @@
   "readerNavigationLayoutLShaped": "L alakú",
   "readerNavigationLayoutRightAndLeft": "Jobbra és balra",
   "readerPadding": "Olvasó betöltése",
-  "readerMagnifierSize": "Nagyító mérete",
   "reddit": "Reddit",
   "refresh": "Frissítés",
   "reset": "Alaphelyzetbe állítás",
@@ -182,7 +181,6 @@
   "addRepository": "Külső bővítmények hozzáadása",
   "externalRepositoryUrl": "Bővítmény tároló URL",
   "externalRepositoryUrlShort": "Bővítmény tároló URL",
-  "copyRightClaim": "Szerzői jogi követelés",
   "history": "Előzmények",
   "useSysProxy": "Rendszerproxy beállításainak használata",
   "clearCookies": "Cookie-k törlése",
@@ -315,5 +313,12 @@
   "readerAdvancedSubtitle": "Geszturek, nagyítás és állapotsor.",
   "dataUsageSectionTitle": "Adatfelhasználás",
   "networkSectionTitle": "Hálózat",
-  "logsSectionTitle": "Naplók"
+  "logsSectionTitle": "Naplók",
+  "local_source": "Helyi forrás",
+  "ext_installed": "Telepítve",
+  "last_used_source": "Utoljára használt",
+  "pinned_sources": "Kitűzött",
+  "ext_updates_pending": "Függőben lévő frissítések",
+  "other_source": "Egyéb",
+  "multi_lang": "Több"
 }

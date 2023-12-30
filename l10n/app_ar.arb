@@ -477,10 +477,6 @@
   "@readerScrollAnimation": {
     "description": "Switch title to Disable scroll animation in reader screen"
   },
-  "readerMagnifierSize": "حجم التكبير",
-  "@readerMagnifierSize": {
-    "description": "Slider title text for Reader Magnifier Size"
-  },
   "reddit": "Reddit",
   "@reddit": {
     "description": "Reddit app title"
@@ -956,5 +952,12 @@
   "readerAdvancedSubtitle": "الإيماءة والتكبير وشريط الحالة.",
   "dataUsageSectionTitle": "استخدام البيانات",
   "networkSectionTitle": "الشبكة",
-  "logsSectionTitle": "السجلات"
+  "logsSectionTitle": "السجلات",
+  "local_source": "مصدر محلّي",
+  "ext_installed": "تم التثبيت",
+  "last_used_source": "آخر مصدر مُستخدم",
+  "pinned_sources": "المثبتة",
+  "ext_updates_pending": "التحديثات معلقة",
+  "other_source": "أخرى",
+  "multi_lang": "متعدد"
 }

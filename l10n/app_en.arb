@@ -442,9 +442,6 @@
   "@readerNavigationLayoutRightAndLeft": {
     "description": "Radio button text for Reader Navigation Layout - Right And Left"
   },
-  "@readerMagnifierSize": {
-    "description": "Slider title text for Reader Magnifier Size"
-  },
   "@readerPadding": {
     "description": "Slider title text for Reader Padding"
   },
@@ -721,7 +718,6 @@
   "readerNavigationLayoutLShaped": "L Shaped",
   "readerNavigationLayoutRightAndLeft": "Right And Left",
   "readerPadding": "Reader Padding",
-  "readerMagnifierSize": "Magnifier Size",
   "reddit": "Reddit",
   "refresh": "Refresh",
   "reset": "Reset",
@@ -773,7 +769,6 @@
   "addRepository": "Add External Extensions",
   "externalRepositoryUrl": "Extension Repository Url",
   "externalRepositoryUrlShort": "Extension Repository Url",
-  "copyRightClaim": "Copyright claim",
   "history": "History",
   "useSysProxy": "Use system proxy settings",
   "clearCookies": "Clear Cookies",
@@ -906,5 +901,16 @@
   "readerAdvancedSubtitle": "Gesture, zooming, and status bar.",
   "dataUsageSectionTitle": "Data usage",
   "networkSectionTitle": "Network",
-  "logsSectionTitle": "Logs"
+  "logsSectionTitle": "Logs",
+  "enableLog": "Enable log",
+  "exportLog": "Export log",
+  "cookiesCleared": "Cookies Cleared",
+  "cacheCleared": "Cache Cleared",
+  "local_source": "Local source",
+  "ext_installed": "Installed",
+  "last_used_source": "Last used",
+  "pinned_sources": "Pinned",
+  "ext_updates_pending": "Updates pending",
+  "other_source": "Other",
+  "multi_lang": "Multi"
 }

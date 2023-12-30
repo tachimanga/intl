@@ -882,5 +882,12 @@
   "readerAdvancedSubtitle": "手势、缩放和状态栏",
   "dataUsageSectionTitle": "数据使用",
   "networkSectionTitle": "网络",
-  "logsSectionTitle": "日志"
+  "logsSectionTitle": "日志",
+  "local_source": "本地图源",
+  "ext_installed": "已安装",
+  "last_used_source": "上次浏览",
+  "pinned_sources": "已置顶",
+  "ext_updates_pending": "待更新",
+  "other_source": "其他",
+  "multi_lang": "多语言"
 }

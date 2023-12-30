@@ -130,7 +130,6 @@
   "readerNavigationLayoutLShaped": "L Şeklinde",
   "readerNavigationLayoutRightAndLeft": "Sağ ve Sol",
   "readerPadding": "Okuyucu Dolgu",
-  "readerMagnifierSize": "Büyüteç Boyutu",
   "reddit": "Reddit",
   "refresh": "Yenile",
   "reset": "Sıfırla",
@@ -182,7 +181,6 @@
   "addRepository": "Harici Uzantılar Ekle",
   "externalRepositoryUrl": "Uzantı Deposu URL'si",
   "externalRepositoryUrlShort": "Uzantı Deposu URL'si",
-  "copyRightClaim": "Telif Hakkı Talebi",
   "history": "Geçmiş",
   "useSysProxy": "Sistem proxy ayarlarını kullan",
   "clearCookies": "Çerezleri Temizle",
@@ -315,5 +313,12 @@
   "readerAdvancedSubtitle": "Dokunma, yakınlaştırma ve durum çubuğu.",
   "dataUsageSectionTitle": "Veri kullanımı",
   "networkSectionTitle": "Ağ",
-  "logsSectionTitle": "Günlükler"
+  "logsSectionTitle": "Günlükler",
+  "local_source": "Yerel kaynak",
+  "ext_installed": "Kuruldu",
+  "last_used_source": "Son kullanılan",
+  "pinned_sources": "İğnelenmiş",
+  "ext_updates_pending": "Bekleyen güncellemeler",
+  "other_source": "Diğer",
+  "multi_lang": "Çoklu"
 }

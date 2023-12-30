@@ -313,5 +313,12 @@
   "readerAdvancedSubtitle": "Gesto, zoom e barra de status.",
   "dataUsageSectionTitle": "Uso de dados",
   "networkSectionTitle": "Rede",
-  "logsSectionTitle": "Registros"
+  "logsSectionTitle": "Registros",
+  "local_source": "Fonte local",
+  "ext_installed": "Instalado",
+  "last_used_source": "Último usado",
+  "pinned_sources": "Fixado",
+  "ext_updates_pending": "Atualizações pendentes",
+  "other_source": "Outras",
+  "multi_lang": "Multi"
 }

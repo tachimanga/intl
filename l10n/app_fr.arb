@@ -413,10 +413,6 @@
   "@readerPadding": {
     "description": "Slider title text for Reader Padding"
   },
-  "readerMagnifierSize": "Taille de la loupe",
-  "@readerMagnifierSize": {
-    "description": "Slider title text for Reader Magnifier Size"
-  },
   "reddit": "Reddit",
   "@reddit": {
     "description": "Reddit app title"
@@ -933,5 +929,12 @@
   "readerAdvancedSubtitle": "Geste, zoom et barre d'état.",
   "dataUsageSectionTitle": "Utilisation des données",
   "networkSectionTitle": "Réseau",
-  "logsSectionTitle": "Journaux"
+  "logsSectionTitle": "Journaux",
+  "local_source": "Source locale",
+  "ext_installed": "Installée",
+  "last_used_source": "Dernière utilisée",
+  "pinned_sources": "Épinglé",
+  "ext_updates_pending": "Mises à jour en attente",
+  "other_source": "Autre",
+  "multi_lang": "Multiple"
 }
