@@ -320,5 +320,9 @@
   "pinned_sources": "已釘選",
   "ext_updates_pending": "等待更新中",
   "other_source": "其他",
-  "multi_lang": "多語"
+  "multi_lang": "多語",
+  "enableLog": "啟用日誌",
+  "exportLog": "匯出日誌",
+  "cookiesCleared": "清除Cookies成功",
+  "cacheCleared": "清除快取成功"
 }

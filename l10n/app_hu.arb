@@ -320,5 +320,9 @@
   "pinned_sources": "Kitűzött",
   "ext_updates_pending": "Függőben lévő frissítések",
   "other_source": "Egyéb",
-  "multi_lang": "Több"
+  "multi_lang": "Több",
+  "enableLog": "Napló engedélyezése",
+  "exportLog": "Napló exportálása",
+  "cookiesCleared": "Cookie-k törölve",
+  "cacheCleared": "Gyorsítótár törölve"
 }

@@ -936,5 +936,9 @@
   "pinned_sources": "Épinglé",
   "ext_updates_pending": "Mises à jour en attente",
   "other_source": "Autre",
-  "multi_lang": "Multiple"
+  "multi_lang": "Multiple",
+  "enableLog": "Activer le journal",
+  "exportLog": "Exporter le journal",
+  "cookiesCleared": "Cookies effacés",
+  "cacheCleared": "Cache effacé"
 }
