@@ -717,10 +717,6 @@
   "@readerNavigationLayoutInvert": {
     "description": "Switch title to invert Tap to scroll in reader screen"
   },
-  "readerMagnifierSize": "Розмір екранної лупи",
-  "@readerMagnifierSize": {
-    "description": "Slider title text for Reader Magnifier Size"
-  },
   "running": "Запущено",
   "@running": {
     "description": "Running status Manga Group title in Update Summary Screen"
@@ -989,8 +985,6 @@
   "@tapMenu": {},
   "privacyUrl": "Політика конфіденційності",
   "@privacyUrl": {},
-  "copyRightClaim": "Авторські права",
-  "@copyRightClaim": {},
   "termsUrl": "Умови використання",
   "@termsUrl": {},
   "byPassSwitch": "Автоматичне обхід Cloudflare",
@@ -1050,5 +1044,12 @@
   "readerAdvancedSubtitle": "Жест, масштабування та панель стану.",
   "dataUsageSectionTitle": "Використання даних",
   "networkSectionTitle": "Мережа",
-  "logsSectionTitle": "Журнали"
+  "logsSectionTitle": "Журнали",
+  "local_source": "Локальне джерело",
+  "ext_installed": "Встановлено",
+  "last_used_source": "Останній використаний",
+  "pinned_sources": "Прикріплено",
+  "ext_updates_pending": "Очікуються оновлення",
+  "other_source": "Інші",
+  "multi_lang": "Багатомовне"
 }

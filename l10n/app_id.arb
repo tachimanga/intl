@@ -130,7 +130,6 @@
   "readerNavigationLayoutLShaped": "Bentuk L",
   "readerNavigationLayoutRightAndLeft": "Kanan dan Kiri",
   "readerPadding": "Padding Pembaca",
-  "readerMagnifierSize": "Ukuran Pembesar",
   "reddit": "Reddit",
   "refresh": "Segarkan",
   "reset": "Reset",
@@ -182,7 +181,6 @@
   "addRepository": "Tambahkan Ekstensi Eksternal",
   "externalRepositoryUrl": "URL Repositori Eksternal",
   "externalRepositoryUrlShort": "URL Repositori Eksternal",
-  "copyRightClaim": "Klaim Hak Cipta",
   "history": "Riwayat",
   "useSysProxy": "Gunakan pengaturan proxy sistem",
   "clearCookies": "Hapus Cookies",
@@ -315,5 +313,12 @@
   "readerAdvancedSubtitle": "Geser, perbesar, dan status bar.",
   "dataUsageSectionTitle": "Penggunaan data",
   "networkSectionTitle": "Jaringan",
-  "logsSectionTitle": "Log"
+  "logsSectionTitle": "Log",
+  "local_source": "Sumber lokal",
+  "ext_installed": "Terpasang",
+  "last_used_source": "Terakhir digunakan",
+  "pinned_sources": "Tersemat",
+  "ext_updates_pending": "Pembaruan tertunda",
+  "other_source": "Lainnya",
+  "multi_lang": "Multi"
 }
