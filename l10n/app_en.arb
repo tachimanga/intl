@@ -912,9 +912,5 @@
   "pinned_sources": "Pinned",
   "ext_updates_pending": "Updates pending",
   "other_source": "Other",
-  "multi_lang": "Multi",
-  "enableLog": "تفعيل السجل",
-  "exportLog": "تصدير السجل",
-  "cookiesCleared": "تم مسح ملفات تعريف الارتباط",
-  "cacheCleared": "تم مسح الذاكرة المؤقتة"
+  "multi_lang": "Multi"
 }
