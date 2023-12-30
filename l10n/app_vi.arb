@@ -130,7 +130,6 @@
   "readerNavigationLayoutLShaped": "Hình chữ L",
   "readerNavigationLayoutRightAndLeft": "Phải và trái",
   "readerPadding": "Đệm đọc",
-  "readerMagnifierSize": "Kích thước Kính lúp",
   "reddit": "Reddit",
   "refresh": "Làm mới",
   "reset": "Đặt lại",
@@ -182,7 +181,6 @@
   "addRepository": "Thêm Tiện ích mở rộng Bên ngoài",
   "externalRepositoryUrl": "URL Kho Tiện ích mở rộng",
   "externalRepositoryUrlShort": "URL Kho Tiện ích mở rộng",
-  "copyRightClaim": "Yêu cầu bản quyền",
   "history": "Lịch sử",
   "useSysProxy": "Sử dụng cài đặt proxy hệ thống",
   "clearCookies": "Xóa Cookies",
@@ -315,5 +313,12 @@
   "readerAdvancedSubtitle": "Cử chỉ, phóng to và thanh trạng thái.",
   "dataUsageSectionTitle": "Dữ liệu sử dụng",
   "networkSectionTitle": "Mạng",
-  "logsSectionTitle": "Nhật ký"
+  "logsSectionTitle": "Nhật ký",
+  "local_source": "Nguồn cục bộ",
+  "ext_installed": "Đã cài đặt",
+  "last_used_source": "Sử dụng lần cuối",
+  "pinned_sources": "Đã ghim",
+  "ext_updates_pending": "Cập nhật đang chờ",
+  "other_source": "Khác",
+  "multi_lang": "Đa Ngôn Ngữ"
 }
