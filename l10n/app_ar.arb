@@ -959,5 +959,8 @@
   "pinned_sources": "المثبتة",
   "ext_updates_pending": "التحديثات معلقة",
   "other_source": "أخرى",
-  "multi_lang": "متعدد"
+  "multi_lang": "متعدد",
+  "enableLog": "تفعيل السجل",
+  "exportLog": "تصدير السجل",
+  "cookiesCleared": "تم مسح ملفات تعريف الارتباط"
 }
