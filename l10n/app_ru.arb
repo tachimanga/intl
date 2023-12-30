@@ -261,8 +261,6 @@
   "@readerNavigationLayoutRightAndLeft": {},
   "readerPadding": "Отступ читалки",
   "@readerPadding": {},
-  "readerMagnifierSize": "Размер лупы",
-  "@readerMagnifierSize": {},
   "reddit": "Reddit",
   "@reddit": {},
   "refresh": "Обновить",
@@ -365,8 +363,6 @@
   "@externalRepositoryUrl": {},
   "externalRepositoryUrlShort": "URL хранилища расширения",
   "@externalRepositoryUrlShort": {},
-  "copyRightClaim": "Авторские права",
-  "@copyRightClaim": {},
   "history": "История",
   "@history": {},
   "useSysProxy": "Использовать настройки системного прокси-сервера",
@@ -622,5 +618,12 @@
   "readerAdvancedSubtitle": "Жесты, масштабирование и строка состояния",
   "dataUsageSectionTitle": "Использование данных",
   "networkSectionTitle": "Сеть",
-  "logsSectionTitle": "Журналы"
+  "logsSectionTitle": "Журналы",
+  "local_source": "Источник пользователя",
+  "ext_installed": "Установлено",
+  "last_used_source": "Последний использованный источник",
+  "pinned_sources": "Закреплено",
+  "ext_updates_pending": "Доступны обновления",
+  "other_source": "Другое",
+  "multi_lang": "Многоязыковое"
 }

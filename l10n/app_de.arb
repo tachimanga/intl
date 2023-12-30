@@ -130,7 +130,6 @@
   "readerNavigationLayoutLShaped": "L-förmig",
   "readerNavigationLayoutRightAndLeft": "Rechts und Links",
   "readerPadding": "Leser-Polsterung",
-  "readerMagnifierSize": "Größe Lupe",
   "reddit": "Reddit",
   "refresh": "Aktualisieren",
   "reset": "Zurücksetzen",
@@ -182,7 +181,6 @@
   "addRepository": "Externe Erweiterungen hinzufügen",
   "externalRepositoryUrl": "URL des Erweiterungs-Repositories",
   "externalRepositoryUrlShort": "URL des Erweiterungs-Repositories",
-  "copyRightClaim": "Urheberrechtsanspruch",
   "history": "Verlauf",
   "useSysProxy": "System-Proxy-Einstellungen verwenden",
   "clearCookies": "Cookies löschen",
@@ -315,5 +313,12 @@
   "readerAdvancedSubtitle": "Gesten, Zoomen und Statusleiste",
   "dataUsageSectionTitle": "Datennutzung",
   "networkSectionTitle": "Netzwerk",
-  "logsSectionTitle": "Protokolle"
+  "logsSectionTitle": "Protokolle",
+  "local_source": "Lokale Quelle",
+  "ext_installed": "Installiert",
+  "last_used_source": "Zuletzt genutzt",
+  "pinned_sources": "Angeheftet",
+  "ext_updates_pending": "Aktualisierungen ausstehend",
+  "other_source": "Andere",
+  "multi_lang": "Mehrere Sprachen"
 }

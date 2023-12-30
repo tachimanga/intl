@@ -313,5 +313,12 @@
   "readerAdvancedSubtitle": "手勢、縮放和狀態列。",
   "dataUsageSectionTitle": "數據使用",
   "networkSectionTitle": "網絡",
-  "logsSectionTitle": "日誌"
+  "logsSectionTitle": "日誌",
+  "local_source": "本機來源",
+  "ext_installed": "已安裝",
+  "last_used_source": "最近使用",
+  "pinned_sources": "已釘選",
+  "ext_updates_pending": "等待更新中",
+  "other_source": "其他",
+  "multi_lang": "多語"
 }

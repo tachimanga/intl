@@ -130,7 +130,6 @@
   "readerNavigationLayoutLShaped": "สี่เหลี่ยมผสม L",
   "readerNavigationLayoutRightAndLeft": "ด้านขวาและด้านซ้าย",
   "readerPadding": "การเพิ่มขอบ",
-  "readerMagnifierSize": "ขนาดแว่นขยาย",
   "reddit": "Reddit",
   "refresh": "รีเฟรช",
   "reset": "รีเซ็ต",
@@ -182,7 +181,6 @@
   "addRepository": "เพิ่มส่วนขยายภายนอก",
   "externalRepositoryUrl": "URL ของที่เก็บรวมส่วนขยายภายนอก",
   "externalRepositoryUrlShort": "URL ที่เก็บรวมส่วนเสริมภายนอก",
-  "copyRightClaim": "การเคลมลิขสิทธิ์",
   "history": "ประวัติ",
   "useSysProxy": "ใช้การตั้งค่าพร็อกซี่ของระบบ",
   "clearCookies": "ล้างคุกกี้",
@@ -315,5 +313,12 @@
   "readerAdvancedSubtitle": "การใช้งานย่อย การซูม เเละแถบสถานะ",
   "dataUsageSectionTitle": "การใช้ข้อมูล",
   "networkSectionTitle": "เครือข่าย",
-  "logsSectionTitle": "บันทึก"
+  "logsSectionTitle": "บันทึก",
+  "local_source": "แหล่งที่มาภายในเครื่อง",
+  "ext_installed": "ติดตั้งแล้ว",
+  "last_used_source": "ใช้ล่าสุด",
+  "pinned_sources": "ที่ตรึงไว้",
+  "ext_updates_pending": "อัปเดตที่รอดำเนินการ",
+  "other_source": "อื่น ๆ",
+  "multi_lang": "หลายภาษา"
 }

@@ -496,10 +496,6 @@
   "@allScanlators": {},
   "scanlators": "Escáneres",
   "@scanlators": {},
-  "copyRightClaim": "Derechos de autor",
-  "@copyRightClaim": {
-    "description": ""
-  },
   "noNextChapter": "No hay ningún capítulo más",
   "@noNextChapter": {},
   "doubleTapZoomIn": "Ampliar tocando dos veces la pantalla",
@@ -509,10 +505,6 @@
   "readerPadding": "Relleno del lector",
   "@readerPadding": {
     "description": "Slider title text for Reader Padding"
-  },
-  "readerMagnifierSize": "Tamaño de la lupa",
-  "@readerMagnifierSize": {
-    "description": "Slider title text for Reader Magnifier Size"
   },
   "mangaSortLatestChapterFetch": "Fecha de obtención del capítulo",
   "@mangaSortLatestChapterFetch": {},
@@ -588,5 +580,12 @@
   "readerAdvancedSubtitle": "Gestos, zoom y barra de estado.",
   "dataUsageSectionTitle": "Uso de datos",
   "networkSectionTitle": "Red",
-  "logsSectionTitle": "Registros"
+  "logsSectionTitle": "Registros",
+  "local_source": "Fuente local",
+  "ext_installed": "Instalado",
+  "last_used_source": "Usado recientemente",
+  "pinned_sources": "Ancladas",
+  "ext_updates_pending": "Actualizaciones pendientes",
+  "other_source": "Otros",
+  "multi_lang": "Varios idiomas"
 }
