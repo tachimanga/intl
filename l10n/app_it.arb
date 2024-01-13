@@ -650,5 +650,21 @@
   "cookiesCleared": "Cookie cancellati",
   "@cookiesCleared": {},
   "cacheCleared": "Cache cancellata",
-  "@cacheCleared": {}
+  "@cacheCleared": {},
+  "extension_repo": "Repository delle estensioni",
+  "one_repository": "1 repository",
+  "num_repositories": "{num} repository",
+  "add_repository": "Aggiungi repository",
+  "empty_repository": "Non hai ancora aggiunto alcun repository di estensioni.",
+  "add_repo_by_name": "Per nome",
+  "add_repo_by_name_tip": "Aggiungi repository aggiuntivi a Tachimanga.\nIl formato di un repository è 'nomeutente/repo', con nomeutente come proprietario del repository e repo come nome del repository",
+  "add_repo_by_url": "Per URL",
+  "add_repo_by_url_tip": "Aggiungi repository aggiuntivi a Tachimanga.\nDovrebbe essere un URL che termina con \"index.min.json\"",
+  "get_repo_meta_fail": "Impossibile recuperare le informazioni del repository.",
+  "delete_repository": "Elimina repository",
+  "delete_repository_content": "Desideri eliminare il repository \"{name}\"",
+  "label_add": "Aggiungi",
+  "label_adding": "Aggiunta",
+  "extension_usage_terms": "Per impostare repository esterni, devi accettare il seguente accordo:\n1. Comprendo che Tachimanga non regola in alcun modo i repository esterni e che Tachimanga non è responsabile per eventuali danni o danni causati al dispositivo o all'identità dall'utilizzo di estensioni esterne.\n2. Comprendo che Tachimanga non è affiliato a nessuna estensione esterna.\n3. Accetto di non utilizzare Tachimanga per visualizzare contenuti di cui non ho i diritti.",
+  "find_repository": "Trova repository"
 }
