@@ -1064,5 +1064,8 @@
   "label_add": "添加",
   "label_adding": "正在添加",
   "extension_usage_terms": "要设置外部仓库，您需要同意以下协议：\n1. 我理解 Tachimanga 不以任何方式管理外部仓库，并且 Tachimanga 对使用外部扩展程序对我的设备或身份造成的任何损害或危害不负任何责任。\n2. 我理解 Tachimanga 与任何外部扩展程序都没有关联。\n3. 我同意不使用 Tachimanga 查看我无权查看的内容。",
-  "find_repository": "查找仓库"
+  "find_repository": "查找仓库",
+  "uninstall_confirm": "您是否要卸载此扩展？",
+  "get_start": "开始使用",
+  "label_copy": "复制"
 }
