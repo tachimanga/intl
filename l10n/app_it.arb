@@ -666,5 +666,8 @@
   "label_add": "Aggiungi",
   "label_adding": "Aggiunta",
   "extension_usage_terms": "Per impostare repository esterni, devi accettare il seguente accordo:\n1. Comprendo che Tachimanga non regola in alcun modo i repository esterni e che Tachimanga non è responsabile per eventuali danni o danni causati al dispositivo o all'identità dall'utilizzo di estensioni esterne.\n2. Comprendo che Tachimanga non è affiliato a nessuna estensione esterna.\n3. Accetto di non utilizzare Tachimanga per visualizzare contenuti di cui non ho i diritti.",
-  "find_repository": "Trova repository"
+  "find_repository": "Trova repository",
+  "uninstall_confirm": "Vuoi disinstallare questa estensione?",
+  "get_start": "Iniziare",
+  "label_copy": "Copia"
 }

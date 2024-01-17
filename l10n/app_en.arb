@@ -929,5 +929,7 @@
   "label_add": "Add",
   "label_adding": "Adding",
   "extension_usage_terms": "To set external repositories, you need to agree to the following agreement:\n1. I understand that Tachimanga does not regulate external repositories in any way and that Tachimanga is not responsible for any damages or harm done to my device or my identity by using external extensions.\n2. I understand that Tachimanga is not affiliated with any external extensions.\n3. I agree to not use Tachimanga to view content that I do not have the rights for.",
-  "find_repository": "Find repository"
+  "find_repository": "Find repository",
+  "get_start": "Getting started",
+  "label_copy": "Copy"
 }

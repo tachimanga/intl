@@ -684,5 +684,7 @@
   "find_repository": "Repository finden",
   "@find_repository": {},
   "uninstall_confirm": "Möchten Sie diese Erweiterung deinstallieren?",
-  "@uninstall_confirm": {}
+  "@uninstall_confirm": {},
+  "get_start": "Loslegen",
+  "label_copy": "Kopieren"
 }

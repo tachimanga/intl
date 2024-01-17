@@ -1156,5 +1156,7 @@
   "find_repository": "Знайти репозиторій",
   "@find_repository": {},
   "uninstall_confirm": "Хочете видалити це розширення?",
-  "@uninstall_confirm": {}
+  "@uninstall_confirm": {},
+  "get_start": "Початок роботи",
+  "label_copy": "Копіювати"
 }
