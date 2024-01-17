@@ -699,5 +699,7 @@
   "find_repository": "Buscar repositorio",
   "@find_repository": {},
   "uninstall_confirm": "¿Desea desinstalar esta extensión?",
-  "@uninstall_confirm": {}
+  "@uninstall_confirm": {},
+  "get_start": "Empezar",
+  "label_copy": "Copiar"
 }

@@ -666,5 +666,8 @@
   "label_add": "Hozzáadás",
   "label_adding": "Hozzáadás folyamatban",
   "extension_usage_terms": "Külső tárolók beállításához el kell fogadnod az alábbi feltételeket:\n1. Tudomásul veszem, hogy a Tachimanga semmilyen módon nem szabályozza a külső tárolókat, és a Tachimanga nem felelős a külső bővítmények használata által okozott károkért vagy hátrányokért a készülékemen vagy az azonosságomon.\n2. Tudomásul veszem, hogy a Tachimanga nem kapcsolódik semmilyen külső bővítményhez.\n3. Abban egyezem, hogy nem használom a Tachimangát olyan tartalom megtekintésére, amelyre nincs jogom.",
-  "find_repository": "Tároló keresése"
+  "find_repository": "Tároló keresése",
+  "uninstall_confirm": "Biztosan eltávolítja ezt a kiterjesztést?",
+  "get_start": "Elindulás",
+  "label_copy": "Másolás"
 }

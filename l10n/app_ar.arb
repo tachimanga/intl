@@ -1146,5 +1146,8 @@
   "find_repository": "العثور على مستودع",
   "@find_repository": {},
   "privacyUrl": "سياسة الخصوصية",
-  "@privacyUrl": {}
+  "@privacyUrl": {},
+  "uninstall_confirm": "هل ترغب في إلغاء تثبيت هذا الامتداد؟",
+  "get_start": "البدء",
+  "label_copy": "نسخ"
 }

@@ -666,5 +666,8 @@
   "label_add": "Ekle",
   "label_adding": "Ekleniyor",
   "extension_usage_terms": "Harici depoları ayarlamak için aşağıdaki anlaşmayı kabul etmelisiniz:\n1. Tachimanga'nın harici depoları herhangi bir şekilde düzenlemediğini ve harici uzantılar kullanarak cihazım veya kimliğim üzerinde herhangi bir hasar veya zarardan sorumlu olmadığını biliyorum.\n2. Tachimanga'nın herhangi bir harici uzantıyla ilişkili olmadığını biliyorum.\n3. Tachimanga'yı sahip olmadığım içeriği görüntülemek için kullanmayacağıma söz veriyorum.",
-  "find_repository": "Depo bul"
+  "find_repository": "Depo bul",
+  "uninstall_confirm": "Bu uzantıyı kaldırmak istiyor musunuz?",
+  "get_start": "Başlangıç",
+  "label_copy": "Kopyala"
 }

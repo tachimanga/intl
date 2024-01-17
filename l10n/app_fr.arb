@@ -1070,5 +1070,8 @@
   "label_add": "Ajouter",
   "label_adding": "Ajout en cours",
   "extension_usage_terms": "Pour définir des dépôts externes, vous devez accepter l'accord suivant :\n1. Je comprends que Tachimanga ne régule d'aucune manière les dépôts externes et que Tachimanga n'est pas responsable des dommages ou des préjudices causés à mon appareil ou à mon identité par l'utilisation d'extensions externes.\n2. Je comprends que Tachimanga n'est affilié à aucune extension externe.\n3. J'accepte de ne pas utiliser Tachimanga pour consulter du contenu pour lequel je n'ai pas les droits.",
-  "find_repository": "Trouver un dépôt"
+  "find_repository": "Trouver un dépôt",
+  "uninstall_confirm": "Voulez-vous désinstaller cette extension ?",
+  "get_start": "Commencer",
+  "label_copy": "Copier"
 }
