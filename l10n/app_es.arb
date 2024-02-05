@@ -701,5 +701,11 @@
   "uninstall_confirm": "¿Desea desinstalar esta extensión?",
   "@uninstall_confirm": {},
   "get_start": "Empezar",
-  "label_copy": "Copiar"
+  "label_copy": "Copiar",
+  "migrate": "Migrar",
+  "migration_dialog_what_to_include": "Seleccionar datos para incluir",
+  "migrate_action_migrate": "Migrar",
+  "migrate_action_copy": "Copiar",
+  "migrate_action_show_manga": "Mostrar el elemento",
+  "chapters": "Capítulos"
 }

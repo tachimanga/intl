@@ -688,5 +688,11 @@
   "get_start": "Loslegen",
   "@get_start": {},
   "label_copy": "Kopieren",
-  "@label_copy": {}
+  "@label_copy": {},
+  "migrate": "Migrieren",
+  "migration_dialog_what_to_include": "Wähle zu beinhaltende Daten",
+  "migrate_action_migrate": "Migrieren",
+  "migrate_action_copy": "Kopieren",
+  "migrate_action_show_manga": "Eintrag anzeigen",
+  "chapters": "Kapitel"
 }

@@ -31,7 +31,7 @@
   "@buildTime": {},
   "cancel": "Hủy bỏ",
   "@cancel": {},
-  "categories": "Danh mục",
+  "categories": "Hạng mục",
   "@categories": {},
   "categoryUpdate": "Cập nhật danh mục",
   "@categoryUpdate": {},
@@ -669,5 +669,11 @@
   "find_repository": "Tìm kho",
   "uninstall_confirm": "Bạn có muốn gỡ bỏ tiện ích mở rộng này không?",
   "get_start": "Bắt đầu",
-  "label_copy": "Sao chép"
+  "label_copy": "Sao chép",
+  "migrate": "Di chuyển",
+  "migration_dialog_what_to_include": "Chọn dữ liệu bao gồm",
+  "migrate_action_migrate": "Chuyển",
+  "migrate_action_copy": "Sao chép",
+  "migrate_action_show_manga": "Hiển thị truyện",
+  "chapters": "Các chương"
 }

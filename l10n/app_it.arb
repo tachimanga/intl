@@ -669,5 +669,11 @@
   "find_repository": "Trova repository",
   "uninstall_confirm": "Vuoi disinstallare questa estensione?",
   "get_start": "Iniziare",
-  "label_copy": "Copia"
+  "label_copy": "Copia",
+  "migrate": "Migra",
+  "migration_dialog_what_to_include": "Seleziona i dati da includere",
+  "migrate_action_migrate": "Migra",
+  "migrate_action_copy": "Copia",
+  "migrate_action_show_manga": "Mostra voce",
+  "chapters": "Capitoli"
 }

@@ -669,5 +669,11 @@
   "find_repository": "Найти репозиторий",
   "uninstall_confirm": "Вы хотите удалить это расширение?",
   "get_start": "Начать",
-  "label_copy": "Копировать"
+  "label_copy": "Копировать",
+  "migrate": "Перенести",
+  "migration_dialog_what_to_include": "Какие данные перенести",
+  "migrate_action_migrate": "Перенести",
+  "migrate_action_copy": "Копировать",
+  "migrate_action_show_manga": "Показать серию",
+  "chapters": "Главы"
 }

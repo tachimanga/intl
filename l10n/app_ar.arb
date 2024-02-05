@@ -1149,5 +1149,11 @@
   "@privacyUrl": {},
   "uninstall_confirm": "هل ترغب في إلغاء تثبيت هذا الامتداد؟",
   "get_start": "البدء",
-  "label_copy": "نسخ"
+  "label_copy": "نسخ",
+  "migrate": "ترحيل",
+  "migration_dialog_what_to_include": "اختر بيانات لتضمينها",
+  "migrate_action_migrate": "نقل",
+  "migrate_action_copy": "نسخ",
+  "migrate_action_show_manga": "إظهار الدخول",
+  "chapters": "الفصول"
 }
