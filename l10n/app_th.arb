@@ -669,5 +669,11 @@
   "find_repository": "ค้นหาร้านค้า",
   "uninstall_confirm": "คุณต้องการเอาส่วนขยายนี้ออกเหรียญหรือไม่?",
   "get_start": "เริ่มต้น",
-  "label_copy": "คัดลอก"
+  "label_copy": "คัดลอก",
+  "migrate": "โยกย้าย",
+  "migration_dialog_what_to_include": "เลือกข้อมูลที่จะรวมไว้",
+  "migrate_action_migrate": "โยกย้าย",
+  "migrate_action_copy": "คัดลอก",
+  "migrate_action_show_manga": "แสดงรายการ",
+  "chapters": "ตอน"
 }

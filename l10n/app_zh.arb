@@ -1054,7 +1054,7 @@
   "num_repositories": "{num} 个仓库",
   "add_repository": "添加仓库",
   "empty_repository": "您尚未添加任何扩展仓库。",
-  "add_repo_by_name":  "通过名称",
+  "add_repo_by_name": "通过名称",
   "add_repo_by_name_tip": "向 Tachimanga 添加额外的仓库。\n仓库格式为 '用户名/仓库名'，其中用户名是仓库所有者，仓库名是仓库名称",
   "add_repo_by_url": "通过URL",
   "add_repo_by_url_tip": "向 Tachimanga 添加额外的仓库。\nURL 应以 \"index.min.json\" 结尾",
@@ -1067,5 +1067,11 @@
   "find_repository": "查找仓库",
   "uninstall_confirm": "您是否要卸载此扩展？",
   "get_start": "开始使用",
-  "label_copy": "复制"
+  "label_copy": "复制",
+  "migrate": "迁移",
+  "migration_dialog_what_to_include": "选择需要迁移的数据",
+  "migrate_action_migrate": "迁移",
+  "migrate_action_copy": "共存",
+  "migrate_action_show_manga": "显示作品",
+  "chapters": "章节"
 }

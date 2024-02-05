@@ -1100,5 +1100,11 @@
   "termsUrl": "Conditions d'utilisation",
   "@termsUrl": {},
   "privacyUrl": "politique de confidentialité",
-  "@privacyUrl": {}
+  "@privacyUrl": {},
+  "migrate": "Déplacer",
+  "migration_dialog_what_to_include": "Sélectionner les données à inclure",
+  "migrate_action_migrate": "Migrer",
+  "migrate_action_copy": "Copier",
+  "migrate_action_show_manga": "Afficher l'entrée",
+  "chapters": "Chapitres"
 }

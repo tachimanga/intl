@@ -51,7 +51,7 @@
   "@buildTime": {},
   "bookmarked": "已新增書籤",
   "@bookmarked": {},
-  "categories": "分類",
+  "categories": "類別",
   "@categories": {},
   "categoryUpdate": "更新分類",
   "@categoryUpdate": {},
@@ -669,5 +669,11 @@
   "find_repository": "尋找倉庫",
   "uninstall_confirm": "您是否要卸載此擴充程式？",
   "get_start": "開始使用",
-  "label_copy": "複製"
+  "label_copy": "複製",
+  "migrate": "遷移",
+  "migration_dialog_what_to_include": "選擇欲處理的項目",
+  "migrate_action_migrate": "遷移",
+  "migrate_action_copy": "副本",
+  "migrate_action_show_manga": "顯示作品",
+  "chapters": "章節"
 }
