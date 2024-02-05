@@ -669,5 +669,11 @@
   "find_repository": "Tároló keresése",
   "uninstall_confirm": "Biztosan eltávolítja ezt a kiterjesztést?",
   "get_start": "Elindulás",
-  "label_copy": "Másolás"
+  "label_copy": "Másolás",
+  "migrate": "Áttelepítés",
+  "migration_dialog_what_to_include": "Válaszon beletartozó adatokat",
+  "migrate_action_migrate": "Áttelepítés",
+  "migrate_action_copy": "Másolás",
+  "migrate_action_show_manga": "Bejegyzés mutatása",
+  "chapters": "Fejezetek"
 }

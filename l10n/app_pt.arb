@@ -668,5 +668,11 @@
   "find_repository": "Localizar repositório",
   "uninstall_confirm": "Deseja desinstalar esta extensão?",
   "get_start": "Começar",
-  "label_copy": "Copiar"
+  "label_copy": "Copiar",
+  "migrate": "Migrar",
+  "migration_dialog_what_to_include": "Selecione dados para incluir",
+  "migrate_action_migrate": "Migrar",
+  "migrate_action_copy": "Copiar",
+  "migrate_action_show_manga": "Mostrar mangá",
+  "chapters": "Capítulos"
 }

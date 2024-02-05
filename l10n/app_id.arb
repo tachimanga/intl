@@ -656,7 +656,7 @@
   "num_repositories": "{num} repositori",
   "add_repository": "Tambah repositori",
   "empty_repository": "Anda belum menambahkan repositori ekstensi.",
-  "add_repo_by_name":  "Dengan nama",
+  "add_repo_by_name": "Dengan nama",
   "add_repo_by_name_tip": "Tambahkan repositori tambahan ke Tachimanga.\nFormat repositori adalah 'username/repo', dengan username sebagai pemilik repositori, dan repo sebagai nama repositori",
   "add_repo_by_url": "Dengan URL",
   "add_repo_by_url_tip": "Tambahkan repositori tambahan ke Tachimanga.\nIni harus berupa URL yang diakhiri dengan \"index.min.json\"",
@@ -669,5 +669,11 @@
   "find_repository": "Temukan repositori",
   "uninstall_confirm": "Apakah Anda ingin menghapus ekstensi ini?",
   "get_start": "Memulai",
-  "label_copy": "Salin"
+  "label_copy": "Salin",
+  "migrate": "Pindah",
+  "migration_dialog_what_to_include": "Pilih data yang ikut dipindah",
+  "migrate_action_migrate": "Pindah",
+  "migrate_action_copy": "Salin",
+  "migrate_action_show_manga": "Lihat entri",
+  "chapters": "Bab"
 }
