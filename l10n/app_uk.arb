@@ -1158,5 +1158,11 @@
   "uninstall_confirm": "Хочете видалити це розширення?",
   "@uninstall_confirm": {},
   "get_start": "Початок роботи",
-  "label_copy": "Копіювати"
+  "label_copy": "Копіювати",
+  "migrate": "Мігрувати",
+  "migration_dialog_what_to_include": "Виберіть включені дані",
+  "migrate_action_migrate": "Мігрувати",
+  "migrate_action_copy": "Копіювати",
+  "migrate_action_show_manga": "Показати запис",
+  "chapters": "Розділи"
 }
