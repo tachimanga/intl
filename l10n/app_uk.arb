@@ -1164,5 +1164,8 @@
   "migrate_action_migrate": "Мігрувати",
   "migrate_action_copy": "Копіювати",
   "migrate_action_show_manga": "Показати запис",
-  "chapters": "Розділи"
+  "chapters": "Розділи",
+  "select_category_to_update": "Виберіть категорії для оновлення",
+  "update_all": "Оновити все",
+  "always_ask": "Питати завжди"
 }

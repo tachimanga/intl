@@ -937,5 +937,8 @@
   "migrate_action_migrate": "Migrate",
   "migrate_action_copy": "Copy",
   "migrate_action_show_manga": "Show entry",
-  "chapters": "Chapters"
+  "chapters": "Chapters",
+  "select_category_to_update": "Select categories to update",
+  "update_all": "Update All",
+  "always_ask": "Always ask"
 }

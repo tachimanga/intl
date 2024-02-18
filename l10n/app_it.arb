@@ -675,5 +675,8 @@
   "migrate_action_migrate": "Migra",
   "migrate_action_copy": "Copia",
   "migrate_action_show_manga": "Mostra voce",
-  "chapters": "Capitoli"
+  "chapters": "Capitoli",
+  "select_category_to_update": "Seleziona le categorie da aggiornare",
+  "update_all": "Aggiorna Tutto",
+  "always_ask": "Chiedi sempre"
 }

@@ -1155,5 +1155,8 @@
   "migrate_action_migrate": "نقل",
   "migrate_action_copy": "نسخ",
   "migrate_action_show_manga": "إظهار الدخول",
-  "chapters": "الفصول"
+  "chapters": "الفصول",
+  "select_category_to_update": "اختر الفئات لتحديثها",
+  "update_all": "تحديث الكل",
+  "always_ask": "اسأل دائمًا"
 }

@@ -675,5 +675,8 @@
   "migrate_action_migrate": "Chuyển",
   "migrate_action_copy": "Sao chép",
   "migrate_action_show_manga": "Hiển thị truyện",
-  "chapters": "Các chương"
+  "chapters": "Các chương",
+  "select_category_to_update": "Chọn danh mục để cập nhật",
+  "update_all": "Cập Nhật Tất Cả",
+  "always_ask": "Luôn hỏi"
 }
