@@ -675,5 +675,8 @@
   "migrate_action_migrate": "Перенести",
   "migrate_action_copy": "Копировать",
   "migrate_action_show_manga": "Показать серию",
-  "chapters": "Главы"
+  "chapters": "Главы",
+  "select_category_to_update": "Выберите категории для обновления",
+  "update_all": "Обновить все",
+  "always_ask": "Всегда спрашивать"
 }

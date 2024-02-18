@@ -675,5 +675,8 @@
   "migrate_action_migrate": "遷移",
   "migrate_action_copy": "副本",
   "migrate_action_show_manga": "顯示作品",
-  "chapters": "章節"
+  "chapters": "章節",
+  "select_category_to_update": "選擇要更新的類別",
+  "update_all": "全部更新",
+  "always_ask": "總是詢問"
 }
