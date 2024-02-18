@@ -675,5 +675,8 @@
   "migrate_action_migrate": "Taşın",
   "migrate_action_copy": "Kopyala",
   "migrate_action_show_manga": "Girdiyi göster",
-  "chapters": "Bölümler"
+  "chapters": "Bölümler",
+  "select_category_to_update": "Güncellenecek kategorileri seçin",
+  "update_all": "Hepsini Güncelle",
+  "always_ask": "Her zaman sor"
 }
