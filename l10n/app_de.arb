@@ -700,5 +700,8 @@
   "migrate_action_show_manga": "Eintrag anzeigen",
   "@migrate_action_show_manga": {},
   "chapters": "Kapitel",
-  "@chapters": {}
+  "@chapters": {},
+  "select_category_to_update": "Wählen Sie Kategorien zum Aktualisieren aus",
+  "update_all": "Alles aktualisieren",
+  "always_ask": "Immer fragen"
 }

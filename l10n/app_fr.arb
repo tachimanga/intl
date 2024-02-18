@@ -1106,5 +1106,8 @@
   "migrate_action_migrate": "Migrer",
   "migrate_action_copy": "Copier",
   "migrate_action_show_manga": "Afficher l'entrée",
-  "chapters": "Chapitres"
+  "chapters": "Chapitres",
+  "select_category_to_update": "Sélectionnez les catégories à mettre à jour",
+  "update_all": "Tout mettre à jour",
+  "always_ask": "Demander toujours"
 }

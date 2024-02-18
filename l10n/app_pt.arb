@@ -674,5 +674,8 @@
   "migrate_action_migrate": "Migrar",
   "migrate_action_copy": "Copiar",
   "migrate_action_show_manga": "Mostrar mangá",
-  "chapters": "Capítulos"
+  "chapters": "Capítulos",
+  "select_category_to_update": "Selecione categorias para atualizar",
+  "update_all": "Atualizar Tudo",
+  "always_ask": "Perguntar Sempre"
 }
