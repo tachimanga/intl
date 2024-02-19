@@ -711,5 +711,11 @@
   "migrate_action_show_manga": "Mostrar entrada",
   "@migrate_action_show_manga": {},
   "chapters": "Capítulos",
-  "@chapters": {}
+  "@chapters": {},
+  "always_ask": "Perguntar sempre",
+  "@always_ask": {},
+  "select_category_to_update": "Seleciona categorias a atualizar",
+  "@select_category_to_update": {},
+  "update_all": "Atualizar todas",
+  "@update_all": {}
 }
