@@ -1167,5 +1167,22 @@
   "chapters": "Розділи",
   "select_category_to_update": "Виберіть категорії для оновлення",
   "update_all": "Оновити все",
-  "always_ask": "Питати завжди"
+  "always_ask": "Питати завжди",
+  "contact_us": "Зв'яжіться з нами",
+  "changelogs": "Журнал змін",
+  "help_translate": "Допоможіть перекласти",
+  "pref_category_security": "Безпека",
+  "lock_with_biometrics": "Вимагає розблокування",
+  "lock_when_idle": "Блокувати в режимі очікування",
+  "lock_always": "Завжди",
+  "lock_never": "Ніколи",
+  "secure_screen": "Екран безпеки",
+  "secure_screen_summary": "Безпечний екран приховує вміст програми при перемиканні між додатками",
+  "pref_incognito_mode": "Режим інкогніто",
+  "lock_after_one_min": "Після 1 хвилини",
+  "lock_after_mins": "Після {mins} хвилин",
+  "lock_type_biometrics": "FaceID/TouchID",
+  "lock_type_passcode": "Пароль",
+  "lock_biometrics_unavailable": "FaceID або TouchID недоступний.",
+  "unlock_title": "Розблокувати Tachimanga"
 }

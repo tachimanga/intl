@@ -711,5 +711,12 @@
   "migrate_action_show_manga": "Mostrar entrada",
   "@migrate_action_show_manga": {},
   "chapters": "Capítulos",
-  "@chapters": {}
+  "@chapters": {},
+  "secure_screen_summary": "O ecrã seguro oculta o conteúdo da aplicação ao alternar entre aplicações",
+  "lock_after_one_min": "Após 1 minuto",
+  "lock_after_mins": "Após {mins} minutos",
+  "lock_type_biometrics": "FaceID/TouchID",
+  "lock_type_passcode": "Código de acesso",
+  "lock_biometrics_unavailable": "FaceID ou TouchID não disponível.",
+  "unlock_title": "Desbloquear Tachimanga"
 }
