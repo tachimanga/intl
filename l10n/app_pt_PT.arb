@@ -717,5 +717,12 @@
   "select_category_to_update": "Seleciona categorias a atualizar",
   "@select_category_to_update": {},
   "update_all": "Atualizar todas",
-  "@update_all": {}
+  "@update_all": {},
+  "secure_screen_summary": "O ecrã seguro oculta o conteúdo da aplicação ao alternar entre aplicações",
+  "lock_after_one_min": "Após 1 minuto",
+  "lock_after_mins": "Após {mins} minutos",
+  "lock_type_biometrics": "FaceID/TouchID",
+  "lock_type_passcode": "Código de acesso",
+  "lock_biometrics_unavailable": "FaceID ou TouchID não disponível.",
+  "unlock_title": "Desbloquear Tachimanga"
 }
