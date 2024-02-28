@@ -678,5 +678,22 @@
   "chapters": "Главы",
   "select_category_to_update": "Выберите категории для обновления",
   "update_all": "Обновить все",
-  "always_ask": "Всегда спрашивать"
+  "always_ask": "Всегда спрашивать",
+  "contact_us": "Свяжитесь с нами",
+  "changelogs": "Журнал изменений",
+  "help_translate": "Помогите перевести",
+  "pref_category_security": "Безопасность",
+  "lock_with_biometrics": "Блокировка биометрией",
+  "lock_when_idle": "Блокировать при бездействии",
+  "lock_always": "Всегда",
+  "lock_never": "Никогда",
+  "secure_screen": "Защита экрана приложения",
+  "secure_screen_summary": "Защищенный экран скрывает содержимое приложения при переключении между приложениями",
+  "pref_incognito_mode": "Режим инкогнито",
+  "lock_after_one_min": "Через 1 минуту",
+  "lock_after_mins": "Через {mins} минут",
+  "lock_type_biometrics": "FaceID/TouchID",
+  "lock_type_passcode": "Пароль",
+  "lock_biometrics_unavailable": "FaceID или TouchID недоступен.",
+  "unlock_title": "Разблокировать Tachimanga"
 }

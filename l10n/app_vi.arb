@@ -678,5 +678,22 @@
   "chapters": "Các chương",
   "select_category_to_update": "Chọn danh mục để cập nhật",
   "update_all": "Cập Nhật Tất Cả",
-  "always_ask": "Luôn hỏi"
+  "always_ask": "Luôn hỏi",
+  "contact_us": "Liên hệ với chúng tôi",
+  "changelogs": "Nhật ký thay đổi",
+  "help_translate": "Hỗ trợ dịch",
+  "pref_category_security": "Bảo mật",
+  "lock_with_biometrics": "Khóa ứng dụng",
+  "lock_when_idle": "Khóa khi chạy nền",
+  "lock_always": "Luôn luôn",
+  "lock_never": "Không bao giờ",
+  "secure_screen": "Bảo vệ màn hình",
+  "secure_screen_summary": "Màn hình an toàn ẩn nội dung ứng dụng khi chuyển đổi giữa ứng dụng",
+  "pref_incognito_mode": "Chế độ ẩn danh",
+  "lock_after_one_min": "Sau 1 phút",
+  "lock_after_mins": "Sau {mins} phút",
+  "lock_type_biometrics": "FaceID/TouchID",
+  "lock_type_passcode": "Mã số",
+  "lock_biometrics_unavailable": "FaceID hoặc TouchID không khả dụng.",
+  "unlock_title": "Mở khóa Tachimanga"
 }

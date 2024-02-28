@@ -678,5 +678,22 @@
   "chapters": "章節",
   "select_category_to_update": "選擇要更新的類別",
   "update_all": "全部更新",
-  "always_ask": "總是詢問"
+  "always_ask": "總是詢問",
+  "contact_us": "聯絡我們",
+  "changelogs": "更新日誌",
+  "help_translate": "幫助翻譯",
+  "pref_category_security": "隱私",
+  "lock_with_biometrics": "需要解鎖",
+  "lock_when_idle": "閒置時鎖定",
+  "lock_always": "立即",
+  "lock_never": "永不",
+  "secure_screen": "防窺畫面",
+  "secure_screen_summary": "安全螢幕切換應用程式時隱藏應用程式內容",
+  "pref_incognito_mode": "無痕模式",
+  "lock_after_one_min": "1 分鐘後",
+  "lock_after_mins": "{mins} 分鐘後",
+  "lock_type_biometrics": "臉部識別/觸控ID",
+  "lock_type_passcode": "密碼",
+  "lock_biometrics_unavailable": "臉部識別或觸控ID不可用。",
+  "unlock_title": "解鎖 Tachimanga"
 }

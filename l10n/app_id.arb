@@ -678,5 +678,22 @@
   "chapters": "Bab",
   "select_category_to_update": "Pilih kategori untuk diperbarui",
   "update_all": "Perbarui Semua",
-  "always_ask": "Selalu bertanya"
+  "always_ask": "Selalu bertanya",
+  "contact_us": "Hubungi Kami",
+  "changelogs": "Catatan Perubahan",
+  "help_translate": "Bantu terjemahkan",
+  "pref_category_security": "Keamanan",
+  "lock_with_biometrics": "Kunci dengan biometrik",
+  "lock_when_idle": "Kunci saat diam",
+  "lock_always": "Selalu",
+  "lock_never": "Tidak pernah",
+  "secure_screen": "Amankan layar",
+  "secure_screen_summary": "Layar aman menyembunyikan konten aplikasi ketika beralih aplikasi",
+  "pref_incognito_mode": "Mode penyamaran",
+  "lock_after_one_min": "Setelah 1 menit",
+  "lock_after_mins": "Setelah {mins} menit",
+  "lock_type_biometrics": "FaceID/TouchID",
+  "lock_type_passcode": "Kode sandi",
+  "lock_biometrics_unavailable": "FaceID atau TouchID tidak tersedia.",
+  "unlock_title": "Buka kunci Tachimanga"
 }
