@@ -1076,5 +1076,22 @@
   "chapters": "章节",
   "select_category_to_update": "选择要更新的类别",
   "update_all": "全部更新",
-  "always_ask": "始终询问"
+  "always_ask": "始终询问",
+  "contact_us": "联系我们",
+  "changelogs": "更新日志",
+  "help_translate": "帮助翻译",
+  "pref_category_security": "隐私",
+  "lock_with_biometrics": "应用锁",
+  "lock_when_idle": "切后台时锁定",
+  "lock_always": "始终开启",
+  "lock_never": "关闭",
+  "secure_screen": "隐私界面",
+  "secure_screen_summary": "安全屏幕在切换应用程序时隐藏应用程序内容",
+  "pref_incognito_mode": "无痕模式",
+  "lock_after_one_min": "1分钟后",
+  "lock_after_mins": "{mins}分钟后",
+  "lock_type_biometrics": "FaceID/TouchID",
+  "lock_type_passcode": "密码",
+  "lock_biometrics_unavailable": "FaceID或TouchID不可用。",
+  "unlock_title": "解锁Tachimanga"
 }

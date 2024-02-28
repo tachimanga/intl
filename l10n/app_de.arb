@@ -703,5 +703,22 @@
   "@chapters": {},
   "select_category_to_update": "Wählen Sie Kategorien zum Aktualisieren aus",
   "update_all": "Alles aktualisieren",
-  "always_ask": "Immer fragen"
+  "always_ask": "Immer fragen",
+  "contact_us": "Kontaktiere uns",
+  "changelogs": "Änderungsprotokoll",
+  "help_translate": "Hilfe bei Übersetzung",
+  "pref_category_security": "Sicherheit",
+  "lock_with_biometrics": "Entsperren erforderlich",
+  "lock_when_idle": "Während Inaktivität sperren",
+  "lock_always": "Immer",
+  "lock_never": "Nie",
+  "secure_screen": "Sicherer Bildschirm",
+  "secure_screen_summary": "Die sichere Bildschirmsperre verbirgt App-Inhalte beim Wechseln von Apps",
+  "pref_incognito_mode": "Inkognito-Modus",
+  "lock_after_one_min": "Nach 1 Minute",
+  "lock_after_mins": "Nach {mins} Minuten",
+  "lock_type_biometrics": "FaceID/TouchID",
+  "lock_type_passcode": "Passcode",
+  "lock_biometrics_unavailable": "FaceID oder TouchID nicht verfügbar.",
+  "unlock_title": "Tachimanga entsperren"
 }
