@@ -695,5 +695,8 @@
   "lock_type_biometrics": "FaceID/TouchID",
   "lock_type_passcode": "Şifre",
   "lock_biometrics_unavailable": "FaceID veya TouchID kullanılamıyor.",
-  "unlock_title": "Tachimanga Kilidini Aç"
+  "unlock_title": "Tachimanga Kilidini Aç",
+  "pref_incognito_mode_summary": "Okuma geçmişini duraklatır",
+  "pref_incognito_mode_on": "Gizli mod açık",
+  "pref_incognito_mode_off": "Gizli mod kapalı"
 }

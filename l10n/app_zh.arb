@@ -1093,5 +1093,8 @@
   "lock_type_biometrics": "FaceID/TouchID",
   "lock_type_passcode": "密码",
   "lock_biometrics_unavailable": "FaceID或TouchID不可用。",
-  "unlock_title": "解锁Tachimanga"
+  "unlock_title": "解锁Tachimanga",
+  "pref_incognito_mode_summary": "暂停记录阅读历史",
+  "pref_incognito_mode_on": "无痕模式已开启",
+  "pref_incognito_mode_off": "无痕模式已关闭"
 }
