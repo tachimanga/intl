@@ -720,5 +720,8 @@
   "lock_type_biometrics": "FaceID/TouchID",
   "lock_type_passcode": "Passcode",
   "lock_biometrics_unavailable": "FaceID oder TouchID nicht verfügbar.",
-  "unlock_title": "Tachimanga entsperren"
+  "unlock_title": "Tachimanga entsperren",
+  "pref_incognito_mode_summary": "Leseverlauf pausieren",
+  "pref_incognito_mode_on": "Inkognito-Modus aktiviert",
+  "pref_incognito_mode_off": "Inkognito-Modus deaktiviert"
 }

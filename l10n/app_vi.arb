@@ -695,5 +695,8 @@
   "lock_type_biometrics": "FaceID/TouchID",
   "lock_type_passcode": "Mã số",
   "lock_biometrics_unavailable": "FaceID hoặc TouchID không khả dụng.",
-  "unlock_title": "Mở khóa Tachimanga"
+  "unlock_title": "Mở khóa Tachimanga",
+  "pref_incognito_mode_summary": "Dừng lưu giữ lịch sử đọc",
+  "pref_incognito_mode_on": "Chế độ ẩn danh đã bật",
+  "pref_incognito_mode_off": "Chế độ ẩn danh đã tắt"
 }

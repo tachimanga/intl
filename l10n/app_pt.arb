@@ -694,5 +694,8 @@
   "lock_type_biometrics": "FaceID/TouchID",
   "lock_type_passcode": "Código de acesso",
   "lock_biometrics_unavailable": "FaceID ou TouchID não está disponível.",
-  "unlock_title": "Desbloquear Tachimanga"
+  "unlock_title": "Desbloquear Tachimanga",
+  "pref_incognito_mode_summary": "Pausa histórico de leitura",
+  "pref_incognito_mode_on": "Modo incógnito ativado",
+  "pref_incognito_mode_off": "Modo incógnito desativado"
 }

@@ -695,5 +695,8 @@
   "lock_type_biometrics": "臉部識別/觸控ID",
   "lock_type_passcode": "密碼",
   "lock_biometrics_unavailable": "臉部識別或觸控ID不可用。",
-  "unlock_title": "解鎖 Tachimanga"
+  "unlock_title": "解鎖 Tachimanga",
+  "pref_incognito_mode_summary": "暫停閱讀記錄",
+  "pref_incognito_mode_on": "無痕模式已啟動",
+  "pref_incognito_mode_off": "無痕模式已停用"
 }
