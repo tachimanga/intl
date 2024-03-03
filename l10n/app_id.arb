@@ -695,5 +695,8 @@
   "lock_type_biometrics": "FaceID/TouchID",
   "lock_type_passcode": "Kode sandi",
   "lock_biometrics_unavailable": "FaceID atau TouchID tidak tersedia.",
-  "unlock_title": "Buka kunci Tachimanga"
+  "unlock_title": "Buka kunci Tachimanga",
+  "pref_incognito_mode_summary": "Jeda riwayat membaca",
+  "pref_incognito_mode_on": "Mode penyamaran aktif",
+  "pref_incognito_mode_off": "Mode penyamaran nonaktif"
 }

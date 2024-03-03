@@ -695,5 +695,8 @@
   "lock_type_biometrics": "Arcazonosítás/Ujjlenyomat-azonosítás",
   "lock_type_passcode": "Jelszó",
   "lock_biometrics_unavailable": "Az arcfelismerés vagy az ujjlenyomat-azonosítás nem elérhető.",
-  "unlock_title": "Tachimanga feloldása"
+  "unlock_title": "Tachimanga feloldása",
+  "pref_incognito_mode_summary": "Olvasási előzmények megállítása",
+  "pref_incognito_mode_on": "Inkognitó mód bekapcsolva",
+  "pref_incognito_mode_off": "Inkognitó mód kikapcsolva"
 }

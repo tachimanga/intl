@@ -695,5 +695,8 @@
   "lock_type_biometrics": "FaceID/TouchID",
   "lock_type_passcode": "รหัสผ่าน",
   "lock_biometrics_unavailable": "FaceID หรือ TouchID ไม่สามารถใช้งานได้",
-  "unlock_title": "ปลดล็อก Tachimanga"
+  "unlock_title": "ปลดล็อก Tachimanga",
+  "pref_incognito_mode_summary": "หยุดประวัติการอ่านชั่วคราว",
+  "pref_incognito_mode_on": "โหมดซ่อนตัวเปิด",
+  "pref_incognito_mode_off": "โหมดซ่อนตัวปิด"
 }

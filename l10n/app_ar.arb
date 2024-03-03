@@ -1175,5 +1175,8 @@
   "lock_type_biometrics": "معرف الوجه/معرف اللمس",
   "lock_type_passcode": "رمز المرور",
   "lock_biometrics_unavailable": "معرف الوجه أو معرف اللمس غير متاح.",
-  "unlock_title": "فتح تاشيمانجا"
+  "unlock_title": "فتح تاشيمانجا",
+  "pref_incognito_mode_summary": "إيقاف سجل القراءة",
+  "pref_incognito_mode_on": "وضع التصفح المتخفي مفعل",
+  "pref_incognito_mode_off": "وضع التصفح المتخفي معطل"
 }
