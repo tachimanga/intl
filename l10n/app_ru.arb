@@ -695,5 +695,8 @@
   "lock_type_biometrics": "FaceID/TouchID",
   "lock_type_passcode": "Пароль",
   "lock_biometrics_unavailable": "FaceID или TouchID недоступен.",
-  "unlock_title": "Разблокировать Tachimanga"
+  "unlock_title": "Разблокировать Tachimanga",
+  "pref_incognito_mode_summary": "Приостанавливает историю чтения",
+  "pref_incognito_mode_on": "Режим инкогнито включен",
+  "pref_incognito_mode_off": "Режим инкогнито выключен"
 }
