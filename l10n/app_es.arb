@@ -724,5 +724,7 @@
   "pref_incognito_mode_off": "Modo incógnito desactivado",
   "relative_time": "{x, plural, one{Ayer} many{Hace {x} días} other{Hace {x} días}}",
   "num_trackers": "{x, plural, one{{x} servicio de seguimiento} many{{x} servicios de seguimiento} other{{x} servicios de seguimiento}}",
-  "num_categories": "{x, plural, one{{x} categoría} many{{x} categorías} other{{x} categorías}}"
+  "num_categories": "{x, plural, one{{x} categoría} many{{x} categorías} other{{x} categorías}}",
+  "pref_date_format": "Formato de fecha",
+  "relative_time_today": "Hoy"
 }

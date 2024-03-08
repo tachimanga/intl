@@ -739,5 +739,7 @@
   "@unlock_title": {},
   "relative_time": "{x, plural, other{{x} hari lalu}}",
   "num_trackers": "{x, plural, other{{x} penjejak}}",
-  "num_categories": "{x, plural, other{{x} kategori}}"
+  "num_categories": "{x, plural, other{{x} kategori}}",
+  "pref_date_format": "Format tarikh",
+  "relative_time_today": "Hari ini"
 }
