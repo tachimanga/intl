@@ -960,5 +960,8 @@
   "lock_type_biometrics": "FaceID/TouchID",
   "lock_type_passcode": "Passcode",
   "lock_biometrics_unavailable": "FaceID or TouchID is unavailable.",
-  "unlock_title": "Unlock Tachimanga"
+  "unlock_title": "Unlock Tachimanga",
+  "pref_date_format": "Date format",
+  "relative_time_today": "Today",
+  "relative_time" : "{x, plural, one{Yesterday} other{{x} days ago}}"
 }

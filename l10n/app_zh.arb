@@ -1096,5 +1096,8 @@
   "unlock_title": "解锁Tachimanga",
   "pref_incognito_mode_summary": "暂停记录阅读历史",
   "pref_incognito_mode_on": "无痕模式已开启",
-  "pref_incognito_mode_off": "无痕模式已关闭"
+  "pref_incognito_mode_off": "无痕模式已关闭",
+  "pref_date_format": "日期格式",
+  "relative_time_today": "今天",
+  "relative_time" : "{x, plural, other{{x} 天前}}"
 }
