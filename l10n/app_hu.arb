@@ -692,5 +692,7 @@
   "pref_incognito_mode_off": "Inkognitó mód kikapcsolva",
   "relative_time": "{x, plural, one{Tegnap} other{{x} napja}}",
   "num_trackers": "{x, plural, one{{x} tracker} other{{x} trackerek}}",
-  "num_categories": "{x, plural, one{{x} kategória} other{{x} kategóriák}}"
+  "num_categories": "{x, plural, one{{x} kategória} other{{x} kategóriák}}",
+  "pref_date_format": "Dátum formátum",
+  "relative_time_today": "Ma"
 }

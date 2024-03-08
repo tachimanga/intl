@@ -1181,5 +1181,7 @@
   "pref_incognito_mode_off": "Режим інкогніто вимкнено",
   "relative_time": "{x, plural, one{Учора} few{{x} днів тому} many{{x} днів тому} other{{x} днів тому}}",
   "num_trackers": "{x, plural, one{{x} трекер} few{{x} трекери} many{{x} трекерів} other{{x} трекерів}}",
-  "num_categories": "{x, plural, one{{x} категорія} few{{x} категорії} many{{x} категорій} other{{x} категорій}}"
+  "num_categories": "{x, plural, one{{x} категорія} few{{x} категорії} many{{x} категорій} other{{x} категорій}}",
+  "pref_date_format": "Формат дати",
+  "relative_time_today": "Сьогодні"
 }

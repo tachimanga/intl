@@ -692,5 +692,7 @@
   "pref_incognito_mode_off": "Modalità incognito disattiva",
   "relative_time": "{x, plural, one{Ieri} many{{x} giorni fa} other{{x} giorni fa}}",
   "num_trackers": "{x, plural, one{{x} tracker} many{{x} trackers} other{{x} trackers}}",
-  "num_categories": "{x, plural, one{{x} categoria} many{{x} categorie} other{{x} categorie}}"
+  "num_categories": "{x, plural, one{{x} categoria} many{{x} categorie} other{{x} categorie}}",
+  "pref_date_format": "Formato data",
+  "relative_time_today": "Oggi"
 }
