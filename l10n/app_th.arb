@@ -692,5 +692,7 @@
   "pref_incognito_mode_off": "โหมดซ่อนตัวปิด",
   "relative_time": "{x, plural, other{{x} วันที่ผ่านมา}}",
   "num_trackers": "{x, plural, other{{x} ตัวติดตาม}}",
-  "num_categories": "{x, plural, other{หมวดหมู่ {x}}}"
+  "num_categories": "{x, plural, other{หมวดหมู่ {x}}}",
+  "pref_date_format": "รูปแบบวันที่",
+  "relative_time_today": "วันนี้"
 }

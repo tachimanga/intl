@@ -720,5 +720,7 @@
   "pref_incognito_mode_off": "Modo de navegação anónima desativado",
   "relative_time": "{x, plural, one{Ontem} many{Há {x} dias} other{Há {x} dias}}",
   "num_trackers": "{x, plural, one{{x} rastreador} many{{x} rastreadores} other{{x} rastreadores}}",
-  "num_categories": "{x, plural, one{{x} categoria} many{{x} categorias} other{{x} categorias}}"
+  "num_categories": "{x, plural, one{{x} categoria} many{{x} categorias} other{{x} categorias}}",
+  "pref_date_format": "Formato da data",
+  "relative_time_today": "Hoje"
 }

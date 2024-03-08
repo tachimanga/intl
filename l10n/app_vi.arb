@@ -692,5 +692,7 @@
   "pref_incognito_mode_off": "Chế độ ẩn danh đã tắt",
   "relative_time": "{x, plural, other{{x} ngày trước}}",
   "num_trackers": "{x, plural, other{{x} bộ theo dõi}}",
-  "num_categories": "{x, plural, other{{x} danh mục}}"
+  "num_categories": "{x, plural, other{{x} danh mục}}",
+  "pref_date_format": "Định dạng ngày",
+  "relative_time_today": "Hôm nay"
 }

@@ -692,5 +692,7 @@
   "pref_incognito_mode_off": "無痕模式已停用",
   "relative_time": "{x, plural, other{{x} 天前}}",
   "num_trackers": "{x, plural, other{{x} 個歷程平台}}",
-  "num_categories": "{x, plural, other{{x} 個類別}}"
+  "num_categories": "{x, plural, other{{x} 個類別}}",
+  "pref_date_format": "日期格式",
+  "relative_time_today": "今天"
 }
