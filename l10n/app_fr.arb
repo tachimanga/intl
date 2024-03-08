@@ -1123,5 +1123,7 @@
   "pref_incognito_mode_off": "Mode incognito désactivé",
   "relative_time": "{x, plural, one{Hier} many{Il y a {x} jours} other{Il y a {x} jours}}",
   "num_trackers": "{x, plural, one{Suivi par {x} service} many{Suivi par {x} services} other{Suivi par {x} services}}",
-  "num_categories": "{x, plural, one{{x} catégorie} many{{x} catégories} other{{x} catégories}}"
+  "num_categories": "{x, plural, one{{x} catégorie} many{{x} catégories} other{{x} catégories}}",
+  "pref_date_format": "Format de date",
+  "relative_time_today": "Aujourd'hui"
 }

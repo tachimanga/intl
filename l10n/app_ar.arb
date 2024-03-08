@@ -1172,5 +1172,7 @@
   "pref_incognito_mode_off": "وضع التصفح المتخفي معطل",
   "relative_time": "{x, plural, zero{الأمس} one{منذ {x} أيام} two{منذ {x} أيام} few{منذ {x} أيام} many{منذ {x} أيام} other{منذ {x} أيام}}",
   "num_trackers": "{x, plural, zero{لا متتبّع} one{متتبّع واحد} two{متتبعان} few{بضعة متتبّعين ({x})} many{عدّة متتبّعين ({x})} other{{x} متتبّعاً}}",
-  "num_categories": "{x, plural, zero{لا يوجد فئات} one{فئة} two{فئتان} few{{x} فئات} many{{x} فئات} other{{x} فئات}}"
+  "num_categories": "{x, plural, zero{لا يوجد فئات} one{فئة} two{فئتان} few{{x} فئات} many{{x} فئات} other{{x} فئات}}",
+  "pref_date_format": "صيغة التاريخ",
+  "relative_time_today": "اليوم"
 }

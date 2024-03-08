@@ -739,5 +739,7 @@
   "@pref_incognito_mode_off": {},
   "relative_time": "{x, plural, one{Вчера} few{{x} дня назад} many{{x} дней назад} other{{x} дней назад}}",
   "num_trackers": "{x, plural, one{{x} отслеживание} few{{x} отслеживания} many{{x} отслеживаний} other{{x} отслеживаний}}",
-  "num_categories": "{x, plural, one{{x} категория} few{{x} категории} many{{x} категорий} other{{x} категорий}}"
+  "num_categories": "{x, plural, one{{x} категория} few{{x} категории} many{{x} категорий} other{{x} категорий}}",
+  "pref_date_format": "Формат даты",
+  "relative_time_today": "Сегодня"
 }
