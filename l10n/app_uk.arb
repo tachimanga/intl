@@ -1183,5 +1183,8 @@
   "num_trackers": "{x, plural, one{{x} трекер} few{{x} трекери} many{{x} трекерів} other{{x} трекерів}}",
   "num_categories": "{x, plural, one{{x} категорія} few{{x} категорії} many{{x} категорій} other{{x} категорій}}",
   "pref_date_format": "Формат дати",
-  "relative_time_today": "Сьогодні"
+  "relative_time_today": "Сьогодні",
+  "action_sort_latest_chapter": "Останній розділ",
+  "tabs_header": "Вкладки",
+  "action_display_show_number_of_items": "Показати кількість об'єктів"
 }

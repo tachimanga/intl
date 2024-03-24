@@ -1125,5 +1125,8 @@
   "num_trackers": "{x, plural, one{Suivi par {x} service} many{Suivi par {x} services} other{Suivi par {x} services}}",
   "num_categories": "{x, plural, one{{x} catégorie} many{{x} catégories} other{{x} catégories}}",
   "pref_date_format": "Format de date",
-  "relative_time_today": "Aujourd'hui"
+  "relative_time_today": "Aujourd'hui",
+  "action_sort_latest_chapter": "Dernier chapitre",
+  "tabs_header": "Onglets",
+  "action_display_show_number_of_items": "Afficher le nombre d’entrées"
 }

@@ -694,5 +694,8 @@
   "num_trackers": "{x, plural, one{{x} izleyici} other{{x} izleyici}}",
   "num_categories": "{x, plural, one{{x} ulam} other{{x} ulam}}",
   "pref_date_format": "Tarih biçimi",
-  "relative_time_today": "Bugün"
+  "relative_time_today": "Bugün",
+  "action_sort_latest_chapter": "Son bölüm",
+  "tabs_header": "Sekmeler",
+  "action_display_show_number_of_items": "Öge sayısını göster"
 }

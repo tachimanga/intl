@@ -495,7 +495,7 @@
   "@allScanlators": {},
   "scanlators": "Übersetzer",
   "@scanlators": {},
-  "mangaSortLatestChapterFetch": "Aktualisierungsdatum",
+  "mangaSortLatestChapterFetch": "Abrufdatum des Kapitels",
   "@mangaSortLatestChapterFetch": {},
   "onlySearchPinSource": "Nur gepinnte Quellen durchsuchen",
   "@onlySearchPinSource": {},
@@ -719,5 +719,8 @@
   "num_trackers": "{x, plural, one{{x} Tracker} other{{x} Tracker}}",
   "num_categories": "{x, plural, one{{x} Kategorie} other{{x} Kategorien}}",
   "pref_date_format": "Datumsformat",
-  "relative_time_today": "Heute"
+  "relative_time_today": "Heute",
+  "action_sort_latest_chapter": "Neuestes Kapitel",
+  "tabs_header": "Registerkarten",
+  "action_display_show_number_of_items": "Anzahl der Elemente anzeigen"
 }

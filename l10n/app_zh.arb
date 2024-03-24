@@ -837,7 +837,7 @@
   "@restoring": {},
   "restored": "备份已恢复！",
   "@restored": {},
-  "importBackupTitle": "导入 Tachiyomi 备份",
+  "importBackupTitle": "导入 Tachiyomi/Mihon 备份",
   "@importBackupTitle": {},
   "importBackupDescription": "从 Tachiyomi 备份文件导入",
   "@importBackupDescription": {},
@@ -1092,5 +1092,8 @@
   "relative_time_today": "今天",
   "relative_time": "{x, plural, other{{x} 天前}}",
   "num_trackers": "{x, plural, other{{x} 个记录平台}}",
-  "num_categories": "{x, plural, other{{x} 个分类}}"
+  "num_categories": "{x, plural, other{{x} 个分类}}",
+  "action_sort_latest_chapter": "作品更新时间",
+  "tabs_header": "标签",
+  "action_display_show_number_of_items": "显示作品数"
 }

@@ -726,5 +726,8 @@
   "num_trackers": "{x, plural, one{{x} servicio de seguimiento} many{{x} servicios de seguimiento} other{{x} servicios de seguimiento}}",
   "num_categories": "{x, plural, one{{x} categoría} many{{x} categorías} other{{x} categorías}}",
   "pref_date_format": "Formato de fecha",
-  "relative_time_today": "Hoy"
+  "relative_time_today": "Hoy",
+  "action_sort_latest_chapter": "Por capítulo más reciente",
+  "tabs_header": "Pestañas",
+  "action_display_show_number_of_items": "Mostrar el número de elementos"
 }
