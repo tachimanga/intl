@@ -738,11 +738,19 @@
   "pref_incognito_mode_off": "Режим инкогнито выключен",
   "@pref_incognito_mode_off": {},
   "relative_time": "{x, plural, one{Вчера} few{{x} дня назад} many{{x} дней назад} other{{x} дней назад}}",
+  "@relative_time": {},
   "num_trackers": "{x, plural, one{{x} отслеживание} few{{x} отслеживания} many{{x} отслеживаний} other{{x} отслеживаний}}",
+  "@num_trackers": {},
   "num_categories": "{x, plural, one{{x} категория} few{{x} категории} many{{x} категорий} other{{x} категорий}}",
+  "@num_categories": {},
   "pref_date_format": "Формат даты",
+  "@pref_date_format": {},
   "relative_time_today": "Сегодня",
+  "@relative_time_today": {},
   "action_sort_latest_chapter": "Последняя глава",
+  "@action_sort_latest_chapter": {},
   "tabs_header": "Вкладки",
-  "action_display_show_number_of_items": "Показывать количество серий"
+  "@tabs_header": {},
+  "action_display_show_number_of_items": "Показывать количество серий",
+  "@action_display_show_number_of_items": {}
 }
