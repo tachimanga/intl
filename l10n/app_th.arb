@@ -495,7 +495,7 @@
   "@allScanlators": {},
   "scanlators": "สแกนเลเตอร์",
   "@scanlators": {},
-  "mangaSortLatestChapterFetch": "วันที่เรียกรายล่าสุดของบท",
+  "mangaSortLatestChapterFetch": "วันที่ดึงข้อมูลตอน",
   "@mangaSortLatestChapterFetch": {},
   "onlySearchPinSource": "รวมแหล่งที่ติดหมุดเท่านั้น",
   "@onlySearchPinSource": {},
@@ -694,5 +694,8 @@
   "num_trackers": "{x, plural, other{{x} ตัวติดตาม}}",
   "num_categories": "{x, plural, other{หมวดหมู่ {x}}}",
   "pref_date_format": "รูปแบบวันที่",
-  "relative_time_today": "วันนี้"
+  "relative_time_today": "วันนี้",
+  "action_sort_latest_chapter": "ตอนล่าสุด",
+  "tabs_header": "แท็บ",
+  "action_display_show_number_of_items": "แสดงจำนวน"
 }

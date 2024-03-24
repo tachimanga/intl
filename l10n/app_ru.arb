@@ -495,7 +495,7 @@
   "@allScanlators": {},
   "scanlators": "Сканлейторы",
   "@scanlators": {},
-  "mangaSortLatestChapterFetch": "Дата загрузки главы",
+  "mangaSortLatestChapterFetch": "Последнее получение главы",
   "@mangaSortLatestChapterFetch": {},
   "onlySearchPinSource": "Искать только закрепленные источники",
   "@onlySearchPinSource": {},
@@ -741,5 +741,8 @@
   "num_trackers": "{x, plural, one{{x} отслеживание} few{{x} отслеживания} many{{x} отслеживаний} other{{x} отслеживаний}}",
   "num_categories": "{x, plural, one{{x} категория} few{{x} категории} many{{x} категорий} other{{x} категорий}}",
   "pref_date_format": "Формат даты",
-  "relative_time_today": "Сегодня"
+  "relative_time_today": "Сегодня",
+  "action_sort_latest_chapter": "Последняя глава",
+  "tabs_header": "Вкладки",
+  "action_display_show_number_of_items": "Показывать количество серий"
 }

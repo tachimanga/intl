@@ -1174,5 +1174,8 @@
   "num_trackers": "{x, plural, zero{لا متتبّع} one{متتبّع واحد} two{متتبعان} few{بضعة متتبّعين ({x})} many{عدّة متتبّعين ({x})} other{{x} متتبّعاً}}",
   "num_categories": "{x, plural, zero{لا يوجد فئات} one{فئة} two{فئتان} few{{x} فئات} many{{x} فئات} other{{x} فئات}}",
   "pref_date_format": "صيغة التاريخ",
-  "relative_time_today": "اليوم"
+  "relative_time_today": "اليوم",
+  "action_sort_latest_chapter": "أحدث فصل",
+  "tabs_header": "قوائم",
+  "action_display_show_number_of_items": "إظهار عدد العناصر"
 }

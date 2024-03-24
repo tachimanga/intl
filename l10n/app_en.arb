@@ -807,7 +807,7 @@
   "restoreBackupDescription": "Restore library from backup file",
   "restoring": "Restoring backup",
   "restored": "Backup restored!",
-  "importBackupTitle": "Import Tachiyomi Backup",
+  "importBackupTitle": "Import Tachiyomi/Mihon Backup",
   "importBackupDescription": "Import library from Tachiyomi backup file",
   "autoBackupSectionTitle": "Automatic backups",
   "backupsSectionTitle": "Backups",
@@ -960,5 +960,8 @@
   "relative_time_today": "Today",
   "relative_time": "{x, plural, one{Yesterday} other{{x} days ago}}",
   "num_trackers": "{x, plural, one{{x} tracker} other{{x} trackers}}",
-  "num_categories": "{x, plural, one{{x} category} other{{x} categories}}"
+  "num_categories": "{x, plural, one{{x} category} other{{x} categories}}",
+  "action_sort_latest_chapter": "Latest chapter",
+  "tabs_header": "Tabs",
+  "action_display_show_number_of_items": "Show number of items"
 }
