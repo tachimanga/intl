@@ -759,6 +759,9 @@
   "changelogs": "Alterações",
   "@changelogs": {},
   "action_sort_latest_chapter": "Último capítulo",
+  "@action_sort_latest_chapter": {},
   "tabs_header": "Abas",
-  "action_display_show_number_of_items": "Mostrar número de itens"
+  "@tabs_header": {},
+  "action_display_show_number_of_items": "Mostrar número de itens",
+  "@action_display_show_number_of_items": {}
 }
