@@ -495,7 +495,7 @@
   "@allScanlators": {},
   "scanlators": "Penerjemah",
   "@scanlators": {},
-  "mangaSortLatestChapterFetch": "Tarikh pengambilan Bab terbaru",
+  "mangaSortLatestChapterFetch": "Tarikh bab diambil",
   "@mangaSortLatestChapterFetch": {},
   "onlySearchPinSource": "Hanya sumber-pin disertakan",
   "@onlySearchPinSource": {},
@@ -741,5 +741,8 @@
   "num_trackers": "{x, plural, other{{x} penjejak}}",
   "num_categories": "{x, plural, other{{x} kategori}}",
   "pref_date_format": "Format tarikh",
-  "relative_time_today": "Hari ini"
+  "relative_time_today": "Hari ini",
+  "action_sort_latest_chapter": "Bab terkini",
+  "tabs_header": "Tab",
+  "action_display_show_number_of_items": "Tunjuk jumlah bilangan"
 }
