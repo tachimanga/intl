@@ -560,7 +560,7 @@
   "@autoBackupFailTip": {},
   "allScanlators": "Todos os Scanlators",
   "@allScanlators": {},
-  "mangaSortLatestChapterFetch": "Data da recolha do capítulo",
+  "mangaSortLatestChapterFetch": "Data de procura do capítulo",
   "@mangaSortLatestChapterFetch": {},
   "byPassStart": "Tentando contornar o Cloudflare",
   "@byPassStart": {},
@@ -757,5 +757,8 @@
   "contact_us": "Contacta-nos",
   "@contact_us": {},
   "changelogs": "Alterações",
-  "@changelogs": {}
+  "@changelogs": {},
+  "action_sort_latest_chapter": "Último capítulo",
+  "tabs_header": "Abas",
+  "action_display_show_number_of_items": "Mostrar número de itens"
 }

@@ -496,7 +496,7 @@
   "@readerScrollAnimation": {},
   "doubleTapZoomIn": "Toque duplo para aproximar",
   "@doubleTapZoomIn": {},
-  "mangaSortLatestChapterFetch": "Data de procura do capítulo",
+  "mangaSortLatestChapterFetch": "Data de busca do capítulo",
   "@mangaSortLatestChapterFetch": {},
   "prevPage": "Anterior",
   "@prevPage": {},
@@ -693,5 +693,8 @@
   "num_trackers": "{x, plural, one{{x} monitorador} many{{x} monitoradores} other{{x} monitoradores}}",
   "num_categories": "{x, plural, one{{x} categoria} many{{x} categorias} other{{x} categorias}}",
   "pref_date_format": "Formato de data",
-  "relative_time_today": "Hoje"
+  "relative_time_today": "Hoje",
+  "action_sort_latest_chapter": "Último capítulo",
+  "tabs_header": "Abas",
+  "action_display_show_number_of_items": "Mostrar o número de itens"
 }

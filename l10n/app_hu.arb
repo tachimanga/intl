@@ -495,7 +495,7 @@
   "@allScanlators": {},
   "scanlators": "Fordítók",
   "@scanlators": {},
-  "mangaSortLatestChapterFetch": "Fejezet lekérési dátuma",
+  "mangaSortLatestChapterFetch": "Lekérési dátum",
   "@mangaSortLatestChapterFetch": {},
   "onlySearchPinSource": "Csak a rögzített források között keressen",
   "@onlySearchPinSource": {},
@@ -746,5 +746,8 @@
   "pref_date_format": "Dátum formátum",
   "@pref_date_format": {},
   "relative_time_today": "Ma",
-  "@relative_time_today": {}
+  "@relative_time_today": {},
+  "action_sort_latest_chapter": "Legújabb fejezet",
+  "tabs_header": "Lapok",
+  "action_display_show_number_of_items": "Tárgyak számának mutatása"
 }
