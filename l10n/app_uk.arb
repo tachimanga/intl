@@ -915,7 +915,7 @@
   "@restoring": {},
   "restored": "Резервна копія успішно відновлена!",
   "@restored": {},
-  "importBackupTitle": "Імпорт резервної копії Tachiyomi",
+  "importBackupTitle": "Імпорт резервної копії Tachiyomi/Mihon",
   "@importBackupTitle": {},
   "importBackupDescription": "Імпортувати бібліотеку з файлу резервної копії Tachiyomi",
   "@importBackupDescription": {},
