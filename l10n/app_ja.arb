@@ -1,1 +1,112 @@
-{}
+{
+  "addToLibrary": "ライブラリに追加",
+  "@addToLibrary": {
+    "description": "Button text to add Manga to Library in Manga Details Screen"
+  },
+  "appLanguage": "アプリの言語",
+  "@appLanguage": {
+    "description": "Popup title and Button text to change App Language"
+  },
+  "appTheme": "アプリのテーマ",
+  "@appTheme": {
+    "description": "Popup title and Button text to change App Theme"
+  },
+  "appTitle": "Tachimanga",
+  "@appTitle": {
+    "description": "Name of the app (Tachidesk Sorayomi in native script)"
+  },
+  "appearance": "外観",
+  "@appearance": {
+    "description": "Screen title and Button text of Appearance screen"
+  },
+  "authType": "認証タイプ",
+  "@authType": {
+    "description": "Popup title and Button text to change App Authentication"
+  },
+  "authTypeBasic": "ベーシック認証",
+  "@authTypeBasic": {
+    "description": "Radio button text for the Basic Authentication type"
+  },
+  "authTypeNone": "無し",
+  "@authTypeNone": {
+    "description": "Radio button text for no Authentication"
+  },
+  "backup": "バックアップと復元",
+  "@backup": {
+    "description": "Screen title and Button text of Backup & Restore screen"
+  },
+  "badges": "バッジ",
+  "@badges": {
+    "description": "Checkbox Group title to enable Badges on manga Cover in Library Screen"
+  },
+  "browse": "ブラウズ",
+  "@browse": {
+    "description": "Screen title, Navigation Bar text and Button text of both Browse screen and Browse Settings Screen"
+  },
+  "buildTime": "ビルド時間",
+  "@buildTime": {
+    "description": "Text title to show build time of Server in About Screen"
+  },
+  "cancel": "キャンセル",
+  "@cancel": {
+    "description": "Text for Cancel button in a Popup"
+  },
+  "categories": "カテゴリー",
+  "@categories": {
+    "description": "Button text of edit Categories screen in Library settings screen"
+  },
+  "categoryUpdate": "カテゴリーを更新",
+  "@categoryUpdate": {
+    "description": "Button text to update the mangas in the Category"
+  },
+  "channel": "チャンネル",
+  "@channel": {
+    "description": "Text title to show Channel of the Server (Stable, preview) in About Screen"
+  },
+  "chapterNumber": "チャプター{number}",
+  "@chapterNumber": {
+    "description": "Text title for Chapter name in chapter list",
+    "placeholders": {
+      "number": {
+        "example": "12.5",
+        "type": "double"
+      }
+    }
+  },
+  "chapterSortSource": "ソースから",
+  "@chapterSortSource": {
+    "description": "Radio button text for sort by Source"
+  },
+  "chapterSortFetchedDate": "取得したデータから",
+  "@chapterSortFetchedDate": {
+    "description": "Radio button text for sort by Fetched Date"
+  },
+  "about": "アプリについて",
+  "@about": {
+    "description": "Screen title and Button text of About screen"
+  },
+  "bookmarked": "ブックマーク済み",
+  "@bookmarked": {
+    "description": "Checkbox text to filter bookmarked manga chapters in Manga Details screen"
+  },
+  "addCategory": "カテゴリーを追加",
+  "@addCategory": {
+    "description": "Popup title and Button text to add new category in Edit Category Screen"
+  },
+  "client": "クライアント",
+  "@client": {
+    "description": "Text title for the name of the client in About screen"
+  },
+  "clientVersion": "クライアントバージョン",
+  "@clientVersion": {
+    "description": "Text title for the current version of the client in About screen"
+  },
+  "close": "閉じる",
+  "@close": {
+    "description": "Text for close button"
+  },
+  "checkForUpdates": "アップデートを確認",
+  "@checkForUpdates": {
+    "description": "Button text to check for App Updates"
+  }
+}
