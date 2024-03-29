@@ -439,7 +439,7 @@
   "@restoring": {},
   "restored": "Backup ripristinato!",
   "@restored": {},
-  "importBackupTitle": "Importa Backup Tachiyomi",
+  "importBackupTitle": "Importa Backup Tachiyomi/Mihon",
   "@importBackupTitle": {},
   "importBackupDescription": "Importa la libreria da un file di backup di Tachiyomi",
   "@importBackupDescription": {},
