@@ -108,5 +108,151 @@
   "checkForUpdates": "アップデートを確認",
   "@checkForUpdates": {
     "description": "Button text to check for App Updates"
+  },
+  "completed": "完結済み",
+  "@completed": {
+    "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
+  },
+  "copyMsg": "'{msg}'をコピーしました",
+  "@copyMsg": {
+    "description": "Toast text to show that the message has been copied",
+    "placeholders": {
+      "msg": {
+        "example": "Client : Tachidesk Sorayomi",
+        "type": "String"
+      }
+    }
+  },
+  "discord": "Discord",
+  "@discord": {
+    "description": "Discord app title"
+  },
+  "checkForServerUpdates": "サーバーのアップデートを確認",
+  "@checkForServerUpdates": {
+    "description": "Button text to check for Server updates"
+  },
+  "credentials": "資格",
+  "@credentials": {
+    "description": "Popup title and Button text to enter Authentication credentials"
+  },
+  "displayModeGrid": "グリッド",
+  "@displayModeGrid": {
+    "description": "Radio button text for Manga Cover display mode - Grid"
+  },
+  "current": "現在",
+  "@current": {
+    "description": "Text to show the currently reading chapter in Reader Screen"
+  },
+  "defaultCategory": "新しいマンガをライブラリに追加するときのデフォルトのカテゴリー",
+  "@defaultCategory": {
+    "description": "Checkbox description when creating a Category to add manga to the Category by Default"
+  },
+  "delete": "削除",
+  "@delete": {
+    "description": "Text for delete button"
+  },
+  "edit": "編集",
+  "@edit": {
+    "description": "Popup button text to edit Category in Edit category screen"
+  },
+  "editCategory": "カテゴリーを編集",
+  "@editCategory": {
+    "description": "Screen title, Button text and  of Downloads screen"
+  },
+  "general": "一般",
+  "@general": {
+    "description": "Screen title and Button text of General setting screen"
+  },
+  "gitHub": "GitHub",
+  "@gitHub": {
+    "description": "GitHub app title"
+  },
+  "globalSearch": "グローバル検索",
+  "@globalSearch": {
+    "description": "Screen title of Global Search screen"
+  },
+  "globalUpdate": "グローバルアップデート",
+  "@globalUpdate": {
+    "description": "Button text of Global Manga Update"
+  },
+  "help": "ヘルプ",
+  "@help": {
+    "description": "Button text of help in about screen"
+  },
+  "inLibrary": "ライブラリー内",
+  "@inLibrary": {
+    "description": "Button and Chip text to show that the manga is in Library"
+  },
+  "install": "追加",
+  "@install": {
+    "description": "Button text to install the extension"
+  },
+  "installing": "追加中",
+  "@installing": {
+    "description": "Button text to show that the extension is installing"
+  },
+  "installingExtension": "拡張機能を追加中",
+  "@installingExtension": {
+    "description": "Toast text to show that the extension is installing"
+  },
+  "manga": "漫画",
+  "@manga": {
+    "description": "Screen title and Button text of Manga details screen"
+  },
+  "mangaSortAlphabetical": "アルファベット順",
+  "@mangaSortAlphabetical": {
+    "description": "Radio button text for Manga sort Type - Alphabetical"
+  },
+  "mangaSortDateAdded": "ライブラリーへの追加日順",
+  "@mangaSortDateAdded": {
+    "description": "Radio button text for Manga sort Type - Date Added"
+  },
+  "mangaSortUnread": "未読",
+  "@mangaSortUnread": {
+    "description": "Radio button text for Manga sort Type - Unread"
+  },
+  "mangaSortLastRead": "最後に読んだ順",
+  "@mangaSortLastRead": {
+    "description": "Radio button text for Manga sort Type - Last Read"
+  },
+  "displayModeList": "リスト",
+  "@displayModeList": {
+    "description": "Radio button text for Manga Cover display mode - List"
+  },
+  "mangaStatusOngoing": "連載中",
+  "@mangaStatusOngoing": {
+    "description": "Text to show Manga Status Ongoing in Manga details screen"
+  },
+  "downloaded": "ダウンロード済み",
+  "@downloaded": {
+    "description": "Text to show downloaded chapters status in Filters  "
+  },
+  "downloads": "ダウンロード",
+  "@downloads": {
+    "description": "Screen title and Navigation text of Downloads screen"
+  },
+  "languages": "言語",
+  "@languages": {
+    "description": "Popup title to filter extensions based on language"
+  },
+  "latest": "最近の更新",
+  "@latest": {
+    "description": "Button text to take user to the latest tab of Source manga screen"
+  },
+  "library": "ライブラリー",
+  "@library": {
+    "description": "Screen title and Button text of Library and Library Settings screen"
+  },
+  "mangaStatusCompleted": "完結済み",
+  "@mangaStatusCompleted": {
+    "description": "Text to show Manga Status Completed in Manga details screen"
+  },
+  "mangaStatusPublishingFinished": "連載終了",
+  "@mangaStatusPublishingFinished": {
+    "description": "Text to show Manga Status Publishing Finished in Manga details screen"
+  },
+  "mangaStatusUnknown": "不明",
+  "@mangaStatusUnknown": {
+    "description": "Text to show Manga Status Unknown in Manga details screen"
   }
 }
