@@ -963,5 +963,12 @@
   "num_categories": "{x, plural, one{{x} category} other{{x} categories}}",
   "action_sort_latest_chapter": "Latest chapter",
   "tabs_header": "Tabs",
-  "action_display_show_number_of_items": "Show number of items"
+  "action_display_show_number_of_items": "Show number of items",
+  "page_layout": "Page Layout",
+  "page_layout_single": "Single Page",
+  "page_layout_double": "Double Page",
+  "page_layout_automatic": "Automatic",
+  "page_layout_separate_first_page": "Separate first page",
+  "page_layout_tip": "Page Layout only takes effect in paging reading mode.",
+  "show_tap_zones_when_start_reading": "Show tap zones when starting reading."
 }
