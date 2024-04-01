@@ -752,5 +752,12 @@
   "tabs_header": "Tab",
   "@tabs_header": {},
   "action_display_show_number_of_items": "Tunjuk jumlah bilangan",
-  "@action_display_show_number_of_items": {}
+  "@action_display_show_number_of_items": {},
+  "page_layout": "Atur Layout Halaman",
+  "page_layout_single": "Halaman Tunggal",
+  "page_layout_double": "Halaman Ganda",
+  "page_layout_automatic": "Automatik",
+  "page_layout_separate_first_page": "asingkan halaman pertama",
+  "page_layout_tip": "Atur Layout Halaman hanya berkuat kuasa dalam mod pembacaan berpembahagian halaman.",
+  "show_tap_zones_when_start_reading": "Tunjukkan zon ketukan apabila memulakan pembacaan."
 }

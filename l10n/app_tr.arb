@@ -752,5 +752,12 @@
   "tabs_header": "Sekmeler",
   "@tabs_header": {},
   "action_display_show_number_of_items": "Öge sayısını göster",
-  "@action_display_show_number_of_items": {}
+  "@action_display_show_number_of_items": {},
+  "page_layout": "Sayfa Düzeni",
+  "page_layout_single": "Tek Sayfa",
+  "page_layout_double": "Çift Sayfa",
+  "page_layout_automatic": "Otomatik",
+  "page_layout_separate_first_page": "İlk sayfayı ayır",
+  "page_layout_tip": "Sayfa Düzeni sadece sayfalı okuma modunda etkilidir.",
+  "show_tap_zones_when_start_reading": "Okumaya başlarken dokunma bölgelerini göster."
 }

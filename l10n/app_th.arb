@@ -752,5 +752,12 @@
   "tabs_header": "แท็บ",
   "@tabs_header": {},
   "action_display_show_number_of_items": "แสดงจำนวน",
-  "@action_display_show_number_of_items": {}
+  "@action_display_show_number_of_items": {},
+  "page_layout": "เค้าโครงหน้า",
+  "page_layout_single": "หน้าเดียว",
+  "page_layout_double": "หน้าสอง",
+  "page_layout_automatic": "อัตโนมัติ",
+  "page_layout_separate_first_page": "แยกหน้าแรก",
+  "page_layout_tip": "การจัดเลยหน้ามีผลต่อเฉพาะในโหมดอ่านแบบเป็นหน้า.",
+  "show_tap_zones_when_start_reading": "แสดงโซนแตะเมื่อเริ่มอ่าน."
 }

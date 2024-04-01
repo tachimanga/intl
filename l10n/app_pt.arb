@@ -751,5 +751,12 @@
   "tabs_header": "Abas",
   "@tabs_header": {},
   "action_display_show_number_of_items": "Mostrar o número de itens",
-  "@action_display_show_number_of_items": {}
+  "@action_display_show_number_of_items": {},
+  "page_layout": "Layout da Página",
+  "page_layout_single": "Página Única",
+  "page_layout_double": "Página Dupla",
+  "page_layout_automatic": "Automático",
+  "page_layout_separate_first_page": "Separar primeira página",
+  "page_layout_tip": "O Layout da Página só tem efeito no modo de leitura por páginas.",
+  "show_tap_zones_when_start_reading": "Mostrar zonas de toque ao iniciar a leitura."
 }
