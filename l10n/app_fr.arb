@@ -1164,5 +1164,12 @@
   "tabs_header": "Onglets",
   "@tabs_header": {},
   "action_display_show_number_of_items": "Afficher le nombre d’entrées",
-  "@action_display_show_number_of_items": {}
+  "@action_display_show_number_of_items": {},
+  "page_layout": "Disposition de la page",
+  "page_layout_single": "Page simple",
+  "page_layout_double": "Double page",
+  "page_layout_automatic": "Automatique",
+  "page_layout_separate_first_page": "Séparer la première page",
+  "page_layout_tip": "La disposition de la page n'a d'effet que en mode de lecture paginé.",
+  "show_tap_zones_when_start_reading": "Afficher les zones de tapotement au début de la lecture."
 }

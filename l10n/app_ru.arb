@@ -752,5 +752,12 @@
   "tabs_header": "Вкладки",
   "@tabs_header": {},
   "action_display_show_number_of_items": "Показывать количество серий",
-  "@action_display_show_number_of_items": {}
+  "@action_display_show_number_of_items": {},
+  "page_layout": "Макет страницы",
+  "page_layout_single": "Одна страница",
+  "page_layout_double": "Двойная страница",
+  "page_layout_automatic": "Автоматический",
+  "page_layout_separate_first_page": "Разделить первую страницу",
+  "page_layout_tip": "Макет страницы действует только в режиме пейджинга.",
+  "show_tap_zones_when_start_reading": "Показать зоны нажатия при начале чтения."
 }
