@@ -748,6 +748,9 @@
   "relative_time_today": "Ma",
   "@relative_time_today": {},
   "action_sort_latest_chapter": "Legújabb fejezet",
+  "@action_sort_latest_chapter": {},
   "tabs_header": "Lapok",
-  "action_display_show_number_of_items": "Tárgyak számának mutatása"
+  "@tabs_header": {},
+  "action_display_show_number_of_items": "Tárgyak számának mutatása",
+  "@action_display_show_number_of_items": {}
 }
