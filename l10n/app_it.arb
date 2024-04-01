@@ -752,5 +752,12 @@
   "tabs_header": "Schede",
   "@tabs_header": {},
   "action_display_show_number_of_items": "Mostra numero elementi",
-  "@action_display_show_number_of_items": {}
+  "@action_display_show_number_of_items": {},
+  "page_layout": "Layout Pagina",
+  "page_layout_single": "Pagina Singola",
+  "page_layout_double": "Pagina Doppia",
+  "page_layout_automatic": "Automatico",
+  "page_layout_separate_first_page": "Separare prima pagina",
+  "page_layout_tip": "Il Layout Pagina ha effetto solo in modalità di lettura a paginazione.",
+  "show_tap_zones_when_start_reading": "Mostra zone di tocco all'avvio della lettura."
 }

@@ -767,5 +767,12 @@
   "tabs_header": "Pestañas",
   "@tabs_header": {},
   "action_display_show_number_of_items": "Mostrar el número de elementos",
-  "@action_display_show_number_of_items": {}
+  "@action_display_show_number_of_items": {},
+  "page_layout": "Diseño de página",
+  "page_layout_single": "Página única",
+  "page_layout_double": "Página doble",
+  "page_layout_automatic": "Automático",
+  "page_layout_separate_first_page": "Separar primera página",
+  "page_layout_tip": "El diseño de página solo tiene efecto en el modo de lectura por páginas.",
+  "show_tap_zones_when_start_reading": "Mostrar zonas de toque al iniciar la lectura."
 }

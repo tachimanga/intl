@@ -752,5 +752,12 @@
   "tabs_header": "Lapok",
   "@tabs_header": {},
   "action_display_show_number_of_items": "Tárgyak számának mutatása",
-  "@action_display_show_number_of_items": {}
+  "@action_display_show_number_of_items": {},
+  "page_layout": "Oldalszerkezet",
+  "page_layout_single": "Egyetlen Oldal",
+  "page_layout_double": "Két Oldal",
+  "page_layout_automatic": "Automatikus",
+  "page_layout_separate_first_page": "Első oldal különálló",
+  "page_layout_tip": "Az Oldalszerkezet csak a lapozva történő olvasási módban érvényes.",
+  "show_tap_zones_when_start_reading": "Az érintési zónák megjelenítése az olvasás kezdetekor."
 }
