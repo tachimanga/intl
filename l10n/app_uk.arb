@@ -1224,5 +1224,12 @@
   "tabs_header": "Вкладки",
   "@tabs_header": {},
   "action_display_show_number_of_items": "Показати кількість об'єктів",
-  "@action_display_show_number_of_items": {}
+  "@action_display_show_number_of_items": {},
+  "page_layout": "Макет сторінки",
+  "page_layout_single": "Одна сторінка",
+  "page_layout_double": "Подвійна сторінка",
+  "page_layout_automatic": "Автоматичний",
+  "page_layout_separate_first_page": "Відокрімити першу сторінку",
+  "page_layout_tip": "Макет сторінки працює тільки в режимі читання з пагінацією.",
+  "show_tap_zones_when_start_reading": "Показати зони натискання при початку читання."
 }

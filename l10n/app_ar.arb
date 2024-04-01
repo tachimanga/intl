@@ -1216,5 +1216,12 @@
   "tabs_header": "قوائم",
   "@tabs_header": {},
   "action_display_show_number_of_items": "إظهار عدد العناصر",
-  "@action_display_show_number_of_items": {}
+  "@action_display_show_number_of_items": {},
+  "page_layout": "تخطيط الصفحة",
+  "page_layout_single": "صفحة واحدة",
+  "page_layout_double": "صفحة مزدوجة",
+  "page_layout_automatic": "تلقائي",
+  "page_layout_separate_first_page": "فصل الصفحة الأولى",
+  "page_layout_tip": "تأثير تخطيط الصفحة يحدث فقط في وضع القراءة الدفقية.",
+  "show_tap_zones_when_start_reading": "إظهار مناطق الضغط عند بدء القراءة."
 }

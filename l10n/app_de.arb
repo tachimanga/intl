@@ -752,5 +752,12 @@
   "tabs_header": "Registerkarten",
   "@tabs_header": {},
   "action_display_show_number_of_items": "Anzahl der Elemente anzeigen",
-  "@action_display_show_number_of_items": {}
+  "@action_display_show_number_of_items": {},
+  "page_layout": "Seitenlayout",
+  "page_layout_single": "Einzelne Seite",
+  "page_layout_double": "Doppelte Seite",
+  "page_layout_automatic": "Automatisch",
+  "page_layout_separate_first_page": "Erste Seite trennen",
+  "page_layout_tip": "Das Seitenlayout gilt nur im Seitenlesemodus.",
+  "show_tap_zones_when_start_reading": "Zeigen Sie Berührungszonen beim Starten des Lesens."
 }

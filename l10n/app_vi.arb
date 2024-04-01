@@ -752,5 +752,12 @@
   "tabs_header": "Mục",
   "@tabs_header": {},
   "action_display_show_number_of_items": "Hiện số truyện",
-  "@action_display_show_number_of_items": {}
+  "@action_display_show_number_of_items": {},
+  "page_layout": "Bố cục Trang",
+  "page_layout_single": "Trang Đơn",
+  "page_layout_double": "Trang Đôi",
+  "page_layout_automatic": "Tự động",
+  "page_layout_separate_first_page": "Tách trang đầu tiên",
+  "page_layout_tip": "Bố cục Trang chỉ có hiệu quả trong chế độ đọc theo trang.",
+  "show_tap_zones_when_start_reading": "Hiển thị vùng chạm khi bắt đầu đọc."
 }
