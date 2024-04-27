@@ -39,7 +39,7 @@
   "@channel": {},
   "chapterNumber": "Chương {number}",
   "@chapterNumber": {},
-  "chapterSortFetchedDate": "Theo dữ liệu đã tải",
+  "chapterSortFetchedDate": "Theo Ngày Lấy",
   "@chapterSortFetchedDate": {},
   "chapterSortSource": "Theo nguồn",
   "@chapterSortSource": {},
@@ -345,9 +345,9 @@
   "@getPremium": {},
   "alreadyGetPremium": "Đã mua Premium",
   "@alreadyGetPremium": {},
-  "purchaseExpireAt": "Đăng ký Premium sẽ tự động gia hạn vào ",
+  "purchaseExpireAt": "Đăng ký Premium sẽ tự động gia hạn vào {date}.",
   "@purchaseExpireAt": {},
-  "iapFaq": "Câu hỏi thường gặp về Mua trong ứng dụng",
+  "iapFaq": "Câu hỏi thường gặp",
   "@iapFaq": {},
   "restorePurchase": "Khôi phục mua hàng",
   "@restorePurchase": {},
@@ -759,5 +759,8 @@
   "page_layout_automatic": "Tự động",
   "page_layout_separate_first_page": "Tách trang đầu tiên",
   "page_layout_tip": "Bố cục Trang chỉ có hiệu quả trong chế độ đọc theo trang.",
-  "show_tap_zones_when_start_reading": "Hiển thị vùng chạm khi bắt đầu đọc."
+  "show_tap_zones_when_start_reading": "Hiển thị vùng chạm khi bắt đầu đọc.",
+  "select_chapters": "Chọn các chương",
+  "label_watermark": "Dấu nước",
+  "tap_to_open": "Nhấn để mở"
 }

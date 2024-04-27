@@ -39,7 +39,7 @@
   "@channel": {},
   "chapterNumber": "Bab {number}",
   "@chapterNumber": {},
-  "chapterSortFetchedDate": "Menurut Data Dimuat turun",
+  "chapterSortFetchedDate": "Menurut Tarikh Ambil",
   "@chapterSortFetchedDate": {},
   "chapterSortSource": "Menurut Sumber",
   "@chapterSortSource": {},
@@ -345,9 +345,9 @@
   "@getPremium": {},
   "alreadyGetPremium": "Premium Dibeli",
   "@alreadyGetPremium": {},
-  "purchaseExpireAt": "Langganan Premium akan diperbaharui secara automatik pada ",
+  "purchaseExpireAt": "Langganan Premium akan diperbaharui secara automatik pada {date}.",
   "@purchaseExpireAt": {},
-  "iapFaq": "FAQ Pembelian Dalam-App",
+  "iapFaq": "FAQ",
   "@iapFaq": {},
   "restorePurchase": "Pulihkan Pembelian",
   "@restorePurchase": {},
@@ -759,5 +759,8 @@
   "page_layout_automatic": "Automatik",
   "page_layout_separate_first_page": "asingkan halaman pertama",
   "page_layout_tip": "Atur Layout Halaman hanya berkuat kuasa dalam mod pembacaan berpembahagian halaman.",
-  "show_tap_zones_when_start_reading": "Tunjukkan zon ketukan apabila memulakan pembacaan."
+  "show_tap_zones_when_start_reading": "Tunjukkan zon ketukan apabila memulakan pembacaan.",
+  "select_chapters": "Pilih bab",
+  "label_watermark": "Watermark",
+  "tap_to_open": "Ketik untuk membuka"
 }
