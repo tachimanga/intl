@@ -61,7 +61,7 @@
       }
     }
   },
-  "chapterSortFetchedDate": "Par données récupérées",
+  "chapterSortFetchedDate": "Par date de récupération",
   "@chapterSortFetchedDate": {
     "description": "Radio button text for sort by Fetched Date"
   },
@@ -763,9 +763,9 @@
   "@getPremium": {},
   "alreadyGetPremium": "Premium acheté",
   "@alreadyGetPremium": {},
-  "purchaseExpireAt": "L'abonnement Premium se renouvellera automatiquement le ",
+  "purchaseExpireAt": "L'abonnement Premium se renouvelle automatiquement le {date}.",
   "@purchaseExpireAt": {},
-  "iapFaq": "FAQ sur les achats in-app",
+  "iapFaq": "FAQ",
   "@iapFaq": {},
   "restorePurchase": "Restaurer l'achat",
   "@restorePurchase": {},
@@ -1176,6 +1176,9 @@
   "page_layout_separate_first_page": "Séparer la première page",
   "@page_layout_separate_first_page": {},
   "page_layout_tip": "La disposition de la page n'a d'effet que en mode de lecture paginé.",
+  "select_chapters": "Sélectionner des chapitres",
+  "label_watermark": "Filigrane",
+  "tap_to_open": "Appuyez pour ouvrir",
   "@page_layout_tip": {},
   "show_tap_zones_when_start_reading": "Afficher les zones de tapotement au début de la lecture.",
   "@show_tap_zones_when_start_reading": {}

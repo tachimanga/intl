@@ -39,7 +39,7 @@
   "@channel": {},
   "chapterNumber": "{number}. Bölüm",
   "@chapterNumber": {},
-  "chapterSortFetchedDate": "Getirilen Veriye Göre",
+  "chapterSortFetchedDate": "Alım Tarihine Göre",
   "@chapterSortFetchedDate": {},
   "chapterSortSource": "Kaynağa Göre",
   "@chapterSortSource": {},
@@ -345,9 +345,9 @@
   "@getPremium": {},
   "alreadyGetPremium": "Premium alındı",
   "@alreadyGetPremium": {},
-  "purchaseExpireAt": "Premium Aboneliği bitiyor ",
+  "purchaseExpireAt": "Premium Abonelik {date} tarihinde otomatik olarak yenilenir.",
   "@purchaseExpireAt": {},
-  "iapFaq": "Uygulama İçi Satın Alma SSS",
+  "iapFaq": "SSS",
   "@iapFaq": {},
   "restorePurchase": "Satın Alımı Geri Yükle",
   "@restorePurchase": {},
@@ -759,5 +759,8 @@
   "page_layout_automatic": "Otomatik",
   "page_layout_separate_first_page": "İlk sayfayı ayır",
   "page_layout_tip": "Sayfa Düzeni sadece sayfalı okuma modunda etkilidir.",
-  "show_tap_zones_when_start_reading": "Okumaya başlarken dokunma bölgelerini göster."
+  "show_tap_zones_when_start_reading": "Okumaya başlarken dokunma bölgelerini göster.",
+  "select_chapters": "Bölümleri Seç",
+  "label_watermark": "Filigran",
+  "tap_to_open": "Açmak için dokunun"
 }

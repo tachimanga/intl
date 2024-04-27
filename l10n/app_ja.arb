@@ -19,7 +19,7 @@
   "categoryUpdate": "カテゴリーを更新",
   "channel": "チャンネル",
   "chapterNumber": "チャプター{number}",
-  "chapterSortFetchedDate": "取得したデータから",
+  "chapterSortFetchedDate": "取得日でソート",
   "chapterSortSource": "ソースから",
   "checkForServerUpdates": "サーバーのアップデートを確認",
   "checkForUpdates": "アップデートを確認",
@@ -382,5 +382,7 @@
   "page_layout_automatic": "自動",
   "page_layout_separate_first_page": "最初のページを分離",
   "page_layout_tip": "ページレイアウトはページめくり読替モードでのみ有効です。",
-  "show_tap_zones_when_start_reading": "読書を開始するときにタップゾーンを表示"
+  "show_tap_zones_when_start_reading": "読書を開始するときにタップゾーンを表示",
+  "select_chapters": "チャプターを選択",
+  "label_watermark": "ウォーターマーク"
 }

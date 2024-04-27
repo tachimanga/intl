@@ -39,7 +39,7 @@
   "@channel": {},
   "chapterNumber": "Глава {number}",
   "@chapterNumber": {},
-  "chapterSortFetchedDate": "По полученным данным",
+  "chapterSortFetchedDate": "По дате загрузки",
   "@chapterSortFetchedDate": {},
   "chapterSortSource": "По источнику",
   "@chapterSortSource": {},
@@ -345,9 +345,9 @@
   "@getPremium": {},
   "alreadyGetPremium": "Премиум приобретен",
   "@alreadyGetPremium": {},
-  "purchaseExpireAt": "Премиум-подписка будет автоматически продлена до ",
+  "purchaseExpireAt": "Продление премиум-подписки автоматически наступает {date}.",
   "@purchaseExpireAt": {},
-  "iapFaq": "ЧаВо по встроенным покупкам в приложении",
+  "iapFaq": "ЧаВо",
   "@iapFaq": {},
   "restorePurchase": "Восстановить покупку",
   "@restorePurchase": {},
@@ -759,5 +759,8 @@
   "page_layout_automatic": "Автоматический",
   "page_layout_separate_first_page": "Разделить первую страницу",
   "page_layout_tip": "Макет страницы действует только в режиме пейджинга.",
-  "show_tap_zones_when_start_reading": "Показать зоны нажатия при начале чтения."
+  "show_tap_zones_when_start_reading": "Показать зоны нажатия при начале чтения.",
+  "select_chapters": "Выбрать главы",
+  "label_watermark": "Водяной знак",
+  "tap_to_open": "Нажмите, чтобы открыть"
 }
