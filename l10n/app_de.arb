@@ -39,7 +39,7 @@
   "@channel": {},
   "chapterNumber": "Kapitel {number}",
   "@chapterNumber": {},
-  "chapterSortFetchedDate": "Nach Aktualisierungsdatum",
+  "chapterSortFetchedDate": "Nach Abrufdatum",
   "@chapterSortFetchedDate": {},
   "chapterSortSource": "Nach Quelle",
   "@chapterSortSource": {},
@@ -345,9 +345,9 @@
   "@getPremium": {},
   "alreadyGetPremium": "Premium gekauft",
   "@alreadyGetPremium": {},
-  "purchaseExpireAt": "Premium-Abonnement verlängert automatisch am ",
+  "purchaseExpireAt": "Das Premium-Abonnement wird am {date} automatisch verlängert.",
   "@purchaseExpireAt": {},
-  "iapFaq": "In-App-Kauf FAQ",
+  "iapFaq": "FAQ",
   "@iapFaq": {},
   "restorePurchase": "Kauf wiederherstellen",
   "@restorePurchase": {},
@@ -759,5 +759,8 @@
   "page_layout_automatic": "Automatisch",
   "page_layout_separate_first_page": "Erste Seite trennen",
   "page_layout_tip": "Das Seitenlayout gilt nur im Seitenlesemodus.",
-  "show_tap_zones_when_start_reading": "Zeigen Sie Berührungszonen beim Starten des Lesens."
+  "show_tap_zones_when_start_reading": "Zeigen Sie Berührungszonen beim Starten des Lesens.",
+  "select_chapters": "Kapitel auswählen",
+  "label_watermark": "Wasserzeichen",
+  "tap_to_open": "Tippen zum Öffnen"
 }

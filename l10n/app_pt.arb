@@ -42,7 +42,7 @@
   "@channel": {},
   "chapterNumber": "Capítulo {number}",
   "@chapterNumber": {},
-  "chapterSortFetchedDate": "Por dados recolhidos",
+  "chapterSortFetchedDate": "Por Data de Recuperação",
   "@chapterSortFetchedDate": {},
   "chapterSortSource": "Por fonte",
   "@chapterSortSource": {},
@@ -348,9 +348,9 @@
   "@getPremium": {},
   "alreadyGetPremium": "Premium adquirido",
   "@alreadyGetPremium": {},
-  "purchaseExpireAt": "A assinatura Premium será renovada automaticamente em ",
+  "purchaseExpireAt": "A subscrição Premium renova automaticamente em {date}.",
   "@purchaseExpireAt": {},
-  "iapFaq": "Perguntas frequentes sobre compras dentro do aplicativo",
+  "iapFaq": "FAQ",
   "@iapFaq": {},
   "restorePurchase": "Restaurar compra",
   "@restorePurchase": {},
@@ -758,5 +758,8 @@
   "page_layout_automatic": "Automático",
   "page_layout_separate_first_page": "Separar primeira página",
   "page_layout_tip": "O Layout da Página só tem efeito no modo de leitura por páginas.",
-  "show_tap_zones_when_start_reading": "Mostrar zonas de toque ao iniciar a leitura."
+  "show_tap_zones_when_start_reading": "Mostrar zonas de toque ao iniciar a leitura.",
+  "select_chapters": "Selecionar capítulos",
+  "label_watermark": "Marca de água",
+  "tap_to_open": "Toque para abrir"
 }

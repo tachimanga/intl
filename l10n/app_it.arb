@@ -39,7 +39,7 @@
   "@channel": {},
   "chapterNumber": "Capitolo {number}",
   "@chapterNumber": {},
-  "chapterSortFetchedDate": "Per Data di Recupero",
+  "chapterSortFetchedDate": "Per data di recupero",
   "@chapterSortFetchedDate": {},
   "chapterSortSource": "Per origine",
   "@chapterSortSource": {},
@@ -345,9 +345,9 @@
   "@getPremium": {},
   "alreadyGetPremium": "Acquistato Premium",
   "@alreadyGetPremium": {},
-  "purchaseExpireAt": "L'abbonamento Premium sarà rinnovato automaticamente il ",
+  "purchaseExpireAt": "L'abbonamento Premium si rinnova automaticamente il {date}.",
   "@purchaseExpireAt": {},
-  "iapFaq": "FAQ sugli acquisti in-app",
+  "iapFaq": "Domande frequenti",
   "@iapFaq": {},
   "restorePurchase": "Ripristina acquisto",
   "@restorePurchase": {},
@@ -759,5 +759,8 @@
   "page_layout_automatic": "Automatico",
   "page_layout_separate_first_page": "Separare prima pagina",
   "page_layout_tip": "Il Layout Pagina ha effetto solo in modalità di lettura a paginazione.",
-  "show_tap_zones_when_start_reading": "Mostra zone di tocco all'avvio della lettura."
+  "show_tap_zones_when_start_reading": "Mostra zone di tocco all'avvio della lettura.",
+  "select_chapters": "Seleziona capitoli",
+  "label_watermark": "Filigrana",
+  "tap_to_open": "Tocca per aprire"
 }

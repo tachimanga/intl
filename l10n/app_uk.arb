@@ -523,7 +523,7 @@
   "@buildTime": {
     "description": "Text title to show build time of Server in About Screen"
   },
-  "chapterSortFetchedDate": "За отриманими даними",
+  "chapterSortFetchedDate": "За датою отримання",
   "@chapterSortFetchedDate": {
     "description": "Radio button text for sort by Fetched Date"
   },
@@ -827,9 +827,9 @@
   "@getPremium": {},
   "alreadyGetPremium": "Придбано Premium",
   "@alreadyGetPremium": {},
-  "purchaseExpireAt": "Підписка Premium буде автоматично продовжуватися на ",
+  "purchaseExpireAt": "Преміум-підписку автоматично продовжується на {date}.",
   "@purchaseExpireAt": {},
-  "iapFaq": "Часті запитання щодо покупок в додатку",
+  "iapFaq": "Популярні запитання",
   "@iapFaq": {},
   "restorePurchase": "Відновити покупку",
   "@restorePurchase": {},
@@ -1231,5 +1231,8 @@
   "page_layout_automatic": "Автоматичний",
   "page_layout_separate_first_page": "Відокрімити першу сторінку",
   "page_layout_tip": "Макет сторінки працює тільки в режимі читання з пагінацією.",
-  "show_tap_zones_when_start_reading": "Показати зони натискання при початку читання."
+  "show_tap_zones_when_start_reading": "Показати зони натискання при початку читання.",
+  "select_chapters": "Вибрати глави",
+  "label_watermark": "Водяний знак",
+  "tap_to_open": "Натисніть, щоб відкрити"
 }

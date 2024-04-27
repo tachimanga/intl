@@ -57,7 +57,7 @@
   "@categoryUpdate": {},
   "channel": "通道",
   "@channel": {},
-  "chapterSortFetchedDate": "按新增日期",
+  "chapterSortFetchedDate": "按獲取日期",
   "@chapterSortFetchedDate": {},
   "chapterSortSource": "按來源",
   "@chapterSortSource": {},
@@ -345,9 +345,9 @@
   "@getPremium": {},
   "alreadyGetPremium": "已購買專業版",
   "@alreadyGetPremium": {},
-  "purchaseExpireAt": "專業版訂閱將於自動續期 ",
+  "purchaseExpireAt": "高級訂閱將於 {date} 自動續訂。",
   "@purchaseExpireAt": {},
-  "iapFaq": "應用內購買常見問題",
+  "iapFaq": "常見問題",
   "@iapFaq": {},
   "restorePurchase": "恢復購買",
   "@restorePurchase": {},
@@ -759,5 +759,8 @@
   "page_layout_automatic": "自動",
   "page_layout_separate_first_page": "分開第一頁",
   "page_layout_tip": "頁面版面僅在分頁閱讀模式下生效。",
-  "show_tap_zones_when_start_reading": "開始閱讀時顯示觸碰區域。"
+  "show_tap_zones_when_start_reading": "開始閱讀時顯示觸碰區域。",
+  "select_chapters": "選擇章節",
+  "label_watermark": "浮水印",
+  "tap_to_open": "點擊開啟"
 }
