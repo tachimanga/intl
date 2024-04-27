@@ -39,7 +39,7 @@
   "@channel": {},
   "chapterNumber": "ตอนที่ {number}",
   "@chapterNumber": {},
-  "chapterSortFetchedDate": "ตามข้อมูลที่นำมา",
+  "chapterSortFetchedDate": "ตามวันที่เรียกกลับ",
   "@chapterSortFetchedDate": {},
   "chapterSortSource": "ตามแหล่งที่มา",
   "@chapterSortSource": {},
@@ -345,9 +345,9 @@
   "@getPremium": {},
   "alreadyGetPremium": "ซื้อพรีเมียมแล้ว",
   "@alreadyGetPremium": {},
-  "purchaseExpireAt": "การสมัครสมาชิกพรีเมียมจะต่ออายุอัตโนมัติวันที่ ",
+  "purchaseExpireAt": "การสมัครสมาชิกพรีเมียมจะต่ออายุโดยอัตโนมัติเมื่อ {date}",
   "@purchaseExpireAt": {},
-  "iapFaq": "คำถามที่พบบ่อยเกี่ยวกับการซื้อในแอป",
+  "iapFaq": "คำถามที่พบบ่อย",
   "@iapFaq": {},
   "restorePurchase": "กู้คืนการซื้อ",
   "@restorePurchase": {},
@@ -759,5 +759,8 @@
   "page_layout_automatic": "อัตโนมัติ",
   "page_layout_separate_first_page": "แยกหน้าแรก",
   "page_layout_tip": "การจัดเลยหน้ามีผลต่อเฉพาะในโหมดอ่านแบบเป็นหน้า.",
-  "show_tap_zones_when_start_reading": "แสดงโซนแตะเมื่อเริ่มอ่าน."
+  "show_tap_zones_when_start_reading": "แสดงโซนแตะเมื่อเริ่มอ่าน.",
+  "select_chapters": "เลือกบท",
+  "label_watermark": "ลายน้ำ",
+  "tap_to_open": "แตะเพื่อเปิด"
 }

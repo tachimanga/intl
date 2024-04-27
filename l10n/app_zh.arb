@@ -137,7 +137,7 @@
   "@channel": {
     "description": "Text title to show Channel of the Server (Stable, preview) in About Screen"
   },
-  "chapterSortFetchedDate": "通过获取数据",
+  "chapterSortFetchedDate": "按获取日期",
   "@chapterSortFetchedDate": {
     "description": "Radio button text for sort by Fetched Date"
   },
@@ -743,9 +743,9 @@
   "@getPremium": {},
   "alreadyGetPremium": "已购买专业版",
   "@alreadyGetPremium": {},
-  "purchaseExpireAt": "专业版订阅将于自动续期 ",
+  "purchaseExpireAt": "高级订阅将于 {date} 自动续订。",
   "@purchaseExpireAt": {},
-  "iapFaq": "应用内购买常见问题",
+  "iapFaq": "常见问题",
   "@iapFaq": {},
   "restorePurchase": "恢复购买",
   "@restorePurchase": {},
@@ -1102,5 +1102,8 @@
   "page_layout_automatic": "自动",
   "page_layout_separate_first_page": "分开第一页",
   "page_layout_tip": "页面布局仅在分页阅读模式下生效。",
-  "show_tap_zones_when_start_reading": "开始阅读时显示点击区域。"
+  "show_tap_zones_when_start_reading": "开始阅读时显示点击区域。",
+  "select_chapters": "选择章节",
+  "label_watermark": "水印",
+  "tap_to_open": "点击打开"
 }
