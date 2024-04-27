@@ -19,18 +19,6 @@
   "@appearance": {
     "description": "Screen title and Button text of Appearance screen"
   },
-  "authType": "인증 방식",
-  "@authType": {
-    "description": "Popup title and Button text to change App Authentication"
-  },
-  "authTypeBasic": "기본 인증",
-  "@authTypeBasic": {
-    "description": "Radio button text for the Basic Authentication type"
-  },
-  "authTypeNone": "없음",
-  "@authTypeNone": {
-    "description": "Radio button text for no Authentication"
-  },
   "backup": "백업 & 복원",
   "@backup": {
     "description": "Screen title and Button text of Backup & Restore screen"
@@ -43,10 +31,6 @@
   "@bookmarked": {
     "description": "Checkbox text to filter bookmarked manga chapters in Manga Details screen"
   },
-  "buildTime": "빌드 시간",
-  "@buildTime": {
-    "description": "Text title to show build time of Server in About Screen"
-  },
   "chapterSortFetchedDate": "추가된 날짜순",
   "@chapterSortFetchedDate": {
     "description": "Radio button text for sort by Fetched Date"
@@ -54,14 +38,6 @@
   "chapterSortSource": "소스순",
   "@chapterSortSource": {
     "description": "Radio button text for sort by Source"
-  },
-  "checkForServerUpdates": "서버 업데이트 검사",
-  "@checkForServerUpdates": {
-    "description": "Button text to check for Server updates"
-  },
-  "checkForUpdates": "업데이트 확인",
-  "@checkForUpdates": {
-    "description": "Button text to check for App Updates"
   },
   "client": "클라이언트",
   "@client": {
@@ -80,10 +56,6 @@
         "type": "String"
       }
     }
-  },
-  "credentials": "인증",
-  "@credentials": {
-    "description": "Popup title and Button text to enter Authentication credentials"
   },
   "current": "지금",
   "@current": {
@@ -271,10 +243,6 @@
       }
     }
   },
-  "password": "비밀번호",
-  "@password": {
-    "description": "Title text for password field"
-  },
   "pause": "일시정지",
   "@pause": {
     "description": "Button text to pause downloads"
@@ -347,10 +315,6 @@
   "@readerPadding": {
     "description": "Slider title text for Reader Padding"
   },
-  "reddit": "Reddit",
-  "@reddit": {
-    "description": "Reddit app title"
-  },
   "refresh": "새로고침",
   "@refresh": {
     "description": "Refresh button text"
@@ -374,26 +338,6 @@
   "search": "검색",
   "@search": {
     "description": "Search field hint Text"
-  },
-  "searchingForUpdates": "업데이트 검색중",
-  "@searchingForUpdates": {
-    "description": "Toast Text for searching for updates of the App/Server"
-  },
-  "server": "서버",
-  "@server": {
-    "description": "Text title for the server in About screen"
-  },
-  "serverUrl": "서버 URL",
-  "@serverUrl": {
-    "description": "Popup title and Button text to update Server Url"
-  },
-  "serverUrlHintText": "서버 url을 입력",
-  "@serverUrlHintText": {
-    "description": "Text Filed hint text to update Server Url"
-  },
-  "serverVersion": "서버 버전",
-  "@serverVersion": {
-    "description": "Text title for the current version of the Server in About screen"
   },
   "sort": "정렬",
   "@sort": {
@@ -463,28 +407,6 @@
   "@updating": {
     "description": "Button text to show that the extension is updating"
   },
-  "userName": "유저 이름",
-  "@userName": {
-    "description": "Title text for User Name field"
-  },
-  "versionAvailable": "{app}의 버전 {version}를 사용할 수 있습니다!!",
-  "@versionAvailable": {
-    "description": "Text to show that there is an update to App/Server",
-    "placeholders": {
-      "app": {
-        "example": "Server",
-        "type": "String"
-      },
-      "version": {
-        "example": "v0.4.2",
-        "type": "String"
-      }
-    }
-  },
-  "webUI": "WEB에서 열기",
-  "@webUI": {
-    "description": "Button text to open in web UI"
-  },
   "webView": "Web View",
   "@webView": {
     "description": "Button text to open manga website"
@@ -507,14 +429,10 @@
   "@discordServer": {},
   "externalRepository": "확장 프로그램 설정",
   "@externalRepository": {},
-  "addRepository": "외부 확장 프로그램 추가",
-  "@addRepository": {},
   "externalRepositoryUrlShort": "확장 프로그램 저장소 Url",
   "@externalRepositoryUrlShort": {},
   "history": "기록",
   "@history": {},
-  "useSysProxy": "시스템 프록시 설정 사용",
-  "@useSysProxy": {},
   "clearCookies": "쿠키 삭제",
   "@clearCookies": {},
   "termsUrl": "이용 약관",
@@ -731,10 +649,6 @@
   "@categoryUpdate": {
     "description": "Button text to update the mangas in the Category"
   },
-  "channel": "채널",
-  "@channel": {
-    "description": "Text title to show Channel of the Server (Stable, preview) in About Screen"
-  },
   "cancel": "취소",
   "@cancel": {
     "description": "Text for Cancel button in a Popup"
@@ -807,17 +721,9 @@
       }
     }
   },
-  "errorPassword": "비밀번호는 비워둘 수 없습니다",
-  "@errorPassword": {
-    "description": "Error Description to show that password cannot be empty"
-  },
   "errorSomethingWentWrong": "무언가 잘못됐습니다!",
   "@errorSomethingWentWrong": {
     "description": "Error Description to show that Something went wrong!"
-  },
-  "errorUserName": "사용자 이름은 비워 둘 수 없습니다",
-  "@errorUserName": {
-    "description": "Error Description to show that UserName cannot be empty"
   },
   "extensionInstalled": "확장 프로그램이 설치되었습니다!",
   "@extensionInstalled": {
@@ -847,10 +753,6 @@
   "@languages": {
     "description": "Popup title to filter extensions based on language"
   },
-  "latest": "최신",
-  "@latest": {
-    "description": "Button text to take user to the latest tab of Source manga screen"
-  },
   "library": "라이브러리",
   "@library": {
     "description": "Screen title and Button text of Library and Library Settings screen"
@@ -863,10 +765,6 @@
   "@manga": {
     "description": "Screen title and Button text of Manga details screen"
   },
-  "mangaMissingSources": "만화의 소스를 찾지 못했습니다",
-  "@mangaMissingSources": {
-    "description": "Group title to show the Manga Missing Sources when restoring Backup"
-  },
   "mangaSortAlphabetical": "알파벳순",
   "@mangaSortAlphabetical": {
     "description": "Radio button text for Manga sort Type - Alphabetical"
@@ -878,14 +776,6 @@
   "mangaSortUnread": "읽지 않음",
   "@mangaSortUnread": {
     "description": "Radio button text for Manga sort Type - Unread"
-  },
-  "missingExtension": "확장 프로그램 누락",
-  "@missingExtension": {
-    "description": "Group title to show the Missing Extensions when restoring Backup"
-  },
-  "missingTrackers": "트래커 누락",
-  "@missingTrackers": {
-    "description": "Group title to show the Missing Trackers when restoring Backup"
   },
   "moveToBottom": "아래로 이동",
   "@moveToBottom": {

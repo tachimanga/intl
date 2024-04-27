@@ -47,10 +47,6 @@
   "@categoryUpdate": {
     "description": "Button text to update the mangas in the Category"
   },
-  "channel": "Canal",
-  "@channel": {
-    "description": "Text title to show Channel of the Server (Stable, preview) in About Screen"
-  },
   "chapterNumber": "Chapitre {number}",
   "@chapterNumber": {
     "description": "Text title for Chapter name in chapter list",
@@ -72,14 +68,6 @@
   "chapterSortUploadDate": "Par date d'import",
   "@chapterSortUploadDate": {
     "description": "Radio button text for sort by Upload Date"
-  },
-  "checkForServerUpdates": "Vérifier les mises à jour du serveur",
-  "@checkForServerUpdates": {
-    "description": "Button text to check for Server updates"
-  },
-  "checkForUpdates": "Vérifier les mises à jour",
-  "@checkForUpdates": {
-    "description": "Button text to check for App Updates"
   },
   "clearCache": "Effacer le cache",
   "@clearCache": {
@@ -169,17 +157,9 @@
       }
     }
   },
-  "errorPassword": "Le mot de passe ne peut pas être vide",
-  "@errorPassword": {
-    "description": "Error Description to show that password cannot be empty"
-  },
   "errorSomethingWentWrong": "Une erreur s'est produite !",
   "@errorSomethingWentWrong": {
     "description": "Error Description to show that Something went wrong!"
-  },
-  "errorUserName": "Le nom d'utilisateur ne peut pas être vide",
-  "@errorUserName": {
-    "description": "Error Description to show that UserName cannot be empty"
   },
   "extensionInstalled": "Extension installée !",
   "@extensionInstalled": {
@@ -233,10 +213,6 @@
   "@install": {
     "description": "Button text to install the extension"
   },
-  "latest": "Le plus récent",
-  "@latest": {
-    "description": "Button text to take user to the latest tab of Source manga screen"
-  },
   "library": "Bibliothèque",
   "@library": {
     "description": "Screen title and Button text of Library and Library Settings screen"
@@ -272,14 +248,6 @@
   "mangaStatusUnknown": "Inconnu",
   "@mangaStatusUnknown": {
     "description": "Text to show Manga Status Unknown in Manga details screen"
-  },
-  "missingExtension": "Extensions manquantes",
-  "@missingExtension": {
-    "description": "Group title to show the Missing Extensions when restoring Backup"
-  },
-  "missingTrackers": "Pisteurs manquants",
-  "@missingTrackers": {
-    "description": "Group title to show the Missing Trackers when restoring Backup"
   },
   "more": "Plus",
   "@more": {
@@ -413,10 +381,6 @@
   "@readerPadding": {
     "description": "Slider title text for Reader Padding"
   },
-  "reddit": "Reddit",
-  "@reddit": {
-    "description": "Reddit app title"
-  },
   "refresh": "Actualiser",
   "@refresh": {
     "description": "Refresh button text"
@@ -424,24 +388,6 @@
   "reset": "Réinitialiser",
   "@reset": {
     "description": "Button text of reset button in source filters"
-  },
-  "versionAvailable": "Version {version} disponible pour l'application {app} !",
-  "@versionAvailable": {
-    "description": "Text to show that there is an update to App/Server",
-    "placeholders": {
-      "app": {
-        "example": "Server",
-        "type": "String"
-      },
-      "version": {
-        "example": "v0.4.2",
-        "type": "String"
-      }
-    }
-  },
-  "webUI": "Ouvrir sur le Web",
-  "@webUI": {
-    "description": "Button text to open in web UI"
   },
   "webView": "Vue Web",
   "@webView": {
@@ -459,10 +405,6 @@
   "@appLanguage": {
     "description": "Popup title and Button text to change App Language"
   },
-  "credentials": "Identifiants",
-  "@credentials": {
-    "description": "Popup title and Button text to enter Authentication credentials"
-  },
   "defaultCategory": "Catégorie par défaut lors de l'ajout d'un nouveau manga à la bibliothèque",
   "@defaultCategory": {
     "description": "Checkbox description when creating a Category to add manga to the Category by Default"
@@ -471,10 +413,6 @@
   "@displayMode": {
     "description": "Radio Group title to change manga Cover display in Library and Source Screens"
   },
-  "authType": "Type d'authentification",
-  "@authType": {
-    "description": "Popup title and Button text to change App Authentication"
-  },
   "badges": "Badges",
   "@badges": {
     "description": "Checkbox Group title to enable Badges on manga Cover in Library Screen"
@@ -482,14 +420,6 @@
   "appearance": "Apparence",
   "@appearance": {
     "description": "Screen title and Button text of Appearance screen"
-  },
-  "authTypeNone": "Aucune",
-  "@authTypeNone": {
-    "description": "Radio button text for no Authentication"
-  },
-  "buildTime": "Temps d'exécution",
-  "@buildTime": {
-    "description": "Text title to show build time of Server in About Screen"
   },
   "displayModeDescriptiveList": "Liste descriptive",
   "@displayModeDescriptiveList": {
@@ -502,10 +432,6 @@
   "displayModeList": "Liste",
   "@displayModeList": {
     "description": "Radio button text for Manga Cover display mode - List"
-  },
-  "authTypeBasic": "Authentification simple",
-  "@authTypeBasic": {
-    "description": "Radio button text for the Basic Authentication type"
   },
   "backup": "Sauvegarde et restauration",
   "@backup": {
@@ -539,10 +465,6 @@
   "@mangaSortDateAdded": {
     "description": "Radio button text for Manga sort Type - Date Added"
   },
-  "mangaMissingSources": "Sources manquantes des mangas",
-  "@mangaMissingSources": {
-    "description": "Group title to show the Manga Missing Sources when restoring Backup"
-  },
   "mangaStatusCancelled": "Annulé",
   "@mangaStatusCancelled": {
     "description": "Text to show Manga Status Cancelled in Manga details screen"
@@ -554,10 +476,6 @@
   "moveToTop": "Déplacer vers le haut",
   "@moveToTop": {
     "description": "Button text to move download/category to the top of list"
-  },
-  "password": "Mot de passe",
-  "@password": {
-    "description": "Title text for password field"
   },
   "pending": "En attente",
   "@pending": {
@@ -611,10 +529,6 @@
   "@reader": {
     "description": "Screen title and Button text of Reader screen"
   },
-  "searchingForUpdates": "Recherche de mises à jour",
-  "@searchingForUpdates": {
-    "description": "Toast Text for searching for updates of the App/Server"
-  },
   "readerModeContinuousHorizontalLTR": "Horizontal en continu (De gauche à droite)",
   "@readerModeContinuousHorizontalLTR": {
     "description": "Radio button text for Reader Mode Type - Continuous Horizontal (LTR)"
@@ -631,10 +545,6 @@
   "@resume": {
     "description": "Button Text to resume Chapter reading/downloading"
   },
-  "serverUrl": "URL du serveur",
-  "@serverUrl": {
-    "description": "Popup title and Button text to update Server Url"
-  },
   "retry": "Réessayer",
   "@retry": {
     "description": "Retry Button Text"
@@ -646,18 +556,6 @@
   "search": "Rechercher",
   "@search": {
     "description": "Search field hint Text"
-  },
-  "server": "Serveur",
-  "@server": {
-    "description": "Text title for the server in About screen"
-  },
-  "serverUrlHintText": "Saisissez l'URL du serveur",
-  "@serverUrlHintText": {
-    "description": "Text Filed hint text to update Server Url"
-  },
-  "serverVersion": "Version du serveur",
-  "@serverVersion": {
-    "description": "Text title for the current version of the Server in About screen"
   },
   "sourceTypeFilter": "Filtrer",
   "@sourceTypeFilter": {
@@ -682,10 +580,6 @@
   "updatesSummary": "Récapitulatif des mises à jour",
   "@updatesSummary": {
     "description": "Screen title and Button text of Updates Summary screen"
-  },
-  "userName": "Nom d'utilisateur",
-  "@userName": {
-    "description": "Title text for User Name field"
   },
   "save": "Enregistrer",
   "@save": {
@@ -775,16 +669,12 @@
   "@discordServer": {},
   "externalRepository": "Paramètres de l'extension",
   "@externalRepository": {},
-  "addRepository": "Ajouter des extensions externes",
-  "@addRepository": {},
   "externalRepositoryUrl": "URL du répertoire d'extensions",
   "@externalRepositoryUrl": {},
   "externalRepositoryUrlShort": "URL du répertoire d'extensions",
   "@externalRepositoryUrlShort": {},
   "history": "Historique",
   "@history": {},
-  "useSysProxy": "Utiliser les paramètres de proxy système",
-  "@useSysProxy": {},
   "clearCookies": "Effacer les cookies",
   "@clearCookies": {},
   "recentlyDownloaded": "Récemment téléchargé",
