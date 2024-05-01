@@ -523,7 +523,7 @@
   "@autoBackupTipForImport": {},
   "restoreSuccessTip": "백업 복원에 성공했습니다. 변경사항은 앱을 다시 시작한 후에 적용됩니다.",
   "@restoreSuccessTip": {},
-  "byPassStart": "Cloudflare를 우회하려고 합니다",
+  "byPassStart": "Cloudflare 우회 시도 중입니다",
   "@byPassStart": {},
   "byPassSuccess": "Cloudflare를 성공적으로 우회했습니다",
   "@byPassSuccess": {},
