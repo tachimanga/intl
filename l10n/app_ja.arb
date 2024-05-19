@@ -45,7 +45,7 @@
   "@copyMsg": {},
   "current": "現在",
   "@current": {},
-  "defaultCategory": "新しいマンガをライブラリに追加するときのデフォルトのカテゴリー",
+  "defaultCategory": "ライブラリ追加時のデフォルトカテゴリー",
   "@defaultCategory": {},
   "delete": "削除",
   "@delete": {},
@@ -297,9 +297,9 @@
   "@getPremium": {},
   "alreadyGetPremium": "プレミアム購入済み",
   "@alreadyGetPremium": {},
-  "purchaseExpireAt": "プレミアムサブスクリプションは自動的に更新されます：",
+  "purchaseExpireAt": "プレミアムサブスクリプションは{date}に自動的更新されます。",
   "@purchaseExpireAt": {},
-  "iapFaq": "アプリ内購入FAQ",
+  "iapFaq": "よくある質問",
   "@iapFaq": {},
   "restorePurchase": "購入を復元",
   "@restorePurchase": {},
@@ -718,5 +718,7 @@
   "select_chapters": "チャプターを選択",
   "@select_chapters": {},
   "label_watermark": "ウォーターマーク",
-  "@label_watermark": {}
+  "@label_watermark": {},
+  "tap_to_open": "タップして開く",
+  "@tap_to_open": {}
 }
