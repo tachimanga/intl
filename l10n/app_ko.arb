@@ -419,7 +419,7 @@
   "@getPremium": {},
   "alreadyGetPremium": "프리미엄 구입 완료",
   "@alreadyGetPremium": {},
-  "iapFaq": "인앱 구매 FAQ",
+  "iapFaq": "FAQ",
   "@iapFaq": {},
   "restorePurchase": "구입 복원",
   "@restorePurchase": {},
@@ -523,7 +523,7 @@
   "@autoBackupTipForImport": {},
   "restoreSuccessTip": "백업 복원에 성공했습니다. 변경사항은 앱을 다시 시작한 후에 적용됩니다.",
   "@restoreSuccessTip": {},
-  "byPassStart": "Cloudflare를 우회하려고 합니다",
+  "byPassStart": "Cloudflare 우회 시도 중입니다",
   "@byPassStart": {},
   "byPassSuccess": "Cloudflare를 성공적으로 우회했습니다",
   "@byPassSuccess": {},
@@ -827,7 +827,7 @@
   "@save": {
     "description": "Save Button Text"
   },
-  "purchaseExpireAt": "프리미엄 구독은 자동으로 갱신됩니다 ",
+  "purchaseExpireAt": "프리미엄 구독은 {date}에 자동으로 갱신됩니다.",
   "@purchaseExpireAt": {},
   "clearCache": "캐시 삭제",
   "@clearCache": {},
@@ -1066,5 +1066,11 @@
   "confirm": "확인",
   "@confirm": {},
   "noNextChapter": "다음 챕터가 없습니다",
-  "@noNextChapter": {}
+  "@noNextChapter": {},
+  "label_watermark": "워터마크",
+  "@label_watermark": {},
+  "tap_to_open": "탭하여 열기",
+  "@tap_to_open": {},
+  "select_chapters": "챕터 선택",
+  "@select_chapters": {}
 }
