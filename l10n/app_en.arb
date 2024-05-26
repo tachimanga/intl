@@ -865,5 +865,7 @@
   "show_tap_zones_when_start_reading": "Show tap zones when starting reading.",
   "select_chapters": "Select chapters",
   "label_watermark": "Watermark",
-  "tap_to_open": "Tap to open"
+  "tap_to_open": "Tap to open",
+  "labs": "Labs",
+  "labsSubtitle": "Experimental Features"
 }
