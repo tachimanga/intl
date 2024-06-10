@@ -710,5 +710,17 @@
   "show_tap_zones_when_start_reading": "แสดงโซนแตะเมื่อเริ่มอ่าน.",
   "select_chapters": "เลือกบท",
   "label_watermark": "ลายน้ำ",
-  "tap_to_open": "แตะเพื่อเปิด"
+  "tap_to_open": "แตะเพื่อเปิด",
+  "labs": "ห้องปฏิบัติการ",
+  "labsSubtitle": "คุณลักษณะการทดลอง",
+  "concurrent_download_short_title_num": "ดาวน์โหลดพร้อมกัน: {num}",
+  "concurrent_download_short_title": "ดาวน์โหลดพร้อมกัน",
+  "concurrent_download_title": "จำนวนการดาวน์โหลดพร้อมกัน",
+  "concurrent_download_tips": "การดาวน์โหลดพร้อมจากแหล่งที่เดียวกันเป็นเวลานานอาจทำให้ไอพีของคุณถูกบล็อกโดยแหล่งน้ำทดเสมอมันอาจส่งผลให้การดาวน์โหลดและการอ่านต่อมาล้มเหลว",
+  "download_next_n_chapter": "{x, plural, one{บทถัดไป} other{บทถัดไป {x} บท}}",
+  "download_unread_chapters": "บททั้งหมดที่ยังไม่ได้อ่าน",
+  "download_all_chapters": "บททั้งหมด",
+  "download_queue": "คิวดาวน์โหลด",
+  "download_settings": "การตั้งค่าดาวน์โหลด",
+  "remove_after_read": "ลบการดาวน์โหลดหลังจากอ่าน"
 }

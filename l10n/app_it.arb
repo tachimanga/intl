@@ -710,5 +710,17 @@
   "show_tap_zones_when_start_reading": "Mostra zone di tocco all'avvio della lettura.",
   "select_chapters": "Seleziona capitoli",
   "label_watermark": "Filigrana",
-  "tap_to_open": "Tocca per aprire"
+  "tap_to_open": "Tocca per aprire",
+  "labs": "Laboratori",
+  "labsSubtitle": "Funzionalità sperimentali",
+  "concurrent_download_short_title_num": "Download simultanei: {num}",
+  "concurrent_download_short_title": "Download simultanei",
+  "concurrent_download_title": "Numero di download simultanei",
+  "concurrent_download_tips": "Scaricare simultaneamente dalla stessa fonte per lungo tempo potrebbe comportare il blocco del tuo IP da parte della fonte, causando il fallimento dei download e delle letture successive.",
+  "download_next_n_chapter": "{x, plural, one{Capitolo successivo} other{Prossimi {x} capitoli}}",
+  "download_unread_chapters": "Tutti i capitoli non letti",
+  "download_all_chapters": "Tutti i capitoli",
+  "download_queue": "Coda di download",
+  "download_settings": "Impostazioni di download",
+  "remove_after_read": "Elimina download dopo aver letto"
 }

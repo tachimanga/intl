@@ -731,5 +731,17 @@
   "label_watermark": "Marca de água",
   "@label_watermark": {},
   "tap_to_open": "Toque para abrir",
-  "@tap_to_open": {}
+  "@tap_to_open": {},
+  "labs": "Laboratórios",
+  "labsSubtitle": "Funcionalidades experimentais",
+  "concurrent_download_short_title_num": "Downloads concorrentes: {num}",
+  "concurrent_download_short_title": "Downloads concorrentes",
+  "concurrent_download_title": "Número de downloads concorrentes",
+  "concurrent_download_tips": "Fazer downloads de forma concorrente a partir da mesma fonte por um longo período pode resultar no bloqueio do seu IP pela fonte, causando falhas nos downloads e leituras subsequentes.",
+  "download_next_n_chapter": "{x, plural, one{Próximo capítulo} other{Próximos {x} capítulos}}",
+  "download_unread_chapters": "Todos os capítulos não lidos",
+  "download_all_chapters": "Todos os capítulos",
+  "download_queue": "Fila de downloads",
+  "download_settings": "Configurações de download",
+  "remove_after_read": "Eliminar download após leitura"
 }

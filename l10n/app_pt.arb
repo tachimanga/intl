@@ -731,5 +731,17 @@
   "termsUrl": "Termos de Uso",
   "@termsUrl": {},
   "privacyUrl": "Política de Privacidade",
-  "@privacyUrl": {}
+  "@privacyUrl": {},
+  "labs": "Laboratórios",
+  "labsSubtitle": "Recursos Experimentais",
+  "concurrent_download_short_title_num": "Downloads simultâneos: {num}",
+  "concurrent_download_short_title": "Downloads simultâneos",
+  "concurrent_download_title": "Número de downloads simultâneos",
+  "concurrent_download_tips": "Fazer download simultâneo da mesma fonte por um longo período pode resultar no bloqueio do seu IP pela fonte, causando falhas nos downloads e na leitura subsequente.",
+  "download_next_n_chapter": "{x, plural, one{Próximo capítulo} other{Próximos {x} capítulos}}",
+  "download_unread_chapters": "Todos os capítulos não lidos",
+  "download_all_chapters": "Todos os capítulos",
+  "download_queue": "Fila de download",
+  "download_settings": "Configurações de download",
+  "remove_after_read": "Eliminar download após leitura"
 }

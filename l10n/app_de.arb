@@ -710,5 +710,17 @@
   "show_tap_zones_when_start_reading": "Zeigen Sie Berührungszonen beim Starten des Lesens.",
   "select_chapters": "Kapitel auswählen",
   "label_watermark": "Wasserzeichen",
-  "tap_to_open": "Tippen zum Öffnen"
+  "tap_to_open": "Tippen zum Öffnen",
+  "labs": "Labore",
+  "labsSubtitle": "Experimentelle Funktionen",
+  "concurrent_download_short_title_num": "Gleichzeitige Downloads: {num}",
+  "concurrent_download_short_title": "Gleichzeitige Downloads",
+  "concurrent_download_title": "Anzahl gleichzeitiger Downloads",
+  "concurrent_download_tips": "Das gleichzeitige Herunterladen aus derselben Quelle über einen längeren Zeitraum kann dazu führen, dass Ihre IP-Adresse von der Quelle blockiert wird, was zu fehlgeschlagenen nachfolgenden Downloads und Lesevorgängen führen kann.",
+  "download_next_n_chapter": "{x, plural, one{Nächstes Kapitel} other{Nächste {x} Kapitel}}",
+  "download_unread_chapters": "Alle ungelesenen Kapitel",
+  "download_all_chapters": "Alle Kapitel",
+  "download_queue": "Download-Warteschlange",
+  "download_settings": "Download-Einstellungen",
+  "remove_after_read": "Download nach dem Lesen löschen"
 }
