@@ -1124,5 +1124,17 @@
   "show_tap_zones_when_start_reading": "Показати зони натискання при початку читання.",
   "select_chapters": "Вибрати глави",
   "label_watermark": "Водяний знак",
-  "tap_to_open": "Натисніть, щоб відкрити"
+  "tap_to_open": "Натисніть, щоб відкрити",
+  "labs": "Лабораторії",
+  "labsSubtitle": "Експериментальні функції",
+  "concurrent_download_short_title_num": "Одночасні завантаження: {num}",
+  "concurrent_download_short_title": "Одночасні завантаження",
+  "concurrent_download_title": "Кількість одночасних завантажень",
+  "concurrent_download_tips": "Завантаження одночасно з одного джерела протягом тривалого часу може призвести до блокування вашої IP-адреси джерелом, що може призвести до невдалих наступних завантажень та читань.",
+  "download_next_n_chapter": "{x, plural, one{Наступна глава} few{Наступні {x} глави} many{Наступні {x} глав} other{Наступні {x} глави}}",
+  "download_unread_chapters": "Усі непрочитані глави",
+  "download_all_chapters": "Усі глави",
+  "download_queue": "Черга завантаження",
+  "download_settings": "Налаштування завантаження",
+  "remove_after_read": "Видалити завантаження після читання"
 }

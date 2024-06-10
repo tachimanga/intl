@@ -710,5 +710,17 @@
   "show_tap_zones_when_start_reading": "Показать зоны нажатия при начале чтения.",
   "select_chapters": "Выбрать главы",
   "label_watermark": "Водяной знак",
-  "tap_to_open": "Нажмите, чтобы открыть"
+  "tap_to_open": "Нажмите, чтобы открыть",
+  "labs": "Лаборатории",
+  "labsSubtitle": "Экспериментальные функции",
+  "concurrent_download_short_title_num": "Одновременные загрузки: {num}",
+  "concurrent_download_short_title": "Одновременные загрузки",
+  "concurrent_download_title": "Количество одновременных загрузок",
+  "concurrent_download_tips": "Одновременное загрузка с одного и того же источника в течение длительного времени может привести к блокировке вашего IP-адреса источником, что может привести к сбоям последующих загрузок и чтения.",
+  "download_next_n_chapter": "{x, plural, one{Следующая глава} few{Следующие {x} главы} many{Следующие {x} глав} other{Следующие {x} главы}}",
+  "download_unread_chapters": "Все непрочитанные главы",
+  "download_all_chapters": "Все главы",
+  "download_queue": "Очередь загрузки",
+  "download_settings": "Настройки загрузки",
+  "remove_after_read": "Удалить загрузку после прочтения"
 }

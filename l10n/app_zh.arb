@@ -995,5 +995,17 @@
   "show_tap_zones_when_start_reading": "开始阅读时显示点击区域。",
   "select_chapters": "选择章节",
   "label_watermark": "水印",
-  "tap_to_open": "点击打开"
+  "tap_to_open": "点击打开",
+  "labs": "实验室",
+  "labsSubtitle": "实验性功能",
+  "concurrent_download_short_title_num": "并发下载数：{num}",
+  "concurrent_download_short_title": "并发下载",
+  "concurrent_download_title": "并发下载数量",
+  "concurrent_download_tips": "长时间从相同来源同时下载可能导致您的IP被来源封锁，导致后续下载和阅读失败。",
+  "download_next_n_chapter": "{x, plural, one{下一章} other{接下来 {x} 章}}",
+  "download_unread_chapters": "所有未读章节",
+  "download_all_chapters": "所有章节",
+  "download_queue": "下载队列",
+  "download_settings": "下载设置",
+  "remove_after_read": "阅读后删除下载"
 }

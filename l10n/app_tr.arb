@@ -710,5 +710,17 @@
   "show_tap_zones_when_start_reading": "Okumaya başlarken dokunma bölgelerini göster.",
   "select_chapters": "Bölümleri Seç",
   "label_watermark": "Filigran",
-  "tap_to_open": "Açmak için dokunun"
+  "tap_to_open": "Açmak için dokunun",
+  "labs": "Laboratuvarlar",
+  "labsSubtitle": "Deneysel Özellikler",
+  "concurrent_download_short_title_num": "Eşzamanlı indirmeler: {num}",
+  "concurrent_download_short_title": "Eşzamanlı indirmeler",
+  "concurrent_download_title": "Eşzamanlı indirme sayısı",
+  "concurrent_download_tips": "Aynı kaynaktan uzun süre eşzamanlı indirme yapmak, IP'nizin kaynak tarafından engellenmesine neden olabilir, bu da sonraki indirmelerin ve okumaların başarısız olmasına yol açabilir.",
+  "download_next_n_chapter": "{x, plural, one{Sonraki bölüm} other{Sonraki {x} bölüm}}",
+  "download_unread_chapters": "Tüm okunmamış bölümler",
+  "download_all_chapters": "Tüm bölümler",
+  "download_queue": "İndirme sırası",
+  "download_settings": "İndirme ayarları",
+  "remove_after_read": "Okuduktan sonra indirileni sil"
 }

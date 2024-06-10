@@ -739,5 +739,15 @@
   "labs": "Labs",
   "@labs": {},
   "labsSubtitle": "Funciones experimentales",
-  "@labsSubtitle": {}
+  "@labsSubtitle": {},
+  "concurrent_download_short_title_num": "Descargas concurrentes: {num}",
+  "concurrent_download_short_title": "Descargas concurrentes",
+  "concurrent_download_title": "Número de descargas concurrentes",
+  "concurrent_download_tips": "Descargar de forma concurrente desde la misma fuente durante mucho tiempo puede resultar en que su IP sea bloqueada por la fuente, lo que provoca que las descargas y lecturas siguientes fallen.",
+  "download_next_n_chapter": "{x, plural, one{Siguiente capítulo} other{Próximos {x} capítulos}}",
+  "download_unread_chapters": "Todos los capítulos no leídos",
+  "download_all_chapters": "Todos los capítulos",
+  "download_queue": "Cola de descargas",
+  "download_settings": "Configuración de descargas",
+  "remove_after_read": "Eliminar descarga después de leer"
 }
