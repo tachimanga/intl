@@ -1130,5 +1130,15 @@
   "labsSubtitle": "المميزات التجريبية‎",
   "@labsSubtitle": {},
   "labs": "مختبر",
-  "@labs": {}
+  "@labs": {},
+  "concurrent_download_short_title_num": "التنزيلات المتزامنة: {num}",
+  "concurrent_download_short_title": "التنزيلات المتزامنة",
+  "concurrent_download_title": "عدد التنزيلات المتزامنة",
+  "concurrent_download_tips": "قد يؤدي التنزيل المتزامن لفترة طويلة من نفس المصدر إلى حظر الآي بي الخاص بك من قبل المصدر، مما يؤدي إلى فشل التنزيلات والقراءات التالية.",
+  "download_next_n_chapter": "{x, plural, one{الفصل التالي} other{التالي {x} فصول}}",
+  "download_unread_chapters": "جميع الفصول غير المقروءة",
+  "download_all_chapters": "جميع الفصول",
+  "download_queue": "قائمة التنزيل",
+  "download_settings": "إعدادات التنزيل",
+  "remove_after_read": "حذف التنزيل بعد القراءة"
 }

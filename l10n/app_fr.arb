@@ -1071,5 +1071,17 @@
   "tap_to_open": "Appuyez pour ouvrir",
   "@page_layout_tip": {},
   "show_tap_zones_when_start_reading": "Afficher les zones de tapotement au début de la lecture.",
-  "@show_tap_zones_when_start_reading": {}
+  "@show_tap_zones_when_start_reading": {},
+  "labs": "Laboratoires",
+  "labsSubtitle": "Fonctionnalités expérimentales",
+  "concurrent_download_short_title_num": "Téléchargements simultanés : {num}",
+  "concurrent_download_short_title": "Téléchargements simultanés",
+  "concurrent_download_title": "Nombre de téléchargements simultanés",
+  "concurrent_download_tips": "Télécharger de manière simultanée à partir de la même source pendant une longue période peut entraîner le blocage de votre adresse IP par la source, provoquant ainsi des échecs de téléchargement et de lecture ultérieurs.",
+  "download_next_n_chapter": "{x, plural, one{Chapitre suivant} other{Les {x} prochains chapitres}}",
+  "download_unread_chapters": "Tous les chapitres non lus",
+  "download_all_chapters": "Tous les chapitres",
+  "download_queue": "File d'attente de téléchargement",
+  "download_settings": "Paramètres de téléchargement",
+  "remove_after_read": "Supprimer le téléchargement après lecture"
 }

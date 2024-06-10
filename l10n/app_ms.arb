@@ -710,5 +710,17 @@
   "show_tap_zones_when_start_reading": "Tunjukkan zon ketukan apabila memulakan pembacaan.",
   "select_chapters": "Pilih bab",
   "label_watermark": "Watermark",
-  "tap_to_open": "Ketik untuk membuka"
+  "tap_to_open": "Ketik untuk membuka",
+  "labs": "Makmal",
+  "labsSubtitle": "Ciri-ciri Eksperimental",
+  "concurrent_download_short_title_num": "Muat turun serentak: {num}",
+  "concurrent_download_short_title": "Muat turun serentak",
+  "concurrent_download_title": "Bilangan muat turun serentak",
+  "concurrent_download_tips": "Memuat turun serentak dari sumber yang sama untuk tempoh yang lama boleh menyebabkan alamat IP anda disekat oleh sumber, menyebabkan kegagalan muat turun dan bacaan seterusnya.",
+  "download_next_n_chapter": "{x, plural, one{Bab seterusnya} other{Bab seterusnya {x}}}",
+  "download_unread_chapters": "Semua bab yang belum dibaca",
+  "download_all_chapters": "Semua bab",
+  "download_queue": "Antrian muat turun",
+  "download_settings": "Tetapan muat turun",
+  "remove_after_read": "Padam muat turun selepas membaca"
 }
