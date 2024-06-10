@@ -867,5 +867,15 @@
   "label_watermark": "Watermark",
   "tap_to_open": "Tap to open",
   "labs": "Labs",
-  "labsSubtitle": "Experimental Features"
+  "labsSubtitle": "Experimental Features",
+  "concurrent_download_short_title_num": "Concurrent downloads: {num}",
+  "concurrent_download_short_title": "Concurrent downloads",
+  "concurrent_download_title": "Number of concurrent downloads",
+  "concurrent_download_tips": "Downloading concurrently from the same source for a long time may result in your IP being blocked by the source, causing subsequent downloads and readings to fail.",
+  "download_next_n_chapter": "{x, plural, one{Next chapter} other{Next {x} chapters}}",
+  "download_unread_chapters": "All unread chapters",
+  "download_all_chapters": "All chapters",
+  "download_queue": "Download queue",
+  "download_settings": "Download settings",
+  "remove_after_read": "Remove after read"
 }
