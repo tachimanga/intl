@@ -710,5 +710,17 @@
   "show_tap_zones_when_start_reading": "開始閱讀時顯示觸碰區域。",
   "select_chapters": "選擇章節",
   "label_watermark": "浮水印",
-  "tap_to_open": "點擊開啟"
+  "tap_to_open": "點擊開啟",
+  "labs": "實驗室",
+  "labsSubtitle": "實驗性功能",
+  "concurrent_download_short_title_num": "同時下載數量: {num}",
+  "concurrent_download_short_title": "同時下載",
+  "concurrent_download_title": "同時下載數量",
+  "concurrent_download_tips": "長時間從同一來源同時下載可能導致您的IP被來源封鎖，使得後續下載和閱讀失敗。",
+  "download_next_n_chapter": "{x, plural, one{下一章} other{接下來 {x} 章}}",
+  "download_unread_chapters": "所有未讀章節",
+  "download_all_chapters": "所有章節",
+  "download_queue": "下載佇列",
+  "download_settings": "下載設置",
+  "remove_after_read": "閱讀後刪除下載"
 }

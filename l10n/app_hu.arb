@@ -710,5 +710,17 @@
   "show_tap_zones_when_start_reading": "Az érintési zónák megjelenítése az olvasás kezdetekor.",
   "select_chapters": "Válassza ki a fejezeteket",
   "label_watermark": "Vízjel",
-  "tap_to_open": "Koppints a megnyitáshoz"
+  "tap_to_open": "Koppints a megnyitáshoz",
+  "labs": "Laborok",
+  "labsSubtitle": "Kísérleti funkciók",
+  "concurrent_download_short_title_num": "Egyidejű letöltések: {num}",
+  "concurrent_download_short_title": "Egyidejű letöltések",
+  "concurrent_download_title": "Egyidejű letöltések száma",
+  "concurrent_download_tips": "Az ugyanazon forrásból történő hosszú ideig történő egyidejű letöltés lehetővé teheti az IP-címed blokkolását a forrás által, aminek következtében az utóbbi letöltések és olvasások sikertelenek lehetnek.",
+  "download_next_n_chapter": "{x, plural, one{Következő fejezet} other{Következő {x} fejezet}}",
+  "download_unread_chapters": "Az összes olvasatlan fejezet",
+  "download_all_chapters": "Az összes fejezet",
+  "download_queue": "Letöltési várólista",
+  "download_settings": "Letöltési beállítások",
+  "remove_after_read": "Letöltés törlése olvasás után"
 }

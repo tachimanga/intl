@@ -710,5 +710,17 @@
   "show_tap_zones_when_start_reading": "Hiển thị vùng chạm khi bắt đầu đọc.",
   "select_chapters": "Chọn các chương",
   "label_watermark": "Dấu nước",
-  "tap_to_open": "Nhấn để mở"
+  "tap_to_open": "Nhấn để mở",
+  "labs": "Lab",
+  "labsSubtitle": "Các Tính Năng Thử Nghiệm",
+  "concurrent_download_short_title_num": "Tải xuống đồng thời: {num}",
+  "concurrent_download_short_title": "Tải xuống đồng thời",
+  "concurrent_download_title": "Số lượng tải xuống đồng thời",
+  "concurrent_download_tips": "Tải xuống đồng thời từ cùng một nguồn trong thời gian dài có thể làm cho IP của bạn bị chặn bởi nguồn gốc, dẫn đến việc các tải xuống và đọc sau đó thất bại.",
+  "download_next_n_chapter": "{x, plural, one{Chương tiếp theo} other{Các chương tiếp theo {x}}}",
+  "download_unread_chapters": "Tất cả các chương chưa đọc",
+  "download_all_chapters": "Tất cả các chương",
+  "download_queue": "Hàng đợi tải xuống",
+  "download_settings": "Cài đặt tải xuống",
+  "remove_after_read": "Xóa tải xuống sau khi đọc"
 }

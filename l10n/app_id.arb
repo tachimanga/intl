@@ -720,5 +720,17 @@
   "label_watermark": "Tanda air",
   "@label_watermark": {},
   "tap_to_open": "Ketuk untuk membuka",
-  "@tap_to_open": {}
+  "@tap_to_open": {},
+  "labs": "Lab",
+  "labsSubtitle": "Fitur Percobaan",
+  "concurrent_download_short_title_num": "Unduhan serentak: {num}",
+  "concurrent_download_short_title": "Unduhan serentak",
+  "concurrent_download_title": "Jumlah unduhan serentak",
+  "concurrent_download_tips": "Mengunduh secara serentak dari sumber yang sama untuk waktu yang lama dapat mengakibatkan IP Anda diblokir oleh sumber, menyebabkan unduhan dan pembacaan berikutnya gagal.",
+  "download_next_n_chapter": "{x, plural, one{Pembahasan berikutnya} other{Pembahasan {x} berikutnya}}",
+  "download_unread_chapters": "Semua pembahasan yang belum terbaca",
+  "download_all_chapters": "Semua pembahasan",
+  "download_queue": "Antrian unduhan",
+  "download_settings": "Pengaturan unduhan",
+  "remove_after_read": "Hapus unduhan setelah dibaca"
 }
