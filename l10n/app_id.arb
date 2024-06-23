@@ -732,5 +732,15 @@
   "download_all_chapters": "Semua pembahasan",
   "download_queue": "Antrian unduhan",
   "download_settings": "Pengaturan unduhan",
-  "remove_after_read": "Hapus unduhan setelah dibaca"
+  "remove_after_read": "Hapus unduhan setelah dibaca",
+  "pinch_to_zoom": "Cubit untuk zoom",
+  "errorFilePickUnknownType": "Harap pilih file {suffix}",
+  "attention_label": "⚠️Perhatian",
+  "homepage_label": "Beranda",
+  "download_limit_exceeded_title": "Batas unduhan terlampaui",
+  "download_limit_number_title": "Batas unduhan adalah {num} bab.",
+  "download_limit_content": "Anda dapat mengunduh {freeTicket} bab per hari.\n\nMenonton satu iklan dapat meningkatkan batas ini sebesar {ticketPerAd} bab, dan setelah menonton {maxAds} iklan, tidak ada batasan unduhan untuk hari itu.\n\nPengguna premium memiliki unduhan tanpa batas.",
+  "download_limit_increase": "Batas unduhan ditingkatkan sebesar {num}.",
+  "add_download_tips": "{x, plural, one{Menambahkan 1 bab ke antrian unduhan.} other{Menambahkan {x} bab ke antrian unduhan.}}",
+  "watch_ad_label": "Tonton Iklan"
 }

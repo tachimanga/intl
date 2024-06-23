@@ -722,5 +722,15 @@
   "download_all_chapters": "Alle Kapitel",
   "download_queue": "Download-Warteschlange",
   "download_settings": "Download-Einstellungen",
-  "remove_after_read": "Download nach dem Lesen löschen"
+  "remove_after_read": "Download nach dem Lesen löschen",
+  "pinch_to_zoom": "Zum Zoomen kneifen",
+  "errorFilePickUnknownType": "Bitte wählen Sie eine Datei mit der Endung {suffix}",
+  "attention_label": "⚠️ Achtung",
+  "homepage_label": "Startseite",
+  "download_limit_exceeded_title": "Download-Limit überschritten",
+  "download_limit_number_title": "Download-Limit beträgt {num} Kapitel.",
+  "download_limit_content": "Sie können pro Tag {freeTicket} Kapitel herunterladen.\n\nDas Ansehen einer Anzeige kann dieses Limit um {ticketPerAd} Kapitel erhöhen, und nach dem Ansehen von {maxAds} Anzeigen gibt es kein Limit für Downloads an diesem Tag.\n\nPremium-Benutzer haben unbegrenzte Downloads.",
+  "download_limit_increase": "Download-Limit um {num} erhöht.",
+  "add_download_tips": "{x, plural, one{Ein Kapitel zur Download-Warteschlange hinzugefügt.} other{{x} Kapitel zur Download-Warteschlange hinzugefügt.}}",
+  "watch_ad_label": "Anzeige ansehen"
 }

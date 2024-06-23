@@ -722,5 +722,15 @@
   "download_all_chapters": "Tüm bölümler",
   "download_queue": "İndirme sırası",
   "download_settings": "İndirme ayarları",
-  "remove_after_read": "Okuduktan sonra indirileni sil"
+  "remove_after_read": "Okuduktan sonra indirileni sil",
+  "pinch_to_zoom": "Yakınlaştırmak için sıkıştır",
+  "errorFilePickUnknownType": "{suffix} uzantılı bir dosya seçiniz lütfen",
+  "attention_label": "⚠️Dikkat",
+  "homepage_label": "Anasayfa",
+  "download_limit_exceeded_title": "İndirme sınırı aşıldı",
+  "download_limit_number_title": "İndirme sınırı {num} bölüm.",
+  "download_limit_content": "Günde {freeTicket} bölüm indirebilirsiniz.\n\nBir reklam izlemek bu sınırı {ticketPerAd} bölüm artırabilir, ve {maxAds} reklam izledikten sonra günlük indirmeler için bir sınır bulunmamaktadır.\n\nPremium kullanıcılar için sınırsız indirme imkanı bulunmaktadır.",
+  "download_limit_increase": "İndirme sınırı {num} arttırıldı.",
+  "add_download_tips": "{x, plural, one{İndirme sırasına 1 bölüm eklendi.} other{İndirme sırasına {x} bölüm eklendi.}}",
+  "watch_ad_label": "Reklamı İzle"
 }
