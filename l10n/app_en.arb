@@ -877,5 +877,15 @@
   "download_all_chapters": "All chapters",
   "download_queue": "Download queue",
   "download_settings": "Download settings",
-  "remove_after_read": "Delete download after reading"
+  "remove_after_read": "Delete download after reading",
+  "pinch_to_zoom": "Pinch to zoom",
+  "errorFilePickUnknownType": "Please select a {suffix} file",
+  "attention_label": "⚠️Attention",
+  "homepage_label": "Homepage",
+  "download_limit_exceeded_title": "Download limit exceeded",
+  "download_limit_number_title": "Download limit is {num} chapters.",
+  "download_limit_content": "You can download {freeTicket} chapters per day.\n\nWatching one ad can increase this limit by {ticketPerAd} chapters, and after watching {maxAds} ads, there is no limit on downloads for the day.\n\nPremium users have unlimited downloads.",
+  "download_limit_increase": "Download limit increased by {num}.",
+  "add_download_tips": "{x, plural, one{Added 1 chapter to the download queue.} other{Added {x} chapters to the download queue.}}",
+  "watch_ad_label": "Watch Ad"
 }
