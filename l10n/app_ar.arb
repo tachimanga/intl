@@ -1140,5 +1140,15 @@
   "download_all_chapters": "جميع الفصول",
   "download_queue": "قائمة التنزيل",
   "download_settings": "إعدادات التنزيل",
-  "remove_after_read": "حذف التنزيل بعد القراءة"
+  "remove_after_read": "حذف التنزيل بعد القراءة",
+  "pinch_to_zoom": "قرص للتكبير",
+  "errorFilePickUnknownType": "يرجى اختيار ملف {suffix}",
+  "attention_label": "⚠️ تنبيه",
+  "homepage_label": "الصفحة الرئيسية",
+  "download_limit_exceeded_title": "تجاوز الحد الأقصى للتنزيل",
+  "download_limit_number_title": "حد التنزيل هو {num} فصول.",
+  "download_limit_content": "يمكنك تنزيل {freeTicket} فصول يومياً.\n\nمشاهدة إعلان واحد يمكن أن يزيد هذا الحد بـ {ticketPerAd} فصول، وبعد مشاهدة {maxAds} إعلانًا، لا يوجد حد للتنزيل في اليوم.\n\nالمستخدمون المميزون لديهم عدم حدود للتنزيل.",
+  "download_limit_increase": "تم زيادة حد التنزيل بمقدار {num}.",
+  "add_download_tips": "{x, plural, one{تمت إضافة فصل واحد إلى قائمة التنزيل.} other{تمت إضافة {x} فصول إلى قائمة التنزيل.}}",
+  "watch_ad_label": "مشاهدة الإعلان"
 }

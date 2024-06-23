@@ -722,5 +722,15 @@
   "download_all_chapters": "所有章節",
   "download_queue": "下載佇列",
   "download_settings": "下載設置",
-  "remove_after_read": "閱讀後刪除下載"
+  "remove_after_read": "閱讀後刪除下載",
+  "pinch_to_zoom": "捏合放大",
+  "errorFilePickUnknownType": "請選擇{suffix}檔案",
+  "attention_label": "⚠️注意",
+  "homepage_label": "首頁",
+  "download_limit_exceeded_title": "下載限制已超過",
+  "download_limit_number_title": "可下載限制為{num}章。",
+  "download_limit_content": "您可以每天下載{freeTicket}章。\n\n觀看廣告可增加額外{ticketPerAd}章下載次數，觀看{maxAds}次廣告後，當天下載次數不受限制。\n\n高級用戶擁有無限制下載次數。",
+  "download_limit_increase": "下載限制增加{num}。",
+  "add_download_tips": "{x, plural, one{已將1章添加到下載佇列。} other{已將{x}章添加到下載佇列。}}",
+  "watch_ad_label": "觀看廣告"
 }

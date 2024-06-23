@@ -749,5 +749,15 @@
   "download_all_chapters": "Todos los capítulos",
   "download_queue": "Cola de descargas",
   "download_settings": "Configuración de descargas",
-  "remove_after_read": "Eliminar descarga después de leer"
+  "remove_after_read": "Eliminar descarga después de leer",
+  "pinch_to_zoom": "Pellizcar para hacer zoom",
+  "errorFilePickUnknownType": "Por favor seleccione un archivo {suffix}",
+  "attention_label": "⚠️Atención",
+  "homepage_label": "Página de inicio",
+  "download_limit_exceeded_title": "Límite de descargas excedido",
+  "download_limit_number_title": "Límite de descargas es de {num} capítulos.",
+  "download_limit_content": "Puede descargar {freeTicket} capítulos por día.\n\nVer un anuncio puede aumentar este límite en {ticketPerAd} capítulos, y después de ver {maxAds} anuncios, no hay límite en las descargas del día.\n\nLos usuarios Premium tienen descargas ilimitadas.",
+  "download_limit_increase": "Límite de descargas aumentado por {num}.",
+  "add_download_tips": "{x, plural, one{Añadido 1 capítulo a la cola de descarga.} other{Añadidos {x} capítulos a la cola de descarga.}}",
+  "watch_ad_label": "Ver anuncio"
 }

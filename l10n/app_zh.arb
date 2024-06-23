@@ -1007,5 +1007,15 @@
   "download_all_chapters": "所有章节",
   "download_queue": "下载队列",
   "download_settings": "下载设置",
-  "remove_after_read": "阅读后删除下载"
+  "remove_after_read": "阅读后删除下载",
+  "pinch_to_zoom": "捏合放大",
+  "errorFilePickUnknownType": "请选择一个{suffix}文件",
+  "attention_label": "⚠️注意",
+  "homepage_label": "主页",
+  "download_limit_exceeded_title": "下载限制已超出",
+  "download_limit_number_title": "可下载限制为{num}章。",
+  "download_limit_content": "您可以每天下载{freeTicket}章。\n\n观看广告可增加额外{ticketPerAd}章下载次数，观看{maxAds}次广告后，当天下载次数不受限制。\n\n高级用户拥有无限制下载次数。",
+  "download_limit_increase": "下载限制增加{num}。",
+  "add_download_tips": "{x, plural, one{已将1章添加到下载队列。} other{已将{x}章添加到下载队列。}}",
+  "watch_ad_label": "观看广告"
 }
