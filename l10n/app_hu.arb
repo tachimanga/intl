@@ -722,5 +722,15 @@
   "download_all_chapters": "Az összes fejezet",
   "download_queue": "Letöltési várólista",
   "download_settings": "Letöltési beállítások",
-  "remove_after_read": "Letöltés törlése olvasás után"
+  "remove_after_read": "Letöltés törlése olvasás után",
+  "pinch_to_zoom": "Kapaszkodás nagyításhoz",
+  "errorFilePickUnknownType": "Kérem, válasszon egy {suffix} fájlt",
+  "attention_label": "⚠️Figyelem",
+  "homepage_label": "Kezdőlap",
+  "download_limit_exceeded_title": "Letöltési korlát túllépve",
+  "download_limit_number_title": "A letöltési korlát {num} fejezet.",
+  "download_limit_content": "Naponta {freeTicket} fejezetet tölthet le.\n\nEgy hirdetés megtekintése {ticketPerAd} fejezettel növelheti ezt a korlátot, és {maxAds} hirdetés megtekintése után nincs letöltési korlát a napra.\n\nA prémium felhasználóknak korlátlan letöltési lehetőség áll rendelkezésre.",
+  "download_limit_increase": "Letöltési korlát növekedése {num}-val.",
+  "add_download_tips": "{x, plural, one{1 fejezet hozzáadva a letöltési sorhoz.} other{{x} fejezet hozzáadva a letöltési sorhoz.}}",
+  "watch_ad_label": "Hirdetés megtekintése"
 }

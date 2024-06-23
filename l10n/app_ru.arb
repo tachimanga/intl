@@ -722,5 +722,15 @@
   "download_all_chapters": "Все главы",
   "download_queue": "Очередь загрузки",
   "download_settings": "Настройки загрузки",
-  "remove_after_read": "Удалить загрузку после прочтения"
+  "remove_after_read": "Удалить загрузку после прочтения",
+  "pinch_to_zoom": "Прижмите, чтобы увеличить",
+  "errorFilePickUnknownType": "Пожалуйста, выберите файл {suffix}",
+  "attention_label": "⚠️Внимание",
+  "homepage_label": "Главная страница",
+  "download_limit_exceeded_title": "Превышен лимит загрузок",
+  "download_limit_number_title": "Лимит загрузки составляет {num} глав.",
+  "download_limit_content": "Вы можете скачать {freeTicket} глав в день.\n\nПросмотр одной рекламы может увеличить этот лимит на {ticketPerAd} глав, а после просмотра {maxAds} рекламы ограничений на загрузки в течение дня нет.\n\nУ премиум-пользователей неограниченные загрузки.",
+  "download_limit_increase": "Лимит загрузок увеличен на {num}.",
+  "add_download_tips": "{x, plural, one{Добавлен 1 глава в очередь загрузки.} few{Добавлено {x} главы в очередь загрузки.} many{Добавлено {x} глав в очередь загрузки.} other{Добавлено {x} глав в очередь загрузки.}}",
+  "watch_ad_label": "Посмотреть рекламу"
 }

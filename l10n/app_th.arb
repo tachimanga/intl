@@ -722,5 +722,15 @@
   "download_all_chapters": "บททั้งหมด",
   "download_queue": "คิวดาวน์โหลด",
   "download_settings": "การตั้งค่าดาวน์โหลด",
-  "remove_after_read": "ลบการดาวน์โหลดหลังจากอ่าน"
+  "remove_after_read": "ลบการดาวน์โหลดหลังจากอ่าน",
+  "pinch_to_zoom": "หดเพื่อซูม",
+  "errorFilePickUnknownType": "โปรดเลือกไฟล์ {suffix}",
+  "attention_label": "⚠️ความสนใจ",
+  "homepage_label": "หน้าแรก",
+  "download_limit_exceeded_title": "เกินขีดจำกัดการดาวน์โหลด",
+  "download_limit_number_title": "ขีดจำกัดการดาวน์โหลดคือ {num} บท.",
+  "download_limit_content": "คุณสามารถดาวน์โหลด {freeTicket} บทต่อวัน\n\nดูโฆษณา 1 ครั้งสามารถเพิ่มขีดจำกัดนี้ได้ {ticketPerAd} บท และหลังจากดูโฆษณา {maxAds} ครั้ง ไม่มีขีดจำกัดการดาวน์โหลดสำหรับวันนั้น\n\nผู้ใช้พรีเมี่ยมสามารถดาวน์โหลดได้ไม่จำกัดจำนวน",
+  "download_limit_increase": "การดาวน์เพิ่มขีดจำกัดโดย {num}",
+  "add_download_tips": "{x, plural, one{เพิ่ม 1 บทลงในคิวดาวน์โหลด} other{เพิ่ม {x} บทลงในคิวดาวน์โหลด}}",
+  "watch_ad_label": "ดูโฆษณา"
 }

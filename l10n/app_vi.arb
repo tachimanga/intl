@@ -722,5 +722,15 @@
   "download_all_chapters": "Tất cả các chương",
   "download_queue": "Hàng đợi tải xuống",
   "download_settings": "Cài đặt tải xuống",
-  "remove_after_read": "Xóa tải xuống sau khi đọc"
+  "remove_after_read": "Xóa tải xuống sau khi đọc",
+  "pinch_to_zoom": "Kéo để phóng to",
+  "errorFilePickUnknownType": "Vui lòng chọn một tệp có định dạng {suffix}",
+  "attention_label": "⚠️Chú ý",
+  "homepage_label": "Trang chủ",
+  "download_limit_exceeded_title": "Vượt quá giới hạn tải về",
+  "download_limit_number_title": "Giới hạn tải về là {num} chương.",
+  "download_limit_content": "Bạn có thể tải về {freeTicket} chương mỗi ngày.\n\nXem một quảng cáo có thể tăng giới hạn này thêm {ticketPerAd} chương, và sau khi xem {maxAds} quảng cáo, không có giới hạn tải về cho ngày đó.\n\nNgười dùng Premium có thể tải về không giới hạn.",
+  "download_limit_increase": "Giới hạn tải về tăng thêm {num}.",
+  "add_download_tips": "{x, plural, one{Đã thêm 1 chương vào hàng đợi tải về.} other{Đã thêm {x} chương vào hàng đợi tải về.}}",
+  "watch_ad_label": "Xem quảng cáo"
 }
