@@ -1096,5 +1096,15 @@
   "concurrent_download_tips": "장시간 동일한 소스에서 동시에 다운로드하면 소스에 의해 IP가 차단되어 후속 다운로드 및 읽기가 실패할 수 있습니다.",
   "@concurrent_download_tips": {},
   "download_unread_chapters": "읽지 않은 모든 챕터",
-  "@download_unread_chapters": {}
+  "@download_unread_chapters": {},
+  "pinch_to_zoom": "손가락을 모아 확대",
+  "errorFilePickUnknownType": "{suffix} 파일을 선택해주세요",
+  "attention_label": "⚠️주의",
+  "homepage_label": "홈페이지",
+  "download_limit_exceeded_title": "다운로드 한도 초과",
+  "download_limit_number_title": "다운로드 한도는 {num}장입니다.",
+  "download_limit_content": "하루에 {freeTicket}장을 다운로드할 수 있습니다.\n\n광고를 시청하면 {ticketPerAd}장씩 한도를 늘릴 수 있으며, {maxAds}회 광고를 시청한 후에는 그날의 다운로드 한도가 없어집니다.\n\n프리미엄 사용자는 무제한 다운로드 권한이 있습니다.",
+  "download_limit_increase": "다운로드 한도가 {num}으로 증가했습니다.",
+  "add_download_tips": "{x, plural, one{1개 챕터가 다운로드 대기열에 추가되었습니다.} other{{x}개 챕터가 다운로드 대기열에 추가되었습니다.}}",
+  "watch_ad_label": "광고 보기"
 }

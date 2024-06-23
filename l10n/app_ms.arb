@@ -722,5 +722,15 @@
   "download_all_chapters": "Semua bab",
   "download_queue": "Antrian muat turun",
   "download_settings": "Tetapan muat turun",
-  "remove_after_read": "Padam muat turun selepas membaca"
+  "remove_after_read": "Padam muat turun selepas membaca",
+  "pinch_to_zoom": "Cubit untuk zum",
+  "errorFilePickUnknownType": "Sila pilih fail {suffix}",
+  "attention_label": "⚠️Perhatian",
+  "homepage_label": "Laman Utama",
+  "download_limit_exceeded_title": "Had muat turun telah melebihi",
+  "download_limit_number_title": "Had muat turun adalah {num} bab.",
+  "download_limit_content": "Anda boleh muat turun {freeTicket} bab sehari.\n\nMenonton satu iklan boleh meningkatkan had ini sebanyak {ticketPerAd} bab, dan selepas menonton {maxAds} iklan, tiada had muat turun bagi hari itu.\n\nPengguna premium mempunyai muat turun tanpa had.",
+  "download_limit_increase": "Had muat turun ditingkatkan sebanyak {num}.",
+  "add_download_tips": "{x, plural, one{Menambah 1 bab ke dalam barisan muat turun.} other{Menambah {x} bab ke dalam barisan muat turun.}}",
+  "watch_ad_label": "Tonton Iklan"
 }
