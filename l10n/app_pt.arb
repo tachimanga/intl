@@ -775,5 +775,11 @@
   "add_download_tips": "{x, plural, one{Adicionado 1 capítulo à fila de download.} other{Adicionados {x} capítulos à fila de download.}}",
   "@add_download_tips": {},
   "watch_ad_label": "Assistir anúncio",
-  "@watch_ad_label": {}
+  "@watch_ad_label": {},
+  "backup_created_content": "Deve manter cópias de segurança noutros locais também.\nNote que o conteúdo descarregado e as fontes locais não estão incluídos na cópia de segurança.",
+  "display_as_single_page": "Exibir como única página",
+  "clear_last_hour": "A última hora",
+  "clear_today": "Hoje",
+  "clear_today_and_yesterday": "Hoje e ontem",
+  "clear_all_time": "Todo o tempo"
 }

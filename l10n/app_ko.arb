@@ -1106,5 +1106,11 @@
   "download_limit_content": "하루에 {freeTicket}장을 다운로드할 수 있습니다.\n\n광고를 시청하면 {ticketPerAd}장씩 한도를 늘릴 수 있으며, {maxAds}회 광고를 시청한 후에는 그날의 다운로드 한도가 없어집니다.\n\n프리미엄 사용자는 무제한 다운로드 권한이 있습니다.",
   "download_limit_increase": "다운로드 한도가 {num}으로 증가했습니다.",
   "add_download_tips": "{x, plural, one{1개 챕터가 다운로드 대기열에 추가되었습니다.} other{{x}개 챕터가 다운로드 대기열에 추가되었습니다.}}",
-  "watch_ad_label": "광고 보기"
+  "watch_ad_label": "광고 보기",
+  "backup_created_content": "백업을 다른 곳에도 보관하는 것이 좋습니다.\n다운로드한 콘텐츠와 로컬 소스는 백업에 포함되지 않습니다.",
+  "display_as_single_page": "단일 페이지로 표시",
+  "clear_last_hour": "최근 1시간",
+  "clear_today": "오늘",
+  "clear_today_and_yesterday": "오늘과 어제",
+  "clear_all_time": "모든 시간"
 }
