@@ -732,5 +732,11 @@
   "download_limit_content": "Günde {freeTicket} bölüm indirebilirsiniz.\n\nBir reklam izlemek bu sınırı {ticketPerAd} bölüm artırabilir, ve {maxAds} reklam izledikten sonra günlük indirmeler için bir sınır bulunmamaktadır.\n\nPremium kullanıcılar için sınırsız indirme imkanı bulunmaktadır.",
   "download_limit_increase": "İndirme sınırı {num} arttırıldı.",
   "add_download_tips": "{x, plural, one{İndirme sırasına 1 bölüm eklendi.} other{İndirme sırasına {x} bölüm eklendi.}}",
-  "watch_ad_label": "Reklamı İzle"
+  "watch_ad_label": "Reklamı İzle",
+  "backup_created_content": "Yedek kopyaları başka yerlerde de saklamanız iyi olur.\nİndirilen içerik ve yerel kaynakların yedeğe dahil edilmediğini unutmayın.",
+  "display_as_single_page": "Tek sayfa olarak göster",
+  "clear_last_hour": "Son saat",
+  "clear_today": "Bugün",
+  "clear_today_and_yesterday": "Bugün ve dün",
+  "clear_all_time": "Tüm zamanlar"
 }
