@@ -732,5 +732,11 @@
   "download_limit_content": "Puoi scaricare {freeTicket} capitoli al giorno.\n\nGuardare un annuncio può aumentare questo limite di {ticketPerAd} capitoli e, dopo aver visto {maxAds} annunci, non ci sono limiti di download per il giorno.\n\nGli utenti Premium hanno download illimitati.",
   "download_limit_increase": "Limite di download aumentato di {num}.",
   "add_download_tips": "{x, plural, one{Aggiunto 1 capitolo alla coda di download.} other{Aggiunti {x} capitoli alla coda di download.}}",
-  "watch_ad_label": "Guarda annuncio"
+  "watch_ad_label": "Guarda annuncio",
+  "backup_created_content": "Dovresti conservare copie di backup anche in altri luoghi.\nSi noti che contenuti scaricati e fonti locali non sono inclusi nel backup.",
+  "display_as_single_page": "Mostra come singola pagina",
+  "clear_last_hour": "L'ultima ora",
+  "clear_today": "Oggi",
+  "clear_today_and_yesterday": "Oggi e ieri",
+  "clear_all_time": "Tutto il tempo"
 }

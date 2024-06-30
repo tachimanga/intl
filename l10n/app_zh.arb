@@ -1017,5 +1017,11 @@
   "download_limit_content": "您可以每天下载{freeTicket}章。\n\n观看广告可增加额外{ticketPerAd}章下载次数，观看{maxAds}次广告后，当天下载次数不受限制。\n\n高级用户拥有无限制下载次数。",
   "download_limit_increase": "下载限制增加{num}。",
   "add_download_tips": "{x, plural, one{已将1章添加到下载队列。} other{已将{x}章添加到下载队列。}}",
-  "watch_ad_label": "观看广告"
+  "watch_ad_label": "观看广告",
+  "backup_created_content": "您还应该在其他地方备份副本。\n请注意，下载的内容和本地来源不包含在备份中。",
+  "display_as_single_page": "作为单页显示",
+  "clear_last_hour": "上个小时",
+  "clear_today": "今天",
+  "clear_today_and_yesterday": "今天和昨天",
+  "clear_all_time": "所有时间"
 }

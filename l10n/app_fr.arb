@@ -1093,5 +1093,11 @@
   "download_limit_content": "Vous pouvez télécharger {freeTicket} chapitres par jour.\n\nRegarder une publicité peut augmenter cette limite de {ticketPerAd} chapitres, et après avoir regardé {maxAds} publicités, il n'y a pas de limite de téléchargement pour la journée.\n\nLes utilisateurs premium bénéficient de téléchargements illimités.",
   "download_limit_increase": "Limite de téléchargement augmentée de {num}.",
   "add_download_tips": "{x, plural, one{Ajouté 1 chapitre à la file de téléchargement.} other{Ajouté {x} chapitres à la file de téléchargement.}}",
-  "watch_ad_label": "Regarder la publicité"
+  "watch_ad_label": "Regarder la publicité",
+  "backup_created_content": "Vous devriez également conserver des copies de sauvegarde à d'autres endroits.\nNotez que le contenu téléchargé et les sources locales ne sont pas inclus dans la sauvegarde.",
+  "display_as_single_page": "Afficher en tant que page unique",
+  "clear_last_hour": "La dernière heure",
+  "clear_today": "Aujourd'hui",
+  "clear_today_and_yesterday": "Aujourd'hui et hier",
+  "clear_all_time": "Tout le temps"
 }

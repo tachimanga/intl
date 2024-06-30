@@ -732,5 +732,11 @@
   "download_limit_content": "Naponta {freeTicket} fejezetet tölthet le.\n\nEgy hirdetés megtekintése {ticketPerAd} fejezettel növelheti ezt a korlátot, és {maxAds} hirdetés megtekintése után nincs letöltési korlát a napra.\n\nA prémium felhasználóknak korlátlan letöltési lehetőség áll rendelkezésre.",
   "download_limit_increase": "Letöltési korlát növekedése {num}-val.",
   "add_download_tips": "{x, plural, one{1 fejezet hozzáadva a letöltési sorhoz.} other{{x} fejezet hozzáadva a letöltési sorhoz.}}",
-  "watch_ad_label": "Hirdetés megtekintése"
+  "watch_ad_label": "Hirdetés megtekintése",
+  "backup_created_content": "Tartson más helyeken is mentéseket.\nVegye figyelembe, hogy a letöltött tartalom és a helyi források nem szerepelnek a mentésben.",
+  "display_as_single_page": "Megjelenítés egyetlen oldalként",
+  "clear_last_hour": "Az utolsó óra",
+  "clear_today": "Ma",
+  "clear_today_and_yesterday": "Ma és tegnap",
+  "clear_all_time": "Összes idő"
 }

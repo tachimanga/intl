@@ -732,5 +732,11 @@
   "download_limit_content": "Bạn có thể tải về {freeTicket} chương mỗi ngày.\n\nXem một quảng cáo có thể tăng giới hạn này thêm {ticketPerAd} chương, và sau khi xem {maxAds} quảng cáo, không có giới hạn tải về cho ngày đó.\n\nNgười dùng Premium có thể tải về không giới hạn.",
   "download_limit_increase": "Giới hạn tải về tăng thêm {num}.",
   "add_download_tips": "{x, plural, one{Đã thêm 1 chương vào hàng đợi tải về.} other{Đã thêm {x} chương vào hàng đợi tải về.}}",
-  "watch_ad_label": "Xem quảng cáo"
+  "watch_ad_label": "Xem quảng cáo",
+  "backup_created_content": "Bạn nên lưu bản sao của bản dự phòng ở những nơi khác nhau.\nChú ý rằng nội dung đã tải xuống và nguồn cục bộ không được bao gồm trong sao lưu.",
+  "display_as_single_page": "Hiển thị dưới dạng trang duy nhất",
+  "clear_last_hour": "Giờ cuối cùng",
+  "clear_today": "Hôm nay",
+  "clear_today_and_yesterday": "Hôm nay và hôm qua",
+  "clear_all_time": "Tất cả thời gian"
 }

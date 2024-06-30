@@ -732,5 +732,11 @@
   "download_limit_content": "Sie können pro Tag {freeTicket} Kapitel herunterladen.\n\nDas Ansehen einer Anzeige kann dieses Limit um {ticketPerAd} Kapitel erhöhen, und nach dem Ansehen von {maxAds} Anzeigen gibt es kein Limit für Downloads an diesem Tag.\n\nPremium-Benutzer haben unbegrenzte Downloads.",
   "download_limit_increase": "Download-Limit um {num} erhöht.",
   "add_download_tips": "{x, plural, one{Ein Kapitel zur Download-Warteschlange hinzugefügt.} other{{x} Kapitel zur Download-Warteschlange hinzugefügt.}}",
-  "watch_ad_label": "Anzeige ansehen"
+  "watch_ad_label": "Anzeige ansehen",
+  "backup_created_content": "Sie sollten Sicherungskopien auch an anderen Orten aufbewahren.\nBeachten Sie, dass heruntergeladener Inhalt und lokale Quellen nicht in das Backup aufgenommen sind.",
+  "display_as_single_page": "Als einzelne Seite anzeigen",
+  "clear_last_hour": "Die letzte Stunde",
+  "clear_today": "Heute",
+  "clear_today_and_yesterday": "Heute und gestern",
+  "clear_all_time": "Alle Zeit"
 }
