@@ -720,5 +720,11 @@
   "label_watermark": "ウォーターマーク",
   "@label_watermark": {},
   "tap_to_open": "タップして開く",
-  "@tap_to_open": {}
+  "@tap_to_open": {},
+  "backup_created_content": "バックアップのコピーも他の場所に保存するべきです。\nダウンロードしたコンテンツやローカルソースはバックアップに含まれません。",
+  "display_as_single_page": "1ページとして表示",
+  "clear_last_hour": "直近1時間",
+  "clear_today": "今日",
+  "clear_today_and_yesterday": "今日と昨日",
+  "clear_all_time": "すべての時間"
 }

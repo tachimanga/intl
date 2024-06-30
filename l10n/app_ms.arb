@@ -732,5 +732,11 @@
   "download_limit_content": "Anda boleh muat turun {freeTicket} bab sehari.\n\nMenonton satu iklan boleh meningkatkan had ini sebanyak {ticketPerAd} bab, dan selepas menonton {maxAds} iklan, tiada had muat turun bagi hari itu.\n\nPengguna premium mempunyai muat turun tanpa had.",
   "download_limit_increase": "Had muat turun ditingkatkan sebanyak {num}.",
   "add_download_tips": "{x, plural, one{Menambah 1 bab ke dalam barisan muat turun.} other{Menambah {x} bab ke dalam barisan muat turun.}}",
-  "watch_ad_label": "Tonton Iklan"
+  "watch_ad_label": "Tonton Iklan",
+  "backup_created_content": "Anda seharusnya membuat salinan sandaran di tempat lain juga.\nSila ambil perhatian bahawa kandungan yang dimuat turun dan sumber tempatan tidak termasuk dalam sandaran.",
+  "display_as_single_page": "Paparkan sebagai satu halaman",
+  "clear_last_hour": "Jam terakhir",
+  "clear_today": "Hari ini",
+  "clear_today_and_yesterday": "Hari ini dan semalam",
+  "clear_all_time": "Semua masa"
 }
