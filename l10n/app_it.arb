@@ -764,7 +764,7 @@
   "add_download_tips": "{x, plural, one{Aggiunto 1 capitolo alla coda di download.} other{Aggiunti {x} capitoli alla coda di download.}}",
   "@add_download_tips": {},
   "watch_ad_label": "Guarda annuncio",
-  "@watch_ad_label": {}
+  "@watch_ad_label": {},
   "backup_created_content": "Dovresti conservare copie di backup anche in altri luoghi.\nSi noti che contenuti scaricati e fonti locali non sono inclusi nel backup.",
   "display_as_single_page": "Mostra come singola pagina",
   "clear_last_hour": "L'ultima ora",
