@@ -1112,5 +1112,12 @@
   "clear_last_hour": "최근 1시간",
   "clear_today": "오늘",
   "clear_today_and_yesterday": "오늘과 어제",
-  "clear_all_time": "모든 시간"
+  "clear_all_time": "모든 시간",
+  "start_reading": "독서 시작",
+  "continue_reading_chapter": "{title} 계속 읽기",
+  "icon_section_title": "아이콘",
+  "app_icon_title": "앱 아이콘",
+  "app_icon_author": "{author}이(가) 디자인",
+  "classic_start_reading_button": "고전적인 시작 읽기 버튼",
+  "long_press_action_menu": "길게 누르면 작동 메뉴"
 }

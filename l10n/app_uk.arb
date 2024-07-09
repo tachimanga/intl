@@ -1152,5 +1152,12 @@
   "clear_last_hour": "Остання година",
   "clear_today": "Сьогодні",
   "clear_today_and_yesterday": "Сьогодні та вчора",
-  "clear_all_time": "Увесь час"
+  "clear_all_time": "Увесь час",
+  "start_reading": "Почати читати",
+  "continue_reading_chapter": "Продовжувати читання {title}",
+  "icon_section_title": "Іконка",
+  "app_icon_title": "Іконка додатка",
+  "app_icon_author": "Розроблено {author}",
+  "classic_start_reading_button": "Класична кнопка почати читання",
+  "long_press_action_menu": "Меню дій при довгому натисканні"
 }

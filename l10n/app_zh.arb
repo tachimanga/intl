@@ -1023,5 +1023,12 @@
   "clear_last_hour": "上个小时",
   "clear_today": "今天",
   "clear_today_and_yesterday": "今天和昨天",
-  "clear_all_time": "所有时间"
+  "clear_all_time": "所有时间",
+  "start_reading": "开始阅读",
+  "continue_reading_chapter": "继续阅读 {title}",
+  "icon_section_title": "图标",
+  "app_icon_title": "应用图标",
+  "app_icon_author": "由{author}设计",
+  "classic_start_reading_button": "经典开始阅读按钮",
+  "long_press_action_menu": "长按动作菜单"
 }

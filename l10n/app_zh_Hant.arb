@@ -738,5 +738,12 @@
   "clear_last_hour": "上個小時",
   "clear_today": "今天",
   "clear_today_and_yesterday": "今天和昨天",
-  "clear_all_time": "所有時間"
+  "clear_all_time": "所有時間",
+  "start_reading": "開始閱讀",
+  "continue_reading_chapter": "繼續閱讀 {title}",
+  "icon_section_title": "圖標",
+  "app_icon_title": "應用程式圖標",
+  "app_icon_author": "設計者：{author}",
+  "classic_start_reading_button": "經典開始閱讀按鈕",
+  "long_press_action_menu": "長按動作選單"
 }

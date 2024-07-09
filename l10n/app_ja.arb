@@ -726,5 +726,12 @@
   "clear_last_hour": "直近1時間",
   "clear_today": "今日",
   "clear_today_and_yesterday": "今日と昨日",
-  "clear_all_time": "すべての時間"
+  "clear_all_time": "すべての時間",
+  "start_reading": "読書をはじめる",
+  "continue_reading_chapter": "{title} を続ける",
+  "icon_section_title": "アイコン",
+  "app_icon_title": "アプリアイコン",
+  "app_icon_author": "{author} によって設計",
+  "classic_start_reading_button": "クラシックな読み始めボタン",
+  "long_press_action_menu": "長押しアクションメニュー"
 }
