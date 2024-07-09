@@ -738,5 +738,12 @@
   "clear_last_hour": "Jam terakhir",
   "clear_today": "Hari ini",
   "clear_today_and_yesterday": "Hari ini dan semalam",
-  "clear_all_time": "Semua masa"
+  "clear_all_time": "Semua masa",
+  "start_reading": "Mula membaca",
+  "continue_reading_chapter": "Teruskan membaca {title}",
+  "icon_section_title": "Ikon",
+  "app_icon_title": "Ikon Aplikasi",
+  "app_icon_author": "Direka oleh {author}",
+  "classic_start_reading_button": "Butang mula pembacaan klasik",
+  "long_press_action_menu": "Menu tindakan ketik lama"
 }

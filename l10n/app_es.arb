@@ -765,5 +765,12 @@
   "clear_last_hour": "La última hora",
   "clear_today": "Hoy",
   "clear_today_and_yesterday": "Hoy y ayer",
-  "clear_all_time": "Todo el tiempo"
+  "clear_all_time": "Todo el tiempo",
+  "start_reading": "Comenzar a leer",
+  "continue_reading_chapter": "Continuar leyendo {title}",
+  "icon_section_title": "Ícono",
+  "app_icon_title": "Ícono de la app",
+  "app_icon_author": "Diseñado por {author}",
+  "classic_start_reading_button": "Botón clásico de inicio de lectura",
+  "long_press_action_menu": "Menú de acciones pulsación prolongada"
 }

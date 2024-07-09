@@ -738,5 +738,12 @@
   "clear_last_hour": "Az utolsó óra",
   "clear_today": "Ma",
   "clear_today_and_yesterday": "Ma és tegnap",
-  "clear_all_time": "Összes idő"
+  "clear_all_time": "Összes idő",
+  "start_reading": "Olvasás megkezdése",
+  "continue_reading_chapter": "Tovább az olvasással {title}",
+  "icon_section_title": "Ikon",
+  "app_icon_title": "App ikon",
+  "app_icon_author": "Készítette: {author}",
+  "classic_start_reading_button": "Klasszikus olvasás indítása gomb",
+  "long_press_action_menu": "Hosszú nyomás akció menüje"
 }

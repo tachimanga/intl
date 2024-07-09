@@ -738,5 +738,12 @@
   "clear_last_hour": "Giờ cuối cùng",
   "clear_today": "Hôm nay",
   "clear_today_and_yesterday": "Hôm nay và hôm qua",
-  "clear_all_time": "Tất cả thời gian"
+  "clear_all_time": "Tất cả thời gian",
+  "start_reading": "Bắt đầu đọc",
+  "continue_reading_chapter": "Tiếp tục đọc {title}",
+  "icon_section_title": "Biểu tượng",
+  "app_icon_title": "Biểu tượng ứng dụng",
+  "app_icon_author": "Thiết kế bởi {author}",
+  "classic_start_reading_button": "Nút bắt đầu đọc cổ điển",
+  "long_press_action_menu": "Menu hành động nhấn và giữ lâu"
 }

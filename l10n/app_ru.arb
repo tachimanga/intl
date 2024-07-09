@@ -738,5 +738,12 @@
   "clear_last_hour": "Последний час",
   "clear_today": "Сегодня",
   "clear_today_and_yesterday": "Сегодня и вчера",
-  "clear_all_time": "Весь период"
+  "clear_all_time": "Весь период",
+  "start_reading": "Начать чтение",
+  "continue_reading_chapter": "Продолжить чтение {title}",
+  "icon_section_title": "Иконка",
+  "app_icon_title": "Иконка приложения",
+  "app_icon_author": "Разработано {author}",
+  "classic_start_reading_button": "Классическая кнопка начала чтения",
+  "long_press_action_menu": "Меню действий при долгом нажатии"
 }

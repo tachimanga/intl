@@ -738,5 +738,12 @@
   "clear_last_hour": "Son saat",
   "clear_today": "Bugün",
   "clear_today_and_yesterday": "Bugün ve dün",
-  "clear_all_time": "Tüm zamanlar"
+  "clear_all_time": "Tüm zamanlar",
+  "start_reading": "Okumaya başla",
+  "continue_reading_chapter": "Okumaya devam et {title}",
+  "icon_section_title": "Simge",
+  "app_icon_title": "Uygulama Simgesi",
+  "app_icon_author": "{author} tarafından tasarlandı",
+  "classic_start_reading_button": "Klasik okuma başlatma düğmesi",
+  "long_press_action_menu": "Uzun basma işlem menüsü"
 }

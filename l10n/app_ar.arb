@@ -1156,5 +1156,12 @@
   "clear_last_hour": "الساعة الأخيرة",
   "clear_today": "اليوم",
   "clear_today_and_yesterday": "اليوم والأمس",
-  "clear_all_time": "كل الوقت"
+  "clear_all_time": "كل الوقت",
+  "start_reading": "ابدأ القراءة",
+  "continue_reading_chapter": "متابعة القراءة {title}",
+  "icon_section_title": "رمز",
+  "app_icon_title": "رمز التطبيق",
+  "app_icon_author": "مصمم بواسطة {author}",
+  "classic_start_reading_button": "زر البدء الكلاسيكي بالقراءة",
+  "long_press_action_menu": "قائمة إجراءات الضغط المطول"
 }
