@@ -777,5 +777,8 @@
   "app_icon_title": "Icona dell'app",
   "app_icon_author": "Progettato da {author}",
   "classic_start_reading_button": "Pulsante classico di inizio lettura",
-  "long_press_action_menu": "Menu azioni premendo a lungo"
+  "long_press_action_menu": "Menu azioni premendo a lungo",
+  "app_icon_update_tip": "Se l'icona non viene aggiornata correttamente, puoi attendere un po' o riavviare semplicemente il dispositivo.",
+  "update_running_text": "Aggiornamento in corso di {title}",
+  "update_completed_text": "Aggiornamento completato. {x} riusciti, {y} falliti."
 }

@@ -42,7 +42,7 @@
   "@clientVersion": {},
   "close": "Fechar",
   "@close": {},
-  "completed": "Completo",
+  "completed": "Concluído",
   "@completed": {},
   "copyMsg": "'{msg}' Copiado!",
   "@copyMsg": {},
@@ -794,5 +794,8 @@
   "app_icon_title": "Ícone do App",
   "app_icon_author": "Projetado por {author}",
   "classic_start_reading_button": "Botão clássico de começar a ler",
-  "long_press_action_menu": "Menu de ações de pressionar longo"
+  "long_press_action_menu": "Menu de ações de pressionar longo",
+  "app_icon_update_tip": "Se o ícone não for atualizado com sucesso, pode aguardar um pouco ou simplesmente reiniciar o seu dispositivo.",
+  "update_running_text": "Atualizando {title}",
+  "update_completed_text": "Atualização concluída. {x} bem-sucedidos, {y} falhados."
 }

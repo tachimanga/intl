@@ -39,7 +39,7 @@
   "@clientVersion": {},
   "close": "閉じる",
   "@close": {},
-  "completed": "完結済み",
+  "completed": "完了",
   "@completed": {},
   "copyMsg": "'{msg}'をコピーしました",
   "@copyMsg": {},
@@ -733,5 +733,8 @@
   "app_icon_title": "アプリアイコン",
   "app_icon_author": "{author} によって設計",
   "classic_start_reading_button": "クラシックな読み始めボタン",
-  "long_press_action_menu": "長押しアクションメニュー"
+  "long_press_action_menu": "長押しアクションメニュー",
+  "app_icon_update_tip": "アイコンが正常に更新されない場合、しばらく待つか、デバイスを再起動してください。",
+  "update_running_text": "{title} を更新中",
+  "update_completed_text": "更新が完了しました。成功：{x}、失敗：{y}。"
 }

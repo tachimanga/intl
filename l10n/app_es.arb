@@ -772,5 +772,8 @@
   "app_icon_title": "Ícono de la app",
   "app_icon_author": "Diseñado por {author}",
   "classic_start_reading_button": "Botón clásico de inicio de lectura",
-  "long_press_action_menu": "Menú de acciones pulsación prolongada"
+  "long_press_action_menu": "Menú de acciones pulsación prolongada",
+  "app_icon_update_tip": "Si el icono no se actualiza correctamente, puedes esperar un momento o simplemente reiniciar tu dispositivo.",
+  "update_running_text": "Actualizando {title}",
+  "update_completed_text": "Actualización completada. {x} correctos, {y} fallidos."
 }

@@ -745,5 +745,8 @@
   "app_icon_title": "ไอคอนแอป",
   "app_icon_author": "ออกแบบโดย {author}",
   "classic_start_reading_button": "ปุ่มเริ่มอ่านแบบคลาสสิก",
-  "long_press_action_menu": "เมนูการดำเนินการกดค้าง"
+  "long_press_action_menu": "เมนูการดำเนินการกดค้าง",
+  "app_icon_update_tip": "หากไอคอนไม่อัปเดตเรียบร้อย คุณสามารถรอสักครู่หรือเรียกใช้งานอุปกรณ์ใหม่",
+  "update_running_text": "กำลังอัปเดต {title}",
+  "update_completed_text": "อัปเดตเสร็จสิ้น สำเร็จ {x} ล้มเหลว {y}"
 }
