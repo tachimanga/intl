@@ -61,7 +61,7 @@
   "@current": {
     "description": "Text to show the currently reading chapter in Reader Screen"
   },
-  "completed": "완결됨",
+  "completed": "완료",
   "@completed": {
     "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
   },
@@ -1119,5 +1119,8 @@
   "app_icon_title": "앱 아이콘",
   "app_icon_author": "{author}이(가) 디자인",
   "classic_start_reading_button": "고전적인 시작 읽기 버튼",
-  "long_press_action_menu": "길게 누르면 작동 메뉴"
+  "long_press_action_menu": "길게 누르면 작동 메뉴",
+  "app_icon_update_tip": "아이콘이 성공적으로 업데이트되지 않으면 잠시 기다리거나 단순히 기기를 다시 시작할 수 있습니다.",
+  "update_running_text": "{title} 업데이트 중",
+  "update_completed_text": "업데이트 완료. 성공 {x}, 실패 {y}."
 }

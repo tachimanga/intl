@@ -53,7 +53,7 @@
   "@client": {},
   "close": "關閉",
   "@close": {},
-  "completed": "已閱",
+  "completed": "完成",
   "@completed": {},
   "defaultCategory": "預設新增至此分類",
   "@defaultCategory": {},
@@ -745,5 +745,8 @@
   "app_icon_title": "應用程式圖標",
   "app_icon_author": "設計者：{author}",
   "classic_start_reading_button": "經典開始閱讀按鈕",
-  "long_press_action_menu": "長按動作選單"
+  "long_press_action_menu": "長按動作選單",
+  "app_icon_update_tip": "如果圖示未能成功更新，您可以稍等一下或簡單地重新啟動您的裝置。",
+  "update_running_text": "更新中 {title}",
+  "update_completed_text": "更新已完成。成功：{x}，失敗：{y}。"
 }

@@ -745,5 +745,8 @@
   "app_icon_title": "App-Symbol",
   "app_icon_author": "Entworfen von {author}",
   "classic_start_reading_button": "Klassische Startlese-Schaltfläche",
-  "long_press_action_menu": "Aktionsmenü für lange Drucke"
+  "long_press_action_menu": "Aktionsmenü für lange Drucke",
+  "app_icon_update_tip": "Wenn das Symbol nicht erfolgreich aktualisiert wurde, können Sie eine Weile warten oder einfach Ihr Gerät neu starten.",
+  "update_running_text": "Aktualisierung von {title}",
+  "update_completed_text": "Aktualisierung abgeschlossen. {x} erfolgreich, {y} fehlgeschlagen."
 }

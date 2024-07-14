@@ -755,5 +755,8 @@
   "app_icon_title": "Ikon Aplikasi",
   "app_icon_author": "Dirancang oleh {author}",
   "classic_start_reading_button": "Tombol memulai membaca klasik",
-  "long_press_action_menu": "Menu aksi tekan lama"
+  "long_press_action_menu": "Menu aksi tekan lama",
+  "app_icon_update_tip": "Jika ikon tidak berhasil diperbarui, Anda bisa menunggu sebentar atau hanya restart perangkat Anda.",
+  "update_running_text": "Memperbarui {title}",
+  "update_completed_text": "Pembaruan selesai. {x} berhasil, {y} gagal."
 }

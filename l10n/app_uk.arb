@@ -1159,5 +1159,8 @@
   "app_icon_title": "Іконка додатка",
   "app_icon_author": "Розроблено {author}",
   "classic_start_reading_button": "Класична кнопка почати читання",
-  "long_press_action_menu": "Меню дій при довгому натисканні"
+  "long_press_action_menu": "Меню дій при довгому натисканні",
+  "app_icon_update_tip": "Якщо піктограма не оновилася успішно, ви можете зачекати трохи або просто перезапустити пристрій.",
+  "update_running_text": "Оновлення {title}",
+  "update_completed_text": "Оновлення завершено. Успішно {x}, не вдалося {y}."
 }

@@ -85,7 +85,7 @@
   "@close": {
     "description": "Text for close button"
   },
-  "completed": "مكتملة",
+  "completed": "مكتمل",
   "@completed": {
     "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
   },
@@ -1163,5 +1163,8 @@
   "app_icon_title": "رمز التطبيق",
   "app_icon_author": "مصمم بواسطة {author}",
   "classic_start_reading_button": "زر البدء الكلاسيكي بالقراءة",
-  "long_press_action_menu": "قائمة إجراءات الضغط المطول"
+  "long_press_action_menu": "قائمة إجراءات الضغط المطول",
+  "app_icon_update_tip": "إذا لم يتم تحديث الرمز بنجاح، يمكنك الانتظار لبعض الوقت أو إعادة تشغيل الجهاز ببساطة.",
+  "update_running_text": "جارٍ التحديث {title}",
+  "update_completed_text": "تم التحديث. نجاح {x}، فشل {y}."
 }

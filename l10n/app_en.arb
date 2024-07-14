@@ -900,5 +900,8 @@
   "app_icon_title": "App Icon",
   "app_icon_author": "Designed by {author}",
   "classic_start_reading_button": "Classic start reading button",
-  "long_press_action_menu": "Long press action menu"
+  "long_press_action_menu": "Long press action menu",
+  "app_icon_update_tip": "If the icon is not updated successfully, you can wait a while or simply reboot your device.",
+  "update_running_text": "Updating {title}",
+  "update_completed_text": "Update completed. {x} successful, {y} failed."
 }

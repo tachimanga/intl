@@ -766,5 +766,8 @@
   "app_icon_title": "Ícone da aplicação",
   "app_icon_author": "Projetado por {author}",
   "classic_start_reading_button": "Botão clássico de iniciar a leitura",
-  "long_press_action_menu": "Menu de ações de pressionar longamente"
+  "long_press_action_menu": "Menu de ações de pressionar longamente",
+  "app_icon_update_tip": "Se o ícone não for atualizado com sucesso, pode esperar um pouco ou simplesmente reiniciar o dispositivo.",
+  "update_running_text": "A atualizar {title}",
+  "update_completed_text": "Atualização concluída. {x} com sucesso, {y} falharam."
 }

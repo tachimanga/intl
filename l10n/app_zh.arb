@@ -119,7 +119,7 @@
   "@close": {
     "description": "Text for close button"
   },
-  "completed": "阅读过",
+  "completed": "完成",
   "@completed": {
     "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
   },
@@ -1030,5 +1030,8 @@
   "app_icon_title": "应用图标",
   "app_icon_author": "由{author}设计",
   "classic_start_reading_button": "经典开始阅读按钮",
-  "long_press_action_menu": "长按动作菜单"
+  "long_press_action_menu": "长按动作菜单",
+  "app_icon_update_tip": "如果图标更新不成功，则可以等一会儿或简单地重新启动设备。",
+  "update_running_text": "正在更新 {title}",
+  "update_completed_text": "更新完成。成功：{x}，失败：{y}。"
 }

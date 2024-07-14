@@ -39,7 +39,7 @@
   "@clientVersion": {},
   "close": "Bezárás",
   "@close": {},
-  "completed": "Elolvasva",
+  "completed": "Kész",
   "@completed": {},
   "copyMsg": "'{msg}' másolva!",
   "@copyMsg": {},
@@ -745,5 +745,8 @@
   "app_icon_title": "App ikon",
   "app_icon_author": "Készítette: {author}",
   "classic_start_reading_button": "Klasszikus olvasás indítása gomb",
-  "long_press_action_menu": "Hosszú nyomás akció menüje"
+  "long_press_action_menu": "Hosszú nyomás akció menüje",
+  "app_icon_update_tip": "Ha az ikon frissítése nem sikerült, várj egy kicsit, vagy egyszerűen indítsd újra az eszközödet.",
+  "update_running_text": "{title} frissítése folyamatban",
+  "update_completed_text": "A frissítés befejeződött. {x} sikeres, {y} sikertelen."
 }

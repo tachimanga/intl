@@ -745,5 +745,8 @@
   "app_icon_title": "Biểu tượng ứng dụng",
   "app_icon_author": "Thiết kế bởi {author}",
   "classic_start_reading_button": "Nút bắt đầu đọc cổ điển",
-  "long_press_action_menu": "Menu hành động nhấn và giữ lâu"
+  "long_press_action_menu": "Menu hành động nhấn và giữ lâu",
+  "app_icon_update_tip": "Nếu biểu tượng không được cập nhật thành công, bạn có thể đợi một lúc hoặc chỉ cần khởi động lại thiết bị.",
+  "update_running_text": "Đang cập nhật {title}",
+  "update_completed_text": "Cập nhật hoàn thành. {x} thành công, {y} thất bại."
 }

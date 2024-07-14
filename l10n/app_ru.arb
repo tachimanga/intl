@@ -39,7 +39,7 @@
   "@clientVersion": {},
   "close": "Закрыть",
   "@close": {},
-  "completed": "Завершенные",
+  "completed": "Завершено",
   "@completed": {},
   "copyMsg": "'{msg}' скопировано!",
   "@copyMsg": {},
@@ -745,5 +745,8 @@
   "app_icon_title": "Иконка приложения",
   "app_icon_author": "Разработано {author}",
   "classic_start_reading_button": "Классическая кнопка начала чтения",
-  "long_press_action_menu": "Меню действий при долгом нажатии"
+  "long_press_action_menu": "Меню действий при долгом нажатии",
+  "app_icon_update_tip": "Если значок не обновился успешно, вы можете подождать некоторое время или просто перезагрузить устройство.",
+  "update_running_text": "Обновление {title}",
+  "update_completed_text": "Обновление завершено. Успешно: {x}, с ошибками: {y}."
 }
