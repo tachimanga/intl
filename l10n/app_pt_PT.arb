@@ -162,7 +162,7 @@
   "@nameCountDisplay": {},
   "newUpdateAvailable": "Nova atualização disponível",
   "@newUpdateAvailable": {},
-  "noCategoriesFound": "Não tem nenhuma categoria.\n(Dica: Toque no botão mais para criar uma categoria para organizar a sua biblioteca)",
+  "noCategoriesFound": "Não tem nenhuma categoria.",
   "@noCategoriesFound": {},
   "noCategoriesFoundAlt": "Não tem nenhuma categoria.\nCria uma nas definições para organizar a sua biblioteca",
   "@noCategoriesFoundAlt": {},
@@ -804,5 +804,14 @@
   "@long_press_action_menu": {},
   "app_icon_update_tip": "Se o ícone não for atualizado com sucesso, pode esperar um pouco ou simplesmente reiniciar o dispositivo.",
   "update_running_text": "A atualizar {title}",
-  "update_completed_text": "Atualização concluída. {x} com sucesso, {y} falharam."
+  "update_completed_text": "Atualização concluída. {x} com sucesso, {y} falharam.",
+  "new_category": "Nova categoria",
+  "add_manga_to": "Adicionar manga a...",
+  "add_to_default_category": "Adicionar à categoria predefinida",
+  "add_to_category": "Adicionar a {category}",
+  "add_to_categories": "{x, plural, one{Adicionar à categoria} other{Adicionar a {x} categorias}}}",
+  "move_manga_to": "Mover manga para...",
+  "keep_in_default_category": "Manter na categoria predefinida",
+  "move_to_category": "Mover para {category}",
+  "move_to_categories": "{x, plural, one{Mover para a categoria} other{Mover para {x} categorias}}}"
 }

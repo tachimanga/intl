@@ -583,7 +583,7 @@
   "moveToTop": "Move to top",
   "nameCountDisplay": "{name}: {count}",
   "newUpdateAvailable": "New update available",
-  "noCategoriesFound": "You don't have any Categories. \n(Tip: Tap the Plus button to create one for organizing your library)",
+  "noCategoriesFound": "You don't have any Categories.",
   "noCategoriesFoundAlt": "You don't have any Categories. \nCreate one in settings for organizing your library",
   "noCategoryMangaFound": "No manga found in this Category. \n(Tip: Check your search & filters!)",
   "noChaptersFound": "No Chapters found",
@@ -903,5 +903,14 @@
   "long_press_action_menu": "Long press action menu",
   "app_icon_update_tip": "If the icon is not updated successfully, you can wait a while or simply reboot your device.",
   "update_running_text": "Updating {title}",
-  "update_completed_text": "Update completed. {x} successful, {y} failed."
+  "update_completed_text": "Update completed. {x} successful, {y} failed.",
+  "new_category": "New category",
+  "add_manga_to": "Add manga to...",
+  "add_to_default_category": "Add to default category",
+  "add_to_category": "Add to {category}",
+  "add_to_categories": "{x, plural, one{Add to category} other{Add to {x} categories}}}",
+  "move_manga_to": "Move manga to...",
+  "keep_in_default_category": "Keep in default category",
+  "move_to_category": "Move to {category}",
+  "move_to_categories": "{x, plural, one{Move to category} other{Move to {x} categories}}}"
 }

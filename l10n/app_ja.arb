@@ -155,7 +155,7 @@
   "@nameCountDisplay": {},
   "newUpdateAvailable": "新しいアップデートあり",
   "@newUpdateAvailable": {},
-  "noCategoriesFound": "カテゴリが見つかりません。\n(ヒント: ライブラリを整理するためにプラスボタンをタップして作成してください)",
+  "noCategoriesFound": "カテゴリが見つかりません。",
   "@noCategoriesFound": {},
   "noCategoriesFoundAlt": "カテゴリが見つかりません。\nライブラリを整理するために設定で作成してください",
   "@noCategoriesFoundAlt": {},
@@ -736,5 +736,14 @@
   "long_press_action_menu": "長押しアクションメニュー",
   "app_icon_update_tip": "アイコンが正常に更新されない場合、しばらく待つか、デバイスを再起動してください。",
   "update_running_text": "{title} を更新中",
-  "update_completed_text": "更新が完了しました。成功：{x}、失敗：{y}。"
+  "update_completed_text": "更新が完了しました。成功：{x}、失敗：{y}。",
+  "new_category": "新しいカテゴリ",
+  "add_manga_to": "漫画を追加する...",
+  "add_to_default_category": "デフォルトカテゴリに追加",
+  "add_to_category": "{category} に追加",
+  "add_to_categories": "{x, plural, one{カテゴリに追加} other{{x}個のカテゴリに追加}}}",
+  "move_manga_to": "漫画を移動する...",
+  "keep_in_default_category": "デフォルトカテゴリに保持",
+  "move_to_category": "{category} に移動",
+  "move_to_categories": "{x, plural, one{カテゴリに移動} other{{x}個のカテゴリに移動}}}"
 }
