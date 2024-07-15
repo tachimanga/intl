@@ -155,7 +155,7 @@
   "@nameCountDisplay": {},
   "newUpdateAvailable": "Új frissítés elérhető",
   "@newUpdateAvailable": {},
-  "noCategoriesFound": "Nincsenek kategóriák létrehozva. \n(Tipp: Kattintson a hozzáadás gombra, hogy létrehozzon egyet a könyvtár rendezéséhez)",
+  "noCategoriesFound": "Nincsenek kategóriák létrehozva.",
   "@noCategoriesFound": {},
   "noCategoriesFoundAlt": "Nincsenek kategóriák létrehozva. \nHozzon létre egyet a beállításokban a könyvtár rendezéséhez",
   "@noCategoriesFoundAlt": {},
@@ -748,5 +748,14 @@
   "long_press_action_menu": "Hosszú nyomás akció menüje",
   "app_icon_update_tip": "Ha az ikon frissítése nem sikerült, várj egy kicsit, vagy egyszerűen indítsd újra az eszközödet.",
   "update_running_text": "{title} frissítése folyamatban",
-  "update_completed_text": "A frissítés befejeződött. {x} sikeres, {y} sikertelen."
+  "update_completed_text": "A frissítés befejeződött. {x} sikeres, {y} sikertelen.",
+  "new_category": "Új kategória",
+  "add_manga_to": "Manga hozzáadása ide...",
+  "add_to_default_category": "Hozzáadás az alapértelmezett kategóriához",
+  "add_to_category": "Hozzáadás ide: {category}",
+  "add_to_categories": "{x, plural, one{Hozzáadás kategóriához} other{Hozzáadás {x} kategóriához}}}",
+  "move_manga_to": "Manga áthelyezése ide...",
+  "keep_in_default_category": "Tartsd az alapértelmezett kategóriában",
+  "move_to_category": "Áthelyezés ide: {category}",
+  "move_to_categories": "{x, plural, one{Áthelyezés kategóriába} other{Áthelyezés {x} kategóriába}}}"
 }

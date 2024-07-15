@@ -155,7 +155,7 @@
   "@nameCountDisplay": {},
   "newUpdateAvailable": "มีการอัปเดตใหม่",
   "@newUpdateAvailable": {},
-  "noCategoriesFound": "คุณไม่มีหมวดหมู่ใดๆ \n(เคล็ดลับ: แตะที่ปุ่มบวกเพื่อสร้างหมวดหมู่สำหรับการจัดระเบียบห้องสมุดของคุณ)",
+  "noCategoriesFound": "คุณไม่มีหมวดหมู่ใดๆ",
   "@noCategoriesFound": {},
   "noCategoriesFoundAlt": "คุณไม่มีหมวดหมู่ใดๆ \nสร้างในการตั้งค่าเพื่อจัดระเบียบห้องสมุดของคุณ",
   "@noCategoriesFoundAlt": {},
@@ -748,5 +748,14 @@
   "long_press_action_menu": "เมนูการดำเนินการกดค้าง",
   "app_icon_update_tip": "หากไอคอนไม่อัปเดตเรียบร้อย คุณสามารถรอสักครู่หรือเรียกใช้งานอุปกรณ์ใหม่",
   "update_running_text": "กำลังอัปเดต {title}",
-  "update_completed_text": "อัปเดตเสร็จสิ้น สำเร็จ {x} ล้มเหลว {y}"
+  "update_completed_text": "อัปเดตเสร็จสิ้น สำเร็จ {x} ล้มเหลว {y}",
+  "new_category": "หมวดหมู่ใหม่",
+  "add_manga_to": "เพิ่มมังงะไปยัง...",
+  "add_to_default_category": "เพิ่มเข้าไปในหมวดหมู่เริ่มต้น",
+  "add_to_category": "เพิ่มในหมวดหมู่ {category}",
+  "add_to_categories": "{x, plural, one{เพิ่มในหมวดหมู่} other{เพิ่มใน {x} หมวดหมู่}}}",
+  "move_manga_to": "ย้ายมังงะไปยัง...",
+  "keep_in_default_category": "เก็บไว้ในหมวดหมู่เริ่มต้น",
+  "move_to_category": "ย้ายไปยังหมวดหมู่ {category}",
+  "move_to_categories": "{x, plural, one{ย้ายไปยังหมวดหมู่} other{ย้ายไปยัง {x} หมวดหมู่}}}"
 }

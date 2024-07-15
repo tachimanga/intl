@@ -261,7 +261,7 @@
   "@moveToBottom": {},
   "moveToTop": "移至頂部",
   "@moveToTop": {},
-  "noCategoriesFound": "尚未有任何分類。\n（提示：輕觸加號按鍵建立一個分類以管理你的書櫃）",
+  "noCategoriesFound": "尚未有任何分類。",
   "@noCategoriesFound": {},
   "noCategoriesFoundAlt": "尚未有任何分類。\n在設定內建立一個以管理你的書櫃",
   "@noCategoriesFoundAlt": {},
@@ -748,5 +748,14 @@
   "long_press_action_menu": "長按動作選單",
   "app_icon_update_tip": "如果圖示未能成功更新，您可以稍等一下或簡單地重新啟動您的裝置。",
   "update_running_text": "更新中 {title}",
-  "update_completed_text": "更新已完成。成功：{x}，失敗：{y}。"
+  "update_completed_text": "更新已完成。成功：{x}，失敗：{y}。",
+  "new_category": "新分類",
+  "add_manga_to": "新增漫畫至...",
+  "add_to_default_category": "新增至預設分類",
+  "add_to_category": "新增至 {category}",
+  "add_to_categories": "{x, plural, one{新增至分類} other{新增至 {x} 個分類}}}",
+  "move_manga_to": "移動漫畫至...",
+  "keep_in_default_category": "保留在預設分類",
+  "move_to_category": "移動至 {category}",
+  "move_to_categories": "{x, plural, one{移動至分類} other{移動至 {x} 個分類}}}"
 }

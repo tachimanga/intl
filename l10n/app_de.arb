@@ -155,7 +155,7 @@
   "@nameCountDisplay": {},
   "newUpdateAvailable": "Neues Update verfügbar",
   "@newUpdateAvailable": {},
-  "noCategoriesFound": "Du hast keine Kategorien.\n(Tipp: Tippe auf die Plus-Knopf, um eine Kategorie zur Organisation deiner Bibliothek zu erstellen)",
+  "noCategoriesFound": "Du hast keine Kategorien.",
   "@noCategoriesFound": {},
   "noCategoriesFoundAlt": "Du hast keine Kategorien.\nErstelle eine in den Einstellungen zum organisieren deiner Bibliothek",
   "@noCategoriesFoundAlt": {},
@@ -748,5 +748,14 @@
   "long_press_action_menu": "Aktionsmenü für lange Drucke",
   "app_icon_update_tip": "Wenn das Symbol nicht erfolgreich aktualisiert wurde, können Sie eine Weile warten oder einfach Ihr Gerät neu starten.",
   "update_running_text": "Aktualisierung von {title}",
-  "update_completed_text": "Aktualisierung abgeschlossen. {x} erfolgreich, {y} fehlgeschlagen."
+  "update_completed_text": "Aktualisierung abgeschlossen. {x} erfolgreich, {y} fehlgeschlagen.",
+  "new_category": "Neue Kategorie",
+  "add_manga_to": "Manga hinzufügen zu...",
+  "add_to_default_category": "Zur Standardkategorie hinzufügen",
+  "add_to_category": "Hinzufügen zu {category}",
+  "add_to_categories": "{x, plural, one{Zur Kategorie hinzufügen} other{Zu {x} Kategorien hinzufügen}}}",
+  "move_manga_to": "Manga verschieben nach...",
+  "keep_in_default_category": "In Standardkategorie behalten",
+  "move_to_category": "Verschieben nach {category}",
+  "move_to_categories": "{x, plural, one{In Kategorie verschieben} other{In {x} Kategorien verschieben}}}"
 }

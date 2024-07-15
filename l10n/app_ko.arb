@@ -169,7 +169,7 @@
   "@newUpdateAvailable": {
     "description": "Popup title to show that the App/Server has and update"
   },
-  "noCategoriesFound": "카테고리가 없습니다.\n(팁: 플러스 버튼을 눌러 라이브러리를 정리할 수 있습니다)",
+  "noCategoriesFound": "카테고리가 없습니다.",
   "@noCategoriesFound": {
     "description": "Hint text to add new Category when category list is empty"
   },
@@ -1122,5 +1122,14 @@
   "long_press_action_menu": "길게 누르면 작동 메뉴",
   "app_icon_update_tip": "아이콘이 성공적으로 업데이트되지 않으면 잠시 기다리거나 단순히 기기를 다시 시작할 수 있습니다.",
   "update_running_text": "{title} 업데이트 중",
-  "update_completed_text": "업데이트 완료. 성공 {x}, 실패 {y}."
+  "update_completed_text": "업데이트 완료. 성공 {x}, 실패 {y}.",
+  "new_category": "새 카테고리",
+  "add_manga_to": "만화를 추가할 위치...",
+  "add_to_default_category": "기본 카테고리에 추가",
+  "add_to_category": "{category}에 추가",
+  "add_to_categories": "{x, plural, one{카테고리에 추가} other{{x}개의 카테고리에 추가}}}",
+  "move_manga_to": "만화를 이동할 위치...",
+  "keep_in_default_category": "기본 카테고리에 유지",
+  "move_to_category": "{category}로 이동",
+  "move_to_categories": "{x, plural, one{카테고리로 이동} other{{x}개의 카테고리로 이동}}}"
 }
