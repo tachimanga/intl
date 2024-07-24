@@ -805,7 +805,7 @@
   "@add_to_default_category": {},
   "add_to_category": "新增至 {category}",
   "@add_to_category": {},
-  "add_to_categories": "{x, plural, one{新增至分類} other{新增至 {x} 個分類}}}",
+  "add_to_categories": "{x, plural, one{新增至分類} other{新增至 {x} 個分類}}",
   "@add_to_categories": {},
   "move_manga_to": "移動漫畫至...",
   "@move_manga_to": {},
@@ -813,6 +813,6 @@
   "@keep_in_default_category": {},
   "move_to_category": "移動至 {category}",
   "@move_to_category": {},
-  "move_to_categories": "{x, plural, one{移動至分類} other{移動至 {x} 個分類}}}",
+  "move_to_categories": "{x, plural, one{移動至分類} other{移動至 {x} 個分類}}",
   "@move_to_categories": {}
 }
