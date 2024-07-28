@@ -830,8 +830,8 @@
   "@iCloud_label": {},
   "backup_to_iCloud": "Fazer backup no iCloud Drive",
   "@backup_to_iCloud": {},
-  "backup_to_iCloud_tip": "Carregar e descarregar ficheiros de backup do iCloud Drive",
+  "backup_to_iCloud_tip": "Enviar e baixar arquivos de backup do iCloud Drive",
   "@backup_to_iCloud_tip": {},
-  "downloading_from_iCloud": "A descarregar do iCloud",
+  "downloading_from_iCloud": "Baixando do iCloud",
   "@downloading_from_iCloud": {}
 }
