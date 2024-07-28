@@ -770,5 +770,13 @@
   "move_to_category": "{category} に移動",
   "@move_to_category": {},
   "move_to_categories": "{x, plural, one{カテゴリに移動} other{{x}個のカテゴリに移動}}}",
-  "@move_to_categories": {}
+  "@move_to_categories": {},
+  "iCloud_label": "iCloud",
+  "@iCloud_label": {},
+  "backup_to_iCloud": "iCloud ドライブにバックアップ",
+  "@backup_to_iCloud": {},
+  "backup_to_iCloud_tip": "iCloud ドライブからのバックアップファイルのアップロードとダウンロード",
+  "@backup_to_iCloud_tip": {},
+  "downloading_from_iCloud": "iCloud からのダウンロード中",
+  "@downloading_from_iCloud": {}
 }

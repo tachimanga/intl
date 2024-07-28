@@ -814,5 +814,13 @@
   "move_to_category": "Verschieben nach {category}",
   "@move_to_category": {},
   "move_to_categories": "{x, plural, one{In Kategorie verschieben} other{In {x} Kategorien verschieben}}}",
-  "@move_to_categories": {}
+  "@move_to_categories": {},
+  "iCloud_label": "iCloud",
+  "@iCloud_label": {},
+  "backup_to_iCloud": "Backup auf iCloud Drive",
+  "@backup_to_iCloud": {},
+  "backup_to_iCloud_tip": "Sichern und Wiederherstellen von Dateien aus iCloud Drive",
+  "@backup_to_iCloud_tip": {},
+  "downloading_from_iCloud": "Herunterladen von iCloud",
+  "@downloading_from_iCloud": {}
 }

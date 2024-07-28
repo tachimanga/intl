@@ -814,5 +814,13 @@
   "move_to_category": "Переместить в категорию {category}",
   "@move_to_category": {},
   "move_to_categories": "{x, plural, one{Переместить в категорию} other{Переместить в {x} категории}}}",
-  "@move_to_categories": {}
+  "@move_to_categories": {},
+  "iCloud_label": "iCloud",
+  "@iCloud_label": {},
+  "backup_to_iCloud": "Резервное копирование на iCloud Drive",
+  "@backup_to_iCloud": {},
+  "backup_to_iCloud_tip": "Загрузка и загрузка файлов резервного копирования с iCloud Drive",
+  "@backup_to_iCloud_tip": {},
+  "downloading_from_iCloud": "Загрузка из iCloud",
+  "@downloading_from_iCloud": {}
 }

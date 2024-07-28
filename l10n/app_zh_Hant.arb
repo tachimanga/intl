@@ -814,5 +814,13 @@
   "move_to_category": "移動至 {category}",
   "@move_to_category": {},
   "move_to_categories": "{x, plural, one{移動至分類} other{移動至 {x} 個分類}}",
-  "@move_to_categories": {}
+  "@move_to_categories": {},
+  "iCloud_label": "iCloud",
+  "@iCloud_label": {},
+  "backup_to_iCloud": "備份到iCloud驅動器",
+  "@backup_to_iCloud": {},
+  "backup_to_iCloud_tip": "從iCloud驅動器上傳和下載備份文件",
+  "@backup_to_iCloud_tip": {},
+  "downloading_from_iCloud": "正在從iCloud下載",
+  "@downloading_from_iCloud": {}
 }

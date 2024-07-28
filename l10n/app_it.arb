@@ -814,5 +814,13 @@
   "move_to_category": "Sposta in {category}",
   "@move_to_category": {},
   "move_to_categories": "{x, plural, one{Sposta nella categoria} other{Sposta in {x} categorie}}}",
-  "@move_to_categories": {}
+  "@move_to_categories": {},
+  "iCloud_label": "iCloud",
+  "@iCloud_label": {},
+  "backup_to_iCloud": "Backup su iCloud Drive",
+  "@backup_to_iCloud": {},
+  "backup_to_iCloud_tip": "Carica e scarica file di backup da iCloud Drive",
+  "@backup_to_iCloud_tip": {},
+  "downloading_from_iCloud": "Scaricamento da iCloud",
+  "@downloading_from_iCloud": {}
 }

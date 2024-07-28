@@ -1228,5 +1228,13 @@
   "move_to_category": "Перемістити до {category}",
   "@move_to_category": {},
   "move_to_categories": "{x, plural, one{Перемістити до категорії} other{Перемістити до {x} категорій}}}",
-  "@move_to_categories": {}
+  "@move_to_categories": {},
+  "iCloud_label": "iCloud",
+  "@iCloud_label": {},
+  "backup_to_iCloud": "Резервне копіювання на iCloud Drive",
+  "@backup_to_iCloud": {},
+  "backup_to_iCloud_tip": "Завантаження та вивантаження резервних файлів з iCloud Drive",
+  "@backup_to_iCloud_tip": {},
+  "downloading_from_iCloud": "Завантаження з iCloud",
+  "@downloading_from_iCloud": {}
 }

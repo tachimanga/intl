@@ -1154,5 +1154,13 @@
   "move_to_category": "移动到 {category}",
   "@move_to_category": {},
   "move_to_categories": "{x, plural, one{移动到分类} other{移动到 {x} 个分类}}}",
-  "@move_to_categories": {}
+  "@move_to_categories": {},
+  "iCloud_label": "iCloud",
+  "@iCloud_label": {},
+  "backup_to_iCloud": "备份到iCloud驱动器",
+  "@backup_to_iCloud": {},
+  "backup_to_iCloud_tip": "从iCloud驱动器上传和下载备份文件",
+  "@backup_to_iCloud_tip": {},
+  "downloading_from_iCloud": "正在从iCloud下载",
+  "@downloading_from_iCloud": {}
 }

@@ -814,5 +814,13 @@
   "move_to_category": "Pindah ke {category}",
   "@move_to_category": {},
   "move_to_categories": "{x, plural, one{Pindah ke kategori} other{Pindah ke {x} kategori}}}",
-  "@move_to_categories": {}
+  "@move_to_categories": {},
+  "iCloud_label": "iCloud",
+  "@iCloud_label": {},
+  "backup_to_iCloud": "Sembang ke Pemacu iCloud",
+  "@backup_to_iCloud": {},
+  "backup_to_iCloud_tip": "Muat naik dan muat turun fail sandaran dari Pemacu iCloud",
+  "@backup_to_iCloud_tip": {},
+  "downloading_from_iCloud": "Memuat turun dari iCloud",
+  "@downloading_from_iCloud": {}
 }

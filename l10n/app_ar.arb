@@ -1220,5 +1220,13 @@
   "move_to_category": "انقل إلى {category}",
   "@move_to_category": {},
   "move_to_categories": "{x, plural, one{انقل إلى الفئة} other{انقل إلى {x} فئات}}}",
-  "@move_to_categories": {}
+  "@move_to_categories": {},
+  "iCloud_label": "آي كلاود",
+  "@iCloud_label": {},
+  "backup_to_iCloud": "نسخ احتياطي على iCloud Drive",
+  "@backup_to_iCloud": {},
+  "backup_to_iCloud_tip": "قم بتحميل وتنزيل ملفات النسخ الاحتياطي من iCloud Drive",
+  "@backup_to_iCloud_tip": {},
+  "downloading_from_iCloud": "التحميل من iCloud",
+  "@downloading_from_iCloud": {}
 }
