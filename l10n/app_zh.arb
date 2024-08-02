@@ -1162,5 +1162,7 @@
   "backup_to_iCloud_tip": "从iCloud驱动器上传和下载备份文件",
   "@backup_to_iCloud_tip": {},
   "downloading_from_iCloud": "正在从iCloud下载",
-  "@downloading_from_iCloud": {}
+  "@downloading_from_iCloud": {},
+  "iCloud_unavailable_tip": "iCloud Drive 不可用。请在系统设置中打开iCloud Drive。如需更多帮助，请访问 https://tachimanga.app/icloud",
+  "@iCloud_unavailable_tip": {}
 }

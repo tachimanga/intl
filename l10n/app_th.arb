@@ -822,5 +822,7 @@
   "backup_to_iCloud_tip": "อัปโหลดและดาวน์โหลดไฟล์สำรองจาก iCloud Drive",
   "@backup_to_iCloud_tip": {},
   "downloading_from_iCloud": "กำลังดาวน์โหลดจาก iCloud",
-  "@downloading_from_iCloud": {}
+  "@downloading_from_iCloud": {},
+  "iCloud_unavailable_tip": "iCloud Drive ไม่พร้อมใช้งาน กรุณาเปิดใช้งาน iCloud Drive ในการตั้งค่าระบบ สำหรับข้อมูลเพิ่มเติมเยี่ยมชมที่ https://tachimanga.app/icloud",
+  "@iCloud_unavailable_tip": {}
 }

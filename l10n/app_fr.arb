@@ -1176,5 +1176,7 @@
   "backup_to_iCloud_tip": "Charger et télécharger des fichiers de sauvegarde depuis iCloud Drive",
   "@backup_to_iCloud_tip": {},
   "downloading_from_iCloud": "Téléchargement depuis iCloud",
-  "@downloading_from_iCloud": {}
+  "@downloading_from_iCloud": {},
+  "iCloud_unavailable_tip": "iCloud Drive est indisponible. Veuillez activer iCloud Drive dans les Réglages du système. Pour obtenir plus d'aide, visitez https://tachimanga.app/icloud",
+  "@iCloud_unavailable_tip": {}
 }

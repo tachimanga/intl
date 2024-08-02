@@ -822,5 +822,7 @@
   "backup_to_iCloud_tip": "Muat naik dan muat turun fail sandaran dari Pemacu iCloud",
   "@backup_to_iCloud_tip": {},
   "downloading_from_iCloud": "Memuat turun dari iCloud",
-  "@downloading_from_iCloud": {}
+  "@downloading_from_iCloud": {},
+  "iCloud_unavailable_tip": "iCloud Drive tidak tersedia. Sila hidupkan iCloud Drive dalam Tetapan Sistem. Untuk bantuan lanjut, lawati https://tachimanga.app/icloud",
+  "@iCloud_unavailable_tip": {}
 }

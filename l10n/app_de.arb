@@ -822,5 +822,7 @@
   "backup_to_iCloud_tip": "Sichern und Wiederherstellen von Dateien aus iCloud Drive",
   "@backup_to_iCloud_tip": {},
   "downloading_from_iCloud": "Herunterladen von iCloud",
-  "@downloading_from_iCloud": {}
+  "@downloading_from_iCloud": {},
+  "iCloud_unavailable_tip": "iCloud Drive ist nicht verfügbar. Bitte aktivieren Sie iCloud Drive in den Systemeinstellungen. Für weitere Hilfe besuchen Sie https://tachimanga.app/icloud",
+  "@iCloud_unavailable_tip": {}
 }

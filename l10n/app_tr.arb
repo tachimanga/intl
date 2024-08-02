@@ -822,5 +822,7 @@
   "backup_to_iCloud_tip": "iCloud Drive'dan yedek dosyaları yükleme ve indirme",
   "@backup_to_iCloud_tip": {},
   "downloading_from_iCloud": "iCloud'dan İndiriliyor",
-  "@downloading_from_iCloud": {}
+  "@downloading_from_iCloud": {},
+  "iCloud_unavailable_tip": "iCloud Drive kullanılamıyor. Lütfen iCloud Drive'ı Sistem Ayarlarında açın. Daha fazla yardım için https://tachimanga.app/icloud adresini ziyaret edin",
+  "@iCloud_unavailable_tip": {}
 }

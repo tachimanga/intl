@@ -1228,5 +1228,7 @@
   "backup_to_iCloud_tip": "قم بتحميل وتنزيل ملفات النسخ الاحتياطي من iCloud Drive",
   "@backup_to_iCloud_tip": {},
   "downloading_from_iCloud": "التحميل من iCloud",
-  "@downloading_from_iCloud": {}
+  "@downloading_from_iCloud": {},
+  "iCloud_unavailable_tip": "خدمة iCloud غير متوفرة. يرجى تشغيل iCloud في إعدادات النظام. للحصول على مزيد من المساعدة، قم بزيارة https://tachimanga.app/icloud",
+  "@iCloud_unavailable_tip": {}
 }

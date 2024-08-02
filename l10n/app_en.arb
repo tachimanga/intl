@@ -1175,5 +1175,7 @@
   "backup_to_iCloud_tip": "Upload and download backup files from iCloud Drive",
   "@backup_to_iCloud_tip": {},
   "downloading_from_iCloud": "Downloading from iCloud",
-  "@downloading_from_iCloud": {}
+  "@downloading_from_iCloud": {},
+  "iCloud_unavailable_tip": "iCloud Drive is unavailable. Please turn on iCloud Drive in System Settings. For more help, visit https://tachimanga.app/icloud",
+  "@iCloud_unavailable_tip": {}
 }

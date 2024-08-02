@@ -822,5 +822,7 @@
   "backup_to_iCloud_tip": "Tải lên và tải xuống tệp sao lưu từ iCloud Drive",
   "@backup_to_iCloud_tip": {},
   "downloading_from_iCloud": "Đang tải từ iCloud",
-  "@downloading_from_iCloud": {}
+  "@downloading_from_iCloud": {},
+  "iCloud_unavailable_tip": "iCloud Drive không khả dụng. Vui lòng bật iCloud Drive trong Cài đặt Hệ thống. Để biết thêm trợ giúp, truy cập https://tachimanga.app/icloud",
+  "@iCloud_unavailable_tip": {}
 }

@@ -822,5 +822,7 @@
   "backup_to_iCloud_tip": "Загрузка и загрузка файлов резервного копирования с iCloud Drive",
   "@backup_to_iCloud_tip": {},
   "downloading_from_iCloud": "Загрузка из iCloud",
-  "@downloading_from_iCloud": {}
+  "@downloading_from_iCloud": {},
+  "iCloud_unavailable_tip": "iCloud Drive недоступен. Включите iCloud Drive в настройках системы. Дополнительная помощь по адресу https://tachimanga.app/icloud",
+  "@iCloud_unavailable_tip": {}
 }

@@ -822,5 +822,7 @@
   "backup_to_iCloud_tip": "Biztonsági másolatok feltöltése és letöltése az iCloud Drive-ról",
   "@backup_to_iCloud_tip": {},
   "downloading_from_iCloud": "Letöltés az iCloud-ról",
-  "@downloading_from_iCloud": {}
+  "@downloading_from_iCloud": {},
+  "iCloud_unavailable_tip": "Az iCloud Drive nem elérhető. Kérjük, kapcsolja be az iCloud Drive-ot a Rendszerbeállításokban. További segítségért látogasson el a https://tachimanga.app/icloud weboldalra",
+  "@iCloud_unavailable_tip": {}
 }
