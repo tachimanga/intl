@@ -814,5 +814,15 @@
   "move_to_category": "Di chuyển đến thể loại {category}",
   "@move_to_category": {},
   "move_to_categories": "{x, plural, one{Di chuyển đến thể loại} other{Di chuyển đến {x} thể loại}}}",
-  "@move_to_categories": {}
+  "@move_to_categories": {},
+  "iCloud_label": "iCloud",
+  "@iCloud_label": {},
+  "backup_to_iCloud": "Sao lưu lên iCloud Drive",
+  "@backup_to_iCloud": {},
+  "backup_to_iCloud_tip": "Tải lên và tải xuống tệp sao lưu từ iCloud Drive",
+  "@backup_to_iCloud_tip": {},
+  "downloading_from_iCloud": "Đang tải từ iCloud",
+  "@downloading_from_iCloud": {},
+  "iCloud_unavailable_tip": "iCloud Drive không khả dụng. Vui lòng bật iCloud Drive trong Cài đặt Hệ thống. Để biết thêm trợ giúp, truy cập https://tachimanga.app/icloud",
+  "@iCloud_unavailable_tip": {}
 }

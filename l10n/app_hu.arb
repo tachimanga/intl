@@ -814,5 +814,15 @@
   "move_to_category": "Áthelyezés ide: {category}",
   "@move_to_category": {},
   "move_to_categories": "{x, plural, one{Áthelyezés kategóriába} other{Áthelyezés {x} kategóriába}}}",
-  "@move_to_categories": {}
+  "@move_to_categories": {},
+  "iCloud_label": "iCloud",
+  "@iCloud_label": {},
+  "backup_to_iCloud": "Biztonsági másolat készítése az iCloud Drive-ra",
+  "@backup_to_iCloud": {},
+  "backup_to_iCloud_tip": "Biztonsági másolatok feltöltése és letöltése az iCloud Drive-ról",
+  "@backup_to_iCloud_tip": {},
+  "downloading_from_iCloud": "Letöltés az iCloud-ról",
+  "@downloading_from_iCloud": {},
+  "iCloud_unavailable_tip": "Az iCloud Drive nem elérhető. Kérjük, kapcsolja be az iCloud Drive-ot a Rendszerbeállításokban. További segítségért látogasson el a https://tachimanga.app/icloud weboldalra",
+  "@iCloud_unavailable_tip": {}
 }

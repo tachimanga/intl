@@ -814,5 +814,15 @@
   "move_to_category": "Pindahkan ke {category}",
   "@move_to_category": {},
   "move_to_categories": "{x, plural, one{Pindahkan ke kategori} other{Pindahkan ke {x} kategori}}}",
-  "@move_to_categories": {}
+  "@move_to_categories": {},
+  "iCloud_label": "iCloud",
+  "@iCloud_label": {},
+  "backup_to_iCloud": "Cadangkan ke iCloud Drive",
+  "@backup_to_iCloud": {},
+  "backup_to_iCloud_tip": "Unggah dan unduh file cadangan dari iCloud Drive",
+  "@backup_to_iCloud_tip": {},
+  "downloading_from_iCloud": "Mengunduh dari iCloud",
+  "@downloading_from_iCloud": {},
+  "iCloud_unavailable_tip": "iCloud Drive tidak tersedia. Silakan aktifkan iCloud Drive di Pengaturan Sistem. Untuk bantuan lebih lanjut, kunjungi https://tachimanga.app/icloud",
+  "@iCloud_unavailable_tip": {}
 }

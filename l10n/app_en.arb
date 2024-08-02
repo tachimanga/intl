@@ -1167,5 +1167,15 @@
   "move_to_category": "Move to {category}",
   "@move_to_category": {},
   "move_to_categories": "{x, plural, one{Move to category} other{Move to {x} categories}}}",
-  "@move_to_categories": {}
+  "@move_to_categories": {},
+  "iCloud_label": "iCloud",
+  "@iCloud_label": {},
+  "backup_to_iCloud": "Backup to iCloud Drive",
+  "@backup_to_iCloud": {},
+  "backup_to_iCloud_tip": "Upload and download backup files from iCloud Drive",
+  "@backup_to_iCloud_tip": {},
+  "downloading_from_iCloud": "Downloading from iCloud",
+  "@downloading_from_iCloud": {},
+  "iCloud_unavailable_tip": "iCloud Drive is unavailable. Please turn on iCloud Drive in System Settings. For more help, visit https://tachimanga.app/icloud",
+  "@iCloud_unavailable_tip": {}
 }
