@@ -387,7 +387,7 @@
   "@restoring": {},
   "restored": "Backup wiederhergestellt!",
   "@restored": {},
-  "importBackupTitle": "Tachiyomi-Backup importieren",
+  "importBackupTitle": "Tachiyomi/Mihon Backup importieren",
   "@importBackupTitle": {},
   "importBackupDescription": "Bibliothek aus Tachiyomi-Backup-Datei importieren",
   "@importBackupDescription": {},
