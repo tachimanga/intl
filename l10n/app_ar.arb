@@ -19,7 +19,7 @@
   "@appTheme": {
     "description": "Popup title and Button text to change App Theme"
   },
-  "appTitle": "تاتشيمانجا",
+  "appTitle": "تاتشي مانجا",
   "@appTitle": {
     "description": "Name of the app (Tachimanga in native script)"
   },
@@ -51,7 +51,7 @@
   "@categoryUpdate": {
     "description": "Button text to update the mangas in the Category"
   },
-  "chapterNumber": "الفصل {number}",
+  "chapterNumber": "{رقم} الفصل",
   "@chapterNumber": {
     "description": "Text title for Chapter name in chapter list",
     "placeholders": {
@@ -89,7 +89,7 @@
   "@completed": {
     "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
   },
-  "copyMsg": "'{msg}'‮ تم نسخ!",
+  "copyMsg": "'{الصورة}'‮ تم نسخ!",
   "@copyMsg": {
     "description": "Toast text to show that the message has been copied",
     "placeholders": {
@@ -107,7 +107,7 @@
   "@delete": {
     "description": "Text for delete button"
   },
-  "deleteCategoryDescription": "سيؤدي إلى دمج جميع المانجا في هذه الفئة إلى الافتراضية!",
+  "deleteCategoryDescription": "سيؤدي هذا التغير إلى دمج جميع المانجا في هذه الفئة إلى الافتراضية!",
   "@deleteCategoryDescription": {
     "description": "Popup description when deleting Category"
   },
@@ -1129,7 +1129,7 @@
   "@tap_to_open": {},
   "labsSubtitle": "المميزات التجريبية‎",
   "@labsSubtitle": {},
-  "labs": "مختبر",
+  "labs": "مختبرات",
   "@labs": {},
   "concurrent_download_short_title_num": "التنزيلات المتزامنة: {num}",
   "@concurrent_download_short_title_num": {},
