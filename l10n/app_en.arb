@@ -1146,7 +1146,7 @@
   "@long_press_action_menu": {},
   "app_icon_update_tip": "If the icon is not updated successfully, you can wait a while or simply reboot your device.",
   "@app_icon_update_tip": {},
-  "update_running_text": "Updating {title}",
+  "update_running_text": "Updating: {title}",
   "@update_running_text": {},
   "update_completed_text": "Update completed. {x} successful, {y} failed.",
   "@update_completed_text": {},
@@ -1177,5 +1177,6 @@
   "downloading_from_iCloud": "Downloading from iCloud",
   "@downloading_from_iCloud": {},
   "iCloud_unavailable_tip": "iCloud Drive is unavailable. Please turn on iCloud Drive in System Settings. For more help, visit https://tachimanga.app/icloud",
-  "@iCloud_unavailable_tip": {}
+  "@iCloud_unavailable_tip": {},
+  "downloading_running_text": "Downloading {running} of {total}"
 }
