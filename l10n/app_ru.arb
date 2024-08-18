@@ -793,7 +793,7 @@
   "@long_press_action_menu": {},
   "app_icon_update_tip": "Если значок не обновился успешно, вы можете подождать некоторое время или просто перезагрузить устройство.",
   "@app_icon_update_tip": {},
-  "update_running_text": "Обновление {title}",
+  "update_running_text": "Обновление: {title}",
   "@update_running_text": {},
   "update_completed_text": "Обновление завершено. Успешно: {x}, с ошибками: {y}.",
   "@update_completed_text": {},
@@ -824,5 +824,7 @@
   "downloading_from_iCloud": "Загрузка из iCloud",
   "@downloading_from_iCloud": {},
   "iCloud_unavailable_tip": "iCloud Drive недоступен. Включите iCloud Drive в настройках системы. Дополнительная помощь по адресу https://tachimanga.app/icloud",
-  "@iCloud_unavailable_tip": {}
+  "@iCloud_unavailable_tip": {},
+  "downloading_running_text": "Загружается {running} из {total}",
+  "@downloading_running_text": {}
 }

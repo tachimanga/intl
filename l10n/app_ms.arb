@@ -793,7 +793,7 @@
   "@long_press_action_menu": {},
   "app_icon_update_tip": "Jika ikon tidak dikemaskini dengan berjaya, anda boleh menunggu sebentar atau hanya menyalakan semula peranti anda.",
   "@app_icon_update_tip": {},
-  "update_running_text": "Mengemaskini {title}",
+  "update_running_text": "Mengemaskini: {title}",
   "@update_running_text": {},
   "update_completed_text": "Kemaskini selesai. {x} berjaya, {y} gagal.",
   "@update_completed_text": {},
@@ -824,5 +824,7 @@
   "downloading_from_iCloud": "Memuat turun dari iCloud",
   "@downloading_from_iCloud": {},
   "iCloud_unavailable_tip": "iCloud Drive tidak tersedia. Sila hidupkan iCloud Drive dalam Tetapan Sistem. Untuk bantuan lanjut, lawati https://tachimanga.app/icloud",
-  "@iCloud_unavailable_tip": {}
+  "@iCloud_unavailable_tip": {},
+  "downloading_running_text": "Memuat turun {running} daripada {total}",
+  "@downloading_running_text": {}
 }

@@ -1199,7 +1199,7 @@
   "@long_press_action_menu": {},
   "app_icon_update_tip": "إذا لم يتم تحديث الرمز بنجاح، يمكنك الانتظار لبعض الوقت أو إعادة تشغيل الجهاز ببساطة.",
   "@app_icon_update_tip": {},
-  "update_running_text": "جارٍ التحديث {title}",
+  "update_running_text": "جار التحديث: {title}",
   "@update_running_text": {},
   "update_completed_text": "تم التحديث. نجاح {x}، فشل {y}.",
   "@update_completed_text": {},
@@ -1230,5 +1230,7 @@
   "downloading_from_iCloud": "التحميل من iCloud",
   "@downloading_from_iCloud": {},
   "iCloud_unavailable_tip": "خدمة iCloud غير متوفرة. يرجى تشغيل iCloud في إعدادات النظام. للحصول على مزيد من المساعدة، قم بزيارة https://tachimanga.app/icloud",
-  "@iCloud_unavailable_tip": {}
+  "@iCloud_unavailable_tip": {},
+  "downloading_running_text": "جار التحميل {running} من {total}",
+  "@downloading_running_text": {}
 }

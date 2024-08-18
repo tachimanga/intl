@@ -793,7 +793,7 @@
   "@long_press_action_menu": {},
   "app_icon_update_tip": "หากไอคอนไม่อัปเดตเรียบร้อย คุณสามารถรอสักครู่หรือเรียกใช้งานอุปกรณ์ใหม่",
   "@app_icon_update_tip": {},
-  "update_running_text": "กำลังอัปเดต {title}",
+  "update_running_text": "กำลังอัพเดท: {title}",
   "@update_running_text": {},
   "update_completed_text": "อัปเดตเสร็จสิ้น สำเร็จ {x} ล้มเหลว {y}",
   "@update_completed_text": {},
@@ -824,5 +824,7 @@
   "downloading_from_iCloud": "กำลังดาวน์โหลดจาก iCloud",
   "@downloading_from_iCloud": {},
   "iCloud_unavailable_tip": "iCloud Drive ไม่พร้อมใช้งาน กรุณาเปิดใช้งาน iCloud Drive ในการตั้งค่าระบบ สำหรับข้อมูลเพิ่มเติมเยี่ยมชมที่ https://tachimanga.app/icloud",
-  "@iCloud_unavailable_tip": {}
+  "@iCloud_unavailable_tip": {},
+  "downloading_running_text": "กำลังดาวน์โหลด {running} จาก {total}",
+  "@downloading_running_text": {}
 }

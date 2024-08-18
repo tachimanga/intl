@@ -1178,5 +1178,6 @@
   "@downloading_from_iCloud": {},
   "iCloud_unavailable_tip": "iCloud Drive is unavailable. Please turn on iCloud Drive in System Settings. For more help, visit https://tachimanga.app/icloud",
   "@iCloud_unavailable_tip": {},
-  "downloading_running_text": "Downloading {running} of {total}"
+  "downloading_running_text": "Downloading {running} of {total}",
+  "@downloading_running_text": {}
 }
