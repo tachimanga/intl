@@ -51,7 +51,7 @@
   "@categoryUpdate": {
     "description": "Button text to update the mangas in the Category"
   },
-  "chapterNumber": "{رقم} الفصل",
+  "chapterNumber": "{number} الفصل",
   "@chapterNumber": {
     "description": "Text title for Chapter name in chapter list",
     "placeholders": {
@@ -89,7 +89,7 @@
   "@completed": {
     "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
   },
-  "copyMsg": "'{الصورة}'‮ تم نسخ!",
+  "copyMsg": "'{msg}'‮ تم نسخ!",
   "@copyMsg": {
     "description": "Toast text to show that the message has been copied",
     "placeholders": {
