@@ -793,7 +793,7 @@
   "@long_press_action_menu": {},
   "app_icon_update_tip": "Ha az ikon frissítése nem sikerült, várj egy kicsit, vagy egyszerűen indítsd újra az eszközödet.",
   "@app_icon_update_tip": {},
-  "update_running_text": "{title} frissítése folyamatban",
+  "update_running_text": "Frissítés: {title}",
   "@update_running_text": {},
   "update_completed_text": "A frissítés befejeződött. {x} sikeres, {y} sikertelen.",
   "@update_completed_text": {},
@@ -824,5 +824,7 @@
   "downloading_from_iCloud": "Letöltés az iCloud-ról",
   "@downloading_from_iCloud": {},
   "iCloud_unavailable_tip": "Az iCloud Drive nem elérhető. Kérjük, kapcsolja be az iCloud Drive-ot a Rendszerbeállításokban. További segítségért látogasson el a https://tachimanga.app/icloud weboldalra",
-  "@iCloud_unavailable_tip": {}
+  "@iCloud_unavailable_tip": {},
+  "downloading_running_text": "Letöltés {running} / {total}",
+  "@downloading_running_text": {}
 }

@@ -793,7 +793,7 @@
   "@long_press_action_menu": {},
   "app_icon_update_tip": "如果圖示未能成功更新，您可以稍等一下或簡單地重新啟動您的裝置。",
   "@app_icon_update_tip": {},
-  "update_running_text": "更新中 {title}",
+  "update_running_text": "正在更新: {title}",
   "@update_running_text": {},
   "update_completed_text": "更新已完成。成功：{x}，失敗：{y}。",
   "@update_completed_text": {},
@@ -824,5 +824,7 @@
   "downloading_from_iCloud": "正在從iCloud下載",
   "@downloading_from_iCloud": {},
   "iCloud_unavailable_tip": "iCloud Drive 無法使用。請在系統設定中啟用 iCloud Drive。欲獲得更多幫助，請造訪 https://tachimanga.app/icloud",
-  "@iCloud_unavailable_tip": {}
+  "@iCloud_unavailable_tip": {},
+  "downloading_running_text": "下載中 {running} / {total}",
+  "@downloading_running_text": {}
 }

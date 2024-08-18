@@ -1133,7 +1133,7 @@
   "@long_press_action_menu": {},
   "app_icon_update_tip": "如果图标更新不成功，则可以等一会儿或简单地重新启动设备。",
   "@app_icon_update_tip": {},
-  "update_running_text": "正在更新 {title}",
+  "update_running_text": "正在更新: {title}",
   "@update_running_text": {},
   "update_completed_text": "更新完成。成功：{x}，失败：{y}。",
   "@update_completed_text": {},
@@ -1164,5 +1164,7 @@
   "downloading_from_iCloud": "正在从iCloud下载",
   "@downloading_from_iCloud": {},
   "iCloud_unavailable_tip": "iCloud Drive 不可用。请在系统设置中打开iCloud Drive。如需更多帮助，请访问 https://tachimanga.app/icloud",
-  "@iCloud_unavailable_tip": {}
+  "@iCloud_unavailable_tip": {},
+  "downloading_running_text": "正在下载 {running} 之 {total}",
+  "@downloading_running_text": {}
 }

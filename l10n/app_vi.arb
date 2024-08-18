@@ -793,7 +793,7 @@
   "@long_press_action_menu": {},
   "app_icon_update_tip": "Nếu biểu tượng không được cập nhật thành công, bạn có thể đợi một lúc hoặc chỉ cần khởi động lại thiết bị.",
   "@app_icon_update_tip": {},
-  "update_running_text": "Đang cập nhật {title}",
+  "update_running_text": "Đang cập nhật: {title}",
   "@update_running_text": {},
   "update_completed_text": "Cập nhật hoàn thành. {x} thành công, {y} thất bại.",
   "@update_completed_text": {},
@@ -824,5 +824,7 @@
   "downloading_from_iCloud": "Đang tải từ iCloud",
   "@downloading_from_iCloud": {},
   "iCloud_unavailable_tip": "iCloud Drive không khả dụng. Vui lòng bật iCloud Drive trong Cài đặt Hệ thống. Để biết thêm trợ giúp, truy cập https://tachimanga.app/icloud",
-  "@iCloud_unavailable_tip": {}
+  "@iCloud_unavailable_tip": {},
+  "downloading_running_text": "Đang tải {running} trên {total}",
+  "@downloading_running_text": {}
 }

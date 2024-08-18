@@ -1207,7 +1207,7 @@
   "@long_press_action_menu": {},
   "app_icon_update_tip": "Якщо піктограма не оновилася успішно, ви можете зачекати трохи або просто перезапустити пристрій.",
   "@app_icon_update_tip": {},
-  "update_running_text": "Оновлення {title}",
+  "update_running_text": "Оновлення: {title}",
   "@update_running_text": {},
   "update_completed_text": "Оновлення завершено. Успішно {x}, не вдалося {y}.",
   "@update_completed_text": {},
@@ -1238,5 +1238,7 @@
   "downloading_from_iCloud": "Завантаження з iCloud",
   "@downloading_from_iCloud": {},
   "iCloud_unavailable_tip": "iCloud Drive недоступний. Будь ласка, увімкніть iCloud Drive в налаштуваннях системи. Для отримання додаткової допомоги відвідайте https://tachimanga.app/icloud",
-  "@iCloud_unavailable_tip": {}
+  "@iCloud_unavailable_tip": {},
+  "downloading_running_text": "Завантаження {running} з {total}",
+  "@downloading_running_text": {}
 }
