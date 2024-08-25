@@ -826,5 +826,17 @@
   "iCloud_unavailable_tip": "iCloud Drive 無法使用。請在系統設定中啟用 iCloud Drive。欲獲得更多幫助，請造訪 https://tachimanga.app/icloud",
   "@iCloud_unavailable_tip": {},
   "downloading_running_text": "下載中 {running} / {total}",
-  "@downloading_running_text": {}
+  "@downloading_running_text": {},
+  "edit_cover": "編輯封面",
+  "@edit_cover": {},
+  "set_as_cover": "設為封面",
+  "@set_as_cover": {},
+  "cover_updated": "封面已更新",
+  "@cover_updated": {},
+  "save_image_user_denied_msg": "存取被拒，請在系統設定中允許Tachimanga存取您的相簿。",
+  "@save_image_user_denied_msg": {},
+  "set_as_default": "設為預設",
+  "@set_as_default": {},
+  "reset_to_default": "重置為預設",
+  "@reset_to_default": {}
 }

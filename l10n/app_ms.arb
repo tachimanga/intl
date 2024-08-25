@@ -826,5 +826,17 @@
   "iCloud_unavailable_tip": "iCloud Drive tidak tersedia. Sila hidupkan iCloud Drive dalam Tetapan Sistem. Untuk bantuan lanjut, lawati https://tachimanga.app/icloud",
   "@iCloud_unavailable_tip": {},
   "downloading_running_text": "Memuat turun {running} daripada {total}",
-  "@downloading_running_text": {}
+  "@downloading_running_text": {},
+  "edit_cover": "Sunting muka surat",
+  "@edit_cover": {},
+  "set_as_cover": "Setkan sebagai muka surat",
+  "@set_as_cover": {},
+  "cover_updated": "Muka surat dikemaskini",
+  "@cover_updated": {},
+  "save_image_user_denied_msg": "Akses Ditolak, sila benarkan Tachimanga untuk mengakses album foto anda dalam tetapan sistem.",
+  "@save_image_user_denied_msg": {},
+  "set_as_default": "Setkan sebagai lalai",
+  "@set_as_default": {},
+  "reset_to_default": "Tetap semula kepada lalai",
+  "@reset_to_default": {}
 }

@@ -1232,5 +1232,17 @@
   "iCloud_unavailable_tip": "خدمة iCloud غير متوفرة. يرجى تشغيل iCloud في إعدادات النظام. للحصول على مزيد من المساعدة، قم بزيارة https://tachimanga.app/icloud",
   "@iCloud_unavailable_tip": {},
   "downloading_running_text": "جار التحميل {running} من {total}",
-  "@downloading_running_text": {}
+  "@downloading_running_text": {},
+  "edit_cover": "تعديل الغلاف",
+  "@edit_cover": {},
+  "set_as_cover": "تعيين كغلاف",
+  "@set_as_cover": {},
+  "cover_updated": "تم تحديث الغلاف",
+  "@cover_updated": {},
+  "save_image_user_denied_msg": "تم الرفض, يرجى السماح لـ Tachimanga بالوصول إلى ألبومات الصور الخاصة بك في إعدادات النظام.",
+  "@save_image_user_denied_msg": {},
+  "set_as_default": "تعيين كافتراضي",
+  "@set_as_default": {},
+  "reset_to_default": "إعادة تعيين إلى الوضع الافتراضي",
+  "@reset_to_default": {}
 }
