@@ -826,5 +826,17 @@
   "iCloud_unavailable_tip": "Az iCloud Drive nem elérhető. Kérjük, kapcsolja be az iCloud Drive-ot a Rendszerbeállításokban. További segítségért látogasson el a https://tachimanga.app/icloud weboldalra",
   "@iCloud_unavailable_tip": {},
   "downloading_running_text": "Letöltés {running} / {total}",
-  "@downloading_running_text": {}
+  "@downloading_running_text": {},
+  "edit_cover": "Borító szerkesztése",
+  "@edit_cover": {},
+  "set_as_cover": "Beállítás borítóként",
+  "@set_as_cover": {},
+  "cover_updated": "Borító frissítve",
+  "@cover_updated": {},
+  "save_image_user_denied_msg": "Hozzáférés megtagadva, engedélyezze, hogy a Tachimanga hozzáférjen a fényképalbumokhoz a rendszerbeállításokban.",
+  "@save_image_user_denied_msg": {},
+  "set_as_default": "Beállítás alapértelmezettnek",
+  "@set_as_default": {},
+  "reset_to_default": "Visszaállítás az alapértelmezett értékre",
+  "@reset_to_default": {}
 }

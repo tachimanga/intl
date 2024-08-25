@@ -1179,5 +1179,17 @@
   "iCloud_unavailable_tip": "iCloud Drive is unavailable. Please turn on iCloud Drive in System Settings. For more help, visit https://tachimanga.app/icloud",
   "@iCloud_unavailable_tip": {},
   "downloading_running_text": "Downloading {running} of {total}",
-  "@downloading_running_text": {}
+  "@downloading_running_text": {},
+  "edit_cover": "Edit cover",
+  "@edit_cover": {},
+  "set_as_cover": "Set as cover",
+  "@set_as_cover": {},
+  "cover_updated": "Cover updated",
+  "@cover_updated": {},
+  "save_image_user_denied_msg": "Access Denied, please allow Tachimanga to access your photo albums in the system settings.",
+  "@save_image_user_denied_msg": {},
+  "set_as_default": "Set as default",
+  "@set_as_default": {},
+  "reset_to_default": "Reset to default",
+  "@reset_to_default": {}
 }

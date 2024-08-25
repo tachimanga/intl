@@ -1240,5 +1240,17 @@
   "iCloud_unavailable_tip": "iCloud Drive недоступний. Будь ласка, увімкніть iCloud Drive в налаштуваннях системи. Для отримання додаткової допомоги відвідайте https://tachimanga.app/icloud",
   "@iCloud_unavailable_tip": {},
   "downloading_running_text": "Завантаження {running} з {total}",
-  "@downloading_running_text": {}
+  "@downloading_running_text": {},
+  "edit_cover": "Редагувати обкладинку",
+  "@edit_cover": {},
+  "set_as_cover": "Встановити як обкладинку",
+  "@set_as_cover": {},
+  "cover_updated": "Обкладинка оновлена",
+  "@cover_updated": {},
+  "save_image_user_denied_msg": "Доступ відмовлено, будь ласка, дозвольте Tachimanga отримати доступ до своїх фотоальбомів у налаштуваннях системи.",
+  "@save_image_user_denied_msg": {},
+  "set_as_default": "Встановити за замовчуванням",
+  "@set_as_default": {},
+  "reset_to_default": "Скинути налаштування",
+  "@reset_to_default": {}
 }

@@ -826,5 +826,17 @@
   "iCloud_unavailable_tip": "iCloud Drive kullanılamıyor. Lütfen iCloud Drive'ı Sistem Ayarlarında açın. Daha fazla yardım için https://tachimanga.app/icloud adresini ziyaret edin",
   "@iCloud_unavailable_tip": {},
   "downloading_running_text": "İndiriliyor {running} / {total}",
-  "@downloading_running_text": {}
+  "@downloading_running_text": {},
+  "edit_cover": "Kapak düzenle",
+  "@edit_cover": {},
+  "set_as_cover": "Kapak olarak ayarla",
+  "@set_as_cover": {},
+  "cover_updated": "Kapak güncellendi",
+  "@cover_updated": {},
+  "save_image_user_denied_msg": "Erişim Reddedildi, lütfen Tachimanga'nın fotoğraf albümlerinize erişmesine izin verin.",
+  "@save_image_user_denied_msg": {},
+  "set_as_default": "Varsayılan olarak ayarla",
+  "@set_as_default": {},
+  "reset_to_default": "Varsayılan'a sıfırla",
+  "@reset_to_default": {}
 }
