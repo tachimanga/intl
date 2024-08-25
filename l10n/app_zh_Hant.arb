@@ -387,7 +387,7 @@
   "@restoring": {},
   "restored": "備份還原已完成！",
   "@restored": {},
-  "importBackupTitle": "導入 Tachiyomi 備份",
+  "importBackupTitle": "導入 Tachiyomi/Mihon 備份",
   "@importBackupTitle": {},
   "importBackupDescription": "從 Tachiyomi 備份檔案導入",
   "@importBackupDescription": {},

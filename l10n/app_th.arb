@@ -387,7 +387,7 @@
   "@restoring": {},
   "restored": "เรียกคืนการสำรองข้อมูลเรียบร้อยแล้ว!",
   "@restored": {},
-  "importBackupTitle": "นำเข้าการสำรองข้อมูล Tachiyomi",
+  "importBackupTitle": "นำเข้าข้อมูลสำรอง Tachiyomi/Mihon",
   "@importBackupTitle": {},
   "importBackupDescription": "นำเข้าห้องสมุดจากไฟล์การสำรองข้อมูล Tachiyomi",
   "@importBackupDescription": {},

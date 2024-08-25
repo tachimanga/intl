@@ -387,7 +387,7 @@
   "@restoring": {},
   "restored": "Biztonsági mentés visszaállítva!",
   "@restored": {},
-  "importBackupTitle": "Tachiyomi biztonsági mentés importálása",
+  "importBackupTitle": "Tachiyomi/Mihon biztonsági mentés importálása",
   "@importBackupTitle": {},
   "importBackupDescription": "Könyvtár importálása Tachiyomi biztonsági mentés fájlból",
   "@importBackupDescription": {},
