@@ -235,7 +235,7 @@
   "@noUpdatesAvailable": {
     "description": "Text to show that the user is using the latest version of the app"
   },
-  "noUpdatesFound": "Оновлень не знайдено",
+  "noUpdatesFound": "Немає оновлень",
   "@noUpdatesFound": {
     "description": "Toast Text to show that there are no Updates available"
   },
@@ -595,7 +595,7 @@
       }
     }
   },
-  "noCategoryMangaFound": "У цій категорії не знайдено жодної манґи. \n(Порада: перевірте пошук та фільтри!)",
+  "noCategoryMangaFound": "Категорія порожня",
   "@noCategoryMangaFound": {
     "description": "Hint text to check filter when manga list is empty in Category tab in Library"
   },
@@ -1252,5 +1252,19 @@
   "set_as_default": "Встановити за замовчуванням",
   "@set_as_default": {},
   "reset_to_default": "Скинути налаштування",
-  "@reset_to_default": {}
+  "@reset_to_default": {},
+  "library_is_empty": "Ваша бібліотека порожня.\nДодайте мангу з вкладки перегляду.",
+  "@library_is_empty": {},
+  "history_is_empty": "Нічого не читали останнім часом.",
+  "@history_is_empty": {},
+  "downloaded_is_empty": "Нещодавно не завантажувалося.",
+  "@downloaded_is_empty": {},
+  "reset_filters": "Скинути фільтри",
+  "@reset_filters": {},
+  "repo_not_exist": "Сховище розширень не існує.",
+  "@repo_not_exist": {},
+  "disagree_label": "Не погоджуюсь",
+  "@disagree_label": {},
+  "agree_label": "Погоджуюсь",
+  "@agree_label": {}
 }

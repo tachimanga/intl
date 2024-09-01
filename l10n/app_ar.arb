@@ -269,7 +269,7 @@
   "@noUpdatesAvailable": {
     "description": "Text to show that the user is using the latest version of the app"
   },
-  "noUpdatesFound": "لم يتم العثور على تحديثات",
+  "noUpdatesFound": "لا توجد فصول جديدة",
   "@noUpdatesFound": {
     "description": "Toast Text to show that there are no Updates available"
   },
@@ -365,7 +365,7 @@
   "@noCategoriesFoundAlt": {
     "description": "Hint text to add new Category in Settings when category list is empty"
   },
-  "noCategoryMangaFound": "لم يتم العثور على مانجا في هذه الفئة. \n(نصيحة: تحقق من البحث والفلاتر!)",
+  "noCategoryMangaFound": "الفئة فارغة",
   "@noCategoryMangaFound": {
     "description": "Hint text to check filter when manga list is empty in Category tab in Library"
   },
@@ -1244,5 +1244,19 @@
   "set_as_default": "تعيين كافتراضي",
   "@set_as_default": {},
   "reset_to_default": "إعادة تعيين إلى الوضع الافتراضي",
-  "@reset_to_default": {}
+  "@reset_to_default": {},
+  "library_is_empty": "مكتبتك فارغة.\nأضف مانغا من علامة التصفح.",
+  "@library_is_empty": {},
+  "history_is_empty": "لم تقرأ شيئًا مؤخرًا.",
+  "@history_is_empty": {},
+  "downloaded_is_empty": "لا توجد تنزيلات حديثة.",
+  "@downloaded_is_empty": {},
+  "reset_filters": "إعادة ضبط الفلاتر",
+  "@reset_filters": {},
+  "repo_not_exist": "مستودع التمديد غير موجود.",
+  "@repo_not_exist": {},
+  "disagree_label": "عدم الموافقة",
+  "@disagree_label": {},
+  "agree_label": "موافقة",
+  "@agree_label": {}
 }

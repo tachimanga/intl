@@ -279,7 +279,7 @@
   "@noCategoriesFoundAlt": {
     "description": "Hint text to add new Category in Settings when category list is empty"
   },
-  "noCategoryMangaFound": "Aucun manga trouvé dans cette catégorie. \n(Conseil : Vérifiez votre recherche et vos filtres !)",
+  "noCategoryMangaFound": "Catégorie vide",
   "@noCategoryMangaFound": {
     "description": "Hint text to check filter when manga list is empty in Category tab in Library"
   },
@@ -485,7 +485,7 @@
   "@noSourcesFound": {
     "description": "Text to show that the Source list is empty"
   },
-  "noUpdatesFound": "Aucune mise à jour disponible",
+  "noUpdatesFound": "Pas de chapitres récents",
   "@noUpdatesFound": {
     "description": "Toast Text to show that there are no Updates available"
   },
@@ -1192,5 +1192,19 @@
   "set_as_default": "Définir par défaut",
   "@set_as_default": {},
   "reset_to_default": "Réinitialiser par défaut",
-  "@reset_to_default": {}
+  "@reset_to_default": {},
+  "library_is_empty": "Votre bibliothèque est vide.\nAjoutez des mangas depuis l'onglet parcourir.",
+  "@library_is_empty": {},
+  "history_is_empty": "Aucune lecture récente.",
+  "@history_is_empty": {},
+  "downloaded_is_empty": "Aucun téléchargement récent.",
+  "@downloaded_is_empty": {},
+  "reset_filters": "Réinitialiser les filtres",
+  "@reset_filters": {},
+  "repo_not_exist": "Le dépôt d'extension n'existe pas.",
+  "@repo_not_exist": {},
+  "disagree_label": "Pas d'accord",
+  "@disagree_label": {},
+  "agree_label": "D'accord",
+  "@agree_label": {}
 }
