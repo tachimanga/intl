@@ -852,5 +852,7 @@
   "disagree_label": "Không đồng ý",
   "@disagree_label": {},
   "agree_label": "Đồng ý",
-  "@agree_label": {}
+  "@agree_label": {},
+  "log_enable_tips": "Đăng nhập đã được bật thành công. Thay đổi sẽ có hiệu lực sau khi khởi động lại ứng dụng.",
+  "@log_enable_tips": {}
 }

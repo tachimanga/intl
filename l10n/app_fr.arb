@@ -1206,5 +1206,7 @@
   "disagree_label": "Pas d'accord",
   "@disagree_label": {},
   "agree_label": "D'accord",
-  "@agree_label": {}
+  "@agree_label": {},
+  "log_enable_tips": "Journalisation activée avec succès. Les changements prendront effet après le redémarrage de l'application.",
+  "@log_enable_tips": {}
 }

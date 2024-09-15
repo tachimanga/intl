@@ -1192,5 +1192,7 @@
   "disagree_label": "不同意",
   "@disagree_label": {},
   "agree_label": "同意",
-  "@agree_label": {}
+  "@agree_label": {},
+  "log_enable_tips": "成功启用日志记录。更改将在重新启动应用程序后生效。",
+  "@log_enable_tips": {}
 }

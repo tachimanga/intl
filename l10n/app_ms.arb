@@ -852,5 +852,7 @@
   "disagree_label": "Tidak bersetuju",
   "@disagree_label": {},
   "agree_label": "Bersetuju",
-  "@agree_label": {}
+  "@agree_label": {},
+  "log_enable_tips": "Log berjaya diaktifkan. Perubahan akan berkuatkuasa selepas aplikasi tersebut dimulakan semula.",
+  "@log_enable_tips": {}
 }

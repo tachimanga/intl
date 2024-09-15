@@ -852,5 +852,7 @@
   "disagree_label": "ไม่เห็นด้วย",
   "@disagree_label": {},
   "agree_label": "เห็นด้วย",
-  "@agree_label": {}
+  "@agree_label": {},
+  "log_enable_tips": "เปิดใช้งานบันทึกข้อมูลสำเร็จแล้ว การเปลี่ยนแปลงจะมีผลหลังจากให้รีสตาร์ทแอป",
+  "@log_enable_tips": {}
 }

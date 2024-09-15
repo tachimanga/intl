@@ -852,5 +852,7 @@
   "disagree_label": "Не соглашаться",
   "@disagree_label": {},
   "agree_label": "Согласен",
-  "@agree_label": {}
+  "@agree_label": {},
+  "log_enable_tips": "Журналирование успешно включено. Изменения вступят в силу после перезапуска приложения.",
+  "@log_enable_tips": {}
 }
