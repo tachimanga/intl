@@ -598,7 +598,7 @@
   "@networkSectionTitle": {},
   "logsSectionTitle": "Registos",
   "@logsSectionTitle": {},
-  "extension_usage_terms": "Para definir repositórios externos, é necessário aceitar o seguinte acordo:\n1. Compreendo que o Tachimanga não regula de forma alguma os repositórios externos e que o Tachimanga não é responsável por quaisquer danos ou prejuízos causados ao meu dispositivo ou à minha identidade devido à utilização de extensões externas.\n2. Tomei conhecimento de que a Tachimanga não está associada a quaisquer extensões externas.\n3. Concordo em não utilizar o Tachimanga para visualizar conteúdos para os quais não tenho direitos.",
+  "extension_usage_terms": "Para definir repositórios externos, é necessário aceitar o seguinte acordo:\n1. Compreendo que o Tachimanga não regula de forma alguma os repositórios externos.\n2. Tomei conhecimento de que a Tachimanga não está associada a quaisquer extensões externas.\n3. Concordo em não utilizar o Tachimanga para visualizar conteúdos para os quais não tenho direitos.",
   "@extension_usage_terms": {},
   "scanlators": "Scanlators",
   "@scanlators": {},

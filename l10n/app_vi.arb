@@ -619,7 +619,7 @@
   "@label_add": {},
   "label_adding": "Đang thêm",
   "@label_adding": {},
-  "extension_usage_terms": "Để đặt các kho bên ngoài, bạn cần đồng ý với thỏa thuận sau đây:\n1. Tôi hiểu rằng Tachimanga không điều chỉnh các kho bên ngoài một cách nào và Tachimanga không chịu trách nhiệm cho bất kỳ thiệt hại hoặc tổn hại nào xảy ra với thiết bị hoặc danh tính của tôi khi sử dụng các tiện ích mở rộng bên ngoài.\n2. Tôi hiểu rằng Tachimanga không liên quan đến bất kỳ tiện ích mở rộng bên ngoài nào.\n3. Tôi đồng ý không sử dụng Tachimanga để xem nội dung mà tôi không có quyền.",
+  "extension_usage_terms": "Để đặt các kho bên ngoài, bạn cần đồng ý với thỏa thuận sau đây:\n1. Tôi hiểu rằng Tachimanga không điều chỉnh các kho bên ngoài một cách nào.\n2. Tôi hiểu rằng Tachimanga không liên quan đến bất kỳ tiện ích mở rộng bên ngoài nào.\n3. Tôi đồng ý không sử dụng Tachimanga để xem nội dung mà tôi không có quyền.",
   "@extension_usage_terms": {},
   "find_repository": "Tìm kho",
   "@find_repository": {},

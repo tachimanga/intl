@@ -634,7 +634,7 @@
   "@label_add": {},
   "label_adding": "Agregando",
   "@label_adding": {},
-  "extension_usage_terms": "Para configurar repositorios externos, debes aceptar el siguiente acuerdo:\n1. Entiendo que Tachimanga no regula de ninguna manera los repositorios externos y que Tachimanga no se hace responsable de los daños o perjuicios causados a mi dispositivo o identidad por el uso de extensiones externas.\n2. Entiendo que Tachimanga no está afiliado a ninguna extensión externa.\n3. Acepto no usar Tachimanga para ver contenido del cual no tengo los derechos.",
+  "extension_usage_terms": "Para configurar repositorios externos, debe aceptar el siguiente acuerdo:\n1. Entiendo que Tachimanga no regula los repositorios externos de ninguna manera.\n2. Entiendo que Tachimanga no está afiliada a ninguna extensión externa.\n3. Me comprometo a no utilizar Tachimanga para ver contenidos sobre los que no tengo derechos.",
   "@extension_usage_terms": {},
   "find_repository": "Buscar repositorio",
   "@find_repository": {},
