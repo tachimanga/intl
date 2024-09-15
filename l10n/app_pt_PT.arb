@@ -863,5 +863,7 @@
   "disagree_label": "Discordo",
   "@disagree_label": {},
   "agree_label": "Concordo",
-  "@agree_label": {}
+  "@agree_label": {},
+  "log_enable_tips": "Registo ativado com sucesso. As alterações terão efeito após reiniciar a aplicação.",
+  "@log_enable_tips": {}
 }

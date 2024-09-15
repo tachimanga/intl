@@ -852,5 +852,7 @@
   "disagree_label": "Tidak setuju",
   "@disagree_label": {},
   "agree_label": "Setuju",
-  "@agree_label": {}
+  "@agree_label": {},
+  "log_enable_tips": "Log berhasil diaktifkan. Perubahan akan berlaku setelah merestart aplikasi.",
+  "@log_enable_tips": {}
 }

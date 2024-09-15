@@ -1258,5 +1258,7 @@
   "disagree_label": "عدم الموافقة",
   "@disagree_label": {},
   "agree_label": "موافقة",
-  "@agree_label": {}
+  "@agree_label": {},
+  "log_enable_tips": "تم تمكين تسجيل البيانات بنجاح. سيتم تطبيق التغييرات بعد إعادة تشغيل التطبيق.",
+  "@log_enable_tips": {}
 }

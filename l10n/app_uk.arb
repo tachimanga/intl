@@ -1266,5 +1266,7 @@
   "disagree_label": "Не погоджуюсь",
   "@disagree_label": {},
   "agree_label": "Погоджуюсь",
-  "@agree_label": {}
+  "@agree_label": {},
+  "log_enable_tips": "Логування успішно увімкнено. Зміни набудуть чинності після перезапуску програми.",
+  "@log_enable_tips": {}
 }

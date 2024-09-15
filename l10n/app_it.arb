@@ -852,5 +852,7 @@
   "disagree_label": "Non d'accordo",
   "@disagree_label": {},
   "agree_label": "D'accordo",
-  "@agree_label": {}
+  "@agree_label": {},
+  "log_enable_tips": "Registrazione abilitata con successo. Le modifiche avranno effetto dopo il riavvio dell'applicazione.",
+  "@log_enable_tips": {}
 }

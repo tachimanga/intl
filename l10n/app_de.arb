@@ -852,5 +852,7 @@
   "disagree_label": "Nicht einverstanden",
   "@disagree_label": {},
   "agree_label": "Einverstanden",
-  "@agree_label": {}
+  "@agree_label": {},
+  "log_enable_tips": "Protokollierung erfolgreich aktiviert. Änderungen werden nach dem Neustart der App wirksam.",
+  "@log_enable_tips": {}
 }

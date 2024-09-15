@@ -852,5 +852,7 @@
   "disagree_label": "不同意",
   "@disagree_label": {},
   "agree_label": "同意",
-  "@agree_label": {}
+  "@agree_label": {},
+  "log_enable_tips": "成功啟用日誌記錄。更改將在重新啟動應用程式後生效。",
+  "@log_enable_tips": {}
 }

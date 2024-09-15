@@ -852,5 +852,7 @@
   "disagree_label": "Nem egyetért",
   "@disagree_label": {},
   "agree_label": "Egyetért",
-  "@agree_label": {}
+  "@agree_label": {},
+  "log_enable_tips": "Naplózás sikeresen engedélyezve. A változtatások az alkalmazás újraindítása után lépnek életbe.",
+  "@log_enable_tips": {}
 }

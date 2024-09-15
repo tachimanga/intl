@@ -1205,5 +1205,7 @@
   "downloaded_is_empty": "No recently downloaded.",
   "@downloaded_is_empty": {},
   "reset_filters": "Reset filters",
-  "@reset_filters": {}
+  "@reset_filters": {},
+  "log_enable_tips": "Log enabled successfully. Changes will take effect after restarting the app.",
+  "@log_enable_tips": {}
 }

@@ -852,5 +852,7 @@
   "disagree_label": "Katılmıyorum",
   "@disagree_label": {},
   "agree_label": "Katılıyorum",
-  "@agree_label": {}
+  "@agree_label": {},
+  "log_enable_tips": "Günlükleme başarıyla etkinleştirildi. Değişiklikler uygulamayı yeniden başlattıktan sonra geçerli olacak.",
+  "@log_enable_tips": {}
 }
