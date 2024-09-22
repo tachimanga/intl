@@ -854,5 +854,11 @@
   "agree_label": "Einverstanden",
   "@agree_label": {},
   "log_enable_tips": "Protokollierung erfolgreich aktiviert. Änderungen werden nach dem Neustart der App wirksam.",
-  "@log_enable_tips": {}
+  "@log_enable_tips": {},
+  "manga_auto_refresh_title": "Automatische Aktualisierung",
+  "@manga_auto_refresh_title": {},
+  "manga_auto_refresh_desc": "Überprüfen auf neue Kapitel beim Anzeigen des Titels.",
+  "@manga_auto_refresh_desc": {},
+  "migration_dialog_tips": "Heruntergeladene Kapitel werden bei einer Migration nicht übertragen.",
+  "@migration_dialog_tips": {}
 }

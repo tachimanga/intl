@@ -1207,5 +1207,11 @@
   "reset_filters": "Reset filters",
   "@reset_filters": {},
   "log_enable_tips": "Log enabled successfully. Changes will take effect after restarting the app.",
-  "@log_enable_tips": {}
+  "@log_enable_tips": {},
+  "manga_auto_refresh_title": "Automatic refresh",
+  "@manga_auto_refresh_title": {},
+  "manga_auto_refresh_desc": "Check for new chapters when viewing the title.",
+  "@manga_auto_refresh_desc": {},
+  "migration_dialog_tips": "Downloaded chapter(s) do not transfer with migrations.",
+  "@migration_dialog_tips": {}
 }

@@ -854,5 +854,11 @@
   "agree_label": "同意",
   "@agree_label": {},
   "log_enable_tips": "成功啟用日誌記錄。更改將在重新啟動應用程式後生效。",
-  "@log_enable_tips": {}
+  "@log_enable_tips": {},
+  "manga_auto_refresh_title": "自動更新",
+  "@manga_auto_refresh_title": {},
+  "manga_auto_refresh_desc": "在查看標題時檢查新章節。",
+  "@manga_auto_refresh_desc": {},
+  "migration_dialog_tips": "遷移不含已下載章節。",
+  "@migration_dialog_tips": {}
 }

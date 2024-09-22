@@ -1260,5 +1260,11 @@
   "agree_label": "موافقة",
   "@agree_label": {},
   "log_enable_tips": "تم تمكين تسجيل البيانات بنجاح. سيتم تطبيق التغييرات بعد إعادة تشغيل التطبيق.",
-  "@log_enable_tips": {}
+  "@log_enable_tips": {},
+  "manga_auto_refresh_title": "التحديث التلقائي",
+  "@manga_auto_refresh_title": {},
+  "manga_auto_refresh_desc": "فحص الفصول الجديدة أثناء عرض العنوان.",
+  "@manga_auto_refresh_desc": {},
+  "migration_dialog_tips": "الفصل(أو الفصول) المُحملة لا تنتقل مع الهجرة.",
+  "@migration_dialog_tips": {}
 }

@@ -854,5 +854,11 @@
   "agree_label": "Katılıyorum",
   "@agree_label": {},
   "log_enable_tips": "Günlükleme başarıyla etkinleştirildi. Değişiklikler uygulamayı yeniden başlattıktan sonra geçerli olacak.",
-  "@log_enable_tips": {}
+  "@log_enable_tips": {},
+  "manga_auto_refresh_title": "Otomatik yenileme",
+  "@manga_auto_refresh_title": {},
+  "manga_auto_refresh_desc": "Başlığı görüntülerken yeni bölümleri kontrol edin.",
+  "@manga_auto_refresh_desc": {},
+  "migration_dialog_tips": "İndirilen bölüm(ler) göçlerle transfer edilmez.",
+  "@migration_dialog_tips": {}
 }

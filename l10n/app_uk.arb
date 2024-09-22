@@ -1268,5 +1268,11 @@
   "agree_label": "Погоджуюсь",
   "@agree_label": {},
   "log_enable_tips": "Логування успішно увімкнено. Зміни набудуть чинності після перезапуску програми.",
-  "@log_enable_tips": {}
+  "@log_enable_tips": {},
+  "manga_auto_refresh_title": "Автоматичне оновлення",
+  "@manga_auto_refresh_title": {},
+  "manga_auto_refresh_desc": "Перевірка нових розділів під час перегляду заголовка.",
+  "@manga_auto_refresh_desc": {},
+  "migration_dialog_tips": "Завантажені розділи не переносяться під час міграції.",
+  "@migration_dialog_tips": {}
 }

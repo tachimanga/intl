@@ -1208,5 +1208,11 @@
   "agree_label": "D'accord",
   "@agree_label": {},
   "log_enable_tips": "Journalisation activée avec succès. Les changements prendront effet après le redémarrage de l'application.",
-  "@log_enable_tips": {}
+  "@log_enable_tips": {},
+  "manga_auto_refresh_title": "Actualisation automatique",
+  "@manga_auto_refresh_title": {},
+  "manga_auto_refresh_desc": "Vérifier les nouveaux chapitres lors de la consultation du titre.",
+  "@manga_auto_refresh_desc": {},
+  "migration_dialog_tips": "Les chapitres téléchargés ne sont pas transférés avec les migrations.",
+  "@migration_dialog_tips": {}
 }

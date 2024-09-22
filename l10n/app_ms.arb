@@ -854,5 +854,11 @@
   "agree_label": "Bersetuju",
   "@agree_label": {},
   "log_enable_tips": "Log berjaya diaktifkan. Perubahan akan berkuatkuasa selepas aplikasi tersebut dimulakan semula.",
-  "@log_enable_tips": {}
+  "@log_enable_tips": {},
+  "manga_auto_refresh_title": "Pelaksanaan Semula Automatik",
+  "@manga_auto_refresh_title": {},
+  "manga_auto_refresh_desc": "Semak bab baru ketika melihat tajuk.",
+  "@manga_auto_refresh_desc": {},
+  "migration_dialog_tips": "Bab yang telah dimuat turun tidak dipindahkan dengan migrasi.",
+  "@migration_dialog_tips": {}
 }
