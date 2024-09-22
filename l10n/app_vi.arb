@@ -854,5 +854,11 @@
   "agree_label": "Đồng ý",
   "@agree_label": {},
   "log_enable_tips": "Đăng nhập đã được bật thành công. Thay đổi sẽ có hiệu lực sau khi khởi động lại ứng dụng.",
-  "@log_enable_tips": {}
+  "@log_enable_tips": {},
+  "manga_auto_refresh_title": "Tự động làm mới",
+  "@manga_auto_refresh_title": {},
+  "manga_auto_refresh_desc": "Kiểm tra chương mới khi xem tiêu đề.",
+  "@manga_auto_refresh_desc": {},
+  "migration_dialog_tips": "Chương đã tải xuống không chuyển với diệp lạc.",
+  "@migration_dialog_tips": {}
 }

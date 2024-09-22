@@ -854,5 +854,11 @@
   "agree_label": "Egyetért",
   "@agree_label": {},
   "log_enable_tips": "Naplózás sikeresen engedélyezve. A változtatások az alkalmazás újraindítása után lépnek életbe.",
-  "@log_enable_tips": {}
+  "@log_enable_tips": {},
+  "manga_auto_refresh_title": "Automatikus frissítés",
+  "@manga_auto_refresh_title": {},
+  "manga_auto_refresh_desc": "Az új fejezetek ellenőrzése a cím megtekintésekor.",
+  "@manga_auto_refresh_desc": {},
+  "migration_dialog_tips": "A letöltött fejezetek nem kerülnek át az áttelepítés során.",
+  "@migration_dialog_tips": {}
 }

@@ -854,5 +854,11 @@
   "agree_label": "Setuju",
   "@agree_label": {},
   "log_enable_tips": "Log berhasil diaktifkan. Perubahan akan berlaku setelah merestart aplikasi.",
-  "@log_enable_tips": {}
+  "@log_enable_tips": {},
+  "manga_auto_refresh_title": "Pembaruan Otomatis",
+  "@manga_auto_refresh_title": {},
+  "manga_auto_refresh_desc": "Periksa bab baru saat melihat judul.",
+  "@manga_auto_refresh_desc": {},
+  "migration_dialog_tips": "Bab yang telah diunduh tidak dipindahkan saat migrasi.",
+  "@migration_dialog_tips": {}
 }

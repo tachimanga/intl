@@ -869,5 +869,11 @@
   "agree_label": "De acuerdo",
   "@agree_label": {},
   "log_enable_tips": "Registro habilitado con éxito. Los cambios surtirán efecto después de reiniciar la aplicación.",
-  "@log_enable_tips": {}
+  "@log_enable_tips": {},
+  "manga_auto_refresh_title": "Actualización automática",
+  "@manga_auto_refresh_title": {},
+  "manga_auto_refresh_desc": "Buscar nuevos capítulos al ver el título.",
+  "@manga_auto_refresh_desc": {},
+  "migration_dialog_tips": "Los capítulos descargados no se transfieren con las migraciones.",
+  "@migration_dialog_tips": {}
 }

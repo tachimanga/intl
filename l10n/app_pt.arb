@@ -865,5 +865,11 @@
   "agree_label": "Concordo",
   "@agree_label": {},
   "log_enable_tips": "Registo ativado com sucesso. As alterações terão efeito após reiniciar o aplicativo.",
-  "@log_enable_tips": {}
+  "@log_enable_tips": {},
+  "manga_auto_refresh_title": "Atualização automática",
+  "@manga_auto_refresh_title": {},
+  "manga_auto_refresh_desc": "Verificar novos capítulos ao visualizar o título.",
+  "@manga_auto_refresh_desc": {},
+  "migration_dialog_tips": "Capítulos baixados não são transferidos com as migrações.",
+  "@migration_dialog_tips": {}
 }

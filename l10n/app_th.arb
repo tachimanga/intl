@@ -854,5 +854,11 @@
   "agree_label": "เห็นด้วย",
   "@agree_label": {},
   "log_enable_tips": "เปิดใช้งานบันทึกข้อมูลสำเร็จแล้ว การเปลี่ยนแปลงจะมีผลหลังจากให้รีสตาร์ทแอป",
-  "@log_enable_tips": {}
+  "@log_enable_tips": {},
+  "manga_auto_refresh_title": "รีเฟรชอัตโนมัติ",
+  "@manga_auto_refresh_title": {},
+  "manga_auto_refresh_desc": "ตรวจสอบตอนใหม่เมื่อดูชื่อเรื่อง",
+  "@manga_auto_refresh_desc": {},
+  "migration_dialog_tips": "ตอนที่ดาวน์โหลดไว้ไม่ย้ายไปกับการย้าย",
+  "@migration_dialog_tips": {}
 }

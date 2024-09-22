@@ -1194,5 +1194,11 @@
   "agree_label": "同意",
   "@agree_label": {},
   "log_enable_tips": "成功启用日志记录。更改将在重新启动应用程序后生效。",
-  "@log_enable_tips": {}
+  "@log_enable_tips": {},
+  "manga_auto_refresh_title": "自动刷新",
+  "@manga_auto_refresh_title": {},
+  "manga_auto_refresh_desc": "查看标题时检查新章节.",
+  "@manga_auto_refresh_desc": {},
+  "migration_dialog_tips": "迁移不包含已下载章节。",
+  "@migration_dialog_tips": {}
 }
