@@ -619,7 +619,7 @@
   "@label_add": {},
   "label_adding": "Ekleniyor",
   "@label_adding": {},
-  "extension_usage_terms": "Harici depoları ayarlamak için aşağıdaki anlaşmayı kabul etmelisiniz:\n1. Tachimanga'nın harici depoları herhangi bir şekilde düzenlemediğini ve harici uzantılar kullanarak cihazım veya kimliğim üzerinde herhangi bir hasar veya zarardan sorumlu olmadığını biliyorum.\n2. Tachimanga'nın herhangi bir harici uzantıyla ilişkili olmadığını biliyorum.\n3. Tachimanga'yı sahip olmadığım içeriği görüntülemek için kullanmayacağıma söz veriyorum.",
+  "extension_usage_terms": "Harici depoları ayarlamak için aşağıdaki sözleşmeyi kabul etmeniz gerekir:\n1. Tachimanga'nın harici depoları hiçbir şekilde düzenlemediğini anlıyorum.\n2. Tachimanga'nın herhangi bir harici uzantıya bağlı olmadığını anlıyorum.\n3. Tachimanga'yı hak sahibi olmadığım içerikleri görüntülemek için kullanmamayı kabul ediyorum.",
   "@extension_usage_terms": {},
   "find_repository": "Depo bul",
   "@find_repository": {},

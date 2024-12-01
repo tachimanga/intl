@@ -870,7 +870,7 @@
   "@agree_label": {},
   "log_enable_tips": "Registro habilitado con éxito. Los cambios surtirán efecto después de reiniciar la aplicación.",
   "@log_enable_tips": {},
-  "manga_auto_refresh_title": "Actualización automática",
+  "manga_auto_refresh_title": "Recarga automática",
   "@manga_auto_refresh_title": {},
   "manga_auto_refresh_desc": "Buscar nuevos capítulos al ver el título.",
   "@manga_auto_refresh_desc": {},
