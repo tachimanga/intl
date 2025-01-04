@@ -1279,7 +1279,7 @@
   "@sync_faq_q4": {},
   "sync_faq_a4": "La synchronisation se déclenche automatiquement en arrière-plan à des intervalles définis ou lors d'événements spécifiques tels que le lancement de l'application, une mise à jour de contenu ou une demande de synchronisation. Cela garantit la cohérence des données sur tous vos appareils connectés.",
   "@sync_faq_a4": {},
-  "sync_faq_q5": "Combien de temps et de données sont nécessaires pour la synchro  ?",
+  "sync_faq_q5": "Combien de temps et de données sont nécessaires pour la synchronisation ?",
   "@sync_faq_q5": {},
   "sync_faq_a5": "Première synchronisation complète : La première synchronisation complète peut prendre plusieurs minutes selon le nombre de titres. Ce processus consomme une grande quantité de données.\nSynchronisation incrémentielle : Les synchronisations suivantes sont rapides et efficaces, nécessitant beaucoup moins de données que la synchronisation initiale.",
   "@sync_faq_a5": {},
