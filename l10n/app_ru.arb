@@ -973,7 +973,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 расширение} other{{x} расширений}} скрыты из-за возможного наличия чувствительного контента.\nИзмените настройки Расширений, чтобы отобразить.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "Доступные расширения есть на {text}, но они не отображаются из-за {preference}.",
+  "extension_filtered_out_by_lang": "Расширения доступны на {text}.\nНастройте {preference} для отображения.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "предпочтение языка расширений",
   "@extension_language_preference": {},
