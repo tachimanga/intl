@@ -1007,5 +1007,11 @@
   "createTachiyomiBackupTitle": "Criar cópia de segurança compatível com Tachiyomi",
   "@createTachiyomiBackupTitle": {},
   "createTachiyomiBackupDescription": "Criar uma cópia de segurança compatível com Tachiyomi, Mihon e forks.",
-  "@createTachiyomiBackupDescription": {}
+  "@createTachiyomiBackupDescription": {},
+  "reading_insights": "Insights de Leitura",
+  "@reading_insights": {},
+  "auto_scroll": "Deslocamento Automático",
+  "@auto_scroll": {},
+  "seconds_per_page": "{x} seg por página",
+  "@seconds_per_page": {}
 }

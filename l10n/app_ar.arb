@@ -1402,5 +1402,11 @@
   "createTachiyomiBackupTitle": "إنشاء نسخة احتياطية متوافقة مع Tachiyomi",
   "@createTachiyomiBackupTitle": {},
   "createTachiyomiBackupDescription": "إنشاء نسخة احتياطية متوافقة مع Tachiyomi و Mihon والفروع.",
-  "@createTachiyomiBackupDescription": {}
+  "@createTachiyomiBackupDescription": {},
+  "reading_insights": "رؤى القراءة",
+  "@reading_insights": {},
+  "auto_scroll": "التمرير التلقائي",
+  "@auto_scroll": {},
+  "seconds_per_page": "{x} ثانية لكل صفحة",
+  "@seconds_per_page": {}
 }

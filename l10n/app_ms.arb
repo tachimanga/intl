@@ -996,5 +996,11 @@
   "createTachiyomiBackupTitle": "Cipta sandaran serasi Tachiyomi",
   "@createTachiyomiBackupTitle": {},
   "createTachiyomiBackupDescription": "Cipta sandaran yang serasi dengan Tachiyomi, Mihon dan fork.",
-  "@createTachiyomiBackupDescription": {}
+  "@createTachiyomiBackupDescription": {},
+  "reading_insights": "Pengetahuan Membaca",
+  "@reading_insights": {},
+  "auto_scroll": "Gulir Automatik",
+  "@auto_scroll": {},
+  "seconds_per_page": "{x} saat per halaman",
+  "@seconds_per_page": {}
 }

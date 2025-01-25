@@ -996,5 +996,11 @@
   "createTachiyomiBackupTitle": "สร้างข้อมูลสำรองเข้ากันได้กับ Tachiyomi",
   "@createTachiyomiBackupTitle": {},
   "createTachiyomiBackupDescription": "สร้างข้อมูลสำรองเข้ากันได้กับ Tachiyomi, Mihon และ forks",
-  "@createTachiyomiBackupDescription": {}
+  "@createTachiyomiBackupDescription": {},
+  "reading_insights": "ข้อมูลการอ่าน",
+  "@reading_insights": {},
+  "auto_scroll": "การเลื่อนอัตโนมัติ",
+  "@auto_scroll": {},
+  "seconds_per_page": "{x} วินาที ต่อหน้า",
+  "@seconds_per_page": {}
 }

@@ -1336,5 +1336,11 @@
   "createTachiyomiBackupTitle": "创建Tachiyomi兼容备份",
   "@createTachiyomiBackupTitle": {},
   "createTachiyomiBackupDescription": "创建与Tachiyomi、Mihon及分支兼容的备份。",
-  "@createTachiyomiBackupDescription": {}
+  "@createTachiyomiBackupDescription": {},
+  "reading_insights": "阅读洞察",
+  "@reading_insights": {},
+  "auto_scroll": "自动滚动",
+  "@auto_scroll": {},
+  "seconds_per_page": "{x}秒/页",
+  "@seconds_per_page": {}
 }

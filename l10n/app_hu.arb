@@ -996,5 +996,11 @@
   "createTachiyomiBackupTitle": "Tachiyomi-kompatibilis mentés készítése",
   "@createTachiyomiBackupTitle": {},
   "createTachiyomiBackupDescription": "Hozzon létre egy mentést, amely kompatibilis a Tachiyomi, Mihon és forkokkal.",
-  "@createTachiyomiBackupDescription": {}
+  "@createTachiyomiBackupDescription": {},
+  "reading_insights": "Olvasási információk",
+  "@reading_insights": {},
+  "auto_scroll": "Automatikus görgetés",
+  "@auto_scroll": {},
+  "seconds_per_page": "{x} mp oldalanként",
+  "@seconds_per_page": {}
 }
