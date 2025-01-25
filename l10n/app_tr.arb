@@ -996,5 +996,11 @@
   "createTachiyomiBackupTitle": "Tachiyomi uyumlu yedek oluştur",
   "@createTachiyomiBackupTitle": {},
   "createTachiyomiBackupDescription": "Tachiyomi, Mihon ve türevleri ile uyumlu bir yedek oluştur.",
-  "@createTachiyomiBackupDescription": {}
+  "@createTachiyomiBackupDescription": {},
+  "reading_insights": "Okuma Bilgileri",
+  "@reading_insights": {},
+  "auto_scroll": "Otomatik Kaydırma",
+  "@auto_scroll": {},
+  "seconds_per_page": "{x} saniye sayfa başına",
+  "@seconds_per_page": {}
 }

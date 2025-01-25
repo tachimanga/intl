@@ -996,5 +996,11 @@
   "createTachiyomiBackupTitle": "Tạo tệp sao lưu tương thích với Tachiyomi",
   "@createTachiyomiBackupTitle": {},
   "createTachiyomiBackupDescription": "Tạo tệp sao lưu tương thích với Tachiyomi, Mihon và các nhánh.",
-  "@createTachiyomiBackupDescription": {}
+  "@createTachiyomiBackupDescription": {},
+  "reading_insights": "Thông tin Đọc",
+  "@reading_insights": {},
+  "auto_scroll": "Cuộn tự động",
+  "@auto_scroll": {},
+  "seconds_per_page": "{x} giây mỗi trang",
+  "@seconds_per_page": {}
 }

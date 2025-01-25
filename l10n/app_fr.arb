@@ -1350,5 +1350,11 @@
   "createTachiyomiBackupTitle": "Créer une sauvegarde compatible Tachiyomi",
   "@createTachiyomiBackupTitle": {},
   "createTachiyomiBackupDescription": "Créer une sauvegarde compatible avec Tachiyomi, Mihon et forks.",
-  "@createTachiyomiBackupDescription": {}
+  "@createTachiyomiBackupDescription": {},
+  "reading_insights": "Aperçus de lecture",
+  "@reading_insights": {},
+  "auto_scroll": "Défilement automatique",
+  "@auto_scroll": {},
+  "seconds_per_page": "{x} sec par page",
+  "@seconds_per_page": {}
 }

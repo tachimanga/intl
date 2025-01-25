@@ -996,5 +996,11 @@
   "createTachiyomiBackupTitle": "Buat cadangan yang kompatibel dengan Tachiyomi",
   "@createTachiyomiBackupTitle": {},
   "createTachiyomiBackupDescription": "Buat cadangan yang kompatibel dengan Tachiyomi, Mihon, dan fork.",
-  "@createTachiyomiBackupDescription": {}
+  "@createTachiyomiBackupDescription": {},
+  "reading_insights": "Wawasan Membaca",
+  "@reading_insights": {},
+  "auto_scroll": "Gulir Otomatis",
+  "@auto_scroll": {},
+  "seconds_per_page": "{x} detik per halaman",
+  "@seconds_per_page": {}
 }

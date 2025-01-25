@@ -996,5 +996,11 @@
   "createTachiyomiBackupTitle": "Создать резервную копию, совместимую с Tachiyomi",
   "@createTachiyomiBackupTitle": {},
   "createTachiyomiBackupDescription": "Создайте резервную копию, совместимую с Tachiyomi, Mihon и форками.",
-  "@createTachiyomiBackupDescription": {}
+  "@createTachiyomiBackupDescription": {},
+  "reading_insights": "Чтение и понимание",
+  "@reading_insights": {},
+  "auto_scroll": "Автопрокрутка",
+  "@auto_scroll": {},
+  "seconds_per_page": "{x} сек на страницу",
+  "@seconds_per_page": {}
 }

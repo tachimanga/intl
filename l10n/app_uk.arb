@@ -1410,5 +1410,11 @@
   "createTachiyomiBackupTitle": "Створити сумісну резервну копію з Tachiyomi",
   "@createTachiyomiBackupTitle": {},
   "createTachiyomiBackupDescription": "Створіть резервну копію, сумісну з Tachiyomi, Mihon і форками.",
-  "@createTachiyomiBackupDescription": {}
+  "@createTachiyomiBackupDescription": {},
+  "reading_insights": "Інсайти читання",
+  "@reading_insights": {},
+  "auto_scroll": "Автоскролінг",
+  "@auto_scroll": {},
+  "seconds_per_page": "{x} с на сторінку",
+  "@seconds_per_page": {}
 }
