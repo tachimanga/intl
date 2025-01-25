@@ -973,7 +973,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 ekstensi tidak ditampilkan} other{{x} ekstensi tidak ditampilkan}} karena berpotensi mengandung konten sensitif.\nSesuaikan pengaturan Ekstensi untuk menampilkan.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "Ekstensi yang tersedia dalam {text} tidak ditampilkan karena {preference}.",
+  "extension_filtered_out_by_lang": "Ekstensi tersedia dalam {text}. \nSesuaikan {preference} untuk ditampilkan.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "preferensi bahasa ekstensi",
   "@extension_language_preference": {},
