@@ -1023,5 +1023,7 @@
   "select_invert": "Invertir selección",
   "@select_invert": {},
   "select_between": "Seleccionar entre",
-  "@select_between": {}
+  "@select_between": {},
+  "done_label": "Hecho",
+  "@done_label": {}
 }
