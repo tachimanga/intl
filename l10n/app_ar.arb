@@ -1379,7 +1379,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{إضافة واحدة} other{{x} إضافات}} غير ظاهرة لاحتمالية احتوائها على محتوى حساس.\nعدل إعدادات الإضافات لعرضها.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "الإضافات المتاحة للغة {text} غير ظاهرة بسبب {preference}.",
+  "extension_filtered_out_by_lang": "تتوفر الامتدادات في {text}.\n\nاضبط {preference} للعرض.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "تفضيل لغة الإضافة",
   "@extension_language_preference": {},
@@ -1414,5 +1414,7 @@
   "select_invert": "عكس التحديد",
   "@select_invert": {},
   "select_between": "اختيار بين",
-  "@select_between": {}
+  "@select_between": {},
+  "done_label": "تم",
+  "@done_label": {}
 }
