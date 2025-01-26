@@ -493,7 +493,7 @@
   "@theme_tako": {},
   "theme_tealturquoise": "Deniz kökçesi & Türk kökçesi",
   "@theme_tealturquoise": {},
-  "theme_yinyang": "Yin & Yang",
+  "theme_yinyang": "Yin ve Yang",
   "@theme_yinyang": {},
   "theme_yotsuba": "Yotsuba",
   "@theme_yotsuba": {},
@@ -599,7 +599,7 @@
   "@empty_repository": {},
   "add_repo_by_name": "İsimle",
   "@add_repo_by_name": {},
-  "add_repo_by_name_tip": "Tachimanga'ya ek depolar ekleyin.\nDepo formatı 'kullanıcı_adı/depo' şeklindedir, kullanıcı_adı depo sahibi ve depo depo adıdır",
+  "add_repo_by_name_tip": "Tachimanga'ya ek kaynaklar ekleyin.\nBir kaynak formatı 'kullanıcıadı/kaynak' şeklindedir, kullanıcı adı kaynaksahibi, kaynak ise kaynak adıdır",
   "@add_repo_by_name_tip": {},
   "add_repo_by_url": "URL ile",
   "@add_repo_by_url": {},
@@ -973,7 +973,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 uzantı} other{{x} uzantı}} hassas içerik içerme olasılığı nedeniyle görüntülenmiyor. Görüntülemek için Uzantılar ayarlarını düzenleyin.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "Uygun uzantılar {text} dilinde mevcut, ancak {preference} nedeniyle görüntülenmiyor.",
+  "extension_filtered_out_by_lang": "Uzantılar {text} içinde mevcuttur.\nGörüntülenecek {preference} öğesini ayarlayın.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "uzantı dil tercihi",
   "@extension_language_preference": {},
@@ -1008,5 +1008,7 @@
   "select_invert": "Seçimi tersine çevir",
   "@select_invert": {},
   "select_between": "Arasındaki seçimi",
-  "@select_between": {}
+  "@select_between": {},
+  "done_label": "Yapıldı",
+  "@done_label": {}
 }
