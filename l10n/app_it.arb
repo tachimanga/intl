@@ -921,7 +921,7 @@
   "@sync_faq_q4": {},
   "sync_faq_a4": "La sincronizzazione avviene automaticamente in background a intervalli regolari o in caso di eventi specifici come l'avvio dell'app, l'aggiornamento dei contenuti o una richiesta di sincronizzazione. Questo garantisce che i tuoi dati siano coerenti su tutti i dispositivi collegati.",
   "@sync_faq_a4": {},
-  "sync_faq_q5": "Quanto tempo e dati sono necessari per la sincronizzazione?",
+  "sync_faq_q5": "Quanto tempo e quanti dati sono necessari per la sincronizzazione?",
   "@sync_faq_q5": {},
   "sync_faq_a5": "Sincronizzazione Completa Iniziale: La sincronizzazione completa iniziale potrebbe richiedere alcuni minuti per completarsi in base al numero di titoli. Questo processo utilizza molta larghezza di banda per inviare grandi quantità di dati.\nSincronizzazione Incrementale: Le sincronizzazioni successive sono rapide ed efficienti. Le sincronizzazioni incrementali richiedono meno tempo e consumano molti meno dati rispetto alla sincronizzazione iniziale.",
   "@sync_faq_a5": {},
@@ -973,7 +973,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 estensione è} other{{x} estensioni sono}} nascoste perché potrebbero contenere contenuti sensibili.\nModifica le Impostazioni delle Estensioni per visualizzarle.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "Ci sono estensioni disponibili in {text}, ma non sono visibili a causa della {preference}.",
+  "extension_filtered_out_by_lang": "Le estensioni sono disponibili in {text}.\nRegolare la {preference} da visualizzare.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "preferenza linguistica delle estensioni",
   "@extension_language_preference": {},
@@ -1008,5 +1008,7 @@
   "select_invert": "Inverti selezione",
   "@select_invert": {},
   "select_between": "Seleziona tra",
-  "@select_between": {}
+  "@select_between": {},
+  "done_label": "Fatto",
+  "@done_label": {}
 }
