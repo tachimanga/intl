@@ -1359,6 +1359,9 @@
   "seconds_per_page": "{x}s per page",
   "@seconds_per_page": {},
   "select_all": "Select all",
+  "@select_all": {},
   "select_invert": "Invert selection",
-  "select_between": "Select between"
+  "@select_invert": {},
+  "select_between": "Select between",
+  "@select_between": {}
 }

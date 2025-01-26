@@ -1002,5 +1002,11 @@
   "auto_scroll": "Автопрокрутка",
   "@auto_scroll": {},
   "seconds_per_page": "{x} сек на страницу",
-  "@seconds_per_page": {}
+  "@seconds_per_page": {},
+  "select_all": "Выбрать все",
+  "@select_all": {},
+  "select_invert": "Инвертировать выбор",
+  "@select_invert": {},
+  "select_between": "Выбрать между",
+  "@select_between": {}
 }

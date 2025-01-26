@@ -1408,5 +1408,11 @@
   "auto_scroll": "التمرير التلقائي",
   "@auto_scroll": {},
   "seconds_per_page": "{x} ثانية لكل صفحة",
-  "@seconds_per_page": {}
+  "@seconds_per_page": {},
+  "select_all": "اختيار الكل",
+  "@select_all": {},
+  "select_invert": "عكس التحديد",
+  "@select_invert": {},
+  "select_between": "اختيار بين",
+  "@select_between": {}
 }
