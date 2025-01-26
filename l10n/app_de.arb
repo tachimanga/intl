@@ -973,7 +973,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 Erweiterung wird} other{{x} Erweiterungen werden}} nicht angezeigt, da sie möglicherweise sensible Inhalte enthalten.\nPassen Sie die Erweiterungseinstellungen an, um sie anzuzeigen.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "Bereitstehende Erweiterungen in {text} werden aufgrund der {preference} nicht angezeigt.",
+  "extension_filtered_out_by_lang": "Bereitstehende Erweiterungen in {text} \nwerden aufgrund der {preference} nicht angezeigt.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "Spracheinstellungen für Erweiterungen",
   "@extension_language_preference": {},
@@ -1008,5 +1008,7 @@
   "select_invert": "Auswahl umkehren",
   "@select_invert": {},
   "select_between": "Auswahl zwischen",
-  "@select_between": {}
+  "@select_between": {},
+  "done_label": "Erledigt",
+  "@done_label": {}
 }
