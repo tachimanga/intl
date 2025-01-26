@@ -955,7 +955,7 @@
   "@label_add": {},
   "label_adding": "正在添加",
   "@label_adding": {},
-  "extension_usage_terms": "要设置外部仓库，您需要同意以下协议：\n1. 我理解 Tachimanga 不以任何方式管理外部仓库，并且 Tachimanga 对使用外部扩展程序对我的设备或身份造成的任何损害或危害不负任何责任。\n2. 我理解 Tachimanga 与任何外部扩展程序都没有关联。\n3. 我同意不使用 Tachimanga 查看我无权查看的内容。",
+  "extension_usage_terms": "设置外部仓库需要同意以下协议：\n1. 我了解 Tachimanga 不以任何方式监管外部存储库。\n2. 我了解 Tachimanga 不隶属于任何外部扩展。\n3. 我同意不使用 Tachimanga 查看我无权的内容。",
   "@extension_usage_terms": {},
   "find_repository": "查找仓库",
   "@find_repository": {},
@@ -1313,7 +1313,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 个扩展} other{{x} 个扩展}} 因可能包含敏感内容未显示。调整扩展设置以显示。",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "支持的扩展有 {text} 语言，但由于 {preference} 未显示。",
+  "extension_filtered_out_by_lang": "支持的扩展有 {text} 语言，\n但由于 {preference} 未显示。",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "扩展语言偏好",
   "@extension_language_preference": {},
@@ -1348,5 +1348,7 @@
   "select_invert": "反选",
   "@select_invert": {},
   "select_between": "选择之间",
-  "@select_between": {}
+  "@select_between": {},
+  "done_label": "完毕",
+  "@done_label": {}
 }
