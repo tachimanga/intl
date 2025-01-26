@@ -1008,5 +1008,7 @@
   "select_invert": "Balikkan pemilihan",
   "@select_invert": {},
   "select_between": "Pilih antara",
-  "@select_between": {}
+  "@select_between": {},
+  "done_label": "Selesai",
+  "@done_label": {}
 }
