@@ -1013,5 +1013,11 @@
   "auto_scroll": "Deslocamento Automático",
   "@auto_scroll": {},
   "seconds_per_page": "{x} seg por página",
-  "@seconds_per_page": {}
+  "@seconds_per_page": {},
+  "select_all": "Selecionar tudo",
+  "@select_all": {},
+  "select_invert": "Inverter seleção",
+  "@select_invert": {},
+  "select_between": "Selecionar entre",
+  "@select_between": {}
 }

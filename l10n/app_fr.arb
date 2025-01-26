@@ -1356,5 +1356,11 @@
   "auto_scroll": "Défilement automatique",
   "@auto_scroll": {},
   "seconds_per_page": "{x} sec par page",
-  "@seconds_per_page": {}
+  "@seconds_per_page": {},
+  "select_all": "Tout sélectionner",
+  "@select_all": {},
+  "select_invert": "Inverser la sélection",
+  "@select_invert": {},
+  "select_between": "Sélectionner entre",
+  "@select_between": {}
 }

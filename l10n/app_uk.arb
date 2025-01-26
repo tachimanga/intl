@@ -1416,5 +1416,11 @@
   "auto_scroll": "Автоскролінг",
   "@auto_scroll": {},
   "seconds_per_page": "{x} с на сторінку",
-  "@seconds_per_page": {}
+  "@seconds_per_page": {},
+  "select_all": "Вибрати все",
+  "@select_all": {},
+  "select_invert": "Інвертувати вибір",
+  "@select_invert": {},
+  "select_between": "Вибрати між",
+  "@select_between": {}
 }

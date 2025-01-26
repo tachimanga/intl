@@ -1342,5 +1342,11 @@
   "auto_scroll": "自动滚动",
   "@auto_scroll": {},
   "seconds_per_page": "{x}秒/页",
-  "@seconds_per_page": {}
+  "@seconds_per_page": {},
+  "select_all": "全选",
+  "@select_all": {},
+  "select_invert": "反选",
+  "@select_invert": {},
+  "select_between": "选择之间",
+  "@select_between": {}
 }
