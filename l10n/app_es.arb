@@ -988,7 +988,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 extensión no se muestra} other{{x} extensiones no se muestran}} debido a que podrían contener contenido sensible.\nAjusta la configuración de extensiones para mostrarlas.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "Las extensiones están disponibles en {text}.\nAjuste la {preferencia} para mostrar.",
+  "extension_filtered_out_by_lang": "Las extensiones están disponibles en {text}.\nAjuste la {preference} para mostrar.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "preferencia de idioma de extensión",
   "@extension_language_preference": {},
