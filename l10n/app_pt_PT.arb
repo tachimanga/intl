@@ -984,7 +984,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 extensão está} other{{x} extensões estão}} ocultas por conterem conteúdo sensível.\nAltere as configurações das extensões para exibir.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "Extensões estão disponíveis em {text}, mas não aparecem devido à {preference}.",
+  "extension_filtered_out_by_lang": "Extensões estão disponíveis em {text}, \nmas não aparecem devido à {preference}.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "preferência de idioma das extensões",
   "@extension_language_preference": {},
@@ -1019,5 +1019,7 @@
   "select_invert": "Inverter seleção",
   "@select_invert": {},
   "select_between": "Selecionar entre",
-  "@select_between": {}
+  "@select_between": {},
+  "done_label": "Concluída",
+  "@done_label": {}
 }
