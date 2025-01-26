@@ -1008,5 +1008,7 @@
   "select_invert": "Инвертировать выбор",
   "@select_invert": {},
   "select_between": "Выбрать между",
-  "@select_between": {}
+  "@select_between": {},
+  "done_label": "Сделанный",
+  "@done_label": {}
 }
