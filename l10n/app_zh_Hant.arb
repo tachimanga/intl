@@ -615,7 +615,7 @@
   "@label_add": {},
   "label_adding": "正在添加",
   "@label_adding": {},
-  "extension_usage_terms": "要設置外部倉庫，您需要同意以下協議：\n1. 我理解 Tachimanga 不以任何方式規範外部倉庫，Tachimanga 對使用外部擴展程式可能對我的設備或身份造成的任何損害或傷害不承擔責任。\n2. 我理解 Tachimanga 與任何外部擴展程式無關。\n3. 我同意不使用 Tachimanga 查看我沒有權限的內容。",
+  "extension_usage_terms": "設置外部倉庫需要同意以下協議：\n1. 我了解 Tachimanga 不以任何方式監管外部儲存庫。\n2. 我了解 Tachimanga 不隸屬於任何外部擴展。\n3. 我同意不使用 Tachimanga 查看我無權的內容。",
   "@extension_usage_terms": {},
   "find_repository": "尋找倉庫",
   "@find_repository": {},
@@ -921,7 +921,7 @@
   "@sync_faq_q4": {},
   "sync_faq_a4": "同步會在背景自動定期觸發，或在特定事件（如應用啟動、內容更新或您手動發起同步請求）時觸發，確保所有已連結設備上的資料保持一致。",
   "@sync_faq_a4": {},
-  "sync_faq_q5": "同步需要多少時間和數據？",
+  "sync_faq_q5": "同步需要多少時間和資料？",
   "@sync_faq_q5": {},
   "sync_faq_a5": "首次完整同步：根據標題數量，可能需要幾分鐘時間，並會消耗較多流量。\n後續增量同步：在完整同步後，後續同步快速且高效，所需流量大幅減少。",
   "@sync_faq_a5": {},
@@ -973,7 +973,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 個擴展} other{{x} 個擴展}} 因可能包含敏感內容未顯示。調整擴展設置以顯示。",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "支援的擴展有 {text} 語言，但由於 {preference} 未顯示。",
+  "extension_filtered_out_by_lang": "支援的擴展有 {text} 語言，\n但由於 {preference} 未顯示。",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "擴展語言偏好",
   "@extension_language_preference": {},
@@ -1008,5 +1008,7 @@
   "select_invert": "反選",
   "@select_invert": {},
   "select_between": "選擇區間",
-  "@select_between": {}
+  "@select_between": {},
+  "done_label": "完畢",
+  "@done_label": {}
 }
