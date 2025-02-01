@@ -1029,7 +1029,7 @@
   "@label_add": {},
   "label_adding": "Додається",
   "@label_adding": {},
-  "extension_usage_terms": "Щоб установити зовнішні сховища, вам потрібно погодитися з такою угодою:\n1. Я розумію, що Tachimanga жодним чином не регулює зовнішні сховища.\n2. Я розумію, що Tachimanga не пов’язано з жодними зовнішніми розширеннями.\n3. Я погоджуюся не використовувати Tachimanga для перегляду вмісту, на який у мене немає прав.",
+  "extension_usage_terms": "Для налаштування зовнішніх репозиторіїв вам необхідно погодитися з наступною угодою:\n1. Я розумію, що Tachimanga жодним чином не регулює зовнішні репозиторії.\n2. Я розумію, що Tachimanga не пов'язана з будь-якими зовнішніми розширеннями.\n3. Я згоден не використовувати Tachimanga для перегляду контенту, права на який у мене відсутні.",
   "@extension_usage_terms": {},
   "find_repository": "Знайти репозиторій",
   "@find_repository": {},
@@ -1387,7 +1387,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 додаток} other{{x} додатків}} не відображаються через можливу наявність чутливого контенту. Змініть налаштування додатків для перегляду.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "Доступні додатки мовою {text}, \nале вони не показуються через {preference}.",
+  "extension_filtered_out_by_lang": "Розширення доступні {text}.\nНалаштуйте {preference}, щоб відобразити.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "мовна перевага додатків",
   "@extension_language_preference": {},
@@ -1424,5 +1424,7 @@
   "select_between": "Вибрати між",
   "@select_between": {},
   "done_label": "Готово",
-  "@done_label": {}
+  "@done_label": {},
+  "reading_time_tip": "Час читання розраховується з грудня 2024 року.",
+  "@reading_time_tip": {}
 }

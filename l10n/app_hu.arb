@@ -615,7 +615,7 @@
   "@label_add": {},
   "label_adding": "Hozzáadás folyamatban",
   "@label_adding": {},
-  "extension_usage_terms": "Külső tárolók beállításához el kell fogadnod az alábbi feltételeket:\n1. Tudomásul veszem, hogy a Tachimanga semmilyen módon nem szabályozza a külső tárolókat, és a Tachimanga nem felelős a külső bővítmények használata által okozott károkért vagy hátrányokért a készülékemen vagy az azonosságomon.\n2. Tudomásul veszem, hogy a Tachimanga nem kapcsolódik semmilyen külső bővítményhez.\n3. Abban egyezem, hogy nem használom a Tachimangát olyan tartalom megtekintésére, amelyre nincs jogom.",
+  "extension_usage_terms": "Külső tárolók beállításához el kell fogadnia a következő megállapodást:\n1. Tudomásul veszem, hogy a Tachimanga semmilyen módon nem szabályozza a külső tárolókat.\n2. Tudomásul veszem, hogy a Tachimanga nem áll kapcsolatban semmilyen külső kiegészítéssel.\n3. Elkötelezem magam amellett, hogy a Tachimangát nem használom olyan tartalmak megtekintésére, amelyekhez nincsenek jogaim.",
   "@extension_usage_terms": {},
   "find_repository": "Tároló keresése",
   "@find_repository": {},
@@ -973,7 +973,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 bővítmény} other{{x} bővítmények}} nem jelennek meg, mert érzékeny tartalmat tartalmazhatnak.\nMódosítsa a bővítmények beállításait a megjelenítéshez.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "A bővítmények elérhetőek itt: {text}. Módosítsa a {preference}-t, hogy lássa.",
+  "extension_filtered_out_by_lang": "A kiegészítések elérhetők {text} nyelven.\nÁllítsa be a {preference} elemet a megjelenítéshez.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "bővítmény nyelvi preferencia",
   "@extension_language_preference": {},
@@ -1010,5 +1010,7 @@
   "select_between": "Kiválasztás közötti",
   "@select_between": {},
   "done_label": "Kész",
-  "@done_label": {}
+  "@done_label": {},
+  "reading_time_tip": "Az olvasási idő 2024 decemberétől számítva.",
+  "@reading_time_tip": {}
 }

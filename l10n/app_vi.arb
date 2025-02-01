@@ -615,7 +615,7 @@
   "@label_add": {},
   "label_adding": "Đang thêm",
   "@label_adding": {},
-  "extension_usage_terms": "Để đặt kho lưu trữ bên ngoài, bạn cần đồng ý với thỏa thuận sau:\n1. Tôi hiểu rằng Tachimanga không quản lý các kho lưu trữ bên ngoài dưới bất kỳ hình thức nào.\n2. Tôi hiểu rằng Tachimanga không liên kết với bất kỳ tiện ích mở rộng bên ngoài nào.\n3. Tôi đồng ý không sử dụng Tachimanga để xem nội dung mà tôi không có quyền.",
+  "extension_usage_terms": "Để thiết lập kho lưu trữ bên ngoài, bạn cần đồng ý với thỏa thuận sau:\n1. Tôi hiểu rằng Tachimanga không điều chỉnh bất kỳ kho lưu trữ ngoài nào.\n2. Tôi hiểu rằng Tachimanga không liên kết với bất kỳ tiện ích mở rộng ngoài nào.\n3. Tôi đồng ý không sử dụng Tachimanga để xem nội dung mà tôi không có quyền.",
   "@extension_usage_terms": {},
   "find_repository": "Tìm kho",
   "@find_repository": {},
@@ -973,7 +973,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 tiện ích} other{{x} tiện ích}} không hiển thị do có khả năng chứa nội dung nhạy cảm. Điều chỉnh cài đặt để hiển thị.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "Tiện ích hợp lệ có sẵn bằng {text}, \nnhưng không hiển thị do {preference}.",
+  "extension_filtered_out_by_lang": "Các tiện ích mở rộng có sẵn trong {text}.\nĐiều chỉnh {preference} để hiển thị.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "ưu tiên ngôn ngữ tiện ích",
   "@extension_language_preference": {},
@@ -1009,6 +1009,8 @@
   "@select_invert": {},
   "select_between": "Chọn giữa",
   "@select_between": {},
-  "done_label": "Xong",
-  "@done_label": {}
+  "done_label": "Hoàn tất",
+  "@done_label": {},
+  "reading_time_tip": "Thời gian đọc tính từ tháng 12 năm 2024.",
+  "@reading_time_tip": {}
 }

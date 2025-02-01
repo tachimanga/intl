@@ -615,7 +615,7 @@
   "@label_add": {},
   "label_adding": "Ekleniyor",
   "@label_adding": {},
-  "extension_usage_terms": "Harici depoları ayarlamak için aşağıdaki sözleşmeyi kabul etmeniz gerekir:\n1. Tachimanga'nın harici depoları hiçbir şekilde düzenlemediğini anlıyorum.\n2. Tachimanga'nın herhangi bir harici uzantıya bağlı olmadığını anlıyorum.\n3. Tachimanga'yı hak sahibi olmadığım içerikleri görüntülemek için kullanmamayı kabul ediyorum.",
+  "extension_usage_terms": "Dış depoları ayarlamak için aşağıdaki anlaşmayı kabul etmeniz gerekmektedir:\n1. Tachimanga'nın dış depoları herhangi bir şekilde düzenlemediğini anlıyorum.\n2. Tachimanga'nın herhangi bir dış uzantı ile ilişkili olmadığını anlıyorum.\n3. Haklarına sahip olmadığım içerikleri görüntülemek için Tachimanga'yı kullanmayacağımı kabul ediyorum.",
   "@extension_usage_terms": {},
   "find_repository": "Depo bul",
   "@find_repository": {},
@@ -973,7 +973,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 uzantı} other{{x} uzantı}} hassas içerik içerme olasılığı nedeniyle görüntülenmiyor. \nGörüntülemek için Uzantılar ayarlarını düzenleyin.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "Uzantılar {text} içinde mevcuttur.\nGörüntülenecek {preference} öğesini ayarlayın.",
+  "extension_filtered_out_by_lang": "Uzantılar {text} dilinde mevcuttur.\nGörüntülemek için {preference} ayarını düzenleyin.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "uzantı dil tercihi",
   "@extension_language_preference": {},
@@ -1009,6 +1009,8 @@
   "@select_invert": {},
   "select_between": "Arasındaki seçimi",
   "@select_between": {},
-  "done_label": "Yapıldı",
-  "@done_label": {}
+  "done_label": "Tamam",
+  "@done_label": {},
+  "reading_time_tip": "Okuma süresi Aralık 2024'ten itibaren hesaplanmıştır.",
+  "@reading_time_tip": {}
 }

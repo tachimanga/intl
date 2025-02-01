@@ -614,7 +614,7 @@
   "@label_add": {},
   "label_adding": "Adicionando",
   "@label_adding": {},
-  "extension_usage_terms": "Para definir repositórios externos, você precisa concordar com o seguinte acordo:\n1. Entendo que o Tachimanga não regula de forma alguma os repositórios externos.\n2. Entendo que o Tachimanga não está afiliado a nenhuma extensão externa.\n3. Concordo em não usar o Tachimanga para visualizar conteúdo para o qual não tenho os direitos.",
+  "extension_usage_terms": "Para definir repositórios externos, você precisa concordar com o seguinte acordo:\n1. Eu entendo que o Tachimanga não regula repositórios externos de forma alguma.\n2. Eu entendo que o Tachimanga não está afiliado a nenhuma extensão externa.\n3. Eu concordo em não usar o Tachimanga para visualizar conteúdo para o qual eu não tenho direitos.",
   "@extension_usage_terms": {},
   "find_repository": "Encontrar repositório",
   "@find_repository": {},
@@ -984,7 +984,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 extensão está} other{{x} extensões estão}} ocultas por conterem conteúdo sensível.\nAjuste as configurações das extensões para exibir.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "As extensões estão disponíveis em {text}.\nAjustar a {preference} a apresentar.",
+  "extension_filtered_out_by_lang": "As extensões estão disponíveis em {text}.\nAjuste a {preference} para exibir.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "preferência de idioma das extensões",
   "@extension_language_preference": {},
@@ -1020,6 +1020,8 @@
   "@select_invert": {},
   "select_between": "Selecionar entre",
   "@select_between": {},
-  "done_label": "Feito",
-  "@done_label": {}
+  "done_label": "Concluído",
+  "@done_label": {},
+  "reading_time_tip": "Tempo de leitura calculado desde dezembro de 2024.",
+  "@reading_time_tip": {}
 }
