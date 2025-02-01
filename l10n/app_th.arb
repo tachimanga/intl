@@ -615,7 +615,7 @@
   "@label_add": {},
   "label_adding": "กำลังเพิ่ม",
   "@label_adding": {},
-  "extension_usage_terms": "ในการตั้งค่าร้านค้าภายนอก คุณจำเป็นต้องยอมรับข้อตกลงต่อไปนี้:\n1. ฉันเข้าใจว่า Tachimanga ไม่เก็บกักการทำงานของร้านค้าภายนอกใด ๆ และ Tachimanga ไม่รับผิดชอบต่อความเสียหายหรือความเสี่ยงที่เกิดขึ้นกับอุปกรณ์หรือตัวตนของฉันโดยใช้ส่วนเสริมภายนอก\n2. ฉันเข้าใจว่า Tachimanga ไม่มีความเกี่ยวข้องกับส่วนขยายภายนอกใด ๆ\n3. ฉันยินยอมไม่ใช้ Tachimanga เพื่อดูเนื้อหาที่ฉันไม่ได้รับสิทธิ์",
+  "extension_usage_terms": "เพื่อตั้งค่าที่เก็บข้อมูลภายนอก คุณต้องยอมรับข้อตกลงต่อไปนี้:\n1. ฉันเข้าใจว่า Tachimanga ไม่มีการควบคุมที่เก็บข้อมูลภายนอกใด ๆ\n2. ฉันเข้าใจว่า Tachimanga ไม่มีส่วนเกี่ยวข้องกับส่วนขยายภายนอกใด ๆ\n3. ฉันตกลงที่จะไม่ใช้ Tachimanga เพื่อดูเนื้อหาที่ฉันไม่มีสิทธิ์",
   "@extension_usage_terms": {},
   "find_repository": "ค้นหาร้านค้า",
   "@find_repository": {},
@@ -973,7 +973,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 ส่วนเสริมถูกซ่อน} other{{x} ส่วนเสริมถูกซ่อน}} เนื่องจากอาจมีเนื้อหาที่ละเอียดอ่อน\nปรับการตั้งค่าส่วนเสริมเพื่อแสดง.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "มีส่วนเสริมใน {text} แต่ไม่ได้แสดงเนื่องจาก {preference}.",
+  "extension_filtered_out_by_lang": "ส่วนขยายพร้อมใช้งานใน{text}.\nปรับ{preference}เพื่อแสดงผล.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "การตั้งค่าภาษาส่วนเสริม",
   "@extension_language_preference": {},
@@ -1008,5 +1008,9 @@
   "select_invert": "กลับการเลือก",
   "@select_invert": {},
   "select_between": "เลือกระหว่าง",
-  "@select_between": {}
+  "@select_between": {},
+  "done_label": "เสร็จสิ้น",
+  "@done_label": {},
+  "reading_time_tip": "เวลาอ่านนับตั้งแต่ธันวาคม 2024.",
+  "@reading_time_tip": {}
 }

@@ -617,7 +617,7 @@
   "@label_add": {},
   "label_adding": "Menambah",
   "@label_adding": {},
-  "extension_usage_terms": "Untuk menetapkan repositori luaran, anda perlu bersetuju dengan perjanjian berikut:\n1. Saya faham bahawa Tachimanga tidak mengawal repositori luaran dengan sebarang cara dan bahawa Tachimanga tidak bertanggungjawab atas sebarang kerosakan atau kerosakan yang dilakukan pada peranti saya atau identiti saya dengan menggunakan sambungan luaran.\n2. Saya faham bahawa Tachimanga tidak berkaitan dengan sebarang sambungan luaran.\n3. Saya bersetuju untuk tidak menggunakan Tachimanga untuk melihat kandungan yang saya tidak memiliki haknya.",
+  "extension_usage_terms": "Untuk menetapkan repositori luaran, anda perlu bersetuju dengan perjanjian berikut:\n1. Saya memahami bahawa Tachimanga tidak mengawal repositori luaran dengan cara apa pun.\n2. Saya memahami bahawa Tachimanga tidak berkaitan dengan mana-mana sambungan luaran.\n3. Saya bersetuju untuk tidak menggunakan Tachimanga untuk melihat kandungan yang saya tidak memiliki haknya.",
   "@extension_usage_terms": {},
   "find_repository": "Cari repositori",
   "@find_repository": {},
@@ -973,7 +973,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 sambungan disembunyikan} other{{x} sambungan disembunyikan}} kerana mungkin mengandungi kandungan sensitif.\nLaraskan tetapan sambungan untuk melihatnya.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "Sambungan tersedia dalam {text}, tetapi tidak dipaparkan kerana {preference}.",
+  "extension_filtered_out_by_lang": "Sambungan tersedia dalam {text}.\nLaraskan {preference} untuk paparan.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "pilihan bahasa sambungan",
   "@extension_language_preference": {},
@@ -1008,5 +1008,9 @@
   "select_invert": "Balikkan pilihan",
   "@select_invert": {},
   "select_between": "Pilih antara",
-  "@select_between": {}
+  "@select_between": {},
+  "done_label": "Selesai",
+  "@done_label": {},
+  "reading_time_tip": "Masa bacaan dihitung sejak Disember 2024.",
+  "@reading_time_tip": {}
 }

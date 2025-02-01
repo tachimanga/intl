@@ -615,7 +615,7 @@
   "@label_add": {},
   "label_adding": "Menambah",
   "@label_adding": {},
-  "extension_usage_terms": "Untuk mengatur repositori eksternal, Anda harus menyetujui perjanjian berikut ini: \n1. Saya memahami bahwa Tachimanga tidak mengatur repositori eksternal dengan cara apa pun. \n2. Saya memahami bahwa Tachimanga tidak berafiliasi dengan ekstensi eksternal apa pun. \n3. Saya setuju untuk tidak menggunakan Tachimanga untuk melihat konten yang bukan merupakan hak saya.",
+  "extension_usage_terms": "Untuk menetapkan repositori eksternal, Anda perlu menyetujui perjanjian berikut:\n1. Saya memahami bahwa Tachimanga tidak mengatur repositori eksternal dengan cara apa pun.\n2. Saya memahami bahwa Tachimanga tidak berafiliasi dengan ekstensi eksternal apa pun.\n3. Saya setuju untuk tidak menggunakan Tachimanga untuk melihat konten yang saya tidak memiliki haknya.",
   "@extension_usage_terms": {},
   "find_repository": "Temukan repositori",
   "@find_repository": {},
@@ -973,7 +973,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 ekstensi tidak ditampilkan} other{{x} ekstensi tidak ditampilkan}} karena berpotensi mengandung konten sensitif.\nSesuaikan pengaturan Ekstensi untuk menampilkan.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "Ekstensi tersedia dalam {text}. \nSesuaikan {preference} untuk ditampilkan.",
+  "extension_filtered_out_by_lang": "Ekstensi tersedia dalam {text}.\nSesuaikan {preference} untuk menampilkan.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "preferensi bahasa ekstensi",
   "@extension_language_preference": {},
@@ -1008,5 +1008,9 @@
   "select_invert": "Balikkan pemilihan",
   "@select_invert": {},
   "select_between": "Pilih antara",
-  "@select_between": {}
+  "@select_between": {},
+  "done_label": "Selesai",
+  "@done_label": {},
+  "reading_time_tip": "Waktu baca dihitung sejak Desember 2024.",
+  "@reading_time_tip": {}
 }

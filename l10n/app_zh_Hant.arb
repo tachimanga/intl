@@ -615,7 +615,7 @@
   "@label_add": {},
   "label_adding": "正在添加",
   "@label_adding": {},
-  "extension_usage_terms": "要設置外部倉庫，您需要同意以下協議：\n1. 我理解 Tachimanga 不以任何方式規範外部倉庫，Tachimanga 對使用外部擴展程式可能對我的設備或身份造成的任何損害或傷害不承擔責任。\n2. 我理解 Tachimanga 與任何外部擴展程式無關。\n3. 我同意不使用 Tachimanga 查看我沒有權限的內容。",
+  "extension_usage_terms": "要設置外部倉庫，您需要同意以下協議：\n1. 我了解 Tachimanga 不以任何方式規範外部倉庫。\n2. 我了解 Tachimanga 與任何外部擴展無關。\n3. 我同意不使用 Tachimanga 查看我無權查看的內容。",
   "@extension_usage_terms": {},
   "find_repository": "尋找倉庫",
   "@find_repository": {},
@@ -973,7 +973,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 個擴展} other{{x} 個擴展}} 因可能包含敏感內容未顯示。調整擴展設置以顯示。",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "支援的擴展有 {text} 語言，但由於 {preference} 未顯示。",
+  "extension_filtered_out_by_lang": "擴展可在 {text} 中使用。\n調整 {preference} 以顯示。",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "擴展語言偏好",
   "@extension_language_preference": {},
@@ -1008,5 +1008,9 @@
   "select_invert": "反選",
   "@select_invert": {},
   "select_between": "選擇區間",
-  "@select_between": {}
+  "@select_between": {},
+  "done_label": "完成",
+  "@done_label": {},
+  "reading_time_tip": "閱讀時間自2024年12月起計算。",
+  "@reading_time_tip": {}
 }

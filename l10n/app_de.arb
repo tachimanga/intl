@@ -615,7 +615,7 @@
   "@label_add": {},
   "label_adding": "Wird hinzugefügt",
   "@label_adding": {},
-  "extension_usage_terms": "Um externe Repositorys einzustellen, müssen Sie den folgenden Bedingungen zustimmen:\n1. Mir ist bewusst, dass Tachimanga externe Repositorys in keiner Weise reguliert.\n2. Mir ist bewusst, dass Tachimanga nicht mit externen Erweiterungen verbunden ist.\n3. Ich stimme zu, Tachimanga nicht zur Betrachtung von Inhalten zu verwenden, für die ich keine Rechte habe.",
+  "extension_usage_terms": "Um externe Repositorien festzulegen, müssen Sie der folgenden Vereinbarung zustimmen:\n1. Ich verstehe, dass Tachimanga keine externen Repositorien in irgendeiner Weise reguliert.\n2. Ich verstehe, dass Tachimanga mit keinen externen Erweiterungen verbunden ist.\n3. Ich stimme zu, Tachimanga nicht zu verwenden, um Inhalte anzusehen, für die ich nicht die Rechte habe.",
   "@extension_usage_terms": {},
   "find_repository": "Repository finden",
   "@find_repository": {},
@@ -973,7 +973,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 Erweiterung wird} other{{x} Erweiterungen werden}} nicht angezeigt, da sie möglicherweise sensible Inhalte enthalten.\nPassen Sie die Erweiterungseinstellungen an, um sie anzuzeigen.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "Bereitstehende Erweiterungen in {text} werden aufgrund der {preference} nicht angezeigt.",
+  "extension_filtered_out_by_lang": "Die Erweiterungen sind verfügbar in {text}.\nPassen Sie die {preference} an, um sie anzuzeigen.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "Spracheinstellungen für Erweiterungen",
   "@extension_language_preference": {},
@@ -1008,5 +1008,9 @@
   "select_invert": "Auswahl umkehren",
   "@select_invert": {},
   "select_between": "Auswahl zwischen",
-  "@select_between": {}
+  "@select_between": {},
+  "done_label": "Fertig",
+  "@done_label": {},
+  "reading_time_tip": "Lesezeit berechnet seit Dezember 2024.",
+  "@reading_time_tip": {}
 }

@@ -1363,5 +1363,7 @@
   "select_invert": "Invert selection",
   "@select_invert": {},
   "select_between": "Select between",
-  "@select_between": {}
+  "@select_between": {},
+  "reading_time_tip": "Reading time calculated since December 2024.",
+  "@reading_time_tip": {}
 }

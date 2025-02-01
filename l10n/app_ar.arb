@@ -1019,7 +1019,7 @@
   "@label_add": {},
   "label_adding": "جارٍ الإضافة",
   "@label_adding": {},
-  "extension_usage_terms": "لتعيين مستودعات خارجية، تحتاج إلى الموافقة على الاتفاقية التالية:\n1. أنا أدرك أن Tachimanga لا تنظم مستودعات خارجية بأي شكل من الأشكال وأن Tachimanga ليست مسؤولة عن أي ضرر أو ضرر يحدث لجهازي أو هويتي باستخدام الامتدادات الخارجية.\n2. أنا أدرك أن Tachimanga ليست مرتبطة بأي امتدادات خارجية.\n3. أوافق على عدم استخدام Tachimanga لعرض المحتوى الذي ليس لدي حقوقه.",
+  "extension_usage_terms": "لتعيين المستودعات الخارجية، يجب عليك الموافقة على الاتفاقية التالية:\n1. أفهم أن تاتشيمانغا لا تنظم المستودعات الخارجية بأي شكل من الأشكال.\n2. أفهم أن تاتشيمانغا ليست مرتبطة بأي إضافات خارجية.\n3. أوافق على عدم استخدام تاتشيمانغا لعرض المحتوى الذي لا أملك الحقوق له.",
   "@extension_usage_terms": {},
   "find_repository": "العثور على مستودع",
   "@find_repository": {},
@@ -1379,7 +1379,7 @@
   "@login_required": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{إضافة واحدة} other{{x} إضافات}} غير ظاهرة لاحتمالية احتوائها على محتوى حساس.\nعدل إعدادات الإضافات لعرضها.",
   "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "الإضافات المتاحة للغة {text} غير ظاهرة بسبب {preference}.",
+  "extension_filtered_out_by_lang": "الإضافات متاحة بـ{text}.\nقم بتعديل {preference} للعرض.",
   "@extension_filtered_out_by_lang": {},
   "extension_language_preference": "تفضيل لغة الإضافة",
   "@extension_language_preference": {},
@@ -1414,5 +1414,9 @@
   "select_invert": "عكس التحديد",
   "@select_invert": {},
   "select_between": "اختيار بين",
-  "@select_between": {}
+  "@select_between": {},
+  "done_label": "تم",
+  "@done_label": {},
+  "reading_time_tip": "وقت القراءة محسوب منذ ديسمبر 2024.",
+  "@reading_time_tip": {}
 }
