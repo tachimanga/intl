@@ -1,1 +1,276 @@
-{}
+{
+  "inLibrary": "U biblijatécy",
+  "@inLibrary": {
+    "description": "Button and Chip text to show that the manga is in Library"
+  },
+  "library": "Biblijatéka",
+  "@library": {
+    "description": "Screen title and Button text of Library and Library Settings screen"
+  },
+  "manga": "Mánga",
+  "@manga": {
+    "description": "Screen title and Button text of Manga details screen"
+  },
+  "about": "Daviédka",
+  "@about": {
+    "description": "Screen title and Button text of About screen"
+  },
+  "extensionListEmpty": "Śpís pašyréńniaŭ pustý",
+  "@extensionListEmpty": {
+    "description": "Description to show that Extension list is empty in Extension list tab of Browse screen"
+  },
+  "cancel": "Skasaváć",
+  "@cancel": {
+    "description": "Text for Cancel button in a Popup"
+  },
+  "chapterSortFetchedDate": "Pá dácie atrymáńnia",
+  "@chapterSortFetchedDate": {
+    "description": "Radio button text for sort by Fetched Date"
+  },
+  "addCategory": "Dadáć katehóryju",
+  "@addCategory": {
+    "description": "Popup title and Button text to add new category in Edit Category Screen"
+  },
+  "addToLibrary": "Dadáć u biblijatéku",
+  "@addToLibrary": {
+    "description": "Button text to add Manga to Library in Manga Details Screen"
+  },
+  "appLanguage": "Móva pragrámy",
+  "@appLanguage": {
+    "description": "Popup title and Button text to change App Language"
+  },
+  "appTheme": "Téma pragrámy",
+  "@appTheme": {
+    "description": "Popup title and Button text to change App Theme"
+  },
+  "appearance": "Źniéšni výhlad",
+  "@appearance": {
+    "description": "Screen title and Button text of Appearance screen"
+  },
+  "backup": "Rezervóvyja kópiji j adnaŭléńnie",
+  "@backup": {
+    "description": "Screen title and Button text of Backup & Restore screen"
+  },
+  "badges": "Značkí",
+  "@badges": {
+    "description": "Checkbox Group title to enable Badges on manga Cover in Library Screen"
+  },
+  "bookmarked": "Zakłádzienyja",
+  "@bookmarked": {
+    "description": "Checkbox text to filter bookmarked manga chapters in Manga Details screen"
+  },
+  "categories": "Katehóryji",
+  "@categories": {
+    "description": "Button text of edit Categories screen in Library settings screen"
+  },
+  "categoryUpdate": "Abnaŭléńnie katehóryji",
+  "@categoryUpdate": {
+    "description": "Button text to update the mangas in the Category"
+  },
+  "chapterNumber": "Raździéł {number}",
+  "@chapterNumber": {
+    "description": "Text title for Chapter name in chapter list",
+    "placeholders": {
+      "number": {
+        "example": "12.5",
+        "type": "double"
+      }
+    }
+  },
+  "chapterSortSource": "Pá krynícach",
+  "@chapterSortSource": {
+    "description": "Radio button text for sort by Source"
+  },
+  "clientVersion": "Vérsyja klijénta",
+  "@clientVersion": {
+    "description": "Text title for the current version of the client in About screen"
+  },
+  "close": "Zakrýć",
+  "@close": {
+    "description": "Text for close button"
+  },
+  "completed": "Zaviéršana",
+  "@completed": {
+    "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
+  },
+  "copyMsg": "'{msg}' Skapijaváva!",
+  "@copyMsg": {
+    "description": "Toast text to show that the message has been copied",
+    "placeholders": {
+      "msg": {
+        "example": "Client : Tachidesk Sorayomi",
+        "type": "String"
+      }
+    }
+  },
+  "delete": "Výdalić",
+  "@delete": {
+    "description": "Text for delete button"
+  },
+  "deleteCategoryDescription": "Héta abjadnáje ŭsiú mánhu ŭ hétaj katehóryji z katehóryjaj pá zmaŭčáńni!",
+  "@deleteCategoryDescription": {
+    "description": "Popup description when deleting Category"
+  },
+  "deleteCategoryTitle": "Vý ŭpéŭnienyja?",
+  "@deleteCategoryTitle": {
+    "description": "Popup title when deleting Category"
+  },
+  "discord": "Discord",
+  "@discord": {
+    "description": "Discord app title"
+  },
+  "display": "Pakáz",
+  "@display": {
+    "description": "Text for Display tab in Library screen drawer"
+  },
+  "displayMode": "Rezým pakázu",
+  "@displayMode": {
+    "description": "Radio Group title to change manga Cover display in Library and Source Screens"
+  },
+  "displayModeDescriptiveList": "Apisálny śpís",
+  "@displayModeDescriptiveList": {
+    "description": "Radio button text for Manga Cover display mode - Descriptive List"
+  },
+  "displayModeList": "Śpís",
+  "@displayModeList": {
+    "description": "Radio button text for Manga Cover display mode - List"
+  },
+  "downloads": "Spampóŭki",
+  "@downloads": {
+    "description": "Screen title and Navigation text of Downloads screen"
+  },
+  "edit": "Redahaváć",
+  "@edit": {
+    "description": "Popup button text to edit Category in Edit category screen"
+  },
+  "editCategory": "Redahaváć katehóryju",
+  "@editCategory": {
+    "description": "Screen title, Button text and  of Downloads screen"
+  },
+  "emptyCategory": "Názva katehóryji niá móža býć pustój",
+  "@emptyCategory": {
+    "description": "Description to show that category list is empty in Edit Category screen"
+  },
+  "errorFilePick": "Fájł nié abrány!",
+  "@errorFilePick": {
+    "description": "Error Description to show when user does not selected an file"
+  },
+  "errorFilePickUnknownExtension": "Kalí łáska, abiarýcie fájl z pašyréńniem {extensionName}",
+  "@errorFilePickUnknownExtension": {
+    "description": "Error Description to show when user selected unknown extension file"
+  },
+  "errorLaunchURL": "Nié ŭdałósia adkrýć!\nKapijaváńnie \"{url}\" u búfar pamiénu",
+  "@errorLaunchURL": {
+    "description": "Error Description to show when App failed to launch an URL and copied the URL to clipboard",
+    "placeholders": {
+      "url": {
+        "example": "http://sorayomi.suwayomi.org",
+        "type": "String"
+      }
+    }
+  },
+  "errorSomethingWentWrong": "Štóści pajšłó niá ták!",
+  "@errorSomethingWentWrong": {
+    "description": "Error Description to show that Something went wrong!"
+  },
+  "extensionInstalled": "Pašyréńnie ŭstalavánaje!",
+  "@extensionInstalled": {
+    "description": "Toast text to show that the Extension Installed successfully"
+  },
+  "extensions": "Pašyréńni",
+  "@extensions": {
+    "description": "Extension list Tab title in Browse Screen"
+  },
+  "failed": "Nié atrymáłasia",
+  "@failed": {
+    "description": "Failed status Manga Group title in Update Summary Screen"
+  },
+  "filter": "Fíltar",
+  "@filter": {
+    "description": "title of filter Tab across the app"
+  },
+  "general": "Ahúlny",
+  "@general": {
+    "description": "Screen title and Button text of General setting screen"
+  },
+  "globalSearch": "Glabálny póšuk",
+  "@globalSearch": {
+    "description": "Screen title of Global Search screen"
+  },
+  "install": "Dadáć",
+  "@install": {
+    "description": "Button text to install the extension"
+  },
+  "installing": "Dadáńnie",
+  "@installing": {
+    "description": "Button text to show that the extension is installing"
+  },
+  "mangaGridSize": "Pamiér siétki mángi",
+  "@mangaGridSize": {
+    "description": "Popup title and Button text to change Manga Grid size"
+  },
+  "mangaSortAlphabetical": "U alfabétnym parádku",
+  "@mangaSortAlphabetical": {
+    "description": "Radio button text for Manga sort Type - Alphabetical"
+  },
+  "appTitle": "Tachimanga",
+  "@appTitle": {
+    "description": "Name of the app (Tachidesk Sorayomi in native script)"
+  },
+  "browse": "Ahlád",
+  "@browse": {
+    "description": "Screen title, Navigation Bar text and Button text of both Browse screen and Browse Settings Screen"
+  },
+  "errorExtension": "Nié atrýmlivajecca znajścí abránaje pašyréńnie",
+  "@errorExtension": {
+    "description": "Error Description to show when user selected unknown extension from list"
+  },
+  "languages": "Móvy",
+  "@languages": {
+    "description": "Popup title to filter extensions based on language"
+  },
+  "client": "Klijént",
+  "@client": {
+    "description": "Text title for the name of the client in About screen"
+  },
+  "installingExtension": "Dadáńnie pašyréńnia",
+  "@installingExtension": {
+    "description": "Toast text to show that the extension is installing"
+  },
+  "gitHub": "GitHub",
+  "@gitHub": {
+    "description": "GitHub app title"
+  },
+  "downloaded": "Spampavánaje",
+  "@downloaded": {
+    "description": "Text to show downloaded chapters status in Filters  "
+  },
+  "globalUpdate": "Glabálnaje abnaŭléńnie",
+  "@globalUpdate": {
+    "description": "Button text of Global Manga Update"
+  },
+  "help": "Dapamóha",
+  "@help": {
+    "description": "Button text of help in about screen"
+  },
+  "current": "Ciakúčy",
+  "@current": {
+    "description": "Text to show the currently reading chapter in Reader Screen"
+  },
+  "mangaSortDateAdded": "Pá dácie dadáńnia",
+  "@mangaSortDateAdded": {
+    "description": "Radio button text for Manga sort Type - Date Added"
+  },
+  "defaultCategory": "Katehóryja pá zmaŭčáńni prý dadáńni nóvaj mánhi ŭ biblijatéku",
+  "@defaultCategory": {
+    "description": "Checkbox description when creating a Category to add manga to the Category by Default"
+  },
+  "displayModeGrid": "Siétka",
+  "@displayModeGrid": {
+    "description": "Radio button text for Manga Cover display mode - Grid"
+  },
+  "finished": "Skónčana",
+  "@finished": {
+    "description": "Text to show the Currently Finished reading chapter in Reader Screen"
+  }
+}
