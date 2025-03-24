@@ -272,5 +272,9 @@
   "finished": "Skónčana",
   "@finished": {
     "description": "Text to show the Currently Finished reading chapter in Reader Screen"
+  },
+  "mangaSortUnread": "Niepračytánaje",
+  "@mangaSortUnread": {
+    "description": "Radio button text for Manga sort Type - Unread"
   }
 }
