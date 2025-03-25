@@ -276,5 +276,441 @@
   "mangaSortUnread": "Niepračytánaje",
   "@mangaSortUnread": {
     "description": "Radio button text for Manga sort Type - Unread"
-  }
+  },
+  "mangaStatusCancelled": "Skasavána",
+  "@mangaStatusCancelled": {
+    "description": "Text to show Manga Status Cancelled in Manga details screen"
+  },
+  "mangaSortLastRead": "Apóšniaje čytáńnie",
+  "@mangaSortLastRead": {
+    "description": "Radio button text for Manga sort Type - Last Read"
+  },
+  "mangaStatusCompleted": "Zaviéršana",
+  "@mangaStatusCompleted": {
+    "description": "Text to show Manga Status Completed in Manga details screen"
+  },
+  "mangaStatusLicensed": "Licenzavána",
+  "@mangaStatusLicensed": {
+    "description": "Text to show Manga Status Licensed in Manga details screen"
+  },
+  "mangaStatusOnHiatus": "Spýnieny",
+  "@mangaStatusOnHiatus": {
+    "description": "Text to show Manga Status On Hiatus in Manga details screen"
+  },
+  "mangaStatusOngoing": "Vychódzić",
+  "@mangaStatusOngoing": {
+    "description": "Text to show Manga Status Ongoing in Manga details screen"
+  },
+  "mangaStatusPublishingFinished": "Výpusk zaviéršany",
+  "@mangaStatusPublishingFinished": {
+    "description": "Text to show Manga Status Publishing Finished in Manga details screen"
+  },
+  "mangaStatusUnknown": "Nieviadóma",
+  "@mangaStatusUnknown": {
+    "description": "Text to show Manga Status Unknown in Manga details screen"
+  },
+  "more": "Bólš",
+  "@more": {
+    "description": "Screen title and Navigation text of More screen"
+  },
+  "moveToBottom": "Pierasúnuć uníz",
+  "@moveToBottom": {
+    "description": "Button text to move download/category to the bottom of list"
+  },
+  "moveToTop": "Pierasúnuć uviérch",
+  "@moveToTop": {
+    "description": "Button text to move download/category to the top of list"
+  },
+  "nameCountDisplay": "{name}: {count}",
+  "@nameCountDisplay": {
+    "description": "Text pattern to display an name and count in a string",
+    "placeholders": {
+      "name": {
+        "example": "Downloaded",
+        "type": "String"
+      },
+      "count": {
+        "example": "22",
+        "type": "int"
+      }
+    }
+  },
+  "newUpdateAvailable": "Dastúpna abnaŭléńnie",
+  "@newUpdateAvailable": {
+    "description": "Popup title to show that the App/Server has and update"
+  },
+  "noCategoriesFound": "U vás niamá anivódnaj katehóryji.",
+  "@noCategoriesFound": {
+    "description": "Hint text to add new Category when category list is empty"
+  },
+  "noCategoryMangaFound": "Katehóryja pustája",
+  "@noCategoryMangaFound": {
+    "description": "Hint text to check filter when manga list is empty in Category tab in Library"
+  },
+  "noChaptersFound": "Raździéły niá znójdzienyja",
+  "@noChaptersFound": {
+    "description": "Text to show that the Chapter list is empty in Manga details Screen"
+  },
+  "noDownloads": "Niamá spampóŭkaŭ",
+  "@noDownloads": {
+    "description": "Text to show that there is no active downloads in Downloads Screen"
+  },
+  "noMangaFound": "Mánga niá znójdzienaja",
+  "@noMangaFound": {
+    "description": "Text to show that the Manga list is empty"
+  },
+  "noResultFound": "Aničóha niá znójdziena",
+  "@noResultFound": {
+    "description": "Text to show that no results found for the given search query"
+  },
+  "noSourcesFound": "Krynícy niá znójdzienyja",
+  "@noSourcesFound": {
+    "description": "Text to show that the Source list is empty"
+  },
+  "noUpdatesAvailable": "Vý karystájeciesia apóšniaj vérsyjaj",
+  "@noUpdatesAvailable": {
+    "description": "Text to show that the user is using the latest version of the app"
+  },
+  "noUpdatesFound": "Niamá nóvych raździéłaŭ",
+  "@noUpdatesFound": {
+    "description": "Toast Text to show that there are no Updates available"
+  },
+  "nsfw": "Pakázvać NSFW pašyréńni j krynícy",
+  "@nsfw": {
+    "description": "Switch text to show/hide the nsfw extensions"
+  },
+  "nsfw18": "18+",
+  "@nsfw18": {
+    "description": "18+ tag Text to show in extensions list"
+  },
+  "numSelected": "{num} Abrána",
+  "@numSelected": {
+    "description": "Title text to show the number of chapters selected in the Manga details screen and Updates screen",
+    "placeholders": {
+      "num": {
+        "example": "23",
+        "type": "int"
+      }
+    }
+  },
+  "obsolete": "Sastaréła",
+  "@obsolete": {
+    "description": "Text to show that the extension has become Obsolete"
+  },
+  "pause": "Páŭza",
+  "@pause": {
+    "description": "Button text to pause downloads"
+  },
+  "pending": "Čakańnie",
+  "@pending": {
+    "description": "Pending status Manga Group title in Update Summary Screen"
+  },
+  "reader": "Čytáč",
+  "@reader": {
+    "description": "Screen title and Button text of Reader screen"
+  },
+  "readerMode": "Režým čytáńnia",
+  "@readerMode": {
+    "description": "Popup title and Button text of Reader Mode popup"
+  },
+  "readerModeContinuousHorizontalLTR": "Bieśpierapýnna (źléva napráva)",
+  "@readerModeContinuousHorizontalLTR": {
+    "description": "Radio button text for Reader Mode Type - Continuous Horizontal (LTR)"
+  },
+  "readerModeContinuousVertical": "Bieśpierapýnna (vertykálna)",
+  "@readerModeContinuousVertical": {
+    "description": "Radio button text for Reader Mode Type - Continuous Vertical"
+  },
+  "readerModeDefaultReader": "Pá zmaŭčáńni",
+  "@readerModeDefaultReader": {
+    "description": "Radio button text for Reader Mode Type - Default"
+  },
+  "readerModeSingleHorizontalRTL": "Starónkavy (správa naléva)",
+  "@readerModeSingleHorizontalRTL": {
+    "description": "Radio button text for Reader Mode Type - Single Horizontal (RTL)"
+  },
+  "readerNavigationLayoutDefault": "Pá zmaŭčáńni",
+  "@readerNavigationLayoutDefault": {
+    "description": "Radio button text for Reader Navigation Layout - Default"
+  },
+  "readerNavigationLayoutDisabled": "Adklúčana",
+  "@readerNavigationLayoutDisabled": {
+    "description": "Radio button text for Reader Navigation Layout - Disabled"
+  },
+  "readerNavigationLayoutEdge": "Kráj",
+  "@readerNavigationLayoutEdge": {
+    "description": "Radio button text for Reader Navigation Layout - Edge"
+  },
+  "readerNavigationLayout": "Nacisknýja zóny",
+  "@readerNavigationLayout": {
+    "description": "Popup title and Button text of Reader Navigation Layout popup"
+  },
+  "readerNavigationLayoutKindlish": "u stýli Kindle",
+  "@readerNavigationLayoutKindlish": {
+    "description": "Radio button text for Reader Navigation Layout - Kindle-ish"
+  },
+  "readerNavigationLayoutLShaped": "L-vobrázny",
+  "@readerNavigationLayoutLShaped": {
+    "description": "Radio button text for Reader Navigation Layout - L Shaped"
+  },
+  "readerNavigationLayoutRightAndLeft": "Správa j źléva",
+  "@readerNavigationLayoutRightAndLeft": {
+    "description": "Radio button text for Reader Navigation Layout - Right And Left"
+  },
+  "readerPadding": "Vódstup čytačá",
+  "@readerPadding": {
+    "description": "Slider title text for Reader Padding"
+  },
+  "refresh": "Abnavíć",
+  "@refresh": {
+    "description": "Refresh button text"
+  },
+  "retry": "Paŭtarýć",
+  "@retry": {
+    "description": "Retry Button Text"
+  },
+  "running": "Zapúščany",
+  "@running": {
+    "description": "Running status Manga Group title in Update Summary Screen"
+  },
+  "sourceTypeFilter": "Fíltar",
+  "@sourceTypeFilter": {
+    "description": "Tab text Filter for source screen type"
+  },
+  "sourceTypeLatest": "Apóšniaje",
+  "@sourceTypeLatest": {
+    "description": "Tab text Latest for source screen type"
+  },
+  "sourceTypePopular": "Papulárnaje",
+  "@sourceTypePopular": {
+    "description": "Tab text Popular for source screen type"
+  },
+  "sources": "Krynícy",
+  "@sources": {
+    "description": "title of Sources Tab in Browse Screen"
+  },
+  "start": "Pačáć",
+  "@start": {
+    "description": "Button text start reading the manga"
+  },
+  "themeModeDark": "Ciómny",
+  "@themeModeDark": {
+    "description": "Radio button text for App theme - Dark"
+  },
+  "themeModeLight": "Śviétły",
+  "@themeModeLight": {
+    "description": "Radio button text for App theme - Light"
+  },
+  "themeModeSystem": "Systémny",
+  "@themeModeSystem": {
+    "description": "Radio button text for App theme - System"
+  },
+  "uninstall": "Výdalić",
+  "@uninstall": {
+    "description": "Button text to Uninstall the extension"
+  },
+  "unknownAuthor": "Nieviadómy áŭtar",
+  "@unknownAuthor": {
+    "description": "Text to show unknown author in Manga details screen"
+  },
+  "unread": "Niepračytánaje",
+  "@unread": {
+    "description": "Checkbox text to unread bookmarked manga/chapters across app"
+  },
+  "update": "Abnavíć",
+  "@update": {
+    "description": "Button text to update the extension"
+  },
+  "updates": "Abnaŭléńni",
+  "@updates": {
+    "description": "Screen title and Button text of Updates screen"
+  },
+  "updatesSummary": "Spravazdáča abnaŭléńniaŭ",
+  "@updatesSummary": {
+    "description": "Screen title and Button text of Updates Summary screen"
+  },
+  "updating": "Abnaŭlájecca",
+  "@updating": {
+    "description": "Button text to show that the extension is updating"
+  },
+  "webView": "Véb-prahlád",
+  "@webView": {
+    "description": "Button text to open manga website"
+  },
+  "whatsNew": "Štó nóvaha?",
+  "@whatsNew": {
+    "description": "Button text to open whats new page of app in web"
+  },
+  "getPremium": "Atrymáć Prémijum",
+  "@getPremium": {},
+  "alreadyGetPremium": "Prémijum nabýty",
+  "@alreadyGetPremium": {},
+  "purchaseExpireAt": "Prémijum-padpíska aŭtamatýčna praciáhniecca {date}.",
+  "@purchaseExpireAt": {},
+  "iapFaq": "ČáPy",
+  "@iapFaq": {},
+  "restorePurchase": "Adnavíć pakúpku",
+  "@restorePurchase": {},
+  "share": "Abahulíć",
+  "@share": {},
+  "discordServer": "Discord-sérver",
+  "@discordServer": {},
+  "externalRepository": "Nałády pašyréńnia",
+  "@externalRepository": {},
+  "externalRepositoryUrl": "URL-ádras repazytára pašyréńniaŭ",
+  "@externalRepositoryUrl": {},
+  "history": "Históryja",
+  "@history": {},
+  "clearCookies": "Ačýścić fájły \"Cookie\"",
+  "@clearCookies": {},
+  "clearCache": "Ačýścić kéš",
+  "@clearCache": {},
+  "termsUrl": "Umóvy vykarystáńnia",
+  "@termsUrl": {},
+  "privacyUrl": "Palítyka pryvátnaści",
+  "@privacyUrl": {},
+  "recentlyDownloaded": "Niadáŭna spampavána",
+  "@recentlyDownloaded": {},
+  "tracking": "Adsóčvańnie",
+  "@tracking": {},
+  "downloadFailed": "Pamýłka spampóŭki",
+  "@downloadFailed": {},
+  "downloadTip": "Padkázka: Nacíśnicie knópku adkryćciá, káb praviéryć, cí právilna janá adlustróŭvajecca.",
+  "@downloadTip": {},
+  "open": "Adkrýć",
+  "@open": {},
+  "remove": "Výdalić",
+  "@remove": {},
+  "logout": "Výjści",
+  "@logout": {},
+  "addTracking": "Dadáć adsóčvańnie",
+  "@addTracking": {},
+  "openInBrowser": "Adkrýć u bráŭzary",
+  "@openInBrowser": {},
+  "processing": "Apracóŭka...",
+  "@processing": {},
+  "trackingStatus": "Státus",
+  "@trackingStatus": {},
+  "trackingStatusReading": "Čytáju",
+  "@trackingStatusReading": {},
+  "trackingStatusPlanToRead": "Planúju čytáć",
+  "@trackingStatusPlanToRead": {},
+  "trackingStatusCompleted": "Zaviéršana",
+  "@trackingStatusCompleted": {},
+  "trackingStatusRereading": "Pieračýtvaju",
+  "@trackingStatusRereading": {},
+  "trackingChapter": "Raździéł",
+  "@trackingChapter": {},
+  "trackingScore": "Acénka",
+  "@trackingScore": {},
+  "trackingStartDate": "Dáta pačátku",
+  "@trackingStartDate": {},
+  "trackingFinishDate": "Dáta zakančéńnia",
+  "@trackingFinishDate": {},
+  "operationFailTip": "Nié ŭdałósia výkanać aperácyju. Kalí łáska, pasprabújcie jaščé ráz.",
+  "@operationFailTip": {},
+  "readerModeSingleHorizontalLTR": "Starónkavy (źléva napráva)",
+  "@readerModeSingleHorizontalLTR": {
+    "description": "Radio button text for Reader Mode Type - Single Horizontal (LTR)"
+  },
+  "readerModeContinuousHorizontalRTL": "Bieśpierapýnna (správa naléva)",
+  "@readerModeContinuousHorizontalRTL": {
+    "description": "Radio button text for Reader Mode Type - Continuous Horizontal (RTL)"
+  },
+  "updateCompleted": "Abnaŭléńnie zaviéršanaje",
+  "@updateCompleted": {
+    "description": "Button text to show that extension update is completed"
+  },
+  "readerModeSingleVertical": "Starónkavy (vertykálna)",
+  "@readerModeSingleVertical": {
+    "description": "Radio button text for Reader Mode Type - Single Vertical"
+  },
+  "noCategoriesFoundAlt": "U vás niamá anivódnaj katehóryji. \nStvarýcie adnú ŭ nałádach dlá arganizácyji vášaj biblijatéki",
+  "@noCategoriesFoundAlt": {
+    "description": "Hint text to add new Category in Settings when category list is empty"
+  },
+  "unknownSource": "Nieviadómaja kryníca",
+  "@unknownSource": {
+    "description": "Text to show unknown Source in Manga details screen"
+  },
+  "trackingStatusDropped": "Kínuta",
+  "@trackingStatusDropped": {},
+  "noOfChapters": "{count} Raździełaŭ",
+  "@noOfChapters": {
+    "description": "Title text to show the number of chapters in the Manga details screen",
+    "placeholders": {
+      "count": {
+        "example": "23",
+        "type": "int"
+      }
+    }
+  },
+  "nsfwInfo": "Héta nié pieraškadžáje nieaficýjnym albó patencýjna niaprávilna paznáčanym pašyréńniam pakázvać źmiéściva NSFW(18+) u pragrámie",
+  "@nsfwInfo": {
+    "description": "Hint text to show that the nsfw switch cannot prevent incorrectly flagged extensions from surfacing"
+  },
+  "save": "Zachaváć",
+  "@save": {
+    "description": "Save Button Text"
+  },
+  "page": "Starónka: {number}",
+  "@page": {
+    "description": "Text to show the last read Page number of the chapter in Manga details screen",
+    "placeholders": {
+      "number": {
+        "example": "23",
+        "type": "int"
+      }
+    }
+  },
+  "errorMessageFrom": "Pamýłka: {text}",
+  "@errorMessageFrom": {},
+  "readerModeWebtoon": "Vebtún (Webtoon)",
+  "@readerModeWebtoon": {
+    "description": "Radio button text for Reader Mode Type - Webtoon"
+  },
+  "logoutFrom": "Výjści z {text}",
+  "@logoutFrom": {},
+  "settings": "Nałády",
+  "@settings": {
+    "description": "Screen title and Button text of Settings screen"
+  },
+  "readerNavigationLayoutInvert": "Invertaváć nacisknýja zóny",
+  "@readerNavigationLayoutInvert": {
+    "description": "Switch title to invert Tap to scroll in reader screen"
+  },
+  "reset": "Skínuć",
+  "@reset": {
+    "description": "Button text of reset button in source filters"
+  },
+  "sort": "Sartaváć",
+  "@sort": {
+    "description": "title of sort Tab across the app"
+  },
+  "externalRepositoryUrlShort": "URL-ádras repazytára pašyréńniaŭ",
+  "@externalRepositoryUrlShort": {},
+  "resume": "Praciáhnuć",
+  "@resume": {
+    "description": "Button Text to resume Chapter reading/downloading"
+  },
+  "search": "Póšuk",
+  "@search": {
+    "description": "Search field hint Text"
+  },
+  "uninstalling": "Vydaléńnie",
+  "@uninstalling": {
+    "description": "Button text to show that the extension is uninstalling"
+  },
+  "source": "Kryníca",
+  "@source": {
+    "description": "Screen title and Button text of source screen"
+  },
+  "ok": "OK",
+  "@ok": {},
+  "unknownManga": "Nieviadómaja mánga",
+  "@unknownManga": {
+    "description": "Text to show unknown manga in Manga details screen"
+  },
+  "trackingStatusOnHold": "Adkłádziena",
+  "@trackingStatusOnHold": {}
 }
