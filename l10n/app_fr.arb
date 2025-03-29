@@ -65,7 +65,7 @@
   "@chapterSortSource": {
     "description": "Radio button text for sort by Source"
   },
-  "chapterSortUploadDate": "Par date d'import",
+  "chapterSortUploadDate": "Par date de téléchargement",
   "@chapterSortUploadDate": {
     "description": "Radio button text for sort by Upload Date"
   },
@@ -1432,5 +1432,21 @@
   "use_photo_view_title": "Améliorez l'expérience du geste de glissement pendant le zoom.",
   "@use_photo_view_title": {},
   "source_not_working_tips": "Cette source ne semble pas fonctionner pour le moment pour diverses raisons; veuillez consulter l'aide pour le dépannage et envisagez de migrer vers d'autres sources.",
-  "@source_not_working_tips": {}
+  "@source_not_working_tips": {},
+  "chapterSortChapterName": "Par nom",
+  "@chapterSortChapterName": {},
+  "library_search_globally": "Rechercher \"{text}\" globalement",
+  "@library_search_globally": {},
+  "saved_searches": "Recherches enregistrées",
+  "@saved_searches": {},
+  "long_press_to_delete": "Appuyez longuement pour supprimer.",
+  "@long_press_to_delete": {},
+  "save_query_title": "Enregistrer la requête de recherche actuelle ?",
+  "@save_query_title": {},
+  "save_query_hint": "Nom",
+  "@save_query_hint": {},
+  "delete_query_title": "Supprimer la requête de recherche enregistrée ?",
+  "@delete_query_title": {},
+  "delete_query_content": "Êtes-vous sûr de vouloir supprimer {title} ?",
+  "@delete_query_content": {}
 }
