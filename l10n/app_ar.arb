@@ -179,7 +179,7 @@
   "@cancel": {
     "description": "Text for Cancel button in a Popup"
   },
-  "chapterSortUploadDate": "حسب تاريخ الإضافة",
+  "chapterSortUploadDate": "حسب تاريخ الرفع",
   "@chapterSortUploadDate": {
     "description": "Radio button text for sort by Upload Date"
   },
@@ -1484,5 +1484,21 @@
   "use_photo_view_title": "تعزيز تجربة سحب الإيماءة أثناء التكبير.",
   "@use_photo_view_title": {},
   "source_not_working_tips": "يبدو أن هذا المصدر لا يعمل حاليًا لأسباب مختلفة؛ يرجى التحقق من المساعدة لحل المشكلات والنظر في الانتقال إلى مصادر أخرى.",
-  "@source_not_working_tips": {}
+  "@source_not_working_tips": {},
+  "chapterSortChapterName": "حسب الاسم",
+  "@chapterSortChapterName": {},
+  "library_search_globally": "البحث عن \"{text}\" عالميًا",
+  "@library_search_globally": {},
+  "saved_searches": "عمليات البحث المحفوظة",
+  "@saved_searches": {},
+  "long_press_to_delete": "اضغط مطولاً للحذف.",
+  "@long_press_to_delete": {},
+  "save_query_title": "حفظ استعلام البحث الحالي؟",
+  "@save_query_title": {},
+  "save_query_hint": "الاسم",
+  "@save_query_hint": {},
+  "delete_query_title": "حذف استعلام البحث المحفوظ؟",
+  "@delete_query_title": {},
+  "delete_query_content": "هل أنت متأكد من رغبتك في حذف {title}؟",
+  "@delete_query_content": {}
 }
