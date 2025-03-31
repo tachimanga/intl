@@ -253,7 +253,7 @@
   "@help": {
     "description": "Button text of help in about screen"
   },
-  "current": "Ciakúčy",
+  "current": "Biahúčy",
   "@current": {
     "description": "Text to show the currently reading chapter in Reader Screen"
   },
@@ -269,7 +269,7 @@
   "@displayModeGrid": {
     "description": "Radio button text for Manga Cover display mode - Grid"
   },
-  "finished": "Skónčana",
+  "finished": "Skónčany",
   "@finished": {
     "description": "Text to show the Currently Finished reading chapter in Reader Screen"
   },
@@ -1115,7 +1115,7 @@
   "@download_all_chapters": {},
   "lock_with_biometrics": "Błakaváńnie bijamétryjaj",
   "@lock_with_biometrics": {},
-  "relative_time": "{x, plural, one{Učóra} few{{x} dní tamú} many{{x} dzión tamú} other{{x} dzión tamú}}",
+  "relative_time": "{x, plural, one{Učóra} other{{x} dní/dzión tamú}}",
   "@relative_time": {},
   "lock_when_idle": "Blakaváć prý biaździéjnaści",
   "@lock_when_idle": {},
