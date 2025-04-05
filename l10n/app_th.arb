@@ -1096,5 +1096,7 @@
   "delete_query_title": "ลบการค้นหาที่บันทึกไว้?",
   "@delete_query_title": {},
   "delete_query_content": "คุณแน่ใจหรือไม่ว่าต้องการลบ {title}?",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "การร้องขอหมดเวลา โปรดรีเฟรชหรือตรวจสอบเว็บไซต์ใน WebView",
+  "@receive_timeout_tips": {}
 }

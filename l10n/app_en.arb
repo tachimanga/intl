@@ -1449,5 +1449,7 @@
   "delete_query_title": "Delete saved search query?",
   "@delete_query_title": {},
   "delete_query_content": "Are you sure you wish to delete {title}?",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "Request timeout. Please refresh or check website in WebView",
+  "@receive_timeout_tips": {}
 }

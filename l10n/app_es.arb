@@ -1111,5 +1111,7 @@
   "delete_query_title": "¿Eliminar consulta de búsqueda guardada?",
   "@delete_query_title": {},
   "delete_query_content": "¿Estás seguro de que deseas eliminar {title}?",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "Tiempo de espera agotado. Actualiza o revisa el sitio en WebView",
+  "@receive_timeout_tips": {}
 }

@@ -1096,5 +1096,7 @@
   "delete_query_title": "Eliminare la query di ricerca salvata?",
   "@delete_query_title": {},
   "delete_query_content": "Sei sicuro di voler eliminare {title}?",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "Timeout della richiesta. Aggiorna o controlla il sito in WebView",
+  "@receive_timeout_tips": {}
 }

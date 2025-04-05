@@ -1508,5 +1508,7 @@
   "delete_query_title": "Видалити збережений пошуковий запит?",
   "@delete_query_title": {},
   "delete_query_content": "Ви впевнені, що хочете видалити {title}?",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "Час очікування вичерпано. Оновіть або перевірте сайт у WebView",
+  "@receive_timeout_tips": {}
 }

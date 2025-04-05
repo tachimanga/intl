@@ -1096,5 +1096,7 @@
   "delete_query_title": "Удалить сохраненный поисковый запрос?",
   "@delete_query_title": {},
   "delete_query_content": "Вы уверены, что хотите удалить {title}?",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "Истекло время ожидания. Обновите или проверьте сайт в WebView",
+  "@receive_timeout_tips": {}
 }

@@ -1096,5 +1096,7 @@
   "delete_query_title": "Kayıtlı arama sorgusunu sil?",
   "@delete_query_title": {},
   "delete_query_content": "{title} öğesini silmek istediğinizden emin misiniz?",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "İstek zaman aşımı. Lütfen yenileyin veya WebView'da siteyi kontrol edin",
+  "@receive_timeout_tips": {}
 }
