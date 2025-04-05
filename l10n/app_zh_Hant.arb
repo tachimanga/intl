@@ -1096,5 +1096,7 @@
   "delete_query_title": "刪除已儲存的搜尋查詢？",
   "@delete_query_title": {},
   "delete_query_content": "確定要刪除 {title} 嗎？",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "請求超時，請重新整理或在WebView中查看網頁",
+  "@receive_timeout_tips": {}
 }

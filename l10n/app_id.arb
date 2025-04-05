@@ -1096,5 +1096,7 @@
   "delete_query_title": "Hapus kueri pencarian tersimpan?",
   "@delete_query_title": {},
   "delete_query_content": "Apakah Anda yakin ingin menghapus {title}?",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "Permintaan timeout. Segarkan atau periksa situs di WebView",
+  "@receive_timeout_tips": {}
 }

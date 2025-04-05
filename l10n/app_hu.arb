@@ -1096,5 +1096,7 @@
   "delete_query_title": "Törli a mentett keresési lekérdezést?",
   "@delete_query_title": {},
   "delete_query_content": "Biztosan törölni szeretné {title}?",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "Időtúllépés. Frissíts vagy ellenőrizd a weboldalt a WebView-ban",
+  "@receive_timeout_tips": {}
 }

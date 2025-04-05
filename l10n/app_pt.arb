@@ -1107,5 +1107,7 @@
   "delete_query_title": "Deletar consulta de pesquisa salva?",
   "@delete_query_title": {},
   "delete_query_content": "Tem certeza que deseja deletar {title}?",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "Tempo limite da requisição. Atualize ou verifique o site no WebView",
+  "@receive_timeout_tips": {}
 }

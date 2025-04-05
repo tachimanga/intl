@@ -1096,5 +1096,7 @@
   "delete_query_title": "Gespeicherte Suchanfrage löschen?",
   "@delete_query_title": {},
   "delete_query_content": "Sind Sie sicher, dass Sie {title} löschen möchten?",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "Anfragezeitüberschreitung. Bitte aktualisieren oder Website im WebView prüfen",
+  "@receive_timeout_tips": {}
 }

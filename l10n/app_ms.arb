@@ -1096,5 +1096,7 @@
   "delete_query_title": "Padam carian tersimpan?",
   "@delete_query_title": {},
   "delete_query_content": "Adakah anda pasti mahu memadam {title}?",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "Permintaan tamat. Segar semula atau semak laman web dalam WebView",
+  "@receive_timeout_tips": {}
 }

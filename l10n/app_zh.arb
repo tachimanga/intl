@@ -1436,5 +1436,7 @@
   "delete_query_title": "删除保存的搜索查询？",
   "@delete_query_title": {},
   "delete_query_content": "确定要删除 {title} 吗？",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "请求超时，请刷新或在WebView中查看网页",
+  "@receive_timeout_tips": {}
 }

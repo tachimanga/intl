@@ -1096,5 +1096,7 @@
   "delete_query_title": "Xóa truy vấn tìm kiếm đã lưu?",
   "@delete_query_title": {},
   "delete_query_content": "Bạn có chắc chắn muốn xóa {title} không?",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "Hết thời gian yêu cầu. Vui lòng làm mới hoặc kiểm tra trang web trong WebView",
+  "@receive_timeout_tips": {}
 }

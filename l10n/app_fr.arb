@@ -1448,5 +1448,7 @@
   "delete_query_title": "Supprimer la requête de recherche enregistrée ?",
   "@delete_query_title": {},
   "delete_query_content": "Êtes-vous sûr de vouloir supprimer {title} ?",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "Délai de requête dépassé. Actualisez ou vérifiez le site dans WebView",
+  "@receive_timeout_tips": {}
 }

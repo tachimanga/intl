@@ -1500,5 +1500,7 @@
   "delete_query_title": "حذف استعلام البحث المحفوظ؟",
   "@delete_query_title": {},
   "delete_query_content": "هل أنت متأكد من رغبتك في حذف {title}؟",
-  "@delete_query_content": {}
+  "@delete_query_content": {},
+  "receive_timeout_tips": "انتهت مهلة الطلب. يرجى التحديث أو التحقق من الموقع في WebView",
+  "@receive_timeout_tips": {}
 }
