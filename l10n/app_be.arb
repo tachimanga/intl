@@ -1448,5 +1448,7 @@
   "save_query_title": "Zachaváć biahúčy pošukavý zápyt?",
   "@save_query_title": {},
   "delete_query_title": "Výdalić zachavány pošukavý zápyt?",
-  "@delete_query_title": {}
+  "@delete_query_title": {},
+  "receive_timeout_tips": "Skónčyŭsia čás čakáńnia. Abnavície cí prahlédźcie sájt u WebView",
+  "@receive_timeout_tips": {}
 }
