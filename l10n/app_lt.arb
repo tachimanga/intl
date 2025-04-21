@@ -1289,7 +1289,7 @@
   "@remove_from_category": {},
   "keep_in_category": "Laikyti {category}",
   "@keep_in_category": {},
-  "keep_in_categories": "{x, daugiskaita, vienas{laikyti kategorijoje} kitas{laikyti {x} kategorijose}}}",
+  "keep_in_categories": "{x, plural, one{laikyti kategorijoje} other{laikyti {x} kategorijose}}",
   "@keep_in_categories": {},
   "how_to_upgrade_lifetime": "Kaip pereiti prie gyvenimo trukmės?",
   "@how_to_upgrade_lifetime": {},
@@ -1447,7 +1447,7 @@
   "@classic_start_reading_button": {},
   "app_icon_update_tip": "Jei piktograma neatnaujinama sėkmingai, galite šiek tiek palaukti arba tiesiog perkrauti prietaisą.",
   "@app_icon_update_tip": {},
-  "remove_from_categories": "{x, plural, one{Pašalinti iš kategorijos} other{Pašalinti iš {x} kategorijų}}}",
+  "remove_from_categories": "{x, plural, one{Pašalinti iš kategorijos} other{Pašalinti iš {x} kategorijų}}",
   "@remove_from_categories": {},
   "extension_filtered_out_by_nsfw": "{x, plural, one{1 plėtinys yra} other{{x} plėtiniai yra}} nerodomi, nes juose gali būti neskelbtino turinio.\nSureguliuokite plėtinių nustatymus, kad jie būtų rodomi.",
   "@extension_filtered_out_by_nsfw": {}
