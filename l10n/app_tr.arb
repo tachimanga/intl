@@ -1031,11 +1031,11 @@
   "@move_to_default_category": {},
   "remove_from_category": "{category} kategorisinden kaldır",
   "@remove_from_category": {},
-  "remove_from_categories": "{x, plural, one{Kategoriden kaldır} other{{x} kategoriden kaldır}}}",
+  "remove_from_categories": "{x, plural, one{Kategoriden kaldır} other{{x} kategoriden kaldır}}",
   "@remove_from_categories": {},
   "keep_in_category": "{category} kategorisinde tut",
   "@keep_in_category": {},
-  "keep_in_categories": "{x, plural, one{Kategoride tut} other{{x} kategoride tut}}}",
+  "keep_in_categories": "{x, plural, one{Kategoride tut} other{{x} kategoride tut}}",
   "@keep_in_categories": {},
   "pinch_to_zoom_tip": "macOS'ta fare tekerleği kullanıyorsanız bu özelliği devre dışı bırakın.",
   "@pinch_to_zoom_tip": {},
@@ -1164,5 +1164,13 @@
   "how_to_enable_skip_duplicate_chapters": "Yinelenen bölümleri atlamayı nasıl etkinleştiririm?",
   "@how_to_enable_skip_duplicate_chapters": {},
   "how_to_enable_skip_duplicate_chapters_tips": "Bu seçenek yalnızca birden fazla çeviri grubu olduğunda kullanılabilir.",
-  "@how_to_enable_skip_duplicate_chapters_tips": {}
+  "@how_to_enable_skip_duplicate_chapters_tips": {},
+  "open_in_safari": "Safari'de Aç",
+  "@open_in_safari": {},
+  "restoring_purchase": "Satın Alma Geri Yükleniyor...",
+  "@restoring_purchase": {},
+  "enhance_drag_gesture": "Yakınlaştırma sırasında sürükleme deneyimini iyileştir",
+  "@enhance_drag_gesture": {},
+  "mouse_wheel_speed": "Fare tekerlek hızı",
+  "@mouse_wheel_speed": {}
 }

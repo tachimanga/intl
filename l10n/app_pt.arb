@@ -1175,5 +1175,13 @@
   "update_completed_label": "Atualização concluída.",
   "@update_completed_label": {},
   "force_update": "Forçar atualização",
-  "@force_update": {}
+  "@force_update": {},
+  "open_in_safari": "Abrir no Safari",
+  "@open_in_safari": {},
+  "restoring_purchase": "Restaurando compra...",
+  "@restoring_purchase": {},
+  "enhance_drag_gesture": "Melhorar experiência de arraste ao ampliar",
+  "@enhance_drag_gesture": {},
+  "mouse_wheel_speed": "Velocidade roda do mouse",
+  "@mouse_wheel_speed": {}
 }
