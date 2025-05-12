@@ -971,7 +971,7 @@
   "@sync_not_enable": {},
   "login_required": "需要登錄。",
   "@login_required": {},
-  "extension_filtered_out_by_nsfw": "{x, plural, one{1 個擴展} other{{x} 個擴展}} 因可能包含敏感內容未顯示。調整擴展設置以顯示。",
+  "extension_filtered_out_by_nsfw": "{x, plural, one{1 個擴展} other{{x} 個擴展}} 因可能包含敏感內容未顯示。\n調整擴展設置以顯示。",
   "@extension_filtered_out_by_nsfw": {},
   "extension_filtered_out_by_lang": "擴展可在 {text} 中使用。\n調整 {preference} 以顯示。",
   "@extension_filtered_out_by_lang": {},
