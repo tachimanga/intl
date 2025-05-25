@@ -1172,5 +1172,7 @@
   "enhance_drag_gesture": "增強縮放時的拖曳體驗",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "滑鼠滾輪速度",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "未找到頁面",
+  "@noPagesFound": {}
 }

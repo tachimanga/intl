@@ -1172,5 +1172,7 @@
   "enhance_drag_gesture": "Tingkatkan pengalaman seret semasa zum",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "Kelajuan roda tetikus",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "Tiada halaman dijumpai",
+  "@noPagesFound": {}
 }

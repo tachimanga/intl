@@ -586,7 +586,7 @@
   "noCategoriesFound": "You don't have any Categories.",
   "noCategoriesFoundAlt": "You don't have any Categories. \nCreate one in settings for organizing your library",
   "noCategoryMangaFound": "Category is empty",
-  "noChaptersFound": "No Chapters found",
+  "noChaptersFound": "No chapters found",
   "noDownloads": "No Downloads",
   "noMangaFound": "No Mangas Found",
   "noOfChapters": "{count} Chapters",
@@ -1525,5 +1525,7 @@
   "enhance_drag_gesture": "Enhance the drag gesture experience during zooming",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "Mouse wheel speed",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "No pages found",
+  "@noPagesFound": {}
 }

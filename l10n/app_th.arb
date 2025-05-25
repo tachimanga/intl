@@ -1172,5 +1172,7 @@
   "enhance_drag_gesture": "ปรับปรุงการลากขณะซูม",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "ความเร็วล้อเมาส์",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "ไม่พบหน้า",
+  "@noPagesFound": {}
 }

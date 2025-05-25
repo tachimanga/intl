@@ -1172,5 +1172,7 @@
   "enhance_drag_gesture": "Tingkatkan pengalaman geser saat memperbesar",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "Kecepatan roda mouse",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "Tidak ada halaman ditemukan",
+  "@noPagesFound": {}
 }

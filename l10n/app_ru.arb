@@ -1172,5 +1172,7 @@
   "enhance_drag_gesture": "Улучшить жесты перетаскивания при масштабировании",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "Скорость колесика мыши",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "Страницы не найдены",
+  "@noPagesFound": {}
 }

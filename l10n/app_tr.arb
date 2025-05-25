@@ -1172,5 +1172,7 @@
   "enhance_drag_gesture": "Yakınlaştırma sırasında sürükleme deneyimini iyileştir",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "Fare tekerlek hızı",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "Sayfa bulunamadı",
+  "@noPagesFound": {}
 }

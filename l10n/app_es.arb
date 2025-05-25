@@ -1187,5 +1187,7 @@
   "enhance_drag_gesture": "Mejorar gesto de arrastre al hacer zoom",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "Velocidad rueda del ratón",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "No se encontraron páginas",
+  "@noPagesFound": {}
 }
