@@ -1172,5 +1172,7 @@
   "enhance_drag_gesture": "Drag-Geste beim Zoomen verbessern",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "Mausrad-Geschwindigkeit",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "Keine Seiten gefunden",
+  "@noPagesFound": {}
 }

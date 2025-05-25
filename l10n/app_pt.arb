@@ -1183,5 +1183,7 @@
   "enhance_drag_gesture": "Melhorar experiência de arraste ao ampliar",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "Velocidade roda do mouse",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "Nenhuma página encontrada",
+  "@noPagesFound": {}
 }

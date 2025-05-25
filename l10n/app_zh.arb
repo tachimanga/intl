@@ -1512,5 +1512,7 @@
   "enhance_drag_gesture": "增强缩放时的拖拽体验",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "鼠标滚轮速度",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "未找到页面",
+  "@noPagesFound": {}
 }

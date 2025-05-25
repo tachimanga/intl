@@ -1524,5 +1524,7 @@
   "enhance_drag_gesture": "Améliorer le geste de glissement pendant le zoom",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "Vitesse molette souris",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "Aucune page trouvée",
+  "@noPagesFound": {}
 }

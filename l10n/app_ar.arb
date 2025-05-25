@@ -1576,5 +1576,7 @@
   "enhance_drag_gesture": "تحسين تجربة السحب أثناء التكبير",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "سرعة عجلة الماوس",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "لم يتم العثور على صفحات",
+  "@noPagesFound": {}
 }

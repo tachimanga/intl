@@ -1584,5 +1584,7 @@
   "enhance_drag_gesture": "Покращити досвід перетягування під час збільшення",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "Швидкість коліщатка миші",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "Сторінки не знайдено",
+  "@noPagesFound": {}
 }

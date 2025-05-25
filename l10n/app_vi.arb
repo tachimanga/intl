@@ -1172,5 +1172,7 @@
   "enhance_drag_gesture": "Cải thiện thao tác kéo khi phóng to",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "Tốc độ bánh xe chuột",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "Không tìm thấy trang nào",
+  "@noPagesFound": {}
 }

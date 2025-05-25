@@ -1172,5 +1172,7 @@
   "enhance_drag_gesture": "Migliora gesto trascinamento durante zoom",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "Velocità rotellina mouse",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "Nessuna pagina trovata",
+  "@noPagesFound": {}
 }

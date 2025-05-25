@@ -1172,5 +1172,7 @@
   "enhance_drag_gesture": "Húzás élmény javítása zoomoláskor",
   "@enhance_drag_gesture": {},
   "mouse_wheel_speed": "Egérgörgő sebesség",
-  "@mouse_wheel_speed": {}
+  "@mouse_wheel_speed": {},
+  "noPagesFound": "Nincsenek oldalak",
+  "@noPagesFound": {}
 }
