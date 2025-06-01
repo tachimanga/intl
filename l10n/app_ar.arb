@@ -31,7 +31,7 @@
   "@badges": {
     "description": "Checkbox Group title to enable Badges on manga Cover in Library Screen"
   },
-  "bookmarked": "لديها إشارات مرجعية",
+  "bookmarked": "الإشارات المرجعية",
   "@bookmarked": {
     "description": "Checkbox text to filter bookmarked manga chapters in Manga Details screen"
   },
