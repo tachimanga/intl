@@ -3,11 +3,11 @@
   "@about": {
     "description": "Screen title and Button text of About screen"
   },
-  "addCategory": "إضافة فئة",
+  "addCategory": "‮إضافة فئة",
   "@addCategory": {
     "description": "Popup title and Button text to add new category in Edit Category Screen"
   },
-  "addToLibrary": "إضافة إلى المكتبة",
+  "addToLibrary": "Add to Library",
   "@addToLibrary": {
     "description": "Button text to add Manga to Library in Manga Details Screen"
   },
