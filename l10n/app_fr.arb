@@ -333,15 +333,15 @@
   "@readerModeDefaultReader": {
     "description": "Radio button text for Reader Mode Type - Default"
   },
-  "readerModeSingleHorizontalLTR": "Horizontal simple (De gauche à droite)",
+  "readerModeSingleHorizontalLTR": "Pagination (De gauche à droite)",
   "@readerModeSingleHorizontalLTR": {
     "description": "Radio button text for Reader Mode Type - Single Horizontal (LTR)"
   },
-  "readerModeSingleHorizontalRTL": "Horizontal simple (De droite à gauche)",
+  "readerModeSingleHorizontalRTL": "Pagination (De droite à gauche)",
   "@readerModeSingleHorizontalRTL": {
     "description": "Radio button text for Reader Mode Type - Single Horizontal (RTL)"
   },
-  "readerModeSingleVertical": "Vertical simple",
+  "readerModeSingleVertical": "Pagination (vertical)",
   "@readerModeSingleVertical": {
     "description": "Radio button text for Reader Mode Type - Single Vertical"
   },
@@ -705,9 +705,9 @@
   "@processing": {},
   "trackingStatus": "Statut",
   "@trackingStatus": {},
-  "trackingStatusReading": "À lire",
+  "trackingStatusReading": "Lecture",
   "@trackingStatusReading": {},
-  "trackingStatusPlanToRead": "Prévu à lire",
+  "trackingStatusPlanToRead": "Lecture prévue",
   "@trackingStatusPlanToRead": {},
   "trackingStatusCompleted": "Terminé",
   "@trackingStatusCompleted": {},
