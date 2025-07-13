@@ -689,7 +689,7 @@
   },
   "externalRepositoryUrlShort": "URL-ádras repazytára pašyréńniaŭ",
   "@externalRepositoryUrlShort": {},
-  "resume": "Praciáhnuć",
+  "resume": "Praciahnúć",
   "@resume": {
     "description": "Button Text to resume Chapter reading/downloading"
   },
@@ -1127,7 +1127,7 @@
   "@pref_date_format": {},
   "start_reading": "Pačáć čytáć",
   "@start_reading": {},
-  "continue_reading_chapter": "Praciáhnuć čytáńnie {title}",
+  "continue_reading_chapter": "Pracihnúć čytáńnie {title}",
   "@continue_reading_chapter": {},
   "icon_section_title": "Značók",
   "@icon_section_title": {},
