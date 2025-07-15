@@ -1,6 +1,0 @@
-{
-  "addCategory": "Add Category",
-  "@addCategory": {
-    "description": "Popup title and Button text to add new category in Edit Category Screen"
-  }
-}
