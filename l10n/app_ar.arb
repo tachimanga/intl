@@ -1,5 +1,5 @@
 {
-    "about": "حول",
+    "about": "حَول",
     "@about": {
         "description": "Screen title and Button text of About screen"
     },
@@ -85,7 +85,7 @@
     "@close": {
         "description": "Text for close button"
     },
-    "completed": "مكتمل",
+    "completed": "مُكتَمِل",
     "@completed": {
         "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
     },
@@ -1003,7 +1003,7 @@
     "@empty_repository": {},
     "add_repo_by_name": "بالاسم",
     "@add_repo_by_name": {},
-    "add_repo_by_name_tip": "إضافة مستودعات إضافية إلى Tachimanga.\nتكون تنسيق المستودع 'اسم المستخدم/المستودع'، حيث يكون اسم المستخدم هو مالك المستودع، والمستودع هو اسم المستودع",
+    "add_repo_by_name_tip": "إضافة مستودعات إضافية إلى Tachimanga.\nتكون تنسيق المستودع 'اسم المستخدم/المستودع'، حيث يكون اسم المستخدم هو مالك المستودع، واسم المستودع يكون نفسه",
     "@add_repo_by_name_tip": {},
     "add_repo_by_url": "عن طريق الرابط",
     "@add_repo_by_url": {},
