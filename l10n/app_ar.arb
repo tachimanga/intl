@@ -529,7 +529,7 @@
     "@readerModeContinuousHorizontalLTR": {
         "description": "Radio button text for Reader Mode Type - Continuous Horizontal (LTR)"
     },
-    "readerModeContinuousHorizontalRTL": "افقي مستمر (من اليمين لليسار)",
+    "readerModeContinuousHorizontalRTL": "افقي مستمر (من اليمين الى اليسار)",
     "@readerModeContinuousHorizontalRTL": {
         "description": "Radio button text for Reader Mode Type - Continuous Horizontal (RTL)"
     },
