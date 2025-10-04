@@ -509,8 +509,112 @@
     "@readerPadding": {
         "description": "Slider title text for Reader Padding"
     },
-    "refresh": "Vernieuwen",
+    "refresh": "Vernieuw",
     "@refresh": {
         "description": "Refresh button text"
+    },
+    "sources": "Bronnen",
+    "@sources": {
+        "description": "title of Sources Tab in Browse Screen"
+    },
+    "start": "Beginnen",
+    "@start": {
+        "description": "Button text start reading the manga"
+    },
+    "reset": "Reset",
+    "@reset": {
+        "description": "Button text of reset button in source filters"
+    },
+    "resume": "Doorgaan",
+    "@resume": {
+        "description": "Button Text to resume Chapter reading/downloading"
+    },
+    "retry": "Opnieuw proberen",
+    "@retry": {
+        "description": "Retry Button Text"
+    },
+    "running": "Lopend",
+    "@running": {
+        "description": "Running status Manga Group title in Update Summary Screen"
+    },
+    "save": "Bewaar",
+    "@save": {
+        "description": "Save Button Text"
+    },
+    "search": "Zoek",
+    "@search": {
+        "description": "Search field hint Text"
+    },
+    "settings": "Instellingen",
+    "@settings": {
+        "description": "Screen title and Button text of Settings screen"
+    },
+    "sort": "Sorteren",
+    "@sort": {
+        "description": "title of sort Tab across the app"
+    },
+    "source": "Bron",
+    "@source": {
+        "description": "Screen title and Button text of source screen"
+    },
+    "sourceTypeFilter": "Filter",
+    "@sourceTypeFilter": {
+        "description": "Tab text Filter for source screen type"
+    },
+    "sourceTypeLatest": "Nieuwste",
+    "@sourceTypeLatest": {
+        "description": "Tab text Latest for source screen type"
+    },
+    "sourceTypePopular": "Populair",
+    "@sourceTypePopular": {
+        "description": "Tab text Popular for source screen type"
+    },
+    "themeModeDark": "Donker",
+    "@themeModeDark": {
+        "description": "Radio button text for App theme - Dark"
+    },
+    "themeModeLight": "Licht",
+    "@themeModeLight": {
+        "description": "Radio button text for App theme - Light"
+    },
+    "themeModeSystem": "Systeem",
+    "@themeModeSystem": {
+        "description": "Radio button text for App theme - System"
+    },
+    "uninstall": "Verwijder",
+    "@uninstall": {
+        "description": "Button text to Uninstall the extension"
+    },
+    "uninstalling": "Verwijderen",
+    "@uninstalling": {
+        "description": "Button text to show that the extension is uninstalling"
+    },
+    "unknownAuthor": "Onbekende Auteur",
+    "@unknownAuthor": {
+        "description": "Text to show unknown author in Manga details screen"
+    },
+    "unknownManga": "Onbekende Manga",
+    "@unknownManga": {
+        "description": "Text to show unknown manga in Manga details screen"
+    },
+    "unknownSource": "Onbekende Bron",
+    "@unknownSource": {
+        "description": "Text to show unknown Source in Manga details screen"
+    },
+    "unread": "Ongelezen",
+    "@unread": {
+        "description": "Checkbox text to unread bookmarked manga/chapters across app"
+    },
+    "update": "Werk bij",
+    "@update": {
+        "description": "Button text to update the extension"
+    },
+    "updateCompleted": "Bijwerken Voltooid",
+    "@updateCompleted": {
+        "description": "Button text to show that extension update is completed"
+    },
+    "updates": "Updates",
+    "@updates": {
+        "description": "Screen title and Button text of Updates screen"
     }
 }
