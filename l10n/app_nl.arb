@@ -616,5 +616,39 @@
     "updates": "Updates",
     "@updates": {
         "description": "Screen title and Button text of Updates screen"
-    }
+    },
+    "updatesSummary": "Overzicht Updates",
+    "@updatesSummary": {
+        "description": "Screen title and Button text of Updates Summary screen"
+    },
+    "updating": "Updaten",
+    "@updating": {
+        "description": "Button text to show that the extension is updating"
+    },
+    "webView": "Webweergave",
+    "@webView": {
+        "description": "Button text to open manga website"
+    },
+    "whatsNew": "Wat is er nieuw?",
+    "@whatsNew": {
+        "description": "Button text to open whats new page of app in web"
+    },
+    "getPremium": "Neem Premium",
+    "@getPremium": {},
+    "alreadyGetPremium": "Premium gekocht",
+    "@alreadyGetPremium": {},
+    "purchaseExpireAt": "Premium abonnement verlengt automatisch op {date}.",
+    "@purchaseExpireAt": {},
+    "iapFaq": "FAQ",
+    "@iapFaq": {},
+    "restorePurchase": "Herstel aankoop",
+    "@restorePurchase": {},
+    "share": "Delen",
+    "@share": {},
+    "discordServer": "Discord-server",
+    "@discordServer": {},
+    "externalRepository": "Extensie-instellingen",
+    "@externalRepository": {},
+    "externalRepositoryUrl": "Extensie Repository Link",
+    "@externalRepositoryUrl": {}
 }
