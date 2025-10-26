@@ -1,1669 +1,1669 @@
 {
-  "@@locale": "en",
-  "@about": {
-    "description": "Screen title and Button text of About screen"
-  },
-  "@addCategory": {
-    "description": "Popup title and Button text to add new category in Edit Category Screen"
-  },
-  "@addToLibrary": {
-    "description": "Button text to add Manga to Library in Manga Details Screen"
-  },
-  "@appLanguage": {
-    "description": "Popup title and Button text to change App Language"
-  },
-  "@appTheme": {
-    "description": "Popup title and Button text to change App Theme"
-  },
-  "@appTitle": {
-    "description": "Name of the app (Tachidesk Sorayomi in native script)"
-  },
-  "@appearance": {
-    "description": "Screen title and Button text of Appearance screen"
-  },
-  "@backup": {
-    "description": "Screen title and Button text of Backup & Restore screen"
-  },
-  "@badges": {
-    "description": "Checkbox Group title to enable Badges on manga Cover in Library Screen"
-  },
-  "@bookmarked": {
-    "description": "Checkbox text to filter bookmarked manga chapters in Manga Details screen"
-  },
-  "@browse": {
-    "description": "Screen title, Navigation Bar text and Button text of both Browse screen and Browse Settings Screen"
-  },
-  "@cancel": {
-    "description": "Text for Cancel button in a Popup"
-  },
-  "@categories": {
-    "description": "Button text of edit Categories screen in Library settings screen"
-  },
-  "@categoryUpdate": {
-    "description": "Button text to update the mangas in the Category"
-  },
-  "@chapterNumber": {
-    "description": "Text title for Chapter name in chapter list",
-    "placeholders": {
-      "number": {
-        "example": "12.5",
-        "type": "double"
-      }
-    }
-  },
-  "@chapterSortFetchedDate": {
-    "description": "Radio button text for sort by Fetched Date"
-  },
-  "@chapterSortSource": {
-    "description": "Radio button text for sort by Source"
-  },
-  "@client": {
-    "description": "Text title for the name of the client in About screen"
-  },
-  "@clientVersion": {
-    "description": "Text title for the current version of the client in About screen"
-  },
-  "@close": {
-    "description": "Text for close button"
-  },
-  "@completed": {
-    "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
-  },
-  "@copyMsg": {
-    "description": "Toast text to show that the message has been copied",
-    "placeholders": {
-      "msg": {
-        "example": "Client : Tachidesk Sorayomi",
-        "type": "String"
-      }
-    }
-  },
-  "@createBackupDescription": {
-    "description": "Button text description to create backup"
-  },
-  "@createBackupTitle": {
-    "description": "Button text to create backup"
-  },
-  "@current": {
-    "description": "Text to show the currently reading chapter in Reader Screen"
-  },
-  "@defaultCategory": {
-    "description": "Checkbox description when creating a Category to add manga to the Category by Default"
-  },
-  "@delete": {
-    "description": "Text for delete button"
-  },
-  "@deleteCategoryDescription": {
-    "description": "Popup description when deleting Category"
-  },
-  "@deleteCategoryTitle": {
-    "description": "Popup title when deleting Category"
-  },
-  "@discord": {
-    "description": "Discord app title"
-  },
-  "@display": {
-    "description": "Text for Display tab in Library screen drawer"
-  },
-  "@displayMode": {
-    "description": "Radio Group title to change manga Cover display in Library and Source Screens"
-  },
-  "@displayModeDescriptiveList": {
-    "description": "Radio button text for Manga Cover display mode - Descriptive List"
-  },
-  "@displayModeGrid": {
-    "description": "Radio button text for Manga Cover display mode - Grid"
-  },
-  "@displayModeList": {
-    "description": "Radio button text for Manga Cover display mode - List"
-  },
-  "@downloaded": {
-    "description": "Text to show downloaded chapters status in Filters  "
-  },
-  "@downloads": {
-    "description": "Screen title and Navigation text of Downloads screen"
-  },
-  "@edit": {
-    "description": "Popup button text to edit Category in Edit category screen"
-  },
-  "@editCategory": {
-    "description": "Screen title, Button text and  of Downloads screen"
-  },
-  "@emptyCategory": {
-    "description": "Description to show that category list is empty in Edit Category screen"
-  },
-  "@errorExtension": {
-    "description": "Error Description to show when user selected unknown extension from list"
-  },
-  "@errorFilePick": {
-    "description": "Error Description to show when user does not selected an file"
-  },
-  "@errorFilePickUnknownExtension": {
-    "description": "Error Description to show when user selected unknown extension file"
-  },
-  "@errorLaunchURL": {
-    "description": "Error Description to show when App failed to launch an URL and copied the URL to clipboard",
-    "placeholders": {
-      "url": {
-        "example": "http://sorayomi.suwayomi.org",
-        "type": "String"
-      }
-    }
-  },
-  "@errorSomethingWentWrong": {
-    "description": "Error Description to show that Something went wrong!"
-  },
-  "@extensionInstalled": {
-    "description": "Toast text to show that the Extension Installed successfully"
-  },
-  "@extensionListEmpty": {
-    "description": "Description to show that Extension list is empty in Extension list tab of Browse screen"
-  },
-  "@extensions": {
-    "description": "Extension list Tab title in Browse Screen"
-  },
-  "@failed": {
-    "description": "Failed status Manga Group title in Update Summary Screen"
-  },
-  "@filter": {
-    "description": "title of filter Tab across the app"
-  },
-  "@finished": {
-    "description": "Text to show the Currently Finished reading chapter in Reader Screen"
-  },
-  "@general": {
-    "description": "Screen title and Button text of General setting screen"
-  },
-  "@gitHub": {
-    "description": "GitHub app title"
-  },
-  "@globalSearch": {
-    "description": "Screen title of Global Search screen"
-  },
-  "@globalUpdate": {
-    "description": "Button text of Global Manga Update"
-  },
-  "@help": {
-    "description": "Button text of help in about screen"
-  },
-  "@inLibrary": {
-    "description": "Button and Chip text to show that the manga is in Library"
-  },
-  "@install": {
-    "description": "Button text to install the extension"
-  },
-  "@installing": {
-    "description": "Button text to show that the extension is installing"
-  },
-  "@installingExtension": {
-    "description": "Toast text to show that the extension is installing"
-  },
-  "@languages": {
-    "description": "Popup title to filter extensions based on language"
-  },
-  "@library": {
-    "description": "Screen title and Button text of Library and Library Settings screen"
-  },
-  "@manga": {
-    "description": "Screen title and Button text of Manga details screen"
-  },
-  "@mangaGridSize": {
-    "description": "Popup title and Button text to change Manga Grid size"
-  },
-  "@mangaSortAlphabetical": {
-    "description": "Radio button text for Manga sort Type - Alphabetical"
-  },
-  "@mangaSortDateAdded": {
-    "description": "Radio button text for Manga sort Type - Date Added"
-  },
-  "@mangaSortUnread": {
-    "description": "Radio button text for Manga sort Type - Unread"
-  },
-  "@mangaSortLastRead": {
-    "description": "Radio button text for Manga sort Type - Last Read"
-  },
-  "@mangaStatusCancelled": {
-    "description": "Text to show Manga Status Cancelled in Manga details screen"
-  },
-  "@mangaStatusCompleted": {
-    "description": "Text to show Manga Status Completed in Manga details screen"
-  },
-  "@mangaStatusLicensed": {
-    "description": "Text to show Manga Status Licensed in Manga details screen"
-  },
-  "@mangaStatusOnHiatus": {
-    "description": "Text to show Manga Status On Hiatus in Manga details screen"
-  },
-  "@mangaStatusOngoing": {
-    "description": "Text to show Manga Status Ongoing in Manga details screen"
-  },
-  "@mangaStatusPublishingFinished": {
-    "description": "Text to show Manga Status Publishing Finished in Manga details screen"
-  },
-  "@mangaStatusUnknown": {
-    "description": "Text to show Manga Status Unknown in Manga details screen"
-  },
-  "@more": {
-    "description": "Screen title and Navigation text of More screen"
-  },
-  "@moveToBottom": {
-    "description": "Button text to move download/category to the bottom of list"
-  },
-  "@moveToTop": {
-    "description": "Button text to move download/category to the top of list"
-  },
-  "@nameCountDisplay": {
-    "description": "Text pattern to display an name and count in a string",
-    "placeholders": {
-      "name": {
-        "example": "Downloaded",
-        "type": "String"
-      },
-      "count": {
-        "example": "22",
-        "type": "int"
-      }
-    }
-  },
-  "@newUpdateAvailable": {
-    "description": "Popup title to show that the App/Server has and update"
-  },
-  "@noCategoriesFound": {
-    "description": "Hint text to add new Category when category list is empty"
-  },
-  "@noCategoriesFoundAlt": {
-    "description": "Hint text to add new Category in Settings when category list is empty"
-  },
-  "@noCategoryMangaFound": {
-    "description": "Hint text to check filter when manga list is empty in Category tab in Library"
-  },
-  "@noChaptersFound": {
-    "description": "Text to show that the Chapter list is empty in Manga details Screen"
-  },
-  "@noDownloads": {
-    "description": "Text to show that there is no active downloads in Downloads Screen"
-  },
-  "@noMangaFound": {
-    "description": "Text to show that the Manga list is empty"
-  },
-  "@noOfChapters": {
-    "description": "Title text to show the number of chapters in the Manga details screen",
-    "placeholders": {
-      "count": {
-        "example": "23",
-        "type": "int"
-      }
-    }
-  },
-  "@noResultFound": {
-    "description": "Text to show that no results found for the given search query"
-  },
-  "@noSourcesFound": {
-    "description": "Text to show that the Source list is empty"
-  },
-  "@noUpdatesAvailable": {
-    "description": "Text to show that the user is using the latest version of the app"
-  },
-  "@noUpdatesFound": {
-    "description": "Toast Text to show that there are no Updates available"
-  },
-  "@nsfw": {
-    "description": "Switch text to show/hide the nsfw extensions"
-  },
-  "@nsfw18": {
-    "description": "18+ tag Text to show in extensions list"
-  },
-  "@nsfwInfo": {
-    "description": "Hint text to show that the nsfw switch cannot prevent incorrectly flagged extensions from surfacing"
-  },
-  "@numSelected": {
-    "description": "Title text to show the number of chapters selected in the Manga details screen and Updates screen",
-    "placeholders": {
-      "num": {
-        "example": "23",
-        "type": "int"
-      }
-    }
-  },
-  "@obsolete": {
-    "description": "Text to show that the extension has become Obsolete"
-  },
-  "@page": {
-    "description": "Text to show the last read Page number of the chapter in Manga details screen",
-    "placeholders": {
-      "number": {
-        "example": "23",
-        "type": "int"
-      }
-    }
-  },
-  "@pause": {
-    "description": "Button text to pause downloads"
-  },
-  "@pending": {
-    "description": "Pending status Manga Group title in Update Summary Screen"
-  },
-  "@reader": {
-    "description": "Screen title and Button text of Reader screen"
-  },
-  "@readerMode": {
-    "description": "Popup title and Button text of Reader Mode popup"
-  },
-  "@readerModeContinuousHorizontalLTR": {
-    "description": "Radio button text for Reader Mode Type - Continuous Horizontal (LTR)"
-  },
-  "@readerModeContinuousHorizontalRTL": {
-    "description": "Radio button text for Reader Mode Type - Continuous Horizontal (RTL)"
-  },
-  "@readerModeContinuousVertical": {
-    "description": "Radio button text for Reader Mode Type - Continuous Vertical"
-  },
-  "@readerModeDefaultReader": {
-    "description": "Radio button text for Reader Mode Type - Default"
-  },
-  "@readerModeSingleHorizontalLTR": {
-    "description": "Radio button text for Reader Mode Type - Single Horizontal (LTR)"
-  },
-  "@readerModeSingleHorizontalRTL": {
-    "description": "Radio button text for Reader Mode Type - Single Horizontal (RTL)"
-  },
-  "@readerModeSingleVertical": {
-    "description": "Radio button text for Reader Mode Type - Single Vertical"
-  },
-  "@readerModeWebtoon": {
-    "description": "Radio button text for Reader Mode Type - Webtoon"
-  },
-  "@readerNavigationLayout": {
-    "description": "Popup title and Button text of Reader Navigation Layout popup"
-  },
-  "@readerNavigationLayoutDefault": {
-    "description": "Radio button text for Reader Navigation Layout - Default"
-  },
-  "@readerNavigationLayoutDisabled": {
-    "description": "Radio button text for Reader Navigation Layout - Disabled"
-  },
-  "@readerNavigationLayoutEdge": {
-    "description": "Radio button text for Reader Navigation Layout - Edge"
-  },
-  "@readerNavigationLayoutInvert": {
-    "description": "Switch title to invert Tap to scroll in reader screen"
-  },
-  "@readerNavigationLayoutKindlish": {
-    "description": "Radio button text for Reader Navigation Layout - Kindle-ish"
-  },
-  "@readerNavigationLayoutLShaped": {
-    "description": "Radio button text for Reader Navigation Layout - L Shaped"
-  },
-  "@readerNavigationLayoutRightAndLeft": {
-    "description": "Radio button text for Reader Navigation Layout - Right And Left"
-  },
-  "@readerPadding": {
-    "description": "Slider title text for Reader Padding"
-  },
-  "@refresh": {
-    "description": "Refresh button text"
-  },
-  "@reset": {
-    "description": "Button text of reset button in source filters"
-  },
-  "@restoreBackupDescription": {
-    "description": "Button text description to create backup"
-  },
-  "@restoreBackupTitle": {
-    "description": "Button text to create backup"
-  },
-  "@restored": {
-    "description": "Toast Text to show that the backup has been restored"
-  },
-  "@restoring": {
-    "description": "Toast Text to show that the backup is restoring"
-  },
-  "@resume": {
-    "description": "Button Text to resume Chapter reading/downloading"
-  },
-  "@retry": {
-    "description": "Retry Button Text"
-  },
-  "@running": {
-    "description": "Running status Manga Group title in Update Summary Screen"
-  },
-  "@save": {
-    "description": "Save Button Text"
-  },
-  "@search": {
-    "description": "Search field hint Text"
-  },
-  "@settings": {
-    "description": "Screen title and Button text of Settings screen"
-  },
-  "@sort": {
-    "description": "title of sort Tab across the app"
-  },
-  "@source": {
-    "description": "Screen title and Button text of source screen"
-  },
-  "@sourceTypeFilter": {
-    "description": "Tab text Filter for source screen type"
-  },
-  "@sourceTypeLatest": {
-    "description": "Tab text Latest for source screen type"
-  },
-  "@sourceTypePopular": {
-    "description": "Tab text Popular for source screen type"
-  },
-  "@sources": {
-    "description": "title of Sources Tab in Browse Screen"
-  },
-  "@start": {
-    "description": "Button text start reading the manga"
-  },
-  "@themeModeDark": {
-    "description": "Radio button text for App theme - Dark"
-  },
-  "@themeModeLight": {
-    "description": "Radio button text for App theme - Light"
-  },
-  "@themeModeSystem": {
-    "description": "Radio button text for App theme - System"
-  },
-  "@uninstall": {
-    "description": "Button text to Uninstall the extension"
-  },
-  "@uninstalling": {
-    "description": "Button text to show that the extension is uninstalling"
-  },
-  "@unknownAuthor": {
-    "description": "Text to show unknown author in Manga details screen"
-  },
-  "@unknownManga": {
-    "description": "Text to show unknown manga in Manga details screen"
-  },
-  "@unknownSource": {
-    "description": "Text to show unknown Source in Manga details screen"
-  },
-  "@unread": {
-    "description": "Checkbox text to unread bookmarked manga/chapters across app"
-  },
-  "@update": {
-    "description": "Button text to update the extension"
-  },
-  "@updateCompleted": {
-    "description": "Button text to show that extension update is completed"
-  },
-  "@updates": {
-    "description": "Screen title and Button text of Updates screen"
-  },
-  "@updatesSummary": {
-    "description": "Screen title and Button text of Updates Summary screen"
-  },
-  "@updating": {
-    "description": "Button text to show that the extension is updating"
-  },
-  "@webView": {
-    "description": "Button text to open manga website"
-  },
-  "@whatsNew": {
-    "description": "Button text to open whats new page of app in web"
-  },
-  "about": "About",
-  "addCategory": "Add Category",
-  "addToLibrary": "Add to Library",
-  "appLanguage": "App Language",
-  "appTheme": "App Theme",
-  "appTitle": "Tachimanga",
-  "appearance": "Appearance",
-  "backup": "Backup & Restore",
-  "badges": "Badges",
-  "bookmarked": "Bookmarked",
-  "browse": "Browse",
-  "cancel": "Cancel",
-  "categories": "Categories",
-  "categoryUpdate": "Category Update",
-  "chapterNumber": "Chapter {number}",
-  "chapterSortFetchedDate": "By Fetched Date",
-  "chapterSortSource": "By Source",
-  "client": "Client",
-  "clientVersion": "Client version",
-  "close": "Close",
-  "completed": "Completed",
-  "copyMsg": "'{msg}' Copied!",
-  "current": "Current",
-  "defaultCategory": "Default category when adding new manga to library",
-  "delete": "Delete",
-  "deleteCategoryDescription": "This will merge all Mangas in this Category to Default!",
-  "deleteCategoryTitle": "Are you sure?",
-  "discord": "Discord",
-  "display": "Display",
-  "displayMode": "Display Mode",
-  "displayModeDescriptiveList": "Descriptive List",
-  "displayModeGrid": "Grid",
-  "displayModeList": "List",
-  "downloaded": "Downloaded",
-  "downloads": "Downloads",
-  "edit": "Edit",
-  "editCategory": "Edit Category",
-  "emptyCategory": "Category name can't be Empty",
-  "errorExtension": "Can't find the selected extension",
-  "errorFilePick": "File not selected!",
-  "errorFilePickUnknownExtension": "Please select a file with {extensionName} extension",
-  "errorLaunchURL": "Failed to open!\nCopying \"{url}\" to clipboard",
-  "errorSomethingWentWrong": "Something went wrong!",
-  "extensionInstalled": "Extension Installed!",
-  "extensionListEmpty": "Extension list is Empty",
-  "extensions": "Extensions",
-  "failed": "Failed",
-  "filter": "Filter",
-  "finished": "Finished",
-  "general": "General",
-  "gitHub": "GitHub",
-  "globalSearch": "Global Search",
-  "globalUpdate": "Global Update",
-  "help": "Help",
-  "inLibrary": "In library",
-  "install": "Add",
-  "installing": "Adding",
-  "installingExtension": "Adding Extension",
-  "languages": "Languages",
-  "library": "Library",
-  "manga": "Manga",
-  "mangaGridSize": "Manga Grid Size",
-  "mangaSortAlphabetical": "Alphabetical",
-  "mangaSortDateAdded": "Date Added",
-  "mangaSortUnread": "Unread",
-  "mangaSortLastRead": "Last Read",
-  "mangaStatusCancelled": "Cancelled",
-  "mangaStatusCompleted": "Completed",
-  "mangaStatusLicensed": "Licensed",
-  "mangaStatusOnHiatus": "On Hiatus",
-  "mangaStatusOngoing": "Ongoing",
-  "mangaStatusPublishingFinished": "Publishing Finished",
-  "mangaStatusUnknown": "Unknown",
-  "more": "More",
-  "moveToBottom": "Move to Bottom",
-  "moveToTop": "Move to top",
-  "nameCountDisplay": "{name}: {count}",
-  "newUpdateAvailable": "New update available",
-  "noCategoriesFound": "You don't have any Categories.",
-  "noCategoriesFoundAlt": "You don't have any Categories. \nCreate one in settings for organizing your library",
-  "noCategoryMangaFound": "Category is empty",
-  "noChaptersFound": "No chapters found",
-  "noDownloads": "No Downloads",
-  "noMangaFound": "No Mangas Found",
-  "noOfChapters": "{count} Chapters",
-  "noResultFound": "No results found",
-  "noSourcesFound": "No sources found",
-  "noUpdatesAvailable": "You're using the latest version",
-  "noUpdatesFound": "No recent chapters",
-  "nsfw": "Show NSFW extensions and sources",
-  "nsfw18": "18+",
-  "nsfwInfo": "This does not prevent unofficial or potentially incorrectly flagged extensions from surfacing NSFW(18+) content within app",
-  "numSelected": "{num} Selected",
-  "obsolete": "Obsolete",
-  "page": "Page: {number}",
-  "pause": "Pause",
-  "pending": "Pending",
-  "reader": "Reader",
-  "readerMode": "Reading Mode",
-  "readerModeContinuousHorizontalLTR": "Continuous (left to right)",
-  "readerModeContinuousHorizontalRTL": "Continuous (right to left)",
-  "readerModeContinuousVertical": "Continuous (vertical)",
-  "readerModeDefaultReader": "Default",
-  "readerModeSingleHorizontalLTR": "Paged (left to right)",
-  "readerModeSingleHorizontalRTL": "Paged (right to left)",
-  "readerModeSingleVertical": "Paged (vertical)",
-  "readerModeWebtoon": "Webtoon",
-  "readerNavigationLayout": "Tap zones",
-  "readerNavigationLayoutDefault": "Default",
-  "readerNavigationLayoutDisabled": "Disabled",
-  "readerNavigationLayoutEdge": "Edge",
-  "readerNavigationLayoutInvert": "Invert tap zones",
-  "readerNavigationLayoutKindlish": "Kindle-ish",
-  "readerNavigationLayoutLShaped": "L Shaped",
-  "readerNavigationLayoutRightAndLeft": "Right And Left",
-  "readerPadding": "Reader Padding",
-  "refresh": "Refresh",
-  "reset": "Reset",
-  "resume": "Resume",
-  "retry": "Retry",
-  "running": "Running",
-  "save": "Save",
-  "search": "Search",
-  "settings": "Settings",
-  "sort": "Sort",
-  "source": "Source",
-  "sourceTypeFilter": "Filter",
-  "sourceTypeLatest": "Latest",
-  "sourceTypePopular": "Popular",
-  "sources": "Sources",
-  "start": "Start",
-  "themeModeDark": "Dark",
-  "themeModeLight": "Light",
-  "themeModeSystem": "System",
-  "uninstall": "Remove",
-  "uninstalling": "Removing",
-  "unknownAuthor": "Unknown Author",
-  "unknownManga": "Unknown Manga",
-  "unknownSource": "Unknown Source",
-  "unread": "Unread",
-  "update": "Update",
-  "updateCompleted": "Update Completed",
-  "updates": "Updates",
-  "updatesSummary": "Updates Summary",
-  "updating": "Updating",
-  "webView": "Web View",
-  "whatsNew": "What's New?",
-  "getPremium": "Get Premium",
-  "@getPremium": {},
-  "alreadyGetPremium": "Premium Purchased",
-  "@alreadyGetPremium": {},
-  "purchaseExpireAt": "Premium Subscription auto-renews on {date}.",
-  "@purchaseExpireAt": {},
-  "iapFaq": "FAQ",
-  "@iapFaq": {},
-  "restorePurchase": "Restore Purchase",
-  "@restorePurchase": {},
-  "share": "Share",
-  "@share": {},
-  "discordServer": "Discord Server",
-  "@discordServer": {},
-  "externalRepository": "Extension Settings",
-  "@externalRepository": {},
-  "externalRepositoryUrl": "Extension Repository Url",
-  "@externalRepositoryUrl": {},
-  "externalRepositoryUrlShort": "Extension Repository Url",
-  "@externalRepositoryUrlShort": {},
-  "history": "History",
-  "@history": {},
-  "clearCookies": "Clear Cookies",
-  "@clearCookies": {},
-  "clearCache": "Clear Cache",
-  "@clearCache": {},
-  "termsUrl": "Terms of Use",
-  "@termsUrl": {},
-  "privacyUrl": "Privacy Policy",
-  "@privacyUrl": {},
-  "recentlyDownloaded": "Recently Downloaded",
-  "@recentlyDownloaded": {},
-  "tracking": "Tracking",
-  "@tracking": {},
-  "downloadFailed": "Download Failed",
-  "@downloadFailed": {},
-  "errorMessageFrom": "Error message: {text}",
-  "@errorMessageFrom": {},
-  "downloadTip": "Tip: Tap open button to see if you can read it properly.",
-  "@downloadTip": {},
-  "open": "Open",
-  "@open": {},
-  "ok": "OK",
-  "@ok": {},
-  "remove": "Remove",
-  "@remove": {},
-  "logout": "Log out",
-  "@logout": {},
-  "logoutFrom": "Log out from {text}",
-  "@logoutFrom": {},
-  "addTracking": "Add tracking",
-  "@addTracking": {},
-  "openInBrowser": "Open in browser",
-  "@openInBrowser": {},
-  "processing": "Processing...",
-  "@processing": {},
-  "trackingStatus": "Status",
-  "@trackingStatus": {},
-  "trackingStatusReading": "Reading",
-  "@trackingStatusReading": {},
-  "trackingStatusPlanToRead": "Plan to read",
-  "@trackingStatusPlanToRead": {},
-  "trackingStatusCompleted": "Completed",
-  "@trackingStatusCompleted": {},
-  "trackingStatusOnHold": "On hold",
-  "@trackingStatusOnHold": {},
-  "trackingStatusDropped": "Dropped",
-  "@trackingStatusDropped": {},
-  "trackingStatusRereading": "Rereading",
-  "@trackingStatusRereading": {},
-  "trackingChapter": "Chapter",
-  "@trackingChapter": {},
-  "trackingScore": "Score",
-  "@trackingScore": {},
-  "trackingStartDate": "Start date",
-  "@trackingStartDate": {},
-  "trackingFinishDate": "Finish date",
-  "@trackingFinishDate": {},
-  "operationFailTip": "Operation failed. Please retry.",
-  "@operationFailTip": {},
-  "createBackupTitle": "Create Backup",
-  "createBackupDescription": "Can be used to restore current library.",
-  "backupCreated": "Backup created!",
-  "@backupCreated": {},
-  "restoreBackupTitle": "Restore Backup",
-  "restoreBackupDescription": "Restore library from backup file",
-  "restoring": "Restoring backup",
-  "restored": "Backup restored!",
-  "autoBackupSectionTitle": "Automatic backups",
-  "@autoBackupSectionTitle": {},
-  "backupsSectionTitle": "Backups",
-  "@backupsSectionTitle": {},
-  "restoreBackup": "Restore",
-  "@restoreBackup": {},
-  "exportBackup": "Export",
-  "@exportBackup": {},
-  "backupNamePrefixNormal": "Backup",
-  "@backupNamePrefixNormal": {},
-  "backupNamePrefixAuto": "Automated backup",
-  "@backupNamePrefixAuto": {},
-  "backupNamePrefixSchedule": "Scheduled backup",
-  "@backupNamePrefixSchedule": {},
-  "restoreConfirmTitle": "Restore to this backup?",
-  "@restoreConfirmTitle": {},
-  "restoreConfirmContent": "All current data will be removed and replaced by the data from this backup.",
-  "@restoreConfirmContent": {},
-  "importConfirmTitle": "Import Tachiyomi Backup?",
-  "@importConfirmTitle": {},
-  "importConfirmContent": "Merge the library of Tachiyomi with the local library; existing local data will NOT be removed or replaced.",
-  "@importConfirmContent": {},
-  "autoBackupTip": "Before restoring the backup, automatically create a backup.",
-  "@autoBackupTip": {},
-  "autoBackupTipForImport": "Before importing the backup, automatically create a backup.",
-  "@autoBackupTipForImport": {},
-  "imported": "Backup imported!",
-  "@imported": {},
-  "restoreSuccessTip": "Backup restore successful. Changes will take effect after restarting the app.",
-  "@restoreSuccessTip": {},
-  "importSuccessTip": "Backup import successful. Changes will take effect after restarting the app.",
-  "@importSuccessTip": {},
-  "invalidBackup": "Invalid backup file",
-  "@invalidBackup": {},
-  "invalidBackupVersion": "Please use the latest version of the app to restore the backup.",
-  "@invalidBackupVersion": {},
-  "autoBackupFailTip": "Failed to create automatic backup before restoring. Please cancel the automatic backup and try again.",
-  "@autoBackupFailTip": {},
-  "restartApp": "Restart App",
-  "@restartApp": {},
-  "confirm": "Confirm",
-  "@confirm": {},
-  "noNextChapter": "There's no next chapter",
-  "@noNextChapter": {},
-  "readerScrollAnimation": "Animate page transitions",
-  "@readerScrollAnimation": {},
-  "doubleTapZoomIn": "Double tap to zoom in",
-  "@doubleTapZoomIn": {},
-  "allScanlators": "All Scanlators",
-  "@allScanlators": {},
-  "scanlators": "Scanlators",
-  "@scanlators": {},
-  "mangaSortLatestChapterFetch": "Chapter fetch date",
-  "@mangaSortLatestChapterFetch": {},
-  "onlySearchPinSource": "Only include pinned sources",
-  "@onlySearchPinSource": {},
-  "prevPage": "Prev",
-  "@prevPage": {},
-  "nextPage": "Next",
-  "@nextPage": {},
-  "leftPage": "Left",
-  "@leftPage": {},
-  "rightPage": "Right",
-  "@rightPage": {},
-  "tapMenu": "Menu",
-  "@tapMenu": {},
-  "byPassSwitch": "Bypassing Cloudflare automatically",
-  "@byPassSwitch": {},
-  "byPassStart": "Trying to bypass Cloudflare",
-  "@byPassStart": {},
-  "byPassSuccess": "Successfully bypassed Cloudflare",
-  "@byPassSuccess": {},
-  "byPassTimeout": "Failed to bypass Cloudflare",
-  "@byPassTimeout": {},
-  "byPassCancel": "User canceled bypassing Cloudflare",
-  "@byPassCancel": {},
-  "checkInWebView": "{msg}, check website in WebView",
-  "@checkInWebView": {},
-  "imageSaveSuccess": "Image saved successfully.",
-  "@imageSaveSuccess": {},
-  "imageSaveFail": "Failed to save the image.",
-  "@imageSaveFail": {},
-  "imageFileFetchFail": "Failed to download the image.",
-  "@imageFileFetchFail": {},
-  "imageSaveWatermarkSwitch": "Image saved and shared with watermark",
-  "@imageSaveWatermarkSwitch": {},
-  "mangaShareText": "{title} by {author} {link}\nShare from Tachimanga",
-  "@mangaShareText": {},
-  "chapterShareText": "{title} by {author}, {chapter} {link}\nShare from Tachimanga",
-  "@chapterShareText": {},
-  "theme_default": "Default",
-  "@theme_default": {},
-  "theme_monet": "Dynamic",
-  "@theme_monet": {},
-  "theme_greenapple": "Green Apple",
-  "@theme_greenapple": {},
-  "theme_lavender": "Lavender",
-  "@theme_lavender": {},
-  "theme_midnightdusk": "Midnight Dusk",
-  "@theme_midnightdusk": {},
-  "theme_strawberrydaiquiri": "Strawberry Daiquiri",
-  "@theme_strawberrydaiquiri": {},
-  "theme_tako": "Tako",
-  "@theme_tako": {},
-  "theme_tealturquoise": "Teal & Turquoise",
-  "@theme_tealturquoise": {},
-  "theme_yinyang": "Yin & Yang",
-  "@theme_yinyang": {},
-  "theme_yotsuba": "Yotsuba",
-  "@theme_yotsuba": {},
-  "theme_tidalwave": "Tidal Wave",
-  "@theme_tidalwave": {},
-  "themePureBlackDarkMode": "Pure black dark mode",
-  "@themePureBlackDarkMode": {},
-  "themeColorBlendLevel": "Color blend level",
-  "@themeColorBlendLevel": {},
-  "themeSectionTitle": "Theme",
-  "@themeSectionTitle": {},
-  "displaySectionTitle": "Display",
-  "@displaySectionTitle": {},
-  "advanced": "Advanced",
-  "@advanced": {},
-  "advancedSubtitle": "Clear cache, cookies, and export logs.",
-  "@advancedSubtitle": {},
-  "premiumRequired": "Premium required.",
-  "@premiumRequired": {},
-  "pref_backup_interval": "Backup frequency",
-  "@pref_backup_interval": {},
-  "off": "Off",
-  "@off": {},
-  "on": "On",
-  "@on": {},
-  "update_6hour": "Every 6 hours",
-  "@update_6hour": {},
-  "update_12hour": "Every 12 hours",
-  "@update_12hour": {},
-  "update_24hour": "Daily",
-  "@update_24hour": {},
-  "update_48hour": "Every 2 days",
-  "@update_48hour": {},
-  "update_weekly": "Weekly",
-  "@update_weekly": {},
-  "pref_backup_slots": "Maximum backups",
-  "@pref_backup_slots": {},
-  "backup_info": "You should keep copies of backups in other places as well.",
-  "@backup_info": {},
-  "last_auto_backup_info": "Last automatically backed up: {time}",
-  "@last_auto_backup_info": {},
-  "defaultTab": "Default tab",
-  "@defaultTab": {},
-  "lastOpenedTab": "Last opened tab",
-  "@lastOpenedTab": {},
-  "showStatusBar": "Show status bar when reading",
-  "@showStatusBar": {},
-  "swipeRightToGoBack": "Swipe right to go back",
-  "@swipeRightToGoBack": {},
-  "always": "Always",
-  "@always": {},
-  "disable": "Disable",
-  "@disable": {},
-  "disableWhenHorizontal": "Disable in horizontal mode",
-  "@disableWhenHorizontal": {},
-  "default_category": "Default category",
-  "@default_category": {},
-  "default_category_summary": "Always ask",
-  "@default_category_summary": {},
-  "label_default": "Default",
-  "@label_default": {},
-  "action_move_category": "Set categories",
-  "@action_move_category": {},
-  "readerAdvancedSubtitle": "Gesture, zooming, and status bar.",
-  "@readerAdvancedSubtitle": {},
-  "dataUsageSectionTitle": "Data usage",
-  "@dataUsageSectionTitle": {},
-  "networkSectionTitle": "Network",
-  "@networkSectionTitle": {},
-  "logsSectionTitle": "Logs",
-  "@logsSectionTitle": {},
-  "enableLog": "Enable log",
-  "@enableLog": {},
-  "exportLog": "Export log",
-  "@exportLog": {},
-  "cookiesCleared": "Cookies Cleared",
-  "@cookiesCleared": {},
-  "cacheCleared": "Cache Cleared",
-  "@cacheCleared": {},
-  "local_source": "Local source",
-  "@local_source": {},
-  "ext_installed": "Installed",
-  "@ext_installed": {},
-  "last_used_source": "Last used",
-  "@last_used_source": {},
-  "pinned_sources": "Pinned",
-  "@pinned_sources": {},
-  "ext_updates_pending": "Updates pending",
-  "@ext_updates_pending": {},
-  "other_source": "Other",
-  "@other_source": {},
-  "multi_lang": "Multi",
-  "@multi_lang": {},
-  "uninstall_confirm": "Do you want to uninstall this extension?",
-  "@uninstall_confirm": {},
-  "extension_repo": "Extension repositories",
-  "@extension_repo": {},
-  "one_repository": "1 repository",
-  "@one_repository": {},
-  "num_repositories": "{num} repositories",
-  "@num_repositories": {},
-  "add_repository": "Add repository",
-  "@add_repository": {},
-  "empty_repository": "You haven't added any extension repositories yet.",
-  "@empty_repository": {},
-  "add_repo_by_name": "By name",
-  "@add_repo_by_name": {},
-  "add_repo_by_name_tip": "Add additional repos to Tachimanga.\nThe format a repo is 'username/repo', with username being the repo owner, and repo being the repo name",
-  "@add_repo_by_name_tip": {},
-  "add_repo_by_url": "By URL",
-  "@add_repo_by_url": {},
-  "add_repo_by_url_tip": "Add additional repos to Tachimanga.\nThis should be a URL that ends with \"index.min.json\"",
-  "@add_repo_by_url_tip": {},
-  "get_repo_meta_fail": "Failed to retrieve repository information.",
-  "@get_repo_meta_fail": {},
-  "delete_repository": "Delete repository",
-  "@delete_repository": {},
-  "delete_repository_content": "Do you wish to delete the repository \"{name}\"",
-  "@delete_repository_content": {},
-  "label_add": "Add",
-  "@label_add": {},
-  "label_adding": "Adding",
-  "@label_adding": {},
-  "extension_usage_terms": "To set external repositories, you need to agree to the following agreement:\n1. I understand that Tachimanga does not regulate external repositories in any way.\n2. I understand that Tachimanga is not affiliated with any external extensions.\n3. I agree to not use Tachimanga to view content that I do not have the rights for.",
-  "@extension_usage_terms": {},
-  "find_repository": "Find repository",
-  "@find_repository": {},
-  "get_start": "Getting started",
-  "@get_start": {},
-  "label_copy": "Copy",
-  "@label_copy": {},
-  "migrate": "Migrate",
-  "@migrate": {},
-  "migration_dialog_what_to_include": "Select data to include",
-  "@migration_dialog_what_to_include": {},
-  "migrate_action_migrate": "Migrate",
-  "@migrate_action_migrate": {},
-  "migrate_action_copy": "Copy",
-  "@migrate_action_copy": {},
-  "migrate_action_show_manga": "Show entry",
-  "@migrate_action_show_manga": {},
-  "chapters": "Chapters",
-  "@chapters": {},
-  "select_category_to_update": "Select categories to update",
-  "@select_category_to_update": {},
-  "update_all": "Update All",
-  "@update_all": {},
-  "always_ask": "Always ask",
-  "@always_ask": {},
-  "contact_us": "Contact Us",
-  "@contact_us": {},
-  "changelogs": "Changelogs",
-  "@changelogs": {},
-  "help_translate": "Help translate",
-  "@help_translate": {},
-  "pref_category_security": "Security",
-  "@pref_category_security": {},
-  "lock_with_biometrics": "Require unlock",
-  "@lock_with_biometrics": {},
-  "lock_when_idle": "Lock when idle",
-  "@lock_when_idle": {},
-  "lock_always": "Always",
-  "@lock_always": {},
-  "lock_never": "Never",
-  "@lock_never": {},
-  "secure_screen": "Secure screen",
-  "@secure_screen": {},
-  "secure_screen_summary": "Secure screen hides app contents when switching apps",
-  "@secure_screen_summary": {},
-  "pref_incognito_mode": "Incognito mode",
-  "@pref_incognito_mode": {},
-  "pref_incognito_mode_summary": "Pauses reading history",
-  "@pref_incognito_mode_summary": {},
-  "pref_incognito_mode_on": "Incognito mode on",
-  "@pref_incognito_mode_on": {},
-  "pref_incognito_mode_off": "Incognito mode off",
-  "@pref_incognito_mode_off": {},
-  "lock_after_mins": "{x, plural, one{After {x} minute} other{After {x} minutes}}",
-  "@lock_after_mins": {},
-  "lock_type_biometrics": "FaceID/TouchID",
-  "@lock_type_biometrics": {},
-  "lock_type_passcode": "Passcode",
-  "@lock_type_passcode": {},
-  "lock_biometrics_unavailable": "FaceID or TouchID is unavailable.",
-  "@lock_biometrics_unavailable": {},
-  "unlock_title": "Unlock Tachimanga",
-  "@unlock_title": {},
-  "pref_date_format": "Date format",
-  "@pref_date_format": {},
-  "relative_time_today": "Today",
-  "@relative_time_today": {},
-  "relative_time": "{x, plural, one{Yesterday} other{{x} days ago}}",
-  "@relative_time": {},
-  "num_trackers": "{x, plural, one{{x} tracker} other{{x} trackers}}",
-  "@num_trackers": {},
-  "num_categories": "{x, plural, one{{x} category} other{{x} categories}}",
-  "@num_categories": {},
-  "action_sort_latest_chapter": "Latest chapter",
-  "@action_sort_latest_chapter": {},
-  "tabs_header": "Tabs",
-  "@tabs_header": {},
-  "action_display_show_number_of_items": "Show number of items",
-  "@action_display_show_number_of_items": {},
-  "page_layout": "Page Layout",
-  "@page_layout": {},
-  "page_layout_single": "Single Page",
-  "@page_layout_single": {},
-  "page_layout_double": "Double Page",
-  "@page_layout_double": {},
-  "page_layout_automatic": "Automatic",
-  "@page_layout_automatic": {},
-  "page_layout_separate_first_page": "Separate first page",
-  "@page_layout_separate_first_page": {},
-  "page_layout_tip": "Page Layout only takes effect in paging reading mode.",
-  "@page_layout_tip": {},
-  "show_tap_zones_when_start_reading": "Show tap zones when starting reading.",
-  "@show_tap_zones_when_start_reading": {},
-  "select_chapters": "Select chapters",
-  "@select_chapters": {},
-  "label_watermark": "Watermark",
-  "@label_watermark": {},
-  "tap_to_open": "Tap to open",
-  "@tap_to_open": {},
-  "labs": "Labs",
-  "@labs": {},
-  "labsSubtitle": "Experimental Features",
-  "@labsSubtitle": {},
-  "concurrent_download_short_title_num": "Concurrent downloads: {num}",
-  "@concurrent_download_short_title_num": {},
-  "concurrent_download_short_title": "Concurrent downloads",
-  "@concurrent_download_short_title": {},
-  "concurrent_download_title": "Number of concurrent downloads",
-  "@concurrent_download_title": {},
-  "concurrent_download_tips": "Downloading concurrently from the same source for a long time may result in your IP being blocked by the source, causing subsequent downloads and readings to fail.",
-  "@concurrent_download_tips": {},
-  "download_next_n_chapter": "{x, plural, one{Next chapter} other{Next {x} chapters}}",
-  "@download_next_n_chapter": {},
-  "download_unread_chapters": "All unread chapters",
-  "@download_unread_chapters": {},
-  "download_all_chapters": "All chapters",
-  "@download_all_chapters": {},
-  "download_queue": "Download queue",
-  "@download_queue": {},
-  "download_settings": "Download settings",
-  "@download_settings": {},
-  "remove_after_read": "Delete download after reading",
-  "@remove_after_read": {},
-  "pinch_to_zoom": "Pinch to zoom",
-  "@pinch_to_zoom": {},
-  "errorFilePickUnknownType": "Please select a {suffix} file",
-  "@errorFilePickUnknownType": {},
-  "attention_label": "⚠️Attention",
-  "@attention_label": {},
-  "homepage_label": "Homepage",
-  "@homepage_label": {},
-  "download_limit_exceeded_title": "Download limit exceeded",
-  "@download_limit_exceeded_title": {},
-  "download_limit_number_title": "Download limit is {num} chapters.",
-  "@download_limit_number_title": {},
-  "download_limit_content": "You can download {freeTicket} chapters per day.\n\nWatching one ad can increase this limit by {ticketPerAd} chapters, and after watching {maxAds} ads, there is no limit on downloads for the day.\n\nPremium users have unlimited downloads.",
-  "@download_limit_content": {},
-  "download_limit_increase": "Download limit increased by {num}.",
-  "@download_limit_increase": {},
-  "add_download_tips": "{x, plural, one{Added 1 chapter to the download queue.} other{Added {x} chapters to the download queue.}}",
-  "@add_download_tips": {},
-  "watch_ad_label": "Watch Ad",
-  "@watch_ad_label": {},
-  "backup_created_content": "You should keep copies of backups in other places as well.\nNote that downloaded content and local sources are not included in the backup.",
-  "@backup_created_content": {},
-  "display_as_single_page": "Display as single page",
-  "@display_as_single_page": {},
-  "clear_last_hour": "The last hour",
-  "@clear_last_hour": {},
-  "clear_today": "Today",
-  "@clear_today": {},
-  "clear_today_and_yesterday": "Today and yesterday",
-  "@clear_today_and_yesterday": {},
-  "clear_all_time": "All time",
-  "@clear_all_time": {},
-  "start_reading": "Start reading",
-  "@start_reading": {},
-  "continue_reading_chapter": "Continue reading {title}",
-  "@continue_reading_chapter": {},
-  "icon_section_title": "Icon",
-  "@icon_section_title": {},
-  "app_icon_title": "App Icon",
-  "@app_icon_title": {},
-  "app_icon_author": "Designed by {author}",
-  "@app_icon_author": {},
-  "classic_start_reading_button": "Classic start reading button",
-  "@classic_start_reading_button": {},
-  "long_press_action_menu": "Long press action menu",
-  "@long_press_action_menu": {},
-  "app_icon_update_tip": "If the icon is not updated successfully, you can wait a while or simply reboot your device.",
-  "@app_icon_update_tip": {},
-  "update_running_text": "Updating: {title}",
-  "@update_running_text": {},
-  "update_completed_text": "Update completed. {x} successful, {y} failed.",
-  "@update_completed_text": {},
-  "new_category": "New category",
-  "@new_category": {},
-  "add_manga_to": "Add manga to...",
-  "@add_manga_to": {},
-  "add_to_default_category": "Add to default category",
-  "@add_to_default_category": {},
-  "add_to_category": "Add to {category}",
-  "@add_to_category": {},
-  "add_to_categories": "{x, plural, one{Add to category} other{Add to {x} categories}}",
-  "@add_to_categories": {},
-  "move_manga_to": "Move manga to...",
-  "@move_manga_to": {},
-  "keep_in_default_category": "Keep in default category",
-  "@keep_in_default_category": {},
-  "move_to_category": "Move to {category}",
-  "@move_to_category": {},
-  "move_to_categories": "{x, plural, one{Move to category} other{Move to {x} categories}}",
-  "@move_to_categories": {},
-  "iCloud_label": "iCloud",
-  "@iCloud_label": {},
-  "backup_to_iCloud": "Backup to iCloud Drive",
-  "@backup_to_iCloud": {},
-  "backup_to_iCloud_tip": "Upload and download backup files from iCloud Drive",
-  "@backup_to_iCloud_tip": {},
-  "downloading_from_iCloud": "Downloading from iCloud",
-  "@downloading_from_iCloud": {},
-  "iCloud_unavailable_tip": "iCloud Drive is unavailable. Please turn on iCloud Drive in System Settings. For more help, visit https://tachimanga.app/icloud",
-  "@iCloud_unavailable_tip": {},
-  "downloading_running_text": "Downloading {running} of {total}",
-  "@downloading_running_text": {},
-  "edit_cover": "Edit cover",
-  "@edit_cover": {},
-  "set_as_cover": "Set as cover",
-  "@set_as_cover": {},
-  "cover_updated": "Cover updated",
-  "@cover_updated": {},
-  "save_image_user_denied_msg": "Access Denied, please allow Tachimanga to access your photo albums in the system settings.",
-  "@save_image_user_denied_msg": {},
-  "set_as_default": "Set as default",
-  "@set_as_default": {},
-  "reset_to_default": "Reset to default",
-  "@reset_to_default": {},
-  "repo_not_exist": "The extension repository does not exist.",
-  "@repo_not_exist": {},
-  "disagree_label": "Disagree",
-  "@disagree_label": {},
-  "agree_label": "Agree",
-  "@agree_label": {},
-  "library_is_empty": "Your library is empty.\nAdd manga from the browse tab.",
-  "@library_is_empty": {},
-  "history_is_empty": "Nothing read recently.",
-  "@history_is_empty": {},
-  "downloaded_is_empty": "No recently downloaded.",
-  "@downloaded_is_empty": {},
-  "reset_filters": "Reset filters",
-  "@reset_filters": {},
-  "log_enable_tips": "Log enabled successfully. Changes will take effect after restarting the app.",
-  "@log_enable_tips": {},
-  "manga_auto_refresh_title": "Automatic refresh",
-  "@manga_auto_refresh_title": {},
-  "manga_auto_refresh_desc": "Check for new chapters when viewing the title.",
-  "@manga_auto_refresh_desc": {},
-  "migration_dialog_tips": "Downloaded chapter(s) do not transfer with migrations.",
-  "@migration_dialog_tips": {},
-  "premium_month_price": "{price}/month",
-  "premium_month_price_only": "Only {price}/month",
-  "@premium_month_price_only": {},
-  "@premium_month_price": {},
-  "premium_year_price": "{price}/year",
-  "@premium_year_price": {},
-  "early_bird_price": "Early Bird Price",
-  "@early_bird_price": {},
-  "sync": "Sync",
-  "@sync": {},
-  "enable_sync": "Enable Sync",
-  "@enable_sync": {},
-  "enable_sync_tip": "Enabling sync for the first time requires uploading your whole library to the Sync server. It may take several minutes, depending on the number of titles and network bandwidth. It may also cause temporary lag on your device and consume a certain amount of data.",
-  "@enable_sync_tip": {},
-  "sync_now": "Sync now",
-  "@sync_now": {},
-  "sync_settings": "Sync Settings",
-  "@sync_settings": {},
-  "syncing": "Syncing",
-  "@syncing": {},
-  "sync_time_tip": "The sync process relies on accurate device time to handle data conflicts, but there is a significant difference between the current device time and the server time. Please correct the device time.\nCurrent device time: {deviceTime}.\nSync server time: {serverTime}.",
-  "@sync_time_tip": {},
-  "login_to_enable_sync": "Log in to Enable Sync",
-  "@login_to_enable_sync": {},
-  "login": "Log in",
-  "@login": {},
-  "register": "Create new account",
-  "@register": {},
-  "email": "Email",
-  "@email": {},
-  "password": "Password",
-  "@password": {},
-  "password_again": "Confirm password",
-  "@password_again": {},
-  "password_not_match": "Password don't match.",
-  "@password_not_match": {},
-  "email_empty": "Please enter a valid email address.",
-  "@email_empty": {},
-  "password_empty": "Please enter a password.",
-  "@password_empty": {},
-  "synced_at_time": "Synced {time}",
-  "@synced_at_time": {},
-  "just_now": "just now",
-  "@just_now": {},
-  "minutes_ago": "{x, plural, one{1 minute ago} other{{x} minutes ago}}",
-  "@minutes_ago": {},
-  "hours_ago": "{x, plural, one{1 hour ago} other{{x} hours ago}}",
-  "@hours_ago": {},
-  "sync_faq_q1": "What is the Sync?",
-  "@sync_faq_q1": {},
-  "sync_faq_a1": "The Sync is a feature that allows you to seamlessly update and access your library across multiple devices. It ensures that your library is consistent and up-to-date regardless of the device you are using.",
-  "@sync_faq_a1": {},
-  "sync_faq_q2": "What data is synced?",
-  "@sync_faq_q2": {},
-  "sync_faq_a2": "Sync includes library, reading history, bookmarks, repositories, and extensions.",
-  "@sync_faq_a2": {},
-  "sync_faq_q3": "What data will not be synced?",
-  "@sync_faq_q3": {},
-  "sync_faq_a3": "Local source files, local extensions, downloads, updates, app settings, extension settings, and auth info for trackers will not be synced.",
-  "@sync_faq_a3": {},
-  "sync_faq_q4": "When does sync occur?",
-  "@sync_faq_q4": {},
-  "sync_faq_a4": "Sync is triggered automatically in the background at set intervals or upon specific events such as app launch, content update, or your own sync requests. This ensures that your data is consistent across all your linked devices.",
-  "@sync_faq_a4": {},
-  "sync_faq_q5": "How much time and data are required for sync?",
-  "@sync_faq_q5": {},
-  "sync_faq_a5": "Initial Full Sync: The initial full sync may take several minutes to complete, depending on the number of titles. This process consumes data bandwidth as it transmits a large amount of data.\nSubsequent Incremental Sync: Subsequent sync after the initial full sync is completed swiftly and efficiently. Incremental syncs are quick and consume significantly less data compared to the initial sync process.",
-  "@sync_faq_a5": {},
-  "sign_in_with_apple": "Sign in with Apple",
-  "@sign_in_with_apple": {},
-  "login_with_email": "Login with Email",
-  "@login_with_email": {},
-  "login_term": "By providing your email address or using a single sign-on provider to create an account, you agree to our {terms} and have reviewed our {privacy}.",
-  "@login_term": {},
-  "do_not_have_account": "Don't have an account?",
-  "@do_not_have_account": {},
-  "register_here": "Register here",
-  "@register_here": {},
-  "already_have_account": "Already have an account?",
-  "@already_have_account": {},
-  "login_here": "Login here",
-  "@login_here": {},
-  "logout_all": "Log out from all devices.",
-  "@logout_all": {},
-  "logout_all_tips": "This will remove access to your Tachimanga account from all devices.",
-  "@logout_all_tips": {},
-  "logout_tips": "This will remove access to your Tachimanga account from current device.",
-  "@logout_tips": {},
-  "delete_account_label": "Delete my account",
-  "@delete_account_label": {},
-  "delete_account_title": "Are you sure you want to do this?",
-  "@delete_account_title": {},
-  "delete_account_content": "Once you delete your account, there is no going back, and you will not be able to register a new account using the same email address. Please be certain.",
-  "@delete_account_content": {},
-  "delete_account_verify": "To verify, type {text} below:",
-  "@delete_account_verify": {},
-  "receive_timeout_label": "Receive timeout interval",
-  "@receive_timeout_label": {},
-  "receive_timeout_subtitle": "Adjust this option only when you frequently encounter receive timeout issues.",
-  "@receive_timeout_subtitle": {},
-  "next": "Next",
-  "@next": {},
-  "enable_sync_up_to_date_tip": "Before enabling sync, please make sure that the library on your current device is up to date. Sync will merge the libraries of all your devices, so if the data on one device is outdated and sync is enabled, the outdated data will spread to all devices.",
-  "@enable_sync_up_to_date_tip": {},
-  "are_you_sure_proceed": "Are you sure you want to proceed?",
-  "@are_you_sure_proceed": {},
-  "create_backup_before_enable_sync": "Create a backup before enabling sync.",
-  "@create_backup_before_enable_sync": {},
-  "subscribe_to_enable_sync": "Subscribe Premium to Enable Sync",
-  "@subscribe_to_enable_sync": {},
-  "sync_not_enable": "Sync is not enable.",
-  "@sync_not_enable": {},
-  "login_required": "Login required.",
-  "@login_required": {},
-  "extension_filtered_out_by_nsfw": "{x, plural, one{1 extension is} other{{x} extensions are}} not being displayed due to potentially containing sensitive content.\nAdjust the Extensions settings to display.",
-  "@extension_filtered_out_by_nsfw": {},
-  "extension_filtered_out_by_lang": "The extensions are available in {text}.\nAdjust the {preference} to display.",
-  "@extension_filtered_out_by_lang": {},
-  "extension_language_preference": "extension language preference",
-  "@extension_language_preference": {},
-  "hours_short": "{x} h",
-  "@hours_short": {},
-  "minutes_short": "{x} m",
-  "@minutes_short": {},
-  "seconds_short": "{x} s",
-  "@seconds_short": {},
-  "hours_minutes_short": "{x} h {y} m",
-  "@hours_minutes_short": {},
-  "minutes_seconds_short": "{x} m {y} s",
-  "@minutes_seconds_short": {},
-  "tachiyomiBackupSectionTitle": "Tachiyomi, Mihon and forks",
-  "@tachiyomiBackupSectionTitle": {},
-  "importTachiyomiBackupTitle": "Import Tachiyomi backup",
-  "@importTachiyomiBackupTitle": {},
-  "importTachiyomiBackupDescription": "Import library from the backup of Tachiyomi, Mihon and forks.",
-  "@importTachiyomiBackupDescription": {},
-  "createTachiyomiBackupTitle": "Create Tachiyomi-compatible backup",
-  "@createTachiyomiBackupTitle": {},
-  "createTachiyomiBackupDescription": "Create a backup compatible with Tachiyomi, Mihon and forks.",
-  "@createTachiyomiBackupDescription": {},
-  "done_label": "Done",
-  "@done_label": {},
-  "reading_insights": "Reading Insights",
-  "@reading_insights": {},
-  "auto_scroll": "Autoscroll",
-  "@auto_scroll": {},
-  "seconds_per_page": "{x}s per page",
-  "@seconds_per_page": {},
-  "select_all": "Select all",
-  "@select_all": {},
-  "select_invert": "Invert selection",
-  "@select_invert": {},
-  "select_between": "Select between",
-  "@select_between": {},
-  "reading_time_tip": "Reading time calculated since December 2024.",
-  "@reading_time_tip": {},
-  "pinch_to_zoom_tip": "Disable this feature if using a mouse wheel on macOS.",
-  "@pinch_to_zoom_tip": {},
-  "reader_keep_screen_on": "Keep the screen on while reading.",
-  "@reader_keep_screen_on": {},
-  "remove_from_library": "Remove from library",
-  "@remove_from_library": {},
-  "tachiyomi_import_tip_title": "Import failed: Backup file is too large.",
-  "@tachiyomi_import_tip_title": {},
-  "tachiyomi_import_tip_content": "When creating a backup of Tachiyomi, Mihon and forks, only backup Library, Categories, and Tracking, then retry.",
-  "@tachiyomi_import_tip_content": {},
-  "apple_pencil_integration": "Apple Pencil",
-  "@apple_pencil_integration": {},
-  "apple_pencil_integration_description": "Double tap and squeeze",
-  "@apple_pencil_integration_description": {},
-  "apple_pencil_double_tap": "Double tap",
-  "@apple_pencil_double_tap": {},
-  "apple_pencil_squeeze": "Squeeze",
-  "@apple_pencil_squeeze": {},
-  "requires_apple_pencil_pro": "Squeeze requires Apple Pencil Pro.",
-  "@requires_apple_pencil_pro": {},
-  "action_previous_page": "Previous page",
-  "@action_previous_page": {},
-  "action_next_page": "Next page",
-  "@action_next_page": {},
-  "action_previous_chapter": "Previous chapter",
-  "@action_previous_chapter": {},
-  "action_next_chapter": "Next chapter",
-  "@action_next_chapter": {},
-  "action_none": "No action",
-  "@action_none": {},
-  "label_select": "Select",
-  "@label_select": {},
-  "remove_downloads": "Remove downloads",
-  "@remove_downloads": {},
-  "remove_downloads_if_migrate": "Remove downloads if migrate",
-  "@remove_downloads_if_migrate": {},
-  "mark_all_read": "Mark all chapters as read?",
-  "@mark_all_read": {},
-  "mark_as_read": "Mark as read",
-  "@mark_as_read": {},
-  "mark_all_unread": "Mark all chapters as unread?",
-  "@mark_all_unread": {},
-  "mark_as_unread": "Mark as unread",
-  "@mark_as_unread": {},
-  "move_to_default_category": "Move to default category",
-  "@move_to_default_category": {},
-  "remove_from_category": "Remove from {category}",
-  "@remove_from_category": {},
-  "remove_from_categories": "{x, plural, one{Remove from category} other{Remove from {x} categories}}",
-  "@remove_from_categories": {},
-  "keep_in_category": "Keep in {category}",
-  "@keep_in_category": {},
-  "keep_in_categories": "{x, plural, one{Keep in category} other{Keep in {x} categories}}",
-  "@keep_in_categories": {},
-  "how_to_upgrade_lifetime": "How to upgrade to lifetime?",
-  "@how_to_upgrade_lifetime": {},
-  "how_to_upgrade_lifetime_steps": "To upgrade to lifetime premium, the first step is to purchase lifetime premium, and then click on subscription management to cancel monthly or yearly subscriptions.",
-  "@how_to_upgrade_lifetime_steps": {},
-  "upgrade_label": "Upgrade",
-  "@upgrade_label": {},
-  "subscription_management": "Subscription management",
-  "@subscription_management": {},
-  "use_photo_view_title": "Enhance the drag gesture experience during zooming.",
-  "@use_photo_view_title": {},
-  "source_not_working_tips": "This source doesn't seem to be working right now for various reasons; please check the help for troubleshooting and consider migrating to other sources.",
-  "@source_not_working_tips": {},
-  "chapterSortUploadDate": "By Upload Date",
-  "@chapterSortUploadDate": {},
-  "chapterSortChapterName": "By Name",
-  "@chapterSortChapterName": {},
-  "library_search_globally": "Search for \"{text}\" globally",
-  "@library_search_globally": {},
-  "saved_searches": "Saved Searches",
-  "@saved_searches": {},
-  "long_press_to_delete": "Long press to delete.",
-  "@long_press_to_delete": {},
-  "save_query_title": "Save current search query?",
-  "@save_query_title": {},
-  "save_query_hint": "Name",
-  "@save_query_hint": {},
-  "delete_query_title": "Delete saved search query?",
-  "@delete_query_title": {},
-  "delete_query_content": "Are you sure you wish to delete {title}?",
-  "@delete_query_content": {},
-  "receive_timeout_tips": "Request timeout. Please refresh or check website in WebView",
-  "@receive_timeout_tips": {},
-  "failed_to_get_url": "Failed to get url.",
-  "@failed_to_get_url": {},
-  "user_agent": "User Agent",
-  "@user_agent": {},
-  "user_agent_mobile_webview": "Mobile WebView",
-  "@user_agent_mobile_webview": {},
-  "user_agent_desktop_webview": "Desktop WebView",
-  "@user_agent_desktop_webview": {},
-  "user_agent_mobile_safari": "Mobile Safari",
-  "@user_agent_mobile_safari": {},
-  "user_agent_desktop_safari": "Desktop Safari",
-  "@user_agent_desktop_safari": {},
-  "scanlator_filter_label": "Filter",
-  "@scanlator_filter_label": {},
-  "scanlator_priority_label": "Priority",
-  "@scanlator_priority_label": {},
-  "scanlator_filter_description": "Show chapters from selected scanlators.",
-  "@scanlator_filter_description": {},
-  "scanlator_priority_description": "Show only the highest-priority scanlator per chapter based on your settings.",
-  "@scanlator_priority_description": {},
-  "n_scanlators": "{x} Scanlators",
-  "@n_scanlators": {},
-  "n_scanlators_selected": "{x, plural, one{1 Scanlator Selected} other{{x} Scanlators Selected}}",
-  "@n_scanlators_selected": {},
-  "scanlator_priority_enabled": "Scanlator Priority Enabled",
-  "@scanlator_priority_enabled": {},
-  "exclude_categories": "Excluded categories",
-  "@exclude_categories": {},
-  "exclude_categories_tips": "Entries in excluded categories will not be updated even if they are also in other categories.",
-  "@exclude_categories_tips": {},
-  "skip_updating_titles": "Skip updating titles",
-  "@skip_updating_titles": {},
-  "skip_updating_titles_tips": "Recommend enabling all options to speed up updates and reduce the load on sources.",
-  "@skip_updating_titles_tips": {},
-  "skip_updating_titles_with_unread_chapters": "With unread chapters",
-  "@skip_updating_titles_with_unread_chapters": {},
-  "skip_updating_titles_that_havent_been_read": "That haven't been read",
-  "@skip_updating_titles_that_havent_been_read": {},
-  "skip_updating_titles_with_completed_status": "With completed status",
-  "@skip_updating_titles_with_completed_status": {},
-  "none_label": "None",
-  "@none_label": {},
-  "update_completed_text_v2": "{x} successful, {y} skipped, {z} failed.",
-  "@update_completed_text_v2": {},
-  "update_completed_label": "Update completed.",
-  "@update_completed_label": {},
-  "skipped": "Skipped",
-  "@skipped": {},
-  "skip_titles_with_unread_chapters": "Titles with unread chapters",
-  "@skip_titles_with_unread_chapters": {},
-  "skip_titles_that_havent_been_read": "Titles that haven't been read",
-  "@skip_titles_that_havent_been_read": {},
-  "skip_titles_with_completed_status": "Titles with completed status",
-  "@skip_titles_with_completed_status": {},
-  "skip_titles_only_fetch_once": "Titles marked as only fetch once",
-  "@skip_titles_only_fetch_once": {},
-  "skip_titles_in_excluded_category": "Titles in excluded categories",
-  "@skip_titles_in_excluded_category": {},
-  "force_update": "Force update",
-  "@force_update": {},
-  "skip_duplicate_chapters": "Skip duplicate chapters",
-  "@skip_duplicate_chapters": {},
-  "how_to_enable_skip_duplicate_chapters": "How to enable skip duplicate chapters?",
-  "@how_to_enable_skip_duplicate_chapters": {},
-  "how_to_enable_skip_duplicate_chapters_tips": "This option is only available when there are multiple scanlators.",
-  "@how_to_enable_skip_duplicate_chapters_tips": {},
-  "open_in_safari": "Open in Safari",
-  "@open_in_safari": {},
-  "restoring_purchase": "Restoring Purchase...",
-  "@restoring_purchase": {},
-  "enhance_drag_gesture": "Enhance the drag gesture experience during zooming",
-  "@enhance_drag_gesture": {},
-  "mouse_wheel_speed": "Mouse wheel speed",
-  "@mouse_wheel_speed": {},
-  "noPagesFound": "No pages found",
-  "@noPagesFound": {},
-  "action_open_random_manga": "Open random entry",
-  "@action_open_random_manga": {},
-  "information_no_entries_found": "No entries found in this category",
-  "@information_no_entries_found": {},
-  "deselect": "Deselect",
-  "@deselect": {},
-  "estimated": "Estimated: {x}",
-  "@estimated": {},
-  "storage": "Storage",
-  "@storage": {},
-  "storage_subtitle": "View & Manage Storage",
-  "@storage_subtitle": {},
-  "storage_used": "Tachimanga Data",
-  "@storage_used": {},
-  "storage_remove_label": "Remove",
-  "@storage_remove_label": {},
-  "storage_removing_label": "Removing...",
-  "@storage_removing_label": {},
-  "storage_remove_confirm": "Removed content cannot be recovered. Remove anyway?",
-  "@storage_remove_confirm": {},
-  "storage_removed_label": "Removed",
-  "@storage_removed_label": {},
-  "storage_manage_label": "Manage",
-  "@storage_manage_label": {},
-  "storage_cache": "Cache",
-  "@storage_cache": {},
-  "storage_cache_clearing": "Cache Clearing...",
-  "@storage_cache_clearing": {},
-  "storage_space_freed_up": "{x} space freed up.",
-  "@storage_space_freed_up": {},
-  "storage_cache_subtitle": "The cache consists of temporary data generated during usage. Clearing this data will not affect the normal use of Tachimanga.",
-  "@storage_cache_subtitle": {},
-  "storage_cache_images": "Images",
-  "@storage_cache_images": {},
-  "storage_cache_covers": "Covers",
-  "@storage_cache_covers": {},
-  "storage_cache_others": "Others",
-  "@storage_cache_others": {},
-  "storage_manage_downloads": "Manage Downloads",
-  "@storage_manage_downloads": {},
-  "storage_legacy_downloads": "Older Downloads",
-  "@storage_legacy_downloads": {},
-  "storage_legacy_downloads_subtitle": "Manage downloads created before v3.4 (released Sep 11, 2024)",
-  "@storage_legacy_downloads_subtitle": {},
-  "storage_inaccessible_downloads": "Inaccessible Downloads",
-  "@storage_inaccessible_downloads": {},
-  "storage_inaccessible_downloads_subtitle": "Downloaded chapters are inaccessible because the original chapters were deleted or the source is no longer accessible. You can export or remove the inaccessible downloads.",
-  "@storage_inaccessible_downloads_subtitle": {},
-  "storage_manage_inaccessible_downloads": "Manga Inaccessible Downloads",
-  "@storage_manage_inaccessible_downloads": {},
-  "storage_other_data": "Other Data",
-  "@storage_other_data": {},
-  "storage_other_data_subtitle": "Essential files including databases, preferences, installed extensions, custom covers, etc. must not be deleted.",
-  "@storage_other_data_subtitle": {},
-  "got_it": "Got it",
-  "@got_it": {},
-  "storage_used_by_other_apps": "Used by other apps",
-  "@storage_used_by_other_apps": {},
-  "storage_remaining": "Remaining storage",
-  "@storage_remaining": {},
-  "hold_to_scroll": "Press and hold to scroll",
-  "@hold_to_scroll": {},
-  "hold_to_scroll_tip": "Only available in Webtoon and Continuous Reading modes.",
-  "@hold_to_scroll_tip": {},
-  "hold_to_scroll_speed_up_tip": "Hold one finger, then hold another to scroll faster.",
-  "@hold_to_scroll_speed_up_tip": {},
-  "long_press_action_menu_tips": "Disabled when \"Press and hold to scroll\" is on.",
-  "@long_press_action_menu_tips": {},
-  "tracker_token_expire_message": "Authentication token expired. Please log out and log in again to refresh.",
-  "@tracker_token_expire_message": {},
-  "md_page_tips": "{icon} Tips",
-  "@md_page_tips": {},
-  "get_started_summary": "Tachimanga is a full-featured reader that supports reading from **local source** and **external third-party extensions**.",
-  "@get_started_summary": {},
-  "get_started_local_source_title": "{icon} Reading from Local source.",
-  "@get_started_local_source_title": {},
-  "get_started_local_source_content": "Read content stored locally on your device.\nSee the [Local source guide]({url}) for instructions.",
-  "@get_started_local_source_content": {},
-  "get_started_external_source_title": "{icon} Reading from External third-party extensions.",
-  "@get_started_external_source_title": {},
-  "get_started_external_source_content": "External third-party extensions add additional sources to Tachimanga.\n**Tachimanga supports most of Mihon/Tachiyomi extensions**, so you can add Mihon/Tachiyomi extensions repositories in the [Settings]({url}).",
-  "@get_started_external_source_content": {},
-  "get_started_tips_1": "No extensions or sources are included by default. Feel free to use Google, YouTube, or other resources to find what you need.",
-  "@get_started_tips_1": {},
-  "get_started_tips_2": "These extensions are not developed or maintained by the Tachimanga developers. Therefore, we do not provide any info regarding those extensions.",
-  "@get_started_tips_2": {},
-  "how_to_find_repository_title": "How to find third-party extension repositories?",
-  "@how_to_find_repository_title": {},
-  "how_to_find_repository_content": "Tachimanga supports most of Mihon/Tachiyomi extensions, so you can use Mihon/Tachiyomi extensions on Tachimanga.",
-  "@how_to_find_repository_content": {},
-  "no_preferences": "No preferences",
-  "@no_preferences": {},
-  "retry_all": "Retry all",
-  "@retry_all": {},
-  "remove_download_confirm": "Remove download?",
-  "@remove_download_confirm": {},
-  "remove_selected_downloads_confirm": "Remove all selected downloads?",
-  "@remove_selected_downloads_confirm": {},
-  "liquid_glass_appearance_title": "Liquid glass",
-  "@liquid_glass_appearance_title": {},
-  "feature_enable_label": "Enable",
-  "@feature_enable_label": {},
-  "feature_disable_label": "Disable",
-  "@feature_disable_label": {},
-  "learn_more_label": "Learn more",
-  "@learn_more_label": {},
-  "update_continue_in_background_title": "Updates continue in background",
-  "@update_continue_in_background_title": {},
-  "update_continue_in_background_faq_q1": "What is \"Updates continue in background\"?",
-  "@update_continue_in_background_faq_q1": {},
-  "update_continue_in_background_faq_a1": "This feature lets your updates keep running even when you leave the app or lock your device.\nPlease note that the system manages this process. If system resources become limited, your updates may pause or fail to complete.",
-  "@update_continue_in_background_faq_a1": {},
-  "update_continue_in_background_faq_q2": "Why were my updates stopped by the system?",
-  "@update_continue_in_background_faq_q2": {},
-  "update_continue_in_background_faq_a2": "Updates in the background are managed by iOS, and they can be stopped if device resources are limited.\nTo help your updates complete reliably:\n• Plug your device into power.\n• Connect to a Stable Wi-Fi Network.\n• Close Unnecessary Apps.\n• Turn off Low Power and Low Data modes.",
-  "@update_continue_in_background_faq_a2": {},
-  "update_continue_enable_dialog_title": "Enable Background Update?",
-  "@update_continue_enable_dialog_title": {},
-  "update_continue_enable_dialog_confirm": "I understand that Background Update are entirely scheduled by the system and are not 100% reliable.",
-  "@update_continue_enable_dialog_confirm": {},
-  "download_continue_in_background_title": "Background Download",
-  "@download_continue_in_background_title": {},
-  "download_continue_in_background_faq_q1": "What is Background Download?",
-  "@download_continue_in_background_faq_q1": {},
-  "download_continue_in_background_faq_a1": "This feature lets your downloads keep running even when you leave the app or lock your device.\nPlease note that the system manages this process. If system resources become limited, your downloads may pause or fail to complete.",
-  "@download_continue_in_background_faq_a1": {},
-  "download_continue_in_background_faq_q2": "Why were my downloads stopped by the system?",
-  "@download_continue_in_background_faq_q2": {},
-  "download_continue_in_background_faq_a2": "Downloads in the background are managed by iOS, and they can be stopped if device resources are limited.\nTo help your downloads complete reliably:\n• Plug your device into power.\n• Connect to a Stable Wi-Fi Network.\n• Close Unnecessary Apps.\n• Turn off Low Power and Low Data modes.",
-  "@download_continue_in_background_faq_a2": {},
-  "download_continue_enable_dialog_title": "Enable Background Download?",
-  "@download_continue_enable_dialog_title": {},
-  "download_continue_enable_dialog_confirm": "I understand that Background Download are entirely scheduled by the system and are not 100% reliable.",
-  "@download_continue_enable_dialog_confirm": {},
-  "download_continue_enable_dialog_content": "This feature lets your downloads keep running even when you leave the app or lock your device.",
-  "@download_continue_enable_dialog_content": {},
-  "download_continue_enable_banner_text": "With background downloads, your downloads will continue even if you leave the app or lock your device.",
-  "@download_continue_enable_banner_text": {}
+    "@@locale": "en",
+    "@about": {
+        "description": "Screen title and Button text of About screen"
+    },
+    "@addCategory": {
+        "description": "Popup title and Button text to add new category in Edit Category Screen"
+    },
+    "@addToLibrary": {
+        "description": "Button text to add Manga to Library in Manga Details Screen"
+    },
+    "@appLanguage": {
+        "description": "Popup title and Button text to change App Language"
+    },
+    "@appTheme": {
+        "description": "Popup title and Button text to change App Theme"
+    },
+    "@appTitle": {
+        "description": "Name of the app (Tachidesk Sorayomi in native script)"
+    },
+    "@appearance": {
+        "description": "Screen title and Button text of Appearance screen"
+    },
+    "@backup": {
+        "description": "Screen title and Button text of Backup & Restore screen"
+    },
+    "@badges": {
+        "description": "Checkbox Group title to enable Badges on manga Cover in Library Screen"
+    },
+    "@bookmarked": {
+        "description": "Checkbox text to filter bookmarked manga chapters in Manga Details screen"
+    },
+    "@browse": {
+        "description": "Screen title, Navigation Bar text and Button text of both Browse screen and Browse Settings Screen"
+    },
+    "@cancel": {
+        "description": "Text for Cancel button in a Popup"
+    },
+    "@categories": {
+        "description": "Button text of edit Categories screen in Library settings screen"
+    },
+    "@categoryUpdate": {
+        "description": "Button text to update the mangas in the Category"
+    },
+    "@chapterNumber": {
+        "description": "Text title for Chapter name in chapter list",
+        "placeholders": {
+            "number": {
+                "example": "12.5",
+                "type": "double"
+            }
+        }
+    },
+    "@chapterSortFetchedDate": {
+        "description": "Radio button text for sort by Fetched Date"
+    },
+    "@chapterSortSource": {
+        "description": "Radio button text for sort by Source"
+    },
+    "@client": {
+        "description": "Text title for the name of the client in About screen"
+    },
+    "@clientVersion": {
+        "description": "Text title for the current version of the client in About screen"
+    },
+    "@close": {
+        "description": "Text for close button"
+    },
+    "@completed": {
+        "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
+    },
+    "@copyMsg": {
+        "description": "Toast text to show that the message has been copied",
+        "placeholders": {
+            "msg": {
+                "example": "Client : Tachidesk Sorayomi",
+                "type": "String"
+            }
+        }
+    },
+    "@createBackupDescription": {
+        "description": "Button text description to create backup"
+    },
+    "@createBackupTitle": {
+        "description": "Button text to create backup"
+    },
+    "@current": {
+        "description": "Text to show the currently reading chapter in Reader Screen"
+    },
+    "@defaultCategory": {
+        "description": "Checkbox description when creating a Category to add manga to the Category by Default"
+    },
+    "@delete": {
+        "description": "Text for delete button"
+    },
+    "@deleteCategoryDescription": {
+        "description": "Popup description when deleting Category"
+    },
+    "@deleteCategoryTitle": {
+        "description": "Popup title when deleting Category"
+    },
+    "@discord": {
+        "description": "Discord app title"
+    },
+    "@display": {
+        "description": "Text for Display tab in Library screen drawer"
+    },
+    "@displayMode": {
+        "description": "Radio Group title to change manga Cover display in Library and Source Screens"
+    },
+    "@displayModeDescriptiveList": {
+        "description": "Radio button text for Manga Cover display mode - Descriptive List"
+    },
+    "@displayModeGrid": {
+        "description": "Radio button text for Manga Cover display mode - Grid"
+    },
+    "@displayModeList": {
+        "description": "Radio button text for Manga Cover display mode - List"
+    },
+    "@downloaded": {
+        "description": "Text to show downloaded chapters status in Filters  "
+    },
+    "@downloads": {
+        "description": "Screen title and Navigation text of Downloads screen"
+    },
+    "@edit": {
+        "description": "Popup button text to edit Category in Edit category screen"
+    },
+    "@editCategory": {
+        "description": "Screen title, Button text and  of Downloads screen"
+    },
+    "@emptyCategory": {
+        "description": "Description to show that category list is empty in Edit Category screen"
+    },
+    "@errorExtension": {
+        "description": "Error Description to show when user selected unknown extension from list"
+    },
+    "@errorFilePick": {
+        "description": "Error Description to show when user does not selected an file"
+    },
+    "@errorFilePickUnknownExtension": {
+        "description": "Error Description to show when user selected unknown extension file"
+    },
+    "@errorLaunchURL": {
+        "description": "Error Description to show when App failed to launch an URL and copied the URL to clipboard",
+        "placeholders": {
+            "url": {
+                "example": "http://sorayomi.suwayomi.org",
+                "type": "String"
+            }
+        }
+    },
+    "@errorSomethingWentWrong": {
+        "description": "Error Description to show that Something went wrong!"
+    },
+    "@extensionInstalled": {
+        "description": "Toast text to show that the Extension Installed successfully"
+    },
+    "@extensionListEmpty": {
+        "description": "Description to show that Extension list is empty in Extension list tab of Browse screen"
+    },
+    "@extensions": {
+        "description": "Extension list Tab title in Browse Screen"
+    },
+    "@failed": {
+        "description": "Failed status Manga Group title in Update Summary Screen"
+    },
+    "@filter": {
+        "description": "title of filter Tab across the app"
+    },
+    "@finished": {
+        "description": "Text to show the Currently Finished reading chapter in Reader Screen"
+    },
+    "@general": {
+        "description": "Screen title and Button text of General setting screen"
+    },
+    "@gitHub": {
+        "description": "GitHub app title"
+    },
+    "@globalSearch": {
+        "description": "Screen title of Global Search screen"
+    },
+    "@globalUpdate": {
+        "description": "Button text of Global Manga Update"
+    },
+    "@help": {
+        "description": "Button text of help in about screen"
+    },
+    "@inLibrary": {
+        "description": "Button and Chip text to show that the manga is in Library"
+    },
+    "@install": {
+        "description": "Button text to install the extension"
+    },
+    "@installing": {
+        "description": "Button text to show that the extension is installing"
+    },
+    "@installingExtension": {
+        "description": "Toast text to show that the extension is installing"
+    },
+    "@languages": {
+        "description": "Popup title to filter extensions based on language"
+    },
+    "@library": {
+        "description": "Screen title and Button text of Library and Library Settings screen"
+    },
+    "@manga": {
+        "description": "Screen title and Button text of Manga details screen"
+    },
+    "@mangaGridSize": {
+        "description": "Popup title and Button text to change Manga Grid size"
+    },
+    "@mangaSortAlphabetical": {
+        "description": "Radio button text for Manga sort Type - Alphabetical"
+    },
+    "@mangaSortDateAdded": {
+        "description": "Radio button text for Manga sort Type - Date Added"
+    },
+    "@mangaSortUnread": {
+        "description": "Radio button text for Manga sort Type - Unread"
+    },
+    "@mangaSortLastRead": {
+        "description": "Radio button text for Manga sort Type - Last Read"
+    },
+    "@mangaStatusCancelled": {
+        "description": "Text to show Manga Status Cancelled in Manga details screen"
+    },
+    "@mangaStatusCompleted": {
+        "description": "Text to show Manga Status Completed in Manga details screen"
+    },
+    "@mangaStatusLicensed": {
+        "description": "Text to show Manga Status Licensed in Manga details screen"
+    },
+    "@mangaStatusOnHiatus": {
+        "description": "Text to show Manga Status On Hiatus in Manga details screen"
+    },
+    "@mangaStatusOngoing": {
+        "description": "Text to show Manga Status Ongoing in Manga details screen"
+    },
+    "@mangaStatusPublishingFinished": {
+        "description": "Text to show Manga Status Publishing Finished in Manga details screen"
+    },
+    "@mangaStatusUnknown": {
+        "description": "Text to show Manga Status Unknown in Manga details screen"
+    },
+    "@more": {
+        "description": "Screen title and Navigation text of More screen"
+    },
+    "@moveToBottom": {
+        "description": "Button text to move download/category to the bottom of list"
+    },
+    "@moveToTop": {
+        "description": "Button text to move download/category to the top of list"
+    },
+    "@nameCountDisplay": {
+        "description": "Text pattern to display an name and count in a string",
+        "placeholders": {
+            "name": {
+                "example": "Downloaded",
+                "type": "String"
+            },
+            "count": {
+                "example": "22",
+                "type": "int"
+            }
+        }
+    },
+    "@newUpdateAvailable": {
+        "description": "Popup title to show that the App/Server has and update"
+    },
+    "@noCategoriesFound": {
+        "description": "Hint text to add new Category when category list is empty"
+    },
+    "@noCategoriesFoundAlt": {
+        "description": "Hint text to add new Category in Settings when category list is empty"
+    },
+    "@noCategoryMangaFound": {
+        "description": "Hint text to check filter when manga list is empty in Category tab in Library"
+    },
+    "@noChaptersFound": {
+        "description": "Text to show that the Chapter list is empty in Manga details Screen"
+    },
+    "@noDownloads": {
+        "description": "Text to show that there is no active downloads in Downloads Screen"
+    },
+    "@noMangaFound": {
+        "description": "Text to show that the Manga list is empty"
+    },
+    "@noOfChapters": {
+        "description": "Title text to show the number of chapters in the Manga details screen",
+        "placeholders": {
+            "count": {
+                "example": "23",
+                "type": "int"
+            }
+        }
+    },
+    "@noResultFound": {
+        "description": "Text to show that no results found for the given search query"
+    },
+    "@noSourcesFound": {
+        "description": "Text to show that the Source list is empty"
+    },
+    "@noUpdatesAvailable": {
+        "description": "Text to show that the user is using the latest version of the app"
+    },
+    "@noUpdatesFound": {
+        "description": "Toast Text to show that there are no Updates available"
+    },
+    "@nsfw": {
+        "description": "Switch text to show/hide the nsfw extensions"
+    },
+    "@nsfw18": {
+        "description": "18+ tag Text to show in extensions list"
+    },
+    "@nsfwInfo": {
+        "description": "Hint text to show that the nsfw switch cannot prevent incorrectly flagged extensions from surfacing"
+    },
+    "@numSelected": {
+        "description": "Title text to show the number of chapters selected in the Manga details screen and Updates screen",
+        "placeholders": {
+            "num": {
+                "example": "23",
+                "type": "int"
+            }
+        }
+    },
+    "@obsolete": {
+        "description": "Text to show that the extension has become Obsolete"
+    },
+    "@page": {
+        "description": "Text to show the last read Page number of the chapter in Manga details screen",
+        "placeholders": {
+            "number": {
+                "example": "23",
+                "type": "int"
+            }
+        }
+    },
+    "@pause": {
+        "description": "Button text to pause downloads"
+    },
+    "@pending": {
+        "description": "Pending status Manga Group title in Update Summary Screen"
+    },
+    "@reader": {
+        "description": "Screen title and Button text of Reader screen"
+    },
+    "@readerMode": {
+        "description": "Popup title and Button text of Reader Mode popup"
+    },
+    "@readerModeContinuousHorizontalLTR": {
+        "description": "Radio button text for Reader Mode Type - Continuous Horizontal (LTR)"
+    },
+    "@readerModeContinuousHorizontalRTL": {
+        "description": "Radio button text for Reader Mode Type - Continuous Horizontal (RTL)"
+    },
+    "@readerModeContinuousVertical": {
+        "description": "Radio button text for Reader Mode Type - Continuous Vertical"
+    },
+    "@readerModeDefaultReader": {
+        "description": "Radio button text for Reader Mode Type - Default"
+    },
+    "@readerModeSingleHorizontalLTR": {
+        "description": "Radio button text for Reader Mode Type - Single Horizontal (LTR)"
+    },
+    "@readerModeSingleHorizontalRTL": {
+        "description": "Radio button text for Reader Mode Type - Single Horizontal (RTL)"
+    },
+    "@readerModeSingleVertical": {
+        "description": "Radio button text for Reader Mode Type - Single Vertical"
+    },
+    "@readerModeWebtoon": {
+        "description": "Radio button text for Reader Mode Type - Webtoon"
+    },
+    "@readerNavigationLayout": {
+        "description": "Popup title and Button text of Reader Navigation Layout popup"
+    },
+    "@readerNavigationLayoutDefault": {
+        "description": "Radio button text for Reader Navigation Layout - Default"
+    },
+    "@readerNavigationLayoutDisabled": {
+        "description": "Radio button text for Reader Navigation Layout - Disabled"
+    },
+    "@readerNavigationLayoutEdge": {
+        "description": "Radio button text for Reader Navigation Layout - Edge"
+    },
+    "@readerNavigationLayoutInvert": {
+        "description": "Switch title to invert Tap to scroll in reader screen"
+    },
+    "@readerNavigationLayoutKindlish": {
+        "description": "Radio button text for Reader Navigation Layout - Kindle-ish"
+    },
+    "@readerNavigationLayoutLShaped": {
+        "description": "Radio button text for Reader Navigation Layout - L Shaped"
+    },
+    "@readerNavigationLayoutRightAndLeft": {
+        "description": "Radio button text for Reader Navigation Layout - Right And Left"
+    },
+    "@readerPadding": {
+        "description": "Slider title text for Reader Padding"
+    },
+    "@refresh": {
+        "description": "Refresh button text"
+    },
+    "@reset": {
+        "description": "Button text of reset button in source filters"
+    },
+    "@restoreBackupDescription": {
+        "description": "Button text description to create backup"
+    },
+    "@restoreBackupTitle": {
+        "description": "Button text to create backup"
+    },
+    "@restored": {
+        "description": "Toast Text to show that the backup has been restored"
+    },
+    "@restoring": {
+        "description": "Toast Text to show that the backup is restoring"
+    },
+    "@resume": {
+        "description": "Button Text to resume Chapter reading/downloading"
+    },
+    "@retry": {
+        "description": "Retry Button Text"
+    },
+    "@running": {
+        "description": "Running status Manga Group title in Update Summary Screen"
+    },
+    "@save": {
+        "description": "Save Button Text"
+    },
+    "@search": {
+        "description": "Search field hint Text"
+    },
+    "@settings": {
+        "description": "Screen title and Button text of Settings screen"
+    },
+    "@sort": {
+        "description": "title of sort Tab across the app"
+    },
+    "@source": {
+        "description": "Screen title and Button text of source screen"
+    },
+    "@sourceTypeFilter": {
+        "description": "Tab text Filter for source screen type"
+    },
+    "@sourceTypeLatest": {
+        "description": "Tab text Latest for source screen type"
+    },
+    "@sourceTypePopular": {
+        "description": "Tab text Popular for source screen type"
+    },
+    "@sources": {
+        "description": "title of Sources Tab in Browse Screen"
+    },
+    "@start": {
+        "description": "Button text start reading the manga"
+    },
+    "@themeModeDark": {
+        "description": "Radio button text for App theme - Dark"
+    },
+    "@themeModeLight": {
+        "description": "Radio button text for App theme - Light"
+    },
+    "@themeModeSystem": {
+        "description": "Radio button text for App theme - System"
+    },
+    "@uninstall": {
+        "description": "Button text to Uninstall the extension"
+    },
+    "@uninstalling": {
+        "description": "Button text to show that the extension is uninstalling"
+    },
+    "@unknownAuthor": {
+        "description": "Text to show unknown author in Manga details screen"
+    },
+    "@unknownManga": {
+        "description": "Text to show unknown manga in Manga details screen"
+    },
+    "@unknownSource": {
+        "description": "Text to show unknown Source in Manga details screen"
+    },
+    "@unread": {
+        "description": "Checkbox text to unread bookmarked manga/chapters across app"
+    },
+    "@update": {
+        "description": "Button text to update the extension"
+    },
+    "@updateCompleted": {
+        "description": "Button text to show that extension update is completed"
+    },
+    "@updates": {
+        "description": "Screen title and Button text of Updates screen"
+    },
+    "@updatesSummary": {
+        "description": "Screen title and Button text of Updates Summary screen"
+    },
+    "@updating": {
+        "description": "Button text to show that the extension is updating"
+    },
+    "@webView": {
+        "description": "Button text to open manga website"
+    },
+    "@whatsNew": {
+        "description": "Button text to open whats new page of app in web"
+    },
+    "about": "About",
+    "addCategory": "Add Category",
+    "addToLibrary": "Add to Library",
+    "appLanguage": "App Language",
+    "appTheme": "App Theme",
+    "appTitle": "Tachimanga",
+    "appearance": "Appearance",
+    "backup": "Backup & Restore",
+    "badges": "Badges",
+    "bookmarked": "Bookmarked",
+    "browse": "Browse",
+    "cancel": "Cancel",
+    "categories": "Categories",
+    "categoryUpdate": "Category Update",
+    "chapterNumber": "Chapter {number}",
+    "chapterSortFetchedDate": "By Fetched Date",
+    "chapterSortSource": "By Source",
+    "client": "Client",
+    "clientVersion": "Client version",
+    "close": "Close",
+    "completed": "Completed",
+    "copyMsg": "'{msg}' Copied!",
+    "current": "Current",
+    "defaultCategory": "Default category when adding new manga to library",
+    "delete": "Delete",
+    "deleteCategoryDescription": "This will merge all Mangas in this Category to Default!",
+    "deleteCategoryTitle": "Are you sure?",
+    "discord": "Discord",
+    "display": "Display",
+    "displayMode": "Display Mode",
+    "displayModeDescriptiveList": "Descriptive List",
+    "displayModeGrid": "Grid",
+    "displayModeList": "List",
+    "downloaded": "Downloaded",
+    "downloads": "Downloads",
+    "edit": "Edit",
+    "editCategory": "Edit Category",
+    "emptyCategory": "Category name can't be Empty",
+    "errorExtension": "Can't find the selected extension",
+    "errorFilePick": "File not selected!",
+    "errorFilePickUnknownExtension": "Please select a file with {extensionName} extension",
+    "errorLaunchURL": "Failed to open!\nCopying \"{url}\" to clipboard",
+    "errorSomethingWentWrong": "Something went wrong!",
+    "extensionInstalled": "Extension Installed!",
+    "extensionListEmpty": "Extension list is Empty",
+    "extensions": "Extensions",
+    "failed": "Failed",
+    "filter": "Filter",
+    "finished": "Finished",
+    "general": "General",
+    "gitHub": "GitHub",
+    "globalSearch": "Global Search",
+    "globalUpdate": "Global Update",
+    "help": "Help",
+    "inLibrary": "In library",
+    "install": "Add",
+    "installing": "Adding",
+    "installingExtension": "Adding Extension",
+    "languages": "Languages",
+    "library": "Library",
+    "manga": "Manga",
+    "mangaGridSize": "Manga Grid Size",
+    "mangaSortAlphabetical": "Alphabetical",
+    "mangaSortDateAdded": "Date Added",
+    "mangaSortUnread": "Unread",
+    "mangaSortLastRead": "Last Read",
+    "mangaStatusCancelled": "Cancelled",
+    "mangaStatusCompleted": "Completed",
+    "mangaStatusLicensed": "Licensed",
+    "mangaStatusOnHiatus": "On Hiatus",
+    "mangaStatusOngoing": "Ongoing",
+    "mangaStatusPublishingFinished": "Publishing Finished",
+    "mangaStatusUnknown": "Unknown",
+    "more": "More",
+    "moveToBottom": "Move to Bottom",
+    "moveToTop": "Move to top",
+    "nameCountDisplay": "{name}: {count}",
+    "newUpdateAvailable": "New update available",
+    "noCategoriesFound": "You don't have any Categories.",
+    "noCategoriesFoundAlt": "You don't have any Categories. \nCreate one in settings for organizing your library",
+    "noCategoryMangaFound": "Category is empty",
+    "noChaptersFound": "No chapters found",
+    "noDownloads": "No Downloads",
+    "noMangaFound": "No Mangas Found",
+    "noOfChapters": "{count} Chapters",
+    "noResultFound": "No results found",
+    "noSourcesFound": "No sources found",
+    "noUpdatesAvailable": "You're using the latest version",
+    "noUpdatesFound": "No recent chapters",
+    "nsfw": "Show NSFW extensions and sources",
+    "nsfw18": "18+",
+    "nsfwInfo": "This does not prevent unofficial or potentially incorrectly flagged extensions from surfacing NSFW(18+) content within app",
+    "numSelected": "{num} Selected",
+    "obsolete": "Obsolete",
+    "page": "Page: {number}",
+    "pause": "Pause",
+    "pending": "Pending",
+    "reader": "Reader",
+    "readerMode": "Reading Mode",
+    "readerModeContinuousHorizontalLTR": "Continuous (left to right)",
+    "readerModeContinuousHorizontalRTL": "Continuous (right to left)",
+    "readerModeContinuousVertical": "Continuous (vertical)",
+    "readerModeDefaultReader": "Default",
+    "readerModeSingleHorizontalLTR": "Paged (left to right)",
+    "readerModeSingleHorizontalRTL": "Paged (right to left)",
+    "readerModeSingleVertical": "Paged (vertical)",
+    "readerModeWebtoon": "Webtoon",
+    "readerNavigationLayout": "Tap zones",
+    "readerNavigationLayoutDefault": "Default",
+    "readerNavigationLayoutDisabled": "Disabled",
+    "readerNavigationLayoutEdge": "Edge",
+    "readerNavigationLayoutInvert": "Invert tap zones",
+    "readerNavigationLayoutKindlish": "Kindle-ish",
+    "readerNavigationLayoutLShaped": "L Shaped",
+    "readerNavigationLayoutRightAndLeft": "Right And Left",
+    "readerPadding": "Reader Padding",
+    "refresh": "Refresh",
+    "reset": "Reset",
+    "resume": "Resume",
+    "retry": "Retry",
+    "running": "Running",
+    "save": "Save",
+    "search": "Search",
+    "settings": "Settings",
+    "sort": "Sort",
+    "source": "Source",
+    "sourceTypeFilter": "Filter",
+    "sourceTypeLatest": "Latest",
+    "sourceTypePopular": "Popular",
+    "sources": "Sources",
+    "start": "Start",
+    "themeModeDark": "Dark",
+    "themeModeLight": "Light",
+    "themeModeSystem": "System",
+    "uninstall": "Remove",
+    "uninstalling": "Removing",
+    "unknownAuthor": "Unknown Author",
+    "unknownManga": "Unknown Manga",
+    "unknownSource": "Unknown Source",
+    "unread": "Unread",
+    "update": "Update",
+    "updateCompleted": "Update Completed",
+    "updates": "Updates",
+    "updatesSummary": "Updates Summary",
+    "updating": "Updating",
+    "webView": "Web View",
+    "whatsNew": "What's New?",
+    "getPremium": "Get Premium",
+    "@getPremium": {},
+    "alreadyGetPremium": "Premium Purchased",
+    "@alreadyGetPremium": {},
+    "purchaseExpireAt": "Premium Subscription auto-renews on {date}.",
+    "@purchaseExpireAt": {},
+    "iapFaq": "FAQ",
+    "@iapFaq": {},
+    "restorePurchase": "Restore Purchase",
+    "@restorePurchase": {},
+    "share": "Share",
+    "@share": {},
+    "discordServer": "Discord Server",
+    "@discordServer": {},
+    "externalRepository": "Extension Settings",
+    "@externalRepository": {},
+    "externalRepositoryUrl": "Extension Repository Url",
+    "@externalRepositoryUrl": {},
+    "externalRepositoryUrlShort": "Extension Repository Url",
+    "@externalRepositoryUrlShort": {},
+    "history": "History",
+    "@history": {},
+    "clearCookies": "Clear Cookies",
+    "@clearCookies": {},
+    "clearCache": "Clear Cache",
+    "@clearCache": {},
+    "termsUrl": "Terms of Use",
+    "@termsUrl": {},
+    "privacyUrl": "Privacy Policy",
+    "@privacyUrl": {},
+    "recentlyDownloaded": "Recently Downloaded",
+    "@recentlyDownloaded": {},
+    "tracking": "Tracking",
+    "@tracking": {},
+    "downloadFailed": "Download Failed",
+    "@downloadFailed": {},
+    "errorMessageFrom": "Error message: {text}",
+    "@errorMessageFrom": {},
+    "downloadTip": "Tip: Tap open button to see if you can read it properly.",
+    "@downloadTip": {},
+    "open": "Open",
+    "@open": {},
+    "ok": "OK",
+    "@ok": {},
+    "remove": "Remove",
+    "@remove": {},
+    "logout": "Log out",
+    "@logout": {},
+    "logoutFrom": "Log out from {text}",
+    "@logoutFrom": {},
+    "addTracking": "Add tracking",
+    "@addTracking": {},
+    "openInBrowser": "Open in browser",
+    "@openInBrowser": {},
+    "processing": "Processing...",
+    "@processing": {},
+    "trackingStatus": "Status",
+    "@trackingStatus": {},
+    "trackingStatusReading": "Reading",
+    "@trackingStatusReading": {},
+    "trackingStatusPlanToRead": "Plan to read",
+    "@trackingStatusPlanToRead": {},
+    "trackingStatusCompleted": "Completed",
+    "@trackingStatusCompleted": {},
+    "trackingStatusOnHold": "On hold",
+    "@trackingStatusOnHold": {},
+    "trackingStatusDropped": "Dropped",
+    "@trackingStatusDropped": {},
+    "trackingStatusRereading": "Rereading",
+    "@trackingStatusRereading": {},
+    "trackingChapter": "Chapter",
+    "@trackingChapter": {},
+    "trackingScore": "Score",
+    "@trackingScore": {},
+    "trackingStartDate": "Start date",
+    "@trackingStartDate": {},
+    "trackingFinishDate": "Finish date",
+    "@trackingFinishDate": {},
+    "operationFailTip": "Operation failed. Please retry.",
+    "@operationFailTip": {},
+    "createBackupTitle": "Create Backup",
+    "createBackupDescription": "Can be used to restore current library.",
+    "backupCreated": "Backup created!",
+    "@backupCreated": {},
+    "restoreBackupTitle": "Restore Backup",
+    "restoreBackupDescription": "Restore library from backup file",
+    "restoring": "Restoring backup",
+    "restored": "Backup restored!",
+    "autoBackupSectionTitle": "Automatic backups",
+    "@autoBackupSectionTitle": {},
+    "backupsSectionTitle": "Backups",
+    "@backupsSectionTitle": {},
+    "restoreBackup": "Restore",
+    "@restoreBackup": {},
+    "exportBackup": "Export",
+    "@exportBackup": {},
+    "backupNamePrefixNormal": "Backup",
+    "@backupNamePrefixNormal": {},
+    "backupNamePrefixAuto": "Automated backup",
+    "@backupNamePrefixAuto": {},
+    "backupNamePrefixSchedule": "Scheduled backup",
+    "@backupNamePrefixSchedule": {},
+    "restoreConfirmTitle": "Restore to this backup?",
+    "@restoreConfirmTitle": {},
+    "restoreConfirmContent": "All current data will be removed and replaced by the data from this backup.",
+    "@restoreConfirmContent": {},
+    "importConfirmTitle": "Import Tachiyomi Backup?",
+    "@importConfirmTitle": {},
+    "importConfirmContent": "Merge the library of Tachiyomi with the local library; existing local data will NOT be removed or replaced.",
+    "@importConfirmContent": {},
+    "autoBackupTip": "Before restoring the backup, automatically create a backup.",
+    "@autoBackupTip": {},
+    "autoBackupTipForImport": "Before importing the backup, automatically create a backup.",
+    "@autoBackupTipForImport": {},
+    "imported": "Backup imported!",
+    "@imported": {},
+    "restoreSuccessTip": "Backup restore successful. Changes will take effect after restarting the app.",
+    "@restoreSuccessTip": {},
+    "importSuccessTip": "Backup import successful. Changes will take effect after restarting the app.",
+    "@importSuccessTip": {},
+    "invalidBackup": "Invalid backup file",
+    "@invalidBackup": {},
+    "invalidBackupVersion": "Please use the latest version of the app to restore the backup.",
+    "@invalidBackupVersion": {},
+    "autoBackupFailTip": "Failed to create automatic backup before restoring. Please cancel the automatic backup and try again.",
+    "@autoBackupFailTip": {},
+    "restartApp": "Restart App",
+    "@restartApp": {},
+    "confirm": "Confirm",
+    "@confirm": {},
+    "noNextChapter": "There's no next chapter",
+    "@noNextChapter": {},
+    "readerScrollAnimation": "Animate page transitions",
+    "@readerScrollAnimation": {},
+    "doubleTapZoomIn": "Double tap to zoom in",
+    "@doubleTapZoomIn": {},
+    "allScanlators": "All Scanlators",
+    "@allScanlators": {},
+    "scanlators": "Scanlators",
+    "@scanlators": {},
+    "mangaSortLatestChapterFetch": "Chapter fetch date",
+    "@mangaSortLatestChapterFetch": {},
+    "onlySearchPinSource": "Only include pinned sources",
+    "@onlySearchPinSource": {},
+    "prevPage": "Prev",
+    "@prevPage": {},
+    "nextPage": "Next",
+    "@nextPage": {},
+    "leftPage": "Left",
+    "@leftPage": {},
+    "rightPage": "Right",
+    "@rightPage": {},
+    "tapMenu": "Menu",
+    "@tapMenu": {},
+    "byPassSwitch": "Bypassing Cloudflare automatically",
+    "@byPassSwitch": {},
+    "byPassStart": "Trying to bypass Cloudflare",
+    "@byPassStart": {},
+    "byPassSuccess": "Successfully bypassed Cloudflare",
+    "@byPassSuccess": {},
+    "byPassTimeout": "Failed to bypass Cloudflare",
+    "@byPassTimeout": {},
+    "byPassCancel": "User canceled bypassing Cloudflare",
+    "@byPassCancel": {},
+    "checkInWebView": "{msg}, check website in WebView",
+    "@checkInWebView": {},
+    "imageSaveSuccess": "Image saved successfully.",
+    "@imageSaveSuccess": {},
+    "imageSaveFail": "Failed to save the image.",
+    "@imageSaveFail": {},
+    "imageFileFetchFail": "Failed to download the image.",
+    "@imageFileFetchFail": {},
+    "imageSaveWatermarkSwitch": "Image saved and shared with watermark",
+    "@imageSaveWatermarkSwitch": {},
+    "mangaShareText": "{title} by {author} {link}\nShare from Tachimanga",
+    "@mangaShareText": {},
+    "chapterShareText": "{title} by {author}, {chapter} {link}\nShare from Tachimanga",
+    "@chapterShareText": {},
+    "theme_default": "Default",
+    "@theme_default": {},
+    "theme_monet": "Dynamic",
+    "@theme_monet": {},
+    "theme_greenapple": "Green Apple",
+    "@theme_greenapple": {},
+    "theme_lavender": "Lavender",
+    "@theme_lavender": {},
+    "theme_midnightdusk": "Midnight Dusk",
+    "@theme_midnightdusk": {},
+    "theme_strawberrydaiquiri": "Strawberry Daiquiri",
+    "@theme_strawberrydaiquiri": {},
+    "theme_tako": "Tako",
+    "@theme_tako": {},
+    "theme_tealturquoise": "Teal & Turquoise",
+    "@theme_tealturquoise": {},
+    "theme_yinyang": "Yin & Yang",
+    "@theme_yinyang": {},
+    "theme_yotsuba": "Yotsuba",
+    "@theme_yotsuba": {},
+    "theme_tidalwave": "Tidal Wave",
+    "@theme_tidalwave": {},
+    "themePureBlackDarkMode": "Pure black dark mode",
+    "@themePureBlackDarkMode": {},
+    "themeColorBlendLevel": "Color blend level",
+    "@themeColorBlendLevel": {},
+    "themeSectionTitle": "Theme",
+    "@themeSectionTitle": {},
+    "displaySectionTitle": "Display",
+    "@displaySectionTitle": {},
+    "advanced": "Advanced",
+    "@advanced": {},
+    "advancedSubtitle": "Clear cache, cookies, and export logs.",
+    "@advancedSubtitle": {},
+    "premiumRequired": "Premium required.",
+    "@premiumRequired": {},
+    "pref_backup_interval": "Backup frequency",
+    "@pref_backup_interval": {},
+    "off": "Off",
+    "@off": {},
+    "on": "On",
+    "@on": {},
+    "update_6hour": "Every 6 hours",
+    "@update_6hour": {},
+    "update_12hour": "Every 12 hours",
+    "@update_12hour": {},
+    "update_24hour": "Daily",
+    "@update_24hour": {},
+    "update_48hour": "Every 2 days",
+    "@update_48hour": {},
+    "update_weekly": "Weekly",
+    "@update_weekly": {},
+    "pref_backup_slots": "Maximum backups",
+    "@pref_backup_slots": {},
+    "backup_info": "You should keep copies of backups in other places as well.",
+    "@backup_info": {},
+    "last_auto_backup_info": "Last automatically backed up: {time}",
+    "@last_auto_backup_info": {},
+    "defaultTab": "Default tab",
+    "@defaultTab": {},
+    "lastOpenedTab": "Last opened tab",
+    "@lastOpenedTab": {},
+    "showStatusBar": "Show status bar when reading",
+    "@showStatusBar": {},
+    "swipeRightToGoBack": "Swipe right to go back",
+    "@swipeRightToGoBack": {},
+    "always": "Always",
+    "@always": {},
+    "disable": "Disable",
+    "@disable": {},
+    "disableWhenHorizontal": "Disable in horizontal mode",
+    "@disableWhenHorizontal": {},
+    "default_category": "Default category",
+    "@default_category": {},
+    "default_category_summary": "Always ask",
+    "@default_category_summary": {},
+    "label_default": "Default",
+    "@label_default": {},
+    "action_move_category": "Set categories",
+    "@action_move_category": {},
+    "readerAdvancedSubtitle": "Gesture, zooming, and status bar.",
+    "@readerAdvancedSubtitle": {},
+    "dataUsageSectionTitle": "Data usage",
+    "@dataUsageSectionTitle": {},
+    "networkSectionTitle": "Network",
+    "@networkSectionTitle": {},
+    "logsSectionTitle": "Logs",
+    "@logsSectionTitle": {},
+    "enableLog": "Enable log",
+    "@enableLog": {},
+    "exportLog": "Export log",
+    "@exportLog": {},
+    "cookiesCleared": "Cookies Cleared",
+    "@cookiesCleared": {},
+    "cacheCleared": "Cache Cleared",
+    "@cacheCleared": {},
+    "local_source": "Local source",
+    "@local_source": {},
+    "ext_installed": "Installed",
+    "@ext_installed": {},
+    "last_used_source": "Last used",
+    "@last_used_source": {},
+    "pinned_sources": "Pinned",
+    "@pinned_sources": {},
+    "ext_updates_pending": "Updates pending",
+    "@ext_updates_pending": {},
+    "other_source": "Other",
+    "@other_source": {},
+    "multi_lang": "Multi",
+    "@multi_lang": {},
+    "uninstall_confirm": "Do you want to uninstall this extension?",
+    "@uninstall_confirm": {},
+    "extension_repo": "Extension repositories",
+    "@extension_repo": {},
+    "one_repository": "1 repository",
+    "@one_repository": {},
+    "num_repositories": "{num} repositories",
+    "@num_repositories": {},
+    "add_repository": "Add repository",
+    "@add_repository": {},
+    "empty_repository": "You haven't added any extension repositories yet.",
+    "@empty_repository": {},
+    "add_repo_by_name": "By name",
+    "@add_repo_by_name": {},
+    "add_repo_by_name_tip": "Add additional repos to Tachimanga.\nThe format a repo is 'username/repo', with username being the repo owner, and repo being the repo name",
+    "@add_repo_by_name_tip": {},
+    "add_repo_by_url": "By URL",
+    "@add_repo_by_url": {},
+    "add_repo_by_url_tip": "Add additional repos to Tachimanga.\nThis should be a URL that ends with \"index.min.json\"",
+    "@add_repo_by_url_tip": {},
+    "get_repo_meta_fail": "Failed to retrieve repository information.",
+    "@get_repo_meta_fail": {},
+    "delete_repository": "Delete repository",
+    "@delete_repository": {},
+    "delete_repository_content": "Do you wish to delete the repository \"{name}\"",
+    "@delete_repository_content": {},
+    "label_add": "Add",
+    "@label_add": {},
+    "label_adding": "Adding",
+    "@label_adding": {},
+    "extension_usage_terms": "To set external repositories, you need to agree to the following agreement:\n1. I understand that Tachimanga does not regulate external repositories in any way.\n2. I understand that Tachimanga is not affiliated with any external extensions.\n3. I agree to not use Tachimanga to view content that I do not have the rights for.",
+    "@extension_usage_terms": {},
+    "find_repository": "Find repository",
+    "@find_repository": {},
+    "get_start": "Getting started",
+    "@get_start": {},
+    "label_copy": "Copy",
+    "@label_copy": {},
+    "migrate": "Migrate",
+    "@migrate": {},
+    "migration_dialog_what_to_include": "Select data to include",
+    "@migration_dialog_what_to_include": {},
+    "migrate_action_migrate": "Migrate",
+    "@migrate_action_migrate": {},
+    "migrate_action_copy": "Copy",
+    "@migrate_action_copy": {},
+    "migrate_action_show_manga": "Show entry",
+    "@migrate_action_show_manga": {},
+    "chapters": "Chapters",
+    "@chapters": {},
+    "select_category_to_update": "Select categories to update",
+    "@select_category_to_update": {},
+    "update_all": "Update All",
+    "@update_all": {},
+    "always_ask": "Always ask",
+    "@always_ask": {},
+    "contact_us": "Contact Us",
+    "@contact_us": {},
+    "changelogs": "Changelogs",
+    "@changelogs": {},
+    "help_translate": "Help translate",
+    "@help_translate": {},
+    "pref_category_security": "Security",
+    "@pref_category_security": {},
+    "lock_with_biometrics": "Require unlock",
+    "@lock_with_biometrics": {},
+    "lock_when_idle": "Lock when idle",
+    "@lock_when_idle": {},
+    "lock_always": "Always",
+    "@lock_always": {},
+    "lock_never": "Never",
+    "@lock_never": {},
+    "secure_screen": "Secure screen",
+    "@secure_screen": {},
+    "secure_screen_summary": "Secure screen hides app contents when switching apps",
+    "@secure_screen_summary": {},
+    "pref_incognito_mode": "Incognito mode",
+    "@pref_incognito_mode": {},
+    "pref_incognito_mode_summary": "Pauses reading history",
+    "@pref_incognito_mode_summary": {},
+    "pref_incognito_mode_on": "Incognito mode on",
+    "@pref_incognito_mode_on": {},
+    "pref_incognito_mode_off": "Incognito mode off",
+    "@pref_incognito_mode_off": {},
+    "lock_after_mins": "{x, plural, one{After {x} minute} other{After {x} minutes}}",
+    "@lock_after_mins": {},
+    "lock_type_biometrics": "FaceID/TouchID",
+    "@lock_type_biometrics": {},
+    "lock_type_passcode": "Passcode",
+    "@lock_type_passcode": {},
+    "lock_biometrics_unavailable": "FaceID or TouchID is unavailable.",
+    "@lock_biometrics_unavailable": {},
+    "unlock_title": "Unlock Tachimanga",
+    "@unlock_title": {},
+    "pref_date_format": "Date format",
+    "@pref_date_format": {},
+    "relative_time_today": "Today",
+    "@relative_time_today": {},
+    "relative_time": "{x, plural, one{Yesterday} other{{x} days ago}}",
+    "@relative_time": {},
+    "num_trackers": "{x, plural, one{{x} tracker} other{{x} trackers}}",
+    "@num_trackers": {},
+    "num_categories": "{x, plural, one{{x} category} other{{x} categories}}",
+    "@num_categories": {},
+    "action_sort_latest_chapter": "Latest chapter",
+    "@action_sort_latest_chapter": {},
+    "tabs_header": "Tabs",
+    "@tabs_header": {},
+    "action_display_show_number_of_items": "Show number of items",
+    "@action_display_show_number_of_items": {},
+    "page_layout": "Page Layout",
+    "@page_layout": {},
+    "page_layout_single": "Single Page",
+    "@page_layout_single": {},
+    "page_layout_double": "Double Page",
+    "@page_layout_double": {},
+    "page_layout_automatic": "Automatic",
+    "@page_layout_automatic": {},
+    "page_layout_separate_first_page": "Separate first page",
+    "@page_layout_separate_first_page": {},
+    "page_layout_tip": "Page Layout only takes effect in paging reading mode.",
+    "@page_layout_tip": {},
+    "show_tap_zones_when_start_reading": "Show tap zones when starting reading.",
+    "@show_tap_zones_when_start_reading": {},
+    "select_chapters": "Select chapters",
+    "@select_chapters": {},
+    "label_watermark": "Watermark",
+    "@label_watermark": {},
+    "tap_to_open": "Tap to open",
+    "@tap_to_open": {},
+    "labs": "Labs",
+    "@labs": {},
+    "labsSubtitle": "Experimental Features",
+    "@labsSubtitle": {},
+    "concurrent_download_short_title_num": "Concurrent downloads: {num}",
+    "@concurrent_download_short_title_num": {},
+    "concurrent_download_short_title": "Concurrent downloads",
+    "@concurrent_download_short_title": {},
+    "concurrent_download_title": "Number of concurrent downloads",
+    "@concurrent_download_title": {},
+    "concurrent_download_tips": "Downloading concurrently from the same source for a long time may result in your IP being blocked by the source, causing subsequent downloads and readings to fail.",
+    "@concurrent_download_tips": {},
+    "download_next_n_chapter": "{x, plural, one{Next chapter} other{Next {x} chapters}}",
+    "@download_next_n_chapter": {},
+    "download_unread_chapters": "All unread chapters",
+    "@download_unread_chapters": {},
+    "download_all_chapters": "All chapters",
+    "@download_all_chapters": {},
+    "download_queue": "Download queue",
+    "@download_queue": {},
+    "download_settings": "Download settings",
+    "@download_settings": {},
+    "remove_after_read": "Delete download after reading",
+    "@remove_after_read": {},
+    "pinch_to_zoom": "Pinch to zoom",
+    "@pinch_to_zoom": {},
+    "errorFilePickUnknownType": "Please select a {suffix} file",
+    "@errorFilePickUnknownType": {},
+    "attention_label": "⚠️Attention",
+    "@attention_label": {},
+    "homepage_label": "Homepage",
+    "@homepage_label": {},
+    "download_limit_exceeded_title": "Download limit exceeded",
+    "@download_limit_exceeded_title": {},
+    "download_limit_number_title": "Download limit is {num} chapters.",
+    "@download_limit_number_title": {},
+    "download_limit_content": "You can download {freeTicket} chapters per day.\n\nWatching one ad can increase this limit by {ticketPerAd} chapters, and after watching {maxAds} ads, there is no limit on downloads for the day.\n\nPremium users have unlimited downloads.",
+    "@download_limit_content": {},
+    "download_limit_increase": "Download limit increased by {num}.",
+    "@download_limit_increase": {},
+    "add_download_tips": "{x, plural, one{Added 1 chapter to the download queue.} other{Added {x} chapters to the download queue.}}",
+    "@add_download_tips": {},
+    "watch_ad_label": "Watch Ad",
+    "@watch_ad_label": {},
+    "backup_created_content": "You should keep copies of backups in other places as well.\nNote that downloaded content and local sources are not included in the backup.",
+    "@backup_created_content": {},
+    "display_as_single_page": "Display as single page",
+    "@display_as_single_page": {},
+    "clear_last_hour": "The last hour",
+    "@clear_last_hour": {},
+    "clear_today": "Today",
+    "@clear_today": {},
+    "clear_today_and_yesterday": "Today and yesterday",
+    "@clear_today_and_yesterday": {},
+    "clear_all_time": "All time",
+    "@clear_all_time": {},
+    "start_reading": "Start reading",
+    "@start_reading": {},
+    "continue_reading_chapter": "Continue reading {title}",
+    "@continue_reading_chapter": {},
+    "icon_section_title": "Icon",
+    "@icon_section_title": {},
+    "app_icon_title": "App Icon",
+    "@app_icon_title": {},
+    "app_icon_author": "Designed by {author}",
+    "@app_icon_author": {},
+    "classic_start_reading_button": "Classic start reading button",
+    "@classic_start_reading_button": {},
+    "long_press_action_menu": "Long press action menu",
+    "@long_press_action_menu": {},
+    "app_icon_update_tip": "If the icon is not updated successfully, you can wait a while or simply reboot your device.",
+    "@app_icon_update_tip": {},
+    "update_running_text": "Updating: {title}",
+    "@update_running_text": {},
+    "update_completed_text": "Update completed. {x} successful, {y} failed.",
+    "@update_completed_text": {},
+    "new_category": "New category",
+    "@new_category": {},
+    "add_manga_to": "Add manga to...",
+    "@add_manga_to": {},
+    "add_to_default_category": "Add to default category",
+    "@add_to_default_category": {},
+    "add_to_category": "Add to {category}",
+    "@add_to_category": {},
+    "add_to_categories": "{x, plural, one{Add to category} other{Add to {x} categories}}",
+    "@add_to_categories": {},
+    "move_manga_to": "Move manga to...",
+    "@move_manga_to": {},
+    "keep_in_default_category": "Keep in default category",
+    "@keep_in_default_category": {},
+    "move_to_category": "Move to {category}",
+    "@move_to_category": {},
+    "move_to_categories": "{x, plural, one{Move to category} other{Move to {x} categories}}",
+    "@move_to_categories": {},
+    "iCloud_label": "iCloud",
+    "@iCloud_label": {},
+    "backup_to_iCloud": "Backup to iCloud Drive",
+    "@backup_to_iCloud": {},
+    "backup_to_iCloud_tip": "Upload and download backup files from iCloud Drive",
+    "@backup_to_iCloud_tip": {},
+    "downloading_from_iCloud": "Downloading from iCloud",
+    "@downloading_from_iCloud": {},
+    "iCloud_unavailable_tip": "iCloud Drive is unavailable. Please turn on iCloud Drive in System Settings. For more help, visit https://tachimanga.app/icloud",
+    "@iCloud_unavailable_tip": {},
+    "downloading_running_text": "Downloading {running} of {total}",
+    "@downloading_running_text": {},
+    "edit_cover": "Edit cover",
+    "@edit_cover": {},
+    "set_as_cover": "Set as cover",
+    "@set_as_cover": {},
+    "cover_updated": "Cover updated",
+    "@cover_updated": {},
+    "save_image_user_denied_msg": "Access Denied, please allow Tachimanga to access your photo albums in the system settings.",
+    "@save_image_user_denied_msg": {},
+    "set_as_default": "Set as default",
+    "@set_as_default": {},
+    "reset_to_default": "Reset to default",
+    "@reset_to_default": {},
+    "repo_not_exist": "The extension repository does not exist.",
+    "@repo_not_exist": {},
+    "disagree_label": "Disagree",
+    "@disagree_label": {},
+    "agree_label": "Agree",
+    "@agree_label": {},
+    "library_is_empty": "Your library is empty.\nAdd manga from the browse tab.",
+    "@library_is_empty": {},
+    "history_is_empty": "Nothing read recently.",
+    "@history_is_empty": {},
+    "downloaded_is_empty": "No recently downloaded.",
+    "@downloaded_is_empty": {},
+    "reset_filters": "Reset filters",
+    "@reset_filters": {},
+    "log_enable_tips": "Log enabled successfully. Changes will take effect after restarting the app.",
+    "@log_enable_tips": {},
+    "manga_auto_refresh_title": "Automatic refresh",
+    "@manga_auto_refresh_title": {},
+    "manga_auto_refresh_desc": "Check for new chapters when viewing the title.",
+    "@manga_auto_refresh_desc": {},
+    "migration_dialog_tips": "Downloaded chapter(s) do not transfer with migrations.",
+    "@migration_dialog_tips": {},
+    "premium_month_price": "{price}/month",
+    "premium_month_price_only": "Only {price}/month",
+    "@premium_month_price_only": {},
+    "@premium_month_price": {},
+    "premium_year_price": "{price}/year",
+    "@premium_year_price": {},
+    "early_bird_price": "Early Bird Price",
+    "@early_bird_price": {},
+    "sync": "Sync",
+    "@sync": {},
+    "enable_sync": "Enable Sync",
+    "@enable_sync": {},
+    "enable_sync_tip": "Enabling sync for the first time requires uploading your whole library to the Sync server. It may take several minutes, depending on the number of titles and network bandwidth. It may also cause temporary lag on your device and consume a certain amount of data.",
+    "@enable_sync_tip": {},
+    "sync_now": "Sync now",
+    "@sync_now": {},
+    "sync_settings": "Sync Settings",
+    "@sync_settings": {},
+    "syncing": "Syncing",
+    "@syncing": {},
+    "sync_time_tip": "The sync process relies on accurate device time to handle data conflicts, but there is a significant difference between the current device time and the server time. Please correct the device time.\nCurrent device time: {deviceTime}.\nSync server time: {serverTime}.",
+    "@sync_time_tip": {},
+    "login_to_enable_sync": "Log in to Enable Sync",
+    "@login_to_enable_sync": {},
+    "login": "Log in",
+    "@login": {},
+    "register": "Create new account",
+    "@register": {},
+    "email": "Email",
+    "@email": {},
+    "password": "Password",
+    "@password": {},
+    "password_again": "Confirm password",
+    "@password_again": {},
+    "password_not_match": "Password don't match.",
+    "@password_not_match": {},
+    "email_empty": "Please enter a valid email address.",
+    "@email_empty": {},
+    "password_empty": "Please enter a password.",
+    "@password_empty": {},
+    "synced_at_time": "Synced {time}",
+    "@synced_at_time": {},
+    "just_now": "just now",
+    "@just_now": {},
+    "minutes_ago": "{x, plural, one{1 minute ago} other{{x} minutes ago}}",
+    "@minutes_ago": {},
+    "hours_ago": "{x, plural, one{1 hour ago} other{{x} hours ago}}",
+    "@hours_ago": {},
+    "sync_faq_q1": "What is the Sync?",
+    "@sync_faq_q1": {},
+    "sync_faq_a1": "The Sync is a feature that allows you to seamlessly update and access your library across multiple devices. It ensures that your library is consistent and up-to-date regardless of the device you are using.",
+    "@sync_faq_a1": {},
+    "sync_faq_q2": "What data is synced?",
+    "@sync_faq_q2": {},
+    "sync_faq_a2": "Sync includes library, reading history, bookmarks, repositories, and extensions.",
+    "@sync_faq_a2": {},
+    "sync_faq_q3": "What data will not be synced?",
+    "@sync_faq_q3": {},
+    "sync_faq_a3": "Local source files, local extensions, downloads, updates, app settings, extension settings, and auth info for trackers will not be synced.",
+    "@sync_faq_a3": {},
+    "sync_faq_q4": "When does sync occur?",
+    "@sync_faq_q4": {},
+    "sync_faq_a4": "Sync is triggered automatically in the background at set intervals or upon specific events such as app launch, content update, or your own sync requests. This ensures that your data is consistent across all your linked devices.",
+    "@sync_faq_a4": {},
+    "sync_faq_q5": "How much time and data are required for sync?",
+    "@sync_faq_q5": {},
+    "sync_faq_a5": "Initial Full Sync: The initial full sync may take several minutes to complete, depending on the number of titles. This process consumes data bandwidth as it transmits a large amount of data.\nSubsequent Incremental Sync: Subsequent sync after the initial full sync is completed swiftly and efficiently. Incremental syncs are quick and consume significantly less data compared to the initial sync process.",
+    "@sync_faq_a5": {},
+    "sign_in_with_apple": "Sign in with Apple",
+    "@sign_in_with_apple": {},
+    "login_with_email": "Login with Email",
+    "@login_with_email": {},
+    "login_term": "By providing your email address or using a single sign-on provider to create an account, you agree to our {terms} and have reviewed our {privacy}.",
+    "@login_term": {},
+    "do_not_have_account": "Don't have an account?",
+    "@do_not_have_account": {},
+    "register_here": "Register here",
+    "@register_here": {},
+    "already_have_account": "Already have an account?",
+    "@already_have_account": {},
+    "login_here": "Login here",
+    "@login_here": {},
+    "logout_all": "Log out from all devices.",
+    "@logout_all": {},
+    "logout_all_tips": "This will remove access to your Tachimanga account from all devices.",
+    "@logout_all_tips": {},
+    "logout_tips": "This will remove access to your Tachimanga account from current device.",
+    "@logout_tips": {},
+    "delete_account_label": "Delete my account",
+    "@delete_account_label": {},
+    "delete_account_title": "Are you sure you want to do this?",
+    "@delete_account_title": {},
+    "delete_account_content": "Once you delete your account, there is no going back, and you will not be able to register a new account using the same email address. Please be certain.",
+    "@delete_account_content": {},
+    "delete_account_verify": "To verify, type {text} below:",
+    "@delete_account_verify": {},
+    "receive_timeout_label": "Receive timeout interval",
+    "@receive_timeout_label": {},
+    "receive_timeout_subtitle": "Adjust this option only when you frequently encounter receive timeout issues.",
+    "@receive_timeout_subtitle": {},
+    "next": "Next",
+    "@next": {},
+    "enable_sync_up_to_date_tip": "Before enabling sync, please make sure that the library on your current device is up to date. Sync will merge the libraries of all your devices, so if the data on one device is outdated and sync is enabled, the outdated data will spread to all devices.",
+    "@enable_sync_up_to_date_tip": {},
+    "are_you_sure_proceed": "Are you sure you want to proceed?",
+    "@are_you_sure_proceed": {},
+    "create_backup_before_enable_sync": "Create a backup before enabling sync.",
+    "@create_backup_before_enable_sync": {},
+    "subscribe_to_enable_sync": "Subscribe Premium to Enable Sync",
+    "@subscribe_to_enable_sync": {},
+    "sync_not_enable": "Sync is not enable.",
+    "@sync_not_enable": {},
+    "login_required": "Login required.",
+    "@login_required": {},
+    "extension_filtered_out_by_nsfw": "{x, plural, one{1 extension is} other{{x} extensions are}} not being displayed due to potentially containing sensitive content.\nAdjust the Extensions settings to display.",
+    "@extension_filtered_out_by_nsfw": {},
+    "extension_filtered_out_by_lang": "The extensions are available in {text}.\nAdjust the {preference} to display.",
+    "@extension_filtered_out_by_lang": {},
+    "extension_language_preference": "extension language preference",
+    "@extension_language_preference": {},
+    "hours_short": "{x} h",
+    "@hours_short": {},
+    "minutes_short": "{x} m",
+    "@minutes_short": {},
+    "seconds_short": "{x} s",
+    "@seconds_short": {},
+    "hours_minutes_short": "{x} h {y} m",
+    "@hours_minutes_short": {},
+    "minutes_seconds_short": "{x} m {y} s",
+    "@minutes_seconds_short": {},
+    "tachiyomiBackupSectionTitle": "Tachiyomi, Mihon and forks",
+    "@tachiyomiBackupSectionTitle": {},
+    "importTachiyomiBackupTitle": "Import Tachiyomi backup",
+    "@importTachiyomiBackupTitle": {},
+    "importTachiyomiBackupDescription": "Import library from the backup of Tachiyomi, Mihon and forks.",
+    "@importTachiyomiBackupDescription": {},
+    "createTachiyomiBackupTitle": "Create Tachiyomi-compatible backup",
+    "@createTachiyomiBackupTitle": {},
+    "createTachiyomiBackupDescription": "Create a backup compatible with Tachiyomi, Mihon and forks.",
+    "@createTachiyomiBackupDescription": {},
+    "done_label": "Done",
+    "@done_label": {},
+    "reading_insights": "Reading Insights",
+    "@reading_insights": {},
+    "auto_scroll": "Autoscroll",
+    "@auto_scroll": {},
+    "seconds_per_page": "{x}s per page",
+    "@seconds_per_page": {},
+    "select_all": "Select all",
+    "@select_all": {},
+    "select_invert": "Invert selection",
+    "@select_invert": {},
+    "select_between": "Select between",
+    "@select_between": {},
+    "reading_time_tip": "Reading time calculated since December 2024.",
+    "@reading_time_tip": {},
+    "pinch_to_zoom_tip": "Disable this feature if using a mouse wheel on macOS.",
+    "@pinch_to_zoom_tip": {},
+    "reader_keep_screen_on": "Keep the screen on while reading.",
+    "@reader_keep_screen_on": {},
+    "remove_from_library": "Remove from library",
+    "@remove_from_library": {},
+    "tachiyomi_import_tip_title": "Import failed: Backup file is too large.",
+    "@tachiyomi_import_tip_title": {},
+    "tachiyomi_import_tip_content": "When creating a backup of Tachiyomi, Mihon and forks, only backup Library, Categories, and Tracking, then retry.",
+    "@tachiyomi_import_tip_content": {},
+    "apple_pencil_integration": "Apple Pencil",
+    "@apple_pencil_integration": {},
+    "apple_pencil_integration_description": "Double tap and squeeze",
+    "@apple_pencil_integration_description": {},
+    "apple_pencil_double_tap": "Double tap",
+    "@apple_pencil_double_tap": {},
+    "apple_pencil_squeeze": "Squeeze",
+    "@apple_pencil_squeeze": {},
+    "requires_apple_pencil_pro": "Squeeze requires Apple Pencil Pro.",
+    "@requires_apple_pencil_pro": {},
+    "action_previous_page": "Previous page",
+    "@action_previous_page": {},
+    "action_next_page": "Next page",
+    "@action_next_page": {},
+    "action_previous_chapter": "Previous chapter",
+    "@action_previous_chapter": {},
+    "action_next_chapter": "Next chapter",
+    "@action_next_chapter": {},
+    "action_none": "No action",
+    "@action_none": {},
+    "label_select": "Select",
+    "@label_select": {},
+    "remove_downloads": "Remove downloads",
+    "@remove_downloads": {},
+    "remove_downloads_if_migrate": "Remove downloads if migrate",
+    "@remove_downloads_if_migrate": {},
+    "mark_all_read": "Mark all chapters as read?",
+    "@mark_all_read": {},
+    "mark_as_read": "Mark as read",
+    "@mark_as_read": {},
+    "mark_all_unread": "Mark all chapters as unread?",
+    "@mark_all_unread": {},
+    "mark_as_unread": "Mark as unread",
+    "@mark_as_unread": {},
+    "move_to_default_category": "Move to default category",
+    "@move_to_default_category": {},
+    "remove_from_category": "Remove from {category}",
+    "@remove_from_category": {},
+    "remove_from_categories": "{x, plural, one{Remove from category} other{Remove from {x} categories}}",
+    "@remove_from_categories": {},
+    "keep_in_category": "Keep in {category}",
+    "@keep_in_category": {},
+    "keep_in_categories": "{x, plural, one{Keep in category} other{Keep in {x} categories}}",
+    "@keep_in_categories": {},
+    "how_to_upgrade_lifetime": "How to upgrade to lifetime?",
+    "@how_to_upgrade_lifetime": {},
+    "how_to_upgrade_lifetime_steps": "To upgrade to lifetime premium, the first step is to purchase lifetime premium, and then click on subscription management to cancel monthly or yearly subscriptions.",
+    "@how_to_upgrade_lifetime_steps": {},
+    "upgrade_label": "Upgrade",
+    "@upgrade_label": {},
+    "subscription_management": "Subscription management",
+    "@subscription_management": {},
+    "use_photo_view_title": "Enhance the drag gesture experience during zooming.",
+    "@use_photo_view_title": {},
+    "source_not_working_tips": "This source doesn't seem to be working right now for various reasons; please check the help for troubleshooting and consider migrating to other sources.",
+    "@source_not_working_tips": {},
+    "chapterSortUploadDate": "By Upload Date",
+    "@chapterSortUploadDate": {},
+    "chapterSortChapterName": "By Name",
+    "@chapterSortChapterName": {},
+    "library_search_globally": "Search for \"{text}\" globally",
+    "@library_search_globally": {},
+    "saved_searches": "Saved Searches",
+    "@saved_searches": {},
+    "long_press_to_delete": "Long press to delete.",
+    "@long_press_to_delete": {},
+    "save_query_title": "Save current search query?",
+    "@save_query_title": {},
+    "save_query_hint": "Name",
+    "@save_query_hint": {},
+    "delete_query_title": "Delete saved search query?",
+    "@delete_query_title": {},
+    "delete_query_content": "Are you sure you wish to delete {title}?",
+    "@delete_query_content": {},
+    "receive_timeout_tips": "Request timeout. Please refresh or check website in WebView",
+    "@receive_timeout_tips": {},
+    "failed_to_get_url": "Failed to get url.",
+    "@failed_to_get_url": {},
+    "user_agent": "User Agent",
+    "@user_agent": {},
+    "user_agent_mobile_webview": "Mobile WebView",
+    "@user_agent_mobile_webview": {},
+    "user_agent_desktop_webview": "Desktop WebView",
+    "@user_agent_desktop_webview": {},
+    "user_agent_mobile_safari": "Mobile Safari",
+    "@user_agent_mobile_safari": {},
+    "user_agent_desktop_safari": "Desktop Safari",
+    "@user_agent_desktop_safari": {},
+    "scanlator_filter_label": "Filter",
+    "@scanlator_filter_label": {},
+    "scanlator_priority_label": "Priority",
+    "@scanlator_priority_label": {},
+    "scanlator_filter_description": "Show chapters from selected scanlators.",
+    "@scanlator_filter_description": {},
+    "scanlator_priority_description": "Show only the highest-priority scanlator per chapter based on your settings.",
+    "@scanlator_priority_description": {},
+    "n_scanlators": "{x} Scanlators",
+    "@n_scanlators": {},
+    "n_scanlators_selected": "{x, plural, one{1 Scanlator Selected} other{{x} Scanlators Selected}}",
+    "@n_scanlators_selected": {},
+    "scanlator_priority_enabled": "Scanlator Priority Enabled",
+    "@scanlator_priority_enabled": {},
+    "exclude_categories": "Excluded categories",
+    "@exclude_categories": {},
+    "exclude_categories_tips": "Entries in excluded categories will not be updated even if they are also in other categories.",
+    "@exclude_categories_tips": {},
+    "skip_updating_titles": "Skip updating titles",
+    "@skip_updating_titles": {},
+    "skip_updating_titles_tips": "Recommend enabling all options to speed up updates and reduce the load on sources.",
+    "@skip_updating_titles_tips": {},
+    "skip_updating_titles_with_unread_chapters": "With unread chapters",
+    "@skip_updating_titles_with_unread_chapters": {},
+    "skip_updating_titles_that_havent_been_read": "That haven't been read",
+    "@skip_updating_titles_that_havent_been_read": {},
+    "skip_updating_titles_with_completed_status": "With completed status",
+    "@skip_updating_titles_with_completed_status": {},
+    "none_label": "None",
+    "@none_label": {},
+    "update_completed_text_v2": "{x} successful, {y} skipped, {z} failed.",
+    "@update_completed_text_v2": {},
+    "update_completed_label": "Update completed.",
+    "@update_completed_label": {},
+    "skipped": "Skipped",
+    "@skipped": {},
+    "skip_titles_with_unread_chapters": "Titles with unread chapters",
+    "@skip_titles_with_unread_chapters": {},
+    "skip_titles_that_havent_been_read": "Titles that haven't been read",
+    "@skip_titles_that_havent_been_read": {},
+    "skip_titles_with_completed_status": "Titles with completed status",
+    "@skip_titles_with_completed_status": {},
+    "skip_titles_only_fetch_once": "Titles marked as only fetch once",
+    "@skip_titles_only_fetch_once": {},
+    "skip_titles_in_excluded_category": "Titles in excluded categories",
+    "@skip_titles_in_excluded_category": {},
+    "force_update": "Force update",
+    "@force_update": {},
+    "skip_duplicate_chapters": "Skip duplicate chapters",
+    "@skip_duplicate_chapters": {},
+    "how_to_enable_skip_duplicate_chapters": "How to enable skip duplicate chapters?",
+    "@how_to_enable_skip_duplicate_chapters": {},
+    "how_to_enable_skip_duplicate_chapters_tips": "This option is only available when there are multiple scanlators.",
+    "@how_to_enable_skip_duplicate_chapters_tips": {},
+    "open_in_safari": "Open in Safari",
+    "@open_in_safari": {},
+    "restoring_purchase": "Restoring Purchase...",
+    "@restoring_purchase": {},
+    "enhance_drag_gesture": "Enhance the drag gesture experience during zooming",
+    "@enhance_drag_gesture": {},
+    "mouse_wheel_speed": "Mouse wheel speed",
+    "@mouse_wheel_speed": {},
+    "noPagesFound": "No pages found",
+    "@noPagesFound": {},
+    "action_open_random_manga": "Open random entry",
+    "@action_open_random_manga": {},
+    "information_no_entries_found": "No entries found in this category",
+    "@information_no_entries_found": {},
+    "deselect": "Deselect",
+    "@deselect": {},
+    "estimated": "Estimated: {x}",
+    "@estimated": {},
+    "storage": "Storage",
+    "@storage": {},
+    "storage_subtitle": "View & Manage Storage",
+    "@storage_subtitle": {},
+    "storage_used": "Tachimanga Data",
+    "@storage_used": {},
+    "storage_remove_label": "Remove",
+    "@storage_remove_label": {},
+    "storage_removing_label": "Removing...",
+    "@storage_removing_label": {},
+    "storage_remove_confirm": "Removed content cannot be recovered. Remove anyway?",
+    "@storage_remove_confirm": {},
+    "storage_removed_label": "Removed",
+    "@storage_removed_label": {},
+    "storage_manage_label": "Manage",
+    "@storage_manage_label": {},
+    "storage_cache": "Cache",
+    "@storage_cache": {},
+    "storage_cache_clearing": "Cache Clearing...",
+    "@storage_cache_clearing": {},
+    "storage_space_freed_up": "{x} space freed up.",
+    "@storage_space_freed_up": {},
+    "storage_cache_subtitle": "The cache consists of temporary data generated during usage. Clearing this data will not affect the normal use of Tachimanga.",
+    "@storage_cache_subtitle": {},
+    "storage_cache_images": "Images",
+    "@storage_cache_images": {},
+    "storage_cache_covers": "Covers",
+    "@storage_cache_covers": {},
+    "storage_cache_others": "Others",
+    "@storage_cache_others": {},
+    "storage_manage_downloads": "Manage Downloads",
+    "@storage_manage_downloads": {},
+    "storage_legacy_downloads": "Older Downloads",
+    "@storage_legacy_downloads": {},
+    "storage_legacy_downloads_subtitle": "Manage downloads created before v3.4 (released Sep 11, 2024)",
+    "@storage_legacy_downloads_subtitle": {},
+    "storage_inaccessible_downloads": "Inaccessible Downloads",
+    "@storage_inaccessible_downloads": {},
+    "storage_inaccessible_downloads_subtitle": "Downloaded chapters are inaccessible because the original chapters were deleted or the source is no longer accessible. You can export or remove the inaccessible downloads.",
+    "@storage_inaccessible_downloads_subtitle": {},
+    "storage_manage_inaccessible_downloads": "Manga Inaccessible Downloads",
+    "@storage_manage_inaccessible_downloads": {},
+    "storage_other_data": "Other Data",
+    "@storage_other_data": {},
+    "storage_other_data_subtitle": "Essential files including databases, preferences, installed extensions, custom covers, etc. must not be deleted.",
+    "@storage_other_data_subtitle": {},
+    "got_it": "Got it",
+    "@got_it": {},
+    "storage_used_by_other_apps": "Used by other apps",
+    "@storage_used_by_other_apps": {},
+    "storage_remaining": "Remaining storage",
+    "@storage_remaining": {},
+    "hold_to_scroll": "Press and hold to scroll",
+    "@hold_to_scroll": {},
+    "hold_to_scroll_tip": "Only available in Webtoon and Continuous Reading modes.",
+    "@hold_to_scroll_tip": {},
+    "hold_to_scroll_speed_up_tip": "Hold one finger, then hold another to scroll faster.",
+    "@hold_to_scroll_speed_up_tip": {},
+    "long_press_action_menu_tips": "Disabled when \"Press and hold to scroll\" is on.",
+    "@long_press_action_menu_tips": {},
+    "tracker_token_expire_message": "Authentication token expired. Please log out and log in again to refresh.",
+    "@tracker_token_expire_message": {},
+    "md_page_tips": "{icon} Tips",
+    "@md_page_tips": {},
+    "get_started_summary": "Tachimanga is a full-featured reader that supports reading from **local source** and **external third-party extensions**.",
+    "@get_started_summary": {},
+    "get_started_local_source_title": "{icon} Reading from Local source.",
+    "@get_started_local_source_title": {},
+    "get_started_local_source_content": "Read content stored locally on your device.\nSee the [Local source guide]({url}) for instructions.",
+    "@get_started_local_source_content": {},
+    "get_started_external_source_title": "{icon} Reading from External third-party extensions.",
+    "@get_started_external_source_title": {},
+    "get_started_external_source_content": "External third-party extensions add additional sources to Tachimanga.\n**Tachimanga supports most of Mihon/Tachiyomi extensions**, so you can add Mihon/Tachiyomi extensions repositories in the [Settings]({url}).",
+    "@get_started_external_source_content": {},
+    "get_started_tips_1": "No extensions or sources are included by default. Feel free to use Google, YouTube, or other resources to find what you need.",
+    "@get_started_tips_1": {},
+    "get_started_tips_2": "These extensions are not developed or maintained by the Tachimanga developers. Therefore, we do not provide any info regarding those extensions.",
+    "@get_started_tips_2": {},
+    "how_to_find_repository_title": "How to find third-party extension repositories?",
+    "@how_to_find_repository_title": {},
+    "how_to_find_repository_content": "Tachimanga supports most of Mihon/Tachiyomi extensions, so you can use Mihon/Tachiyomi extensions on Tachimanga.",
+    "@how_to_find_repository_content": {},
+    "no_preferences": "No preferences",
+    "@no_preferences": {},
+    "retry_all": "Retry all",
+    "@retry_all": {},
+    "remove_download_confirm": "Remove download?",
+    "@remove_download_confirm": {},
+    "remove_selected_downloads_confirm": "Remove all selected downloads?",
+    "@remove_selected_downloads_confirm": {},
+    "liquid_glass_appearance_title": "Liquid glass",
+    "@liquid_glass_appearance_title": {},
+    "feature_enable_label": "Enable",
+    "@feature_enable_label": {},
+    "feature_disable_label": "Disable",
+    "@feature_disable_label": {},
+    "learn_more_label": "Learn more",
+    "@learn_more_label": {},
+    "update_continue_in_background_title": "Updates continue in background",
+    "@update_continue_in_background_title": {},
+    "update_continue_in_background_faq_q1": "What is \"Updates continue in background\"?",
+    "@update_continue_in_background_faq_q1": {},
+    "update_continue_in_background_faq_a1": "This feature lets your updates keep running even when you leave the app or lock your device.\nPlease note that the system manages this process. If system resources become limited, your updates may pause or fail to complete.",
+    "@update_continue_in_background_faq_a1": {},
+    "update_continue_in_background_faq_q2": "Why were my updates stopped by the system?",
+    "@update_continue_in_background_faq_q2": {},
+    "update_continue_in_background_faq_a2": "Updates in the background are managed by iOS, and they can be stopped if device resources are limited.\nTo help your updates complete reliably:\n• Plug your device into power.\n• Connect to a Stable Wi-Fi Network.\n• Close Unnecessary Apps.\n• Turn off Low Power and Low Data modes.",
+    "@update_continue_in_background_faq_a2": {},
+    "update_continue_enable_dialog_title": "Enable Background Update?",
+    "@update_continue_enable_dialog_title": {},
+    "update_continue_enable_dialog_confirm": "I understand that Background Update are entirely scheduled by the system and are not 100% reliable.",
+    "@update_continue_enable_dialog_confirm": {},
+    "download_continue_in_background_title": "Background Download",
+    "@download_continue_in_background_title": {},
+    "download_continue_in_background_faq_q1": "What is Background Download?",
+    "@download_continue_in_background_faq_q1": {},
+    "download_continue_in_background_faq_a1": "This feature lets your downloads keep running even when you leave the app or lock your device.\nPlease note that the system manages this process. If system resources become limited, your downloads may pause or fail to complete.",
+    "@download_continue_in_background_faq_a1": {},
+    "download_continue_in_background_faq_q2": "Why were my downloads stopped by the system?",
+    "@download_continue_in_background_faq_q2": {},
+    "download_continue_in_background_faq_a2": "Downloads in the background are managed by iOS, and they can be stopped if device resources are limited.\nTo help your downloads complete reliably:\n• Plug your device into power.\n• Connect to a Stable Wi-Fi Network.\n• Close Unnecessary Apps.\n• Turn off Low Power and Low Data modes.",
+    "@download_continue_in_background_faq_a2": {},
+    "download_continue_enable_dialog_title": "Enable Background Download?",
+    "@download_continue_enable_dialog_title": {},
+    "download_continue_enable_dialog_confirm": "I understand that Background Download are entirely scheduled by the system and are not 100% reliable.",
+    "@download_continue_enable_dialog_confirm": {},
+    "download_continue_enable_dialog_content": "This feature lets your downloads keep running even when you leave the app or lock your device.",
+    "@download_continue_enable_dialog_content": {},
+    "download_continue_enable_banner_text": "With background downloads, your downloads will continue even if you leave the app or lock your device.",
+    "@download_continue_enable_banner_text": {}
 }
