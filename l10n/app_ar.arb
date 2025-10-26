@@ -1,713 +1,713 @@
 {
-  "about": "حول",
+  "about": "About",
   "@about": {
-    "description": "Screen title and Button text of About screen"
+      "description": "Screen title and Button text of About screen"
   },
   "addCategory": "إضافة فئة",
   "@addCategory": {
-    "description": "Popup title and Button text to add new category in Edit Category Screen"
+      "description": "Popup title and Button text to add new category in Edit Category Screen"
   },
   "addToLibrary": "إضافة إلى المكتبة",
   "@addToLibrary": {
-    "description": "Button text to add Manga to Library in Manga Details Screen"
+      "description": "Button text to add Manga to Library in Manga Details Screen"
   },
   "appLanguage": "لغة التطبيق",
   "@appLanguage": {
-    "description": "Popup title and Button text to change App Language"
+      "description": "Popup title and Button text to change App Language"
   },
   "appTheme": "مظهر التطبيق",
   "@appTheme": {
-    "description": "Popup title and Button text to change App Theme"
+      "description": "Popup title and Button text to change App Theme"
   },
   "appTitle": "تاتشي مانجا",
   "@appTitle": {
-    "description": "Name of the app (Tachimanga in native script)"
+      "description": "Name of the app (Tachimanga in native script)"
   },
   "backup": "النسخ الاحتياطي و الاستعادة",
   "@backup": {
-    "description": "Screen title and Button text of Backup & Restore screen"
+      "description": "Screen title and Button text of Backup & Restore screen"
   },
   "badges": "الشارات",
   "@badges": {
-    "description": "Checkbox Group title to enable Badges on manga Cover in Library Screen"
+      "description": "Checkbox Group title to enable Badges on manga Cover in Library Screen"
   },
   "bookmarked": "الإشارات المرجعية",
   "@bookmarked": {
-    "description": "Checkbox text to filter bookmarked manga chapters in Manga Details screen"
+      "description": "Checkbox text to filter bookmarked manga chapters in Manga Details screen"
   },
   "browse": "تصفح",
   "@browse": {
-    "description": "Screen title, Navigation Bar text and Button text of both Browse screen and Browse Settings Screen"
+      "description": "Screen title, Navigation Bar text and Button text of both Browse screen and Browse Settings Screen"
   },
   "cacheCleared": "تم تنظيف الملفات المؤقتة",
   "@cacheCleared": {
-    "description": "Toast Text to show after clearing cache"
+      "description": "Toast Text to show after clearing cache"
   },
   "categories": "الفئات",
   "@categories": {
-    "description": "Button text of edit Categories screen in Library settings screen"
+      "description": "Button text of edit Categories screen in Library settings screen"
   },
   "categoryUpdate": "تحديث الفئة",
   "@categoryUpdate": {
-    "description": "Button text to update the mangas in the Category"
+      "description": "Button text to update the mangas in the Category"
   },
   "chapterNumber": "{number} الفصل",
   "@chapterNumber": {
-    "description": "Text title for Chapter name in chapter list",
-    "placeholders": {
-      "number": {
-        "example": "12.5",
-        "type": "double"
+      "description": "Text title for Chapter name in chapter list",
+      "placeholders": {
+          "number": {
+              "example": "12.5",
+              "type": "double"
+          }
       }
-    }
   },
   "chapterSortFetchedDate": "حسب تاريخ الاسترداد",
   "@chapterSortFetchedDate": {
-    "description": "Radio button text for sort by Fetched Date"
+      "description": "Radio button text for sort by Fetched Date"
   },
   "chapterSortSource": "حسب المصدر",
   "@chapterSortSource": {
-    "description": "Radio button text for sort by Source"
+      "description": "Radio button text for sort by Source"
   },
   "clearCache": "تنظيف الملفات المؤقتة",
   "@clearCache": {
-    "description": "Button text for clear cache in General Settings screen"
+      "description": "Button text for clear cache in General Settings screen"
   },
   "client": "الوكيل",
   "@client": {
-    "description": "Text title for the name of the client in About screen"
+      "description": "Text title for the name of the client in About screen"
   },
   "clientVersion": "إصدار الوكيل",
   "@clientVersion": {
-    "description": "Text title for the current version of the client in About screen"
+      "description": "Text title for the current version of the client in About screen"
   },
   "close": "إغلاق",
   "@close": {
-    "description": "Text for close button"
+      "description": "Text for close button"
   },
-  "completed": "مكتمل",
+  "completed": "مُكتَمِل",
   "@completed": {
-    "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
+      "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
   },
   "copyMsg": "'{msg}'‮ تم نسخ!",
   "@copyMsg": {
-    "description": "Toast text to show that the message has been copied",
-    "placeholders": {
-      "msg": {
-        "example": "Client : Tachidesk Sorayomi",
-        "type": "String"
+      "description": "Toast text to show that the message has been copied",
+      "placeholders": {
+          "msg": {
+              "example": "Client : Tachidesk Sorayomi",
+              "type": "String"
+          }
       }
-    }
   },
   "current": "الحالي",
   "@current": {
-    "description": "Text to show the currently reading chapter in Reader Screen"
+      "description": "Text to show the currently reading chapter in Reader Screen"
   },
   "delete": "حذف",
   "@delete": {
-    "description": "Text for delete button"
+      "description": "Text for delete button"
   },
   "deleteCategoryDescription": "سيؤدي هذا التغير إلى دمج جميع المانجا في هذه الفئة إلى الافتراضية!",
   "@deleteCategoryDescription": {
-    "description": "Popup description when deleting Category"
+      "description": "Popup description when deleting Category"
   },
   "deleteCategoryTitle": "هل أنت متأكد؟",
   "@deleteCategoryTitle": {
-    "description": "Popup title when deleting Category"
+      "description": "Popup title when deleting Category"
   },
   "discord": "Discord",
   "@discord": {
-    "description": "Discord app title"
+      "description": "Discord app title"
   },
   "display": "العرض",
   "@display": {
-    "description": "Text for Display tab in Library screen drawer"
+      "description": "Text for Display tab in Library screen drawer"
   },
   "displayModeList": "قائمة",
   "@displayModeList": {
-    "description": "Radio button text for Manga Cover display mode - List"
+      "description": "Radio button text for Manga Cover display mode - List"
   },
   "edit": "تعديل",
   "@edit": {
-    "description": "Popup button text to edit Category in Edit category screen"
+      "description": "Popup button text to edit Category in Edit category screen"
   },
   "editCategory": "تعديل الفئة",
   "@editCategory": {
-    "description": "Screen title, Button text and  of Downloads screen"
+      "description": "Screen title, Button text and  of Downloads screen"
   },
   "emptyCategory": "لا يمكن أن يكون اسم الفئة فارغًا",
   "@emptyCategory": {
-    "description": "Description to show that category list is empty in Edit Category screen"
+      "description": "Description to show that category list is empty in Edit Category screen"
   },
   "errorFilePick": "لم يتم اختيار الملف!",
   "@errorFilePick": {
-    "description": "Error Description to show when user does not selected an file"
+      "description": "Error Description to show when user does not selected an file"
   },
   "errorFilePickUnknownExtension": "الرجاء تحديد ملف بالامتداد {extensionName}",
   "@errorFilePickUnknownExtension": {
-    "description": "Error Description to show when user selected unknown extension file"
+      "description": "Error Description to show when user selected unknown extension file"
   },
   "errorExtension": "تعذر العثور على الإضافة المحددة",
   "@errorExtension": {
-    "description": "Error Description to show when user selected unknown extension from list"
+      "description": "Error Description to show when user selected unknown extension from list"
   },
   "downloaded": "منزلة",
   "@downloaded": {
-    "description": "Text to show downloaded chapters status in Filters  "
+      "description": "Text to show downloaded chapters status in Filters  "
   },
   "downloads": "التنزيلات",
   "@downloads": {
-    "description": "Screen title and Navigation text of Downloads screen"
+      "description": "Screen title and Navigation text of Downloads screen"
   },
   "errorSomethingWentWrong": "هناك خطأ ما!",
   "@errorSomethingWentWrong": {
-    "description": "Error Description to show that Something went wrong!"
+      "description": "Error Description to show that Something went wrong!"
   },
   "extensionInstalled": "تم تحميل الإضافة!",
   "@extensionInstalled": {
-    "description": "Toast text to show that the Extension Installed successfully"
+      "description": "Toast text to show that the Extension Installed successfully"
   },
   "extensionListEmpty": "قائمة الإضافات فارغة",
   "@extensionListEmpty": {
-    "description": "Description to show that Extension list is empty in Extension list tab of Browse screen"
+      "description": "Description to show that Extension list is empty in Extension list tab of Browse screen"
   },
   "appearance": "المظهر",
   "@appearance": {
-    "description": "Screen title and Button text of Appearance screen"
+      "description": "Screen title and Button text of Appearance screen"
   },
   "cancel": "إلغاء",
   "@cancel": {
-    "description": "Text for Cancel button in a Popup"
+      "description": "Text for Cancel button in a Popup"
   },
   "chapterSortUploadDate": "حسب تاريخ الرفع",
   "@chapterSortUploadDate": {
-    "description": "Radio button text for sort by Upload Date"
+      "description": "Radio button text for sort by Upload Date"
   },
   "defaultCategory": "الفئة الافتراضية عند إضافة مانجا جديدة إلى المكتبة",
   "@defaultCategory": {
-    "description": "Checkbox description when creating a Category to add manga to the Category by Default"
+      "description": "Checkbox description when creating a Category to add manga to the Category by Default"
   },
   "displayModeDescriptiveList": "قائمة وصفية",
   "@displayModeDescriptiveList": {
-    "description": "Radio button text for Manga Cover display mode - Descriptive List"
+      "description": "Radio button text for Manga Cover display mode - Descriptive List"
   },
   "displayMode": "وضع العرض",
   "@displayMode": {
-    "description": "Radio Group title to change manga Cover display in Library and Source Screens"
+      "description": "Radio Group title to change manga Cover display in Library and Source Screens"
   },
   "displayModeGrid": "شبكة مدمجة",
   "@displayModeGrid": {
-    "description": "Radio button text for Manga Cover display mode - Grid"
+      "description": "Radio button text for Manga Cover display mode - Grid"
   },
   "errorLaunchURL": "فشل في الفتح!\nنسخ \"{url}\" الى الحافظة",
   "@errorLaunchURL": {
-    "description": "Error Description to show when App failed to launch an URL and copied the URL to clipboard",
-    "placeholders": {
-      "url": {
-        "example": "http://sorayomi.suwayomi.org",
-        "type": "String"
+      "description": "Error Description to show when App failed to launch an URL and copied the URL to clipboard",
+      "placeholders": {
+          "url": {
+              "example": "http://sorayomi.suwayomi.org",
+              "type": "String"
+          }
       }
-    }
   },
   "failed": "فشل",
   "@failed": {
-    "description": "Failed status Manga Group title in Update Summary Screen"
+      "description": "Failed status Manga Group title in Update Summary Screen"
   },
   "extensions": "الإضافات",
   "@extensions": {
-    "description": "Extension list Tab title in Browse Screen"
+      "description": "Extension list Tab title in Browse Screen"
   },
   "filter": "فرز",
   "@filter": {
-    "description": "title of filter Tab across the app"
+      "description": "title of filter Tab across the app"
   },
   "finished": "النهاية",
   "@finished": {
-    "description": "Text to show the Currently Finished reading chapter in Reader Screen"
+      "description": "Text to show the Currently Finished reading chapter in Reader Screen"
   },
-  "globalSearch": "البحث",
+  "globalSearch": "البحث العام",
   "@globalSearch": {
-    "description": "Screen title of Global Search screen"
+      "description": "Screen title of Global Search screen"
   },
   "globalUpdate": "تحديث الكل",
   "@globalUpdate": {
-    "description": "Button text of Global Manga Update"
+      "description": "Button text of Global Manga Update"
   },
   "help": "مساعدة",
   "@help": {
-    "description": "Button text of help in about screen"
+      "description": "Button text of help in about screen"
   },
   "inLibrary": "في المكتبة",
   "@inLibrary": {
-    "description": "Button and Chip text to show that the manga is in Library"
+      "description": "Button and Chip text to show that the manga is in Library"
   },
   "library": "المكتبة",
   "@library": {
-    "description": "Screen title and Button text of Library and Library Settings screen"
+      "description": "Screen title and Button text of Library and Library Settings screen"
   },
   "installingExtension": "جار التحميل",
   "@installingExtension": {
-    "description": "Toast text to show that the extension is installing"
+      "description": "Toast text to show that the extension is installing"
   },
   "languages": "اللغات",
   "@languages": {
-    "description": "Popup title to filter extensions based on language"
+      "description": "Popup title to filter extensions based on language"
   },
   "general": "عام",
   "@general": {
-    "description": "Screen title and Button text of General setting screen"
+      "description": "Screen title and Button text of General setting screen"
   },
   "installing": "جار التحميل",
   "@installing": {
-    "description": "Button text to show that the extension is installing"
+      "description": "Button text to show that the extension is installing"
   },
-  "install": "تحميل",
+  "install": "اضافة",
   "@install": {
-    "description": "Button text to install the extension"
+      "description": "Button text to install the extension"
   },
   "noUpdatesAvailable": "أنت تستخدم أحدث إصدار",
   "@noUpdatesAvailable": {
-    "description": "Text to show that the user is using the latest version of the app"
+      "description": "Text to show that the user is using the latest version of the app"
   },
   "noUpdatesFound": "لا توجد فصول جديدة",
   "@noUpdatesFound": {
-    "description": "Toast Text to show that there are no Updates available"
+      "description": "Toast Text to show that there are no Updates available"
   },
-  "nsfw": "إظهار إضافات ومصادر NSFW",
+  "nsfw": "اظهار محتوى البالغين",
   "@nsfw": {
-    "description": "Switch text to show/hide the nsfw extensions"
+      "description": "Switch text to show/hide the nsfw extensions"
   },
   "noResultFound": "لم يتم العثور على نتائج",
   "@noResultFound": {
-    "description": "Text to show that no results found for the given search query"
+      "description": "Text to show that no results found for the given search query"
   },
   "noSourcesFound": "لم يتم العثور على مصادر",
   "@noSourcesFound": {
-    "description": "Text to show that the Source list is empty"
+      "description": "Text to show that the Source list is empty"
   },
   "findServer": "ابحث",
   "@findServer": {
-    "description": "Button text of Find Server"
+      "description": "Button text of Find Server"
   },
   "manga": "مانجا",
   "@manga": {
-    "description": "Screen title and Button text of Manga details screen"
+      "description": "Screen title and Button text of Manga details screen"
   },
   "mangaStatusCompleted": "مكتملة",
   "@mangaStatusCompleted": {
-    "description": "Text to show Manga Status Completed in Manga details screen"
+      "description": "Text to show Manga Status Completed in Manga details screen"
   },
   "mangaGridSize": "حجم شبكة المانجا",
   "@mangaGridSize": {
-    "description": "Popup title and Button text to change Manga Grid size"
+      "description": "Popup title and Button text to change Manga Grid size"
   },
-  "mangaSortAlphabetical": "أبجدي",
+  "mangaSortAlphabetical": "بالأبجدي",
   "@mangaSortAlphabetical": {
-    "description": "Radio button text for Manga sort Type - Alphabetical"
+      "description": "Radio button text for Manga sort Type - Alphabetical"
   },
-  "mangaSortDateAdded": "تاريخ الإضافة",
+  "mangaSortDateAdded": "بتاريخ الإضافة",
   "@mangaSortDateAdded": {
-    "description": "Radio button text for Manga sort Type - Date Added"
+      "description": "Radio button text for Manga sort Type - Date Added"
   },
   "mangaSortUnread": "غير مقروء",
   "@mangaSortUnread": {
-    "description": "Radio button text for Manga sort Type - Unread"
+      "description": "Radio button text for Manga sort Type - Unread"
   },
   "mangaSortLastRead": "آخر قراءة",
   "@mangaSortLastRead": {
-    "description": "Radio button text for Manga sort Type - Last Read"
+      "description": "Radio button text for Manga sort Type - Last Read"
   },
   "mangaStatusCancelled": "ألغيت",
   "@mangaStatusCancelled": {
-    "description": "Text to show Manga Status Cancelled in Manga details screen"
+      "description": "Text to show Manga Status Cancelled in Manga details screen"
   },
   "mangaStatusLicensed": "مرخصة",
   "@mangaStatusLicensed": {
-    "description": "Text to show Manga Status Licensed in Manga details screen"
+      "description": "Text to show Manga Status Licensed in Manga details screen"
   },
   "mangaStatusOnHiatus": "في فترة توقف",
   "@mangaStatusOnHiatus": {
-    "description": "Text to show Manga Status On Hiatus in Manga details screen"
+      "description": "Text to show Manga Status On Hiatus in Manga details screen"
   },
   "mangaStatusOngoing": "جارية",
   "@mangaStatusOngoing": {
-    "description": "Text to show Manga Status Ongoing in Manga details screen"
+      "description": "Text to show Manga Status Ongoing in Manga details screen"
   },
   "mangaStatusPublishingFinished": "انتهى النشر",
   "@mangaStatusPublishingFinished": {
-    "description": "Text to show Manga Status Publishing Finished in Manga details screen"
+      "description": "Text to show Manga Status Publishing Finished in Manga details screen"
   },
   "mangaStatusUnknown": "غير معروف",
   "@mangaStatusUnknown": {
-    "description": "Text to show Manga Status Unknown in Manga details screen"
+      "description": "Text to show Manga Status Unknown in Manga details screen"
   },
-  "more": "أكثر",
+  "more": "المزيد",
   "@more": {
-    "description": "Screen title and Navigation text of More screen"
+      "description": "Screen title and Navigation text of More screen"
   },
-  "moveToBottom": "الانتقال إلى أسفل",
+  "moveToBottom": "النقل إلى أسفل",
   "@moveToBottom": {
-    "description": "Button text to move download/category to the bottom of list"
+      "description": "Button text to move download/category to the bottom of list"
   },
-  "moveToTop": "الانتقال إلى الأعلى",
+  "moveToTop": "النقل إلى الأعلى",
   "@moveToTop": {
-    "description": "Button text to move download/category to the top of list"
+      "description": "Button text to move download/category to the top of list"
   },
   "newUpdateAvailable": "تحديث جديد متاح",
   "@newUpdateAvailable": {
-    "description": "Popup title to show that the App/Server has and update"
+      "description": "Popup title to show that the App/Server has and update"
   },
   "noCategoriesFound": "ليس لديك أي فئات.",
   "@noCategoriesFound": {
-    "description": "Hint text to add new Category when category list is empty"
+      "description": "Hint text to add new Category when category list is empty"
   },
   "noCategoriesFoundAlt": "ليس لديك أي فئات.\nقم بإنشاء فئة في الإعدادات لتنظيم مكتبتك",
   "@noCategoriesFoundAlt": {
-    "description": "Hint text to add new Category in Settings when category list is empty"
+      "description": "Hint text to add new Category in Settings when category list is empty"
   },
   "noCategoryMangaFound": "الفئة فارغة",
   "@noCategoryMangaFound": {
-    "description": "Hint text to check filter when manga list is empty in Category tab in Library"
+      "description": "Hint text to check filter when manga list is empty in Category tab in Library"
   },
   "noChaptersFound": "لا يوجد فصول",
   "@noChaptersFound": {
-    "description": "Text to show that the Chapter list is empty in Manga details Screen"
+      "description": "Text to show that the Chapter list is empty in Manga details Screen"
   },
   "noDownloads": "لا يوجد تنزيلات",
   "@noDownloads": {
-    "description": "Text to show that there is no active downloads in Downloads Screen"
+      "description": "Text to show that there is no active downloads in Downloads Screen"
   },
   "noMangaFound": "لم يتم العثور على مانغا",
   "@noMangaFound": {
-    "description": "Text to show that the Manga list is empty"
+      "description": "Text to show that the Manga list is empty"
   },
   "noOfChapters": "{count} فصل",
   "@noOfChapters": {
-    "description": "Title text to show the number of chapters in the Manga details screen",
-    "placeholders": {
-      "count": {
-        "example": "23",
-        "type": "int"
+      "description": "Title text to show the number of chapters in the Manga details screen",
+      "placeholders": {
+          "count": {
+              "example": "23",
+              "type": "int"
+          }
       }
-    }
   },
   "noServerFound": "لا يوجد خادم في شبكتك المحلية",
   "@noServerFound": {
-    "description": "Text to show that no Server found in locale network"
+      "description": "Text to show that no Server found in locale network"
   },
   "nsfw18": "18+",
   "@nsfw18": {
-    "description": "18+ tag Text to show in extensions list"
+      "description": "18+ tag Text to show in extensions list"
   },
   "numSelected": "المحددة {num}",
   "@numSelected": {
-    "description": "Title text to show the number of chapters selected in the Manga details screen and Updates screen",
-    "placeholders": {
-      "num": {
-        "example": "23",
-        "type": "int"
+      "description": "Title text to show the number of chapters selected in the Manga details screen and Updates screen",
+      "placeholders": {
+          "num": {
+              "example": "23",
+              "type": "int"
+          }
       }
-    }
   },
-  "nsfwInfo": "هذا لا يمنع الإضافات غير الرسمية أو التي يحتمل أن يتم وضع علامة عليها بشكل غير صحيح من الظهور على محتوى NSFW (18+) داخل التطبيق",
+  "nsfwInfo": "هذا لا يمنع الإضافات غير الرسمية أو التي يحتمل أن يتم وضع علامة عليها بشكل غير صحيح من الظهور على محتوى للبالغين (18+) داخل التطبيق",
   "@nsfwInfo": {
-    "description": "Hint text to show that the nsfw switch cannot prevent incorrectly flagged extensions from surfacing"
+      "description": "Hint text to show that the nsfw switch cannot prevent incorrectly flagged extensions from surfacing"
   },
   "readerNavigationLayoutInvert": "عكس مناطق اللمس",
   "@readerNavigationLayoutInvert": {
-    "description": "Switch title to invert Tap to scroll in reader screen"
+      "description": "Switch title to invert Tap to scroll in reader screen"
   },
   "readerScrollAnimation": "مؤثرات الانتقال بين الصفحات",
   "@readerScrollAnimation": {
-    "description": "Switch title to Disable scroll animation in reader screen"
+      "description": "Switch title to Disable scroll animation in reader screen"
   },
   "refresh": "تحديث",
   "@refresh": {
-    "description": "Refresh button text"
+      "description": "Refresh button text"
   },
   "reset": "إعادة ضبط",
   "@reset": {
-    "description": "Button text of reset button in source filters"
+      "description": "Button text of reset button in source filters"
   },
   "resume": "استأنف",
   "@resume": {
-    "description": "Button Text to resume Chapter reading/downloading"
+      "description": "Button Text to resume Chapter reading/downloading"
   },
   "retry": "أعد المحاولة",
   "@retry": {
-    "description": "Retry Button Text"
+      "description": "Retry Button Text"
   },
   "sort": "ترتيب",
   "@sort": {
-    "description": "title of sort Tab across the app"
+      "description": "title of sort Tab across the app"
   },
   "source": "المصدر",
   "@source": {
-    "description": "Screen title and Button text of source screen"
+      "description": "Screen title and Button text of source screen"
   },
   "settings": "الإعدادات",
   "@settings": {
-    "description": "Screen title and Button text of Settings screen"
+      "description": "Screen title and Button text of Settings screen"
   },
   "updates": "التحديثات",
   "@updates": {
-    "description": "Screen title and Button text of Updates screen"
+      "description": "Screen title and Button text of Updates screen"
   },
   "updatesSummary": "ملخص التحديثات",
   "@updatesSummary": {
-    "description": "Screen title and Button text of Updates Summary screen"
+      "description": "Screen title and Button text of Updates Summary screen"
   },
   "unread": "غير مقروء",
   "@unread": {
-    "description": "Checkbox text to unread bookmarked manga/chapters across app"
+      "description": "Checkbox text to unread bookmarked manga/chapters across app"
   },
   "update": "تحديث",
   "@update": {
-    "description": "Button text to update the extension"
+      "description": "Button text to update the extension"
   },
   "updateCompleted": "اكتمل التحديث",
   "@updateCompleted": {
-    "description": "Button text to show that extension update is completed"
+      "description": "Button text to show that extension update is completed"
   },
   "gitHub": "GitHub",
   "@gitHub": {
-    "description": "GitHub app title"
+      "description": "GitHub app title"
   },
   "nameCountDisplay": "{name}: {count}",
   "@nameCountDisplay": {
-    "description": "Text pattern to display an name and count in a string",
-    "placeholders": {
-      "name": {
-        "example": "Downloaded",
-        "type": "String"
-      },
-      "count": {
-        "example": "22",
-        "type": "int"
+      "description": "Text pattern to display an name and count in a string",
+      "placeholders": {
+          "name": {
+              "example": "Downloaded",
+              "type": "String"
+          },
+          "count": {
+              "example": "22",
+              "type": "int"
+          }
       }
-    }
   },
-  "readerModeContinuousVertical": "عمودي مستمر",
+  "readerModeContinuousVertical": "القراءة عموديا",
   "@readerModeContinuousVertical": {
-    "description": "Radio button text for Reader Mode Type - Continuous Vertical"
+      "description": "Radio button text for Reader Mode Type - Continuous Vertical"
   },
   "obsolete": "قديمة",
   "@obsolete": {
-    "description": "Text to show that the extension has become Obsolete"
+      "description": "Text to show that the extension has become Obsolete"
   },
   "page": "الصفحة: {number}",
   "@page": {
-    "description": "Text to show the last read Page number of the chapter in Manga details screen",
-    "placeholders": {
-      "number": {
-        "example": "23",
-        "type": "int"
+      "description": "Text to show the last read Page number of the chapter in Manga details screen",
+      "placeholders": {
+          "number": {
+              "example": "23",
+              "type": "int"
+          }
       }
-    }
   },
   "pause": "إيقاف",
   "@pause": {
-    "description": "Button text to pause downloads"
+      "description": "Button text to pause downloads"
   },
   "pending": "في الانتظار",
   "@pending": {
-    "description": "Pending status Manga Group title in Update Summary Screen"
+      "description": "Pending status Manga Group title in Update Summary Screen"
   },
   "reader": "القارئ",
   "@reader": {
-    "description": "Screen title and Button text of Reader screen"
+      "description": "Screen title and Button text of Reader screen"
   },
   "readerMode": "وضع القراءة",
   "@readerMode": {
-    "description": "Popup title and Button text of Reader Mode popup"
+      "description": "Popup title and Button text of Reader Mode popup"
   },
   "readerModeDefaultReader": "الافتراضي",
   "@readerModeDefaultReader": {
-    "description": "Radio button text for Reader Mode Type - Default"
+      "description": "Radio button text for Reader Mode Type - Default"
   },
   "readerModeContinuousHorizontalLTR": "افقي مستمر (من اليسار الى اليمين)",
   "@readerModeContinuousHorizontalLTR": {
-    "description": "Radio button text for Reader Mode Type - Continuous Horizontal (LTR)"
+      "description": "Radio button text for Reader Mode Type - Continuous Horizontal (LTR)"
   },
-  "readerModeContinuousHorizontalRTL": "افقي مستمر (من اليمين لليسار)",
+  "readerModeContinuousHorizontalRTL": "افقي مستمر (من اليمين الى اليسار)",
   "@readerModeContinuousHorizontalRTL": {
-    "description": "Radio button text for Reader Mode Type - Continuous Horizontal (RTL)"
+      "description": "Radio button text for Reader Mode Type - Continuous Horizontal (RTL)"
   },
-  "readerModeSingleHorizontalLTR": "من اليسار لليمين",
+  "readerModeSingleHorizontalLTR": "التصفح من اليسار لليمين",
   "@readerModeSingleHorizontalLTR": {
-    "description": "Radio button text for Reader Mode Type - Single Horizontal (LTR)"
+      "description": "Radio button text for Reader Mode Type - Single Horizontal (LTR)"
   },
-  "readerModeSingleHorizontalRTL": "من اليمين لليسار",
+  "readerModeSingleHorizontalRTL": "التصفح من اليمين لليسار",
   "@readerModeSingleHorizontalRTL": {
-    "description": "Radio button text for Reader Mode Type - Single Horizontal (RTL)"
+      "description": "Radio button text for Reader Mode Type - Single Horizontal (RTL)"
   },
-  "readerModeSingleVertical": "عموديا",
+  "readerModeSingleVertical": "التصفح عموديا",
   "@readerModeSingleVertical": {
-    "description": "Radio button text for Reader Mode Type - Single Vertical"
+      "description": "Radio button text for Reader Mode Type - Single Vertical"
   },
   "readerModeWebtoon": "ويبتون",
   "@readerModeWebtoon": {
-    "description": "Radio button text for Reader Mode Type - Webtoon"
+      "description": "Radio button text for Reader Mode Type - Webtoon"
   },
   "readerNavigationLayout": "مناطق اللمس",
   "@readerNavigationLayout": {
-    "description": "Popup title and Button text of Reader Navigation Layout popup"
+      "description": "Popup title and Button text of Reader Navigation Layout popup"
   },
   "readerNavigationLayoutDisabled": "تعطيل",
   "@readerNavigationLayoutDisabled": {
-    "description": "Radio button text for Reader Navigation Layout - Disabled"
+      "description": "Radio button text for Reader Navigation Layout - Disabled"
   },
   "readerNavigationLayoutEdge": "في الحافة",
   "@readerNavigationLayoutEdge": {
-    "description": "Radio button text for Reader Navigation Layout - Edge"
+      "description": "Radio button text for Reader Navigation Layout - Edge"
   },
   "readerNavigationLayoutKindlish": "وضع الكيندل",
   "@readerNavigationLayoutKindlish": {
-    "description": "Radio button text for Reader Navigation Layout - Kindle-ish"
+      "description": "Radio button text for Reader Navigation Layout - Kindle-ish"
   },
   "readerNavigationLayoutDefault": "الافتراضي",
   "@readerNavigationLayoutDefault": {
-    "description": "Radio button text for Reader Navigation Layout - Default"
+      "description": "Radio button text for Reader Navigation Layout - Default"
   },
   "readerNavigationLayoutLShaped": "شكل حرف L",
   "@readerNavigationLayoutLShaped": {
-    "description": "Radio button text for Reader Navigation Layout - L Shaped"
+      "description": "Radio button text for Reader Navigation Layout - L Shaped"
   },
   "readerNavigationLayoutRightAndLeft": "يمينا و يسارا",
   "@readerNavigationLayoutRightAndLeft": {
-    "description": "Radio button text for Reader Navigation Layout - Right And Left"
+      "description": "Radio button text for Reader Navigation Layout - Right And Left"
   },
   "running": "جاري",
   "@running": {
-    "description": "Running status Manga Group title in Update Summary Screen"
+      "description": "Running status Manga Group title in Update Summary Screen"
   },
   "save": "حفظ",
   "@save": {
-    "description": "Save Button Text"
+      "description": "Save Button Text"
   },
   "search": "ابحث",
   "@search": {
-    "description": "Search field hint Text"
+      "description": "Search field hint Text"
   },
   "serverPort": "منفذ السيرفر",
   "@serverPort": {
-    "description": "Popup title and Button text to update Server Port"
+      "description": "Popup title and Button text to update Server Port"
   },
   "serverPortHintText": "أدخل منفذ السيرفر",
   "@serverPortHintText": {
-    "description": "Text Filed hint text to update Server Port"
+      "description": "Text Filed hint text to update Server Port"
   },
   "sourceTypeFilter": "فرز",
   "@sourceTypeFilter": {
-    "description": "Tab text Filter for source screen type"
+      "description": "Tab text Filter for source screen type"
   },
   "sourceTypeLatest": "الحديثة",
   "@sourceTypeLatest": {
-    "description": "Tab text Latest for source screen type"
+      "description": "Tab text Latest for source screen type"
   },
   "sourceTypePopular": "الشائعة",
   "@sourceTypePopular": {
-    "description": "Tab text Popular for source screen type"
+      "description": "Tab text Popular for source screen type"
   },
   "sources": "المصادر",
   "@sources": {
-    "description": "title of Sources Tab in Browse Screen"
+      "description": "title of Sources Tab in Browse Screen"
   },
   "start": "ابدأ",
   "@start": {
-    "description": "Button text start reading the manga"
+      "description": "Button text start reading the manga"
   },
   "themeModeDark": "داكن",
   "@themeModeDark": {
-    "description": "Radio button text for App theme - Dark"
+      "description": "Radio button text for App theme - Dark"
   },
   "themeModeLight": "فاتح",
   "@themeModeLight": {
-    "description": "Radio button text for App theme - Light"
+      "description": "Radio button text for App theme - Light"
   },
   "themeModeSystem": "النظام",
   "@themeModeSystem": {
-    "description": "Radio button text for App theme - System"
+      "description": "Radio button text for App theme - System"
   },
   "uninstall": "إلغاء التثبيت",
   "@uninstall": {
-    "description": "Button text to Uninstall the extension"
+      "description": "Button text to Uninstall the extension"
   },
   "uninstalling": "جاري إلغاء التثبيت",
   "@uninstalling": {
-    "description": "Button text to show that the extension is uninstalling"
+      "description": "Button text to show that the extension is uninstalling"
   },
   "unknownManga": "مانجا غير معروفة",
   "@unknownManga": {
-    "description": "Text to show unknown manga in Manga details screen"
+      "description": "Text to show unknown manga in Manga details screen"
   },
   "unknownSource": "المصدر مجهول",
   "@unknownSource": {
-    "description": "Text to show unknown Source in Manga details screen"
+      "description": "Text to show unknown Source in Manga details screen"
   },
   "updating": "جاري التحديث",
   "@updating": {
-    "description": "Button text to show that the extension is updating"
+      "description": "Button text to show that the extension is updating"
   },
   "webView": "عرض الموقع",
   "@webView": {
-    "description": "Button text to open manga website"
+      "description": "Button text to open manga website"
   },
   "whatsNew": "ما الجديد؟",
   "@whatsNew": {
-    "description": "Button text to open whats new page of app in web"
+      "description": "Button text to open whats new page of app in web"
   },
-  "readerPadding": "ملاءمة القارىء",
+  "readerPadding": "هوامش النص للقارئ",
   "@readerPadding": {
-    "description": "Slider title text for Reader Padding"
+      "description": "Slider title text for Reader Padding"
   },
   "unknownAuthor": "مؤلف مجهول",
   "@unknownAuthor": {
-    "description": "Text to show unknown author in Manga details screen"
+      "description": "Text to show unknown author in Manga details screen"
   },
   "quickSearchCategoryManga": "اذهب إلى المانجا 'M' في الفئة 'C'",
   "@quickSearchCategoryManga": {
-    "description": "Quick Open Hint text for searching Manga M in Category C with prefill '#C/M'"
+      "description": "Quick Open Hint text for searching Manga M in Category C with prefill '#C/M'"
   },
   "quickSearchSourceManga": "ابحث عن المانجا 'M' في المصدر 'S'",
   "@quickSearchSourceManga": {
-    "description": "Quick Open Hint text for searching Manga M in Source S with prefill '@S/M'"
+      "description": "Quick Open Hint text for searching Manga M in Source S with prefill '@S/M'"
   },
   "quickSearchCategoryMangaChapter": "انتقل إلى اسم الفصل 'CN' من المانجا 'M' في الفئة 'C'",
   "@quickSearchCategoryMangaChapter": {
-    "description": "Quick Open Hint text for searching Chapter name CN from Manga M in Source S with prefill '#C/M:CN'"
+      "description": "Quick Open Hint text for searching Chapter name CN from Manga M in Source S with prefill '#C/M:CN'"
   },
-  "scanlators": "فرق الترجمة",
+  "scanlators": "فِرَق الترجمة",
   "@scanlators": {
-    "description": "Title text for Scanlators"
+      "description": "Title text for Scanlators"
   },
-  "allScanlators": "فرق الترجمة",
+  "allScanlators": "جميع فِرَق الترجمة",
   "@allScanlators": {
-    "description": "Text for all Scanlators in manga description screen chapter filter"
+      "description": "Text for all Scanlators in manga description screen chapter filter"
   },
   "quickSearchContext": "للبحث عن استعلام (النتائج مبنية على معلومات الشاشة)",
   "@quickSearchContext": {
-    "description": "Quick Open Hint text for query X"
+      "description": "Quick Open Hint text for query X"
   },
   "quickSearchSource": "اذهب إلى المصدر 'S'",
   "@quickSearchSource": {
-    "description": "Quick Open Hint text for Source S with prefill '@S'"
+      "description": "Quick Open Hint text for Source S with prefill '@S'"
   },
   "quickSearchCategory": "اذهب إلى الفئة 'C'",
   "@quickSearchCategory": {
-    "description": "Quick Open Hint text for Category C with prefill '#C'"
+      "description": "Quick Open Hint text for Category C with prefill '#C'"
   },
   "today": "اليوم",
   "@today": {
-    "description": "Today Text to show the release date of manga"
+      "description": "Today Text to show the release date of manga"
   },
   "daysAgo": "منذ {days} أيام",
   "@daysAgo": {
-    "description": "Days ago text to show the release date of manga"
+      "description": "Days ago text to show the release date of manga"
   },
   "yesterday": "أمس",
   "@yesterday": {
-    "description": "Yesterday Text to show the release date of manga"
+      "description": "Yesterday Text to show the release date of manga"
   },
   "getPremium": "احصل على النسخة المميزة",
   "@getPremium": {},
@@ -715,25 +715,25 @@
   "@alreadyGetPremium": {},
   "purchaseExpireAt": "يتجدد اشتراك بريميوم تلقائيًا في {date}.",
   "@purchaseExpireAt": {},
-  "iapFaq": "التعليمات",
+  "iapFaq": "الاسئلة الشائعة",
   "@iapFaq": {},
-  "restorePurchase": "استعادة الشراء",
+  "restorePurchase": "استرداد الشراء",
   "@restorePurchase": {},
   "share": "مشاركة",
   "@share": {},
-  "discordServer": "سيرفر Discord",
+  "discordServer": "سيرفر الديسكورد",
   "@discordServer": {},
   "externalRepository": "إعدادات المصادر",
   "@externalRepository": {},
-  "externalRepositoryUrl": "عنوان مستودع المصادر",
+  "externalRepositoryUrl": "رابط المصدر",
   "@externalRepositoryUrl": {},
-  "externalRepositoryUrlShort": "عنوان مستودع المصادر",
+  "externalRepositoryUrlShort": "رابط المصدر",
   "@externalRepositoryUrlShort": {},
   "history": "التاريخ",
   "@history": {},
-  "clearCookies": "مسح ملفات تعريف الارتباط",
+  "clearCookies": "مسح معرفات الايصال (الكوكيز)",
   "@clearCookies": {},
-  "recentlyDownloaded": "تنزل مؤخراً",
+  "recentlyDownloaded": "تم تنزيله مؤخراً",
   "@recentlyDownloaded": {},
   "downloadFailed": "فشل التنزيل",
   "@downloadFailed": {},
@@ -753,23 +753,23 @@
   "@logoutFrom": {},
   "tracking": "يتتبع",
   "@tracking": {},
-  "addTracking": "أضف متّبع",
+  "addTracking": "أضف متتبع",
   "@addTracking": {},
   "openInBrowser": "فتح في المتصفح",
   "@openInBrowser": {},
-  "processing": "معالجة",
+  "processing": "يتم معالجة...",
   "@processing": {},
-  "trackingStatus": "حالة",
+  "trackingStatus": "الحالة",
   "@trackingStatus": {},
-  "trackingStatusReading": "القراءة",
+  "trackingStatusReading": "يتم قراءته",
   "@trackingStatusReading": {},
-  "trackingStatusPlanToRead": "خطة القراءة",
+  "trackingStatusPlanToRead": "اخطط للقراءة",
   "@trackingStatusPlanToRead": {},
   "trackingStatusCompleted": "مكتمل",
   "@trackingStatusCompleted": {},
-  "trackingStatusOnHold": "تعليق",
+  "trackingStatusOnHold": "معلق",
   "@trackingStatusOnHold": {},
-  "trackingStatusDropped": "مسقط",
+  "trackingStatusDropped": "اسقطت",
   "@trackingStatusDropped": {},
   "trackingStatusRereading": "إعادة القراءة",
   "@trackingStatusRereading": {},
@@ -781,7 +781,7 @@
   "@trackingStartDate": {},
   "trackingFinishDate": "تاريخ الانتهاء",
   "@trackingFinishDate": {},
-  "operationFailTip": "عملية فشلت. يرجى إعادة المحاولة.",
+  "operationFailTip": "العملية فشلت. يرجى إعادة المحاولة.",
   "@operationFailTip": {},
   "createBackupTitle": "إنشاء نسخة احتياطية",
   "@createBackupTitle": {},
@@ -803,7 +803,7 @@
   "@backupsSectionTitle": {},
   "restoreBackup": "استعادة",
   "@restoreBackup": {},
-  "exportBackup": "تصدير",
+  "exportBackup": "تصدير نسخة احتياطية",
   "@exportBackup": {},
   "backupNamePrefixNormal": "نسخة احتياطية",
   "@backupNamePrefixNormal": {},
@@ -815,7 +815,7 @@
   "@restoreConfirmTitle": {},
   "restoreConfirmContent": "سيتم إزالة جميع البيانات الحالية واستبدالها بالبيانات من هذه النسخة الاحتياطية.",
   "@restoreConfirmContent": {},
-  "importConfirmTitle": "استيراد نسخة احتياطية Tachiyomi؟",
+  "importConfirmTitle": "استيراد نسخة احتياطية من Tachiyomi؟",
   "@importConfirmTitle": {},
   "importConfirmContent": "دمج مكتبة Tachiyomi بالمكتبة المحلية. لن يتم إزالة البيانات المحلية الحالية أو استبدالها.",
   "@importConfirmContent": {},
@@ -833,7 +833,7 @@
   "@invalidBackup": {},
   "invalidBackupVersion": "يرجى استخدام أحدث إصدار من التطبيق لاستعادة النسخة الاحتياطية.",
   "@invalidBackupVersion": {},
-  "autoBackupFailTip": "فشل في إنشاء النسخة الاحتياطية التلقائية قبل الاستعادة. يرجى إلغاء النسخ الاحتياطية التلقائية والمحاولة مرة أخرى.",
+  "autoBackupFailTip": "فشل في إنشاء النسخة الاحتياطية التلقائية قبل الاستعادة. يرجى إلغاء النسخة الاحتياطية التلقائية والمحاولة مرة أخرى.",
   "@autoBackupFailTip": {},
   "restartApp": "إعادة تشغيل التطبيق",
   "@restartApp": {},
@@ -843,9 +843,9 @@
   "@onlySearchPinSource": {},
   "noNextChapter": "لا يوجدُ فصل تالي",
   "@noNextChapter": {},
-  "doubleTapZoomIn": "انقر مرتين لتكبِّر",
+  "doubleTapZoomIn": "انقر مرتين للتكبير",
   "@doubleTapZoomIn": {},
-  "mangaSortLatestChapterFetch": "تاريخ الرفع",
+  "mangaSortLatestChapterFetch": "تاريخ رفع الفصل",
   "@mangaSortLatestChapterFetch": {},
   "prevPage": "السابق",
   "@prevPage": {},
@@ -857,9 +857,9 @@
   "@rightPage": {},
   "tapMenu": "القائمة",
   "@tapMenu": {},
-  "byPassSwitch": "تجاوز سحابة التنقل تلقائيًا",
+  "byPassSwitch": "تجاوز سحابة التنقل (الموِثق) تلقائيًا",
   "@byPassSwitch": {},
-  "byPassStart": "محاولة لتجاوز سحابة التنقل",
+  "byPassStart": "يتم تجاوز سحابة التنقل",
   "@byPassStart": {},
   "byPassSuccess": "تم تجاوز سحابة التنقل بنجاح",
   "@byPassSuccess": {},
@@ -867,7 +867,7 @@
   "@byPassTimeout": {},
   "byPassCancel": "ألغى المستخدم تجاوز سحابة التنقل",
   "@byPassCancel": {},
-  "checkInWebView": "{msg}، تحقق من الموقع في ويب فيو",
+  "checkInWebView": "{msg}، التحقق من الموقع",
   "@checkInWebView": {},
   "imageSaveSuccess": "تم حفظ الصورة بنجاح.",
   "@imageSaveSuccess": {},
@@ -883,7 +883,7 @@
   "@chapterShareText": {},
   "theme_default": "الافتراضي",
   "@theme_default": {},
-  "theme_monet": "ديناميك",
+  "theme_monet": "ديناميكي",
   "@theme_monet": {},
   "theme_greenapple": "أخضر",
   "@theme_greenapple": {},
@@ -891,7 +891,7 @@
   "@theme_lavender": {},
   "theme_midnightdusk": "منتصف الليل",
   "@theme_midnightdusk": {},
-  "theme_strawberrydaiquiri": "أحمر",
+  "theme_strawberrydaiquiri": "دايكيري فراولة",
   "@theme_strawberrydaiquiri": {},
   "theme_tako": "تاكو",
   "@theme_tako": {},
@@ -901,23 +901,23 @@
   "@theme_yinyang": {},
   "theme_yotsuba": "يوتسوبا",
   "@theme_yotsuba": {},
-  "theme_tidalwave": "موجة مد و جزر",
+  "theme_tidalwave": "موجة مدّ عارمة",
   "@theme_tidalwave": {},
   "themePureBlackDarkMode": "وضع الظلام الأسود النقي",
   "@themePureBlackDarkMode": {},
   "themeColorBlendLevel": "مستوى مزج الألوان",
   "@themeColorBlendLevel": {},
-  "themeSectionTitle": "سمة",
+  "themeSectionTitle": "السمة",
   "@themeSectionTitle": {},
   "displaySectionTitle": "العرض",
   "@displaySectionTitle": {},
-  "advanced": "متقدم",
+  "advanced": "اعدادات متقدمة",
   "@advanced": {},
   "advancedSubtitle": "مسح الذاكرة المؤقتة، الكوكيز، وتصدير السجلات.",
   "@advancedSubtitle": {},
-  "premiumRequired": "مطلوب اشتراك بريميوم.",
+  "premiumRequired": "يتطلب اشتراك بريموم.",
   "@premiumRequired": {},
-  "pref_backup_interval": "معدل النسخ الإحتياطي",
+  "pref_backup_interval": "معدل تكرار النسخ الإحتياطي",
   "@pref_backup_interval": {},
   "off": "إيقاف",
   "@off": {},
@@ -939,9 +939,9 @@
   "@backup_info": {},
   "last_auto_backup_info": "تمت النسخ الاحتياطي بشكل تلقائي آخر مرة في: {time}",
   "@last_auto_backup_info": {},
-  "defaultTab": "علامة تبويب افتراضية",
+  "defaultTab": "النافذة الافتراضية",
   "@defaultTab": {},
-  "lastOpenedTab": "آخر علامة تبويب فُتحت",
+  "lastOpenedTab": "آخر نافذة فُتحت",
   "@lastOpenedTab": {},
   "showStatusBar": "عرض شريط الحالة أثناء القراءة",
   "@showStatusBar": {},
@@ -951,7 +951,7 @@
   "@always": {},
   "disable": "تعطيل",
   "@disable": {},
-  "disableWhenHorizontal": "تعطيل في وضع أفقي",
+  "disableWhenHorizontal": "تعطيل الوضع أفقي",
   "@disableWhenHorizontal": {},
   "default_category": "الفئة الافتراضية",
   "@default_category": {},
@@ -987,11 +987,11 @@
   "@enableLog": {},
   "exportLog": "تصدير السجل",
   "@exportLog": {},
-  "cookiesCleared": "تم مسح ملفات تعريف الارتباط",
+  "cookiesCleared": "تم مسح ملفات معرف الاتصال (الكوكيز)",
   "@cookiesCleared": {},
   "termsUrl": "شروط الاستخدام",
   "@termsUrl": {},
-  "extension_repo": "مستودعات الإضافات",
+  "extension_repo": "مرجع المستودع",
   "@extension_repo": {},
   "one_repository": "مستودع واحد",
   "@one_repository": {},
@@ -1003,17 +1003,17 @@
   "@empty_repository": {},
   "add_repo_by_name": "بالاسم",
   "@add_repo_by_name": {},
-  "add_repo_by_name_tip": "إضافة مستودعات إضافية إلى Tachimanga.\nتكون تنسيق المستودع 'اسم المستخدم/المستودع'، حيث يكون اسم المستخدم هو مالك المستودع، والمستودع هو اسم المستودع",
+  "add_repo_by_name_tip": "إضافة مستودعات إضافية إلى Tachimanga.\nتكون تنسيق المستودع 'اسم المستخدم/المستودع'، حيث يكون اسم المستخدم هو مالك المستودع، واسم المستودع يكون نفسه",
   "@add_repo_by_name_tip": {},
   "add_repo_by_url": "عن طريق الرابط",
   "@add_repo_by_url": {},
-  "add_repo_by_url_tip": "إضافة مستودعات إضافية إلى Tachimanga.\nيجب أن يكون الرابط URL وينتهي بـ \"index.min.json\"",
+  "add_repo_by_url_tip": "إضافة مستودعات إضافية إلى Tachimanga.\nيجب أن يكون رابط ينتهي بـ \"index.min.json\"",
   "@add_repo_by_url_tip": {},
   "get_repo_meta_fail": "فشل في استرداد معلومات المستودع.",
   "@get_repo_meta_fail": {},
   "delete_repository": "حذف المستودع",
   "@delete_repository": {},
-  "delete_repository_content": "هل ترغب في حذف المستودع \"{name}\"؟",
+  "delete_repository_content": "هل ترغب في حذف المستودع \"{name}\"",
   "@delete_repository_content": {},
   "label_add": "إضافة",
   "@label_add": {},
@@ -1025,7 +1025,7 @@
   "@find_repository": {},
   "privacyUrl": "سياسة الخصوصية",
   "@privacyUrl": {},
-  "uninstall_confirm": "هل ترغب في إلغاء تثبيت هذا الامتداد؟",
+  "uninstall_confirm": "هل ترغب في إلغاء تثبيت هذه الاضافة ؟",
   "@uninstall_confirm": {},
   "get_start": "البدء",
   "@get_start": {},
@@ -1067,7 +1067,7 @@
   "@lock_never": {},
   "secure_screen": "الشاشة الآمنة",
   "@secure_screen": {},
-  "secure_screen_summary": "يخفي الشاشة الآمنة محتويات التطبيق عند التبديل بين التطبيقات",
+  "secure_screen_summary": "تخفي الشاشة الآمنة محتويات التطبيق عند التبديل بين التطبيقات",
   "@secure_screen_summary": {},
   "pref_incognito_mode": "الوضع المخفي",
   "@pref_incognito_mode": {},
@@ -1093,13 +1093,13 @@
   "@num_trackers": {},
   "num_categories": "{x, plural, zero{لا يوجد فئات} one{فئة} two{فئتان} few{{x} فئات} many{{x} فئات} other{{x} فئات}}",
   "@num_categories": {},
-  "pref_date_format": "صيغة التاريخ",
+  "pref_date_format": "تنسيق التاريخ",
   "@pref_date_format": {},
   "relative_time_today": "اليوم",
   "@relative_time_today": {},
   "action_sort_latest_chapter": "أحدث فصل",
   "@action_sort_latest_chapter": {},
-  "tabs_header": "قوائم",
+  "tabs_header": "نوافذ",
   "@tabs_header": {},
   "action_display_show_number_of_items": "إظهار عدد العناصر",
   "@action_display_show_number_of_items": {},
@@ -1111,7 +1111,7 @@
   "@page_layout_double": {},
   "page_layout_automatic": "تلقائي",
   "@page_layout_automatic": {},
-  "page_layout_separate_first_page": "فصل الصفحة الأولى",
+  "page_layout_separate_first_page": "أفصل الصفحة الأولى",
   "@page_layout_separate_first_page": {},
   "page_layout_tip": "تأثير تخطيط الصفحة يحدث فقط في وضع القراءة الدفقية.",
   "@page_layout_tip": {},
