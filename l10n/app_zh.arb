@@ -1651,6 +1651,6 @@
     "@download_continue_enable_dialog_confirm": {},
     "download_continue_enable_dialog_content": "此功能让您的下载在离开应用或锁定设备后仍能继续运行。",
     "@download_continue_enable_dialog_content": {},
-    "download_continue_enable_banner_text": "开启后台下载后，即使离开应用或锁定设备，下载仍会继续。",
+    "download_continue_enable_banner_text": "离开应用或锁定设备时，下载将暂停。点击启用后台下载。",
     "@download_continue_enable_banner_text": {}
 }

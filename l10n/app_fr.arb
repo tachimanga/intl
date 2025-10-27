@@ -1663,6 +1663,6 @@
     "@download_continue_enable_dialog_confirm": {},
     "download_continue_enable_dialog_content": "Cette fonction permet à vos téléchargements de continuer même lorsque vous quittez l'application ou verrouillez l'appareil.",
     "@download_continue_enable_dialog_content": {},
-    "download_continue_enable_banner_text": "Avec les téléchargements en arrière-plan, vos téléchargements continueront même si vous quittez l'application ou verrouillez votre appareil.",
+    "download_continue_enable_banner_text": "Les téléchargements se mettront en pause si vous quittez l'application ou verrouillez l'appareil. Appuyez pour activer le téléchargement en arrière-plan.",
     "@download_continue_enable_banner_text": {}
 }

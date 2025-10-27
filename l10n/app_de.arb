@@ -1311,6 +1311,6 @@
     "@download_continue_enable_dialog_confirm": {},
     "download_continue_enable_dialog_content": "Diese Funktion lässt Ihre Downloads weiterlaufen, auch wenn Sie die App verlassen oder das Gerät sperren.",
     "@download_continue_enable_dialog_content": {},
-    "download_continue_enable_banner_text": "Mit Hintergrund-Downloads werden Ihre Downloads fortgesetzt, auch wenn Sie die App verlassen oder Ihr Gerät sperren.",
+    "download_continue_enable_banner_text": "Downloads pausieren, wenn du die App verlässt oder dein Gerät sperrst. Tippe, um Hintergrund-Downloads zu aktivieren.",
     "@download_continue_enable_banner_text": {}
 }

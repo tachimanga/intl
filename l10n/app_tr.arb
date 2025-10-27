@@ -1311,6 +1311,6 @@
     "@download_continue_enable_dialog_confirm": {},
     "download_continue_enable_dialog_content": "Bu özellik, uygulamadan çıktığınızda veya cihazı kilitlediğinizde bile indirmelerinizin devam etmesini sağlar.",
     "@download_continue_enable_dialog_content": {},
-    "download_continue_enable_banner_text": "Arka plan indirmeleri sayesinde, uygulamadan çıksanız veya cihazınızı kilitseniz bile indirmeleriniz devam eder.",
+    "download_continue_enable_banner_text": "Uygulamadan çıktığınızda veya cihazı kilitlediğinizde indirmeler duraklar. Arka planda indirmeyi etkinleştirmek için dokunun.",
     "@download_continue_enable_banner_text": {}
 }
