@@ -1311,6 +1311,6 @@
     "@download_continue_enable_dialog_confirm": {},
     "download_continue_enable_dialog_content": "Fitur ini memungkinkan unduhan Anda terus berjalan bahkan ketika Anda meninggalkan aplikasi atau mengunci perangkat.",
     "@download_continue_enable_dialog_content": {},
-    "download_continue_enable_banner_text": "Dengan unduhan latar belakang, unduhan Anda akan terus berjalan bahkan jika Anda keluar dari aplikasi atau mengunci perangkat.",
+    "download_continue_enable_banner_text": "Download akan dijeda saat Anda keluar dari aplikasi atau mengunci perangkat. Ketuk untuk mengaktifkan download latar belakang.",
     "@download_continue_enable_banner_text": {}
 }

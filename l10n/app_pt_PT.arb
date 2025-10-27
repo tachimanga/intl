@@ -1322,6 +1322,6 @@
     "@download_continue_enable_dialog_confirm": {},
     "download_continue_enable_dialog_content": "Esta funcionalidade permite que as suas transferências continuem mesmo quando sai da aplicação ou bloqueia o dispositivo.",
     "@download_continue_enable_dialog_content": {},
-    "download_continue_enable_banner_text": "Com transferências em segundo plano, as suas transferências continuarão mesmo que saia da aplicação ou bloqueie o dispositivo.",
+    "download_continue_enable_banner_text": "As transferências serão pausadas quando sair da app ou bloquear o dispositivo. Toque para ativar a transferência em segundo plano.",
     "@download_continue_enable_banner_text": {}
 }

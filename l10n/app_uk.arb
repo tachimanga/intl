@@ -1723,6 +1723,6 @@
     "@download_continue_enable_dialog_confirm": {},
     "download_continue_enable_dialog_content": "Ця функція дозволяє вашим завантаженням продовжуватися навіть коли ви виходите з програми або блокуєте пристрій.",
     "@download_continue_enable_dialog_content": {},
-    "download_continue_enable_banner_text": "З фоновим завантаженням ваші завантаження продовжуватимуться навіть якщо ви вийдете з програми або заблокуєте пристрій.",
+    "download_continue_enable_banner_text": "Завантаження призупиняться, коли ви залишите додаток або заблокуєте пристрій. Торкніться, щоб увімкнути фонове завантаження.",
     "@download_continue_enable_banner_text": {}
 }

@@ -1,5 +1,5 @@
 {
-    "about": "About",
+    "about": "حَول",
     "@about": {
         "description": "Screen title and Button text of About screen"
     },
@@ -1715,6 +1715,6 @@
     "@download_continue_enable_dialog_confirm": {},
     "download_continue_enable_dialog_content": "هذه الميزة تسمح لتنزيلاتك بالاستمرار حتى عند مغادرة التطبيق أو قفل الجهاز.",
     "@download_continue_enable_dialog_content": {},
-    "download_continue_enable_banner_text": "مع التنزيلات في الخلفية، ستستمر تنزيلاتك حتى إذا غادرت التطبيق أو قفلت جهازك.",
+    "download_continue_enable_banner_text": "سيتم إيقاف التنزيلات مؤقتًا عند مغادرة التطبيق أو قفل الجهاز. انقر لتمكين التنزيل في الخلفية.",
     "@download_continue_enable_banner_text": {}
 }

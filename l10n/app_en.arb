@@ -1664,6 +1664,6 @@
     "@download_continue_enable_dialog_confirm": {},
     "download_continue_enable_dialog_content": "This feature lets your downloads keep running even when you leave the app or lock your device.",
     "@download_continue_enable_dialog_content": {},
-    "download_continue_enable_banner_text": "With background downloads, your downloads will continue even if you leave the app or lock your device.",
+    "download_continue_enable_banner_text": "Downloads will pause when you leave the app or lock your device. Tap to enable background download.",
     "@download_continue_enable_banner_text": {}
 }
