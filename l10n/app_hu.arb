@@ -1312,5 +1312,15 @@
     "download_continue_enable_dialog_content": "Ez a funkció lehetővé teszi, hogy a letöltések tovább fussnak, még akkor is, ha elhagyja az alkalmazást vagy lezárja az eszközt.",
     "@download_continue_enable_dialog_content": {},
     "download_continue_enable_banner_text": "A letöltés szünetel, ha elhagyja az alkalmazást, vagy lezárja a készüléket. Koppintson a háttérben történő letöltés engedélyezéséhez.",
-    "@download_continue_enable_banner_text": {}
+    "@download_continue_enable_banner_text": {},
+    "file_added": "Hozzáadva",
+    "@file_added": {},
+    "file_adding": "Hozzáadás",
+    "@file_adding": {},
+    "add_extension_repo_subtitle": "Mihon/Tachiyomi bővítmények hozzáadása",
+    "@add_extension_repo_subtitle": {},
+    "install_extension_title": "Bővítmény telepítése",
+    "@install_extension_title": {},
+    "install_extension_subtitle": "Válasszon egy APK fájlt a telepítéshez",
+    "@install_extension_subtitle": {}
 }

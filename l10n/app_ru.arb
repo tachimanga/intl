@@ -1312,5 +1312,15 @@
     "download_continue_enable_dialog_content": "Эта функция позволяет вашим загрузкам продолжаться, даже когда вы выходите из приложения или блокируете устройство.",
     "@download_continue_enable_dialog_content": {},
     "download_continue_enable_banner_text": "Загрузки будут приостановлены, если вы выйдете из приложения или заблокируете устройство. Нажмите, чтобы включить фоновую загрузку.",
-    "@download_continue_enable_banner_text": {}
+    "@download_continue_enable_banner_text": {},
+    "file_added": "Добавлено",
+    "@file_added": {},
+    "file_adding": "Добавление",
+    "@file_adding": {},
+    "add_extension_repo_subtitle": "Добавить расширения Mihon/Tachiyomi",
+    "@add_extension_repo_subtitle": {},
+    "install_extension_title": "Установить расширение",
+    "@install_extension_title": {},
+    "install_extension_subtitle": "Выберите файл APK для установки",
+    "@install_extension_subtitle": {}
 }

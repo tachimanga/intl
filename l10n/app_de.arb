@@ -1312,5 +1312,15 @@
     "download_continue_enable_dialog_content": "Diese Funktion lässt Ihre Downloads weiterlaufen, auch wenn Sie die App verlassen oder das Gerät sperren.",
     "@download_continue_enable_dialog_content": {},
     "download_continue_enable_banner_text": "Downloads pausieren, wenn du die App verlässt oder dein Gerät sperrst. Tippe, um Hintergrund-Downloads zu aktivieren.",
-    "@download_continue_enable_banner_text": {}
+    "@download_continue_enable_banner_text": {},
+    "file_added": "Hinzugefügt",
+    "@file_added": {},
+    "file_adding": "Hinzufügen",
+    "@file_adding": {},
+    "add_extension_repo_subtitle": "Mihon/Tachiyomi-Erweiterungen hinzufügen",
+    "@add_extension_repo_subtitle": {},
+    "install_extension_title": "Erweiterung installieren",
+    "@install_extension_title": {},
+    "install_extension_subtitle": "Wählen Sie eine APK-Datei zur Installation aus",
+    "@install_extension_subtitle": {}
 }

@@ -1310,5 +1310,15 @@
     "download_continue_enable_dialog_content": "Энэ функц нь та аппликэйшнээс гарах эсвэл төхөөрөмжөө түгжих үед ч гэсэн татаж авалтууд үргэлжлэх боломжийг олгоно.",
     "@download_continue_enable_dialog_content": {},
     "download_continue_enable_banner_text": "Та апп-аас гарах эсвэл төхөөрөмжөө түгжих үед татаж авалт түр зогсоно. Дээр дарж арын талд татаж авалтыг идэвхжүүлнэ үү.",
-    "@download_continue_enable_banner_text": {}
+    "@download_continue_enable_banner_text": {},
+    "file_added": "Нэмэгдсэн",
+    "@file_added": {},
+    "file_adding": "Нэмж байна",
+    "@file_adding": {},
+    "add_extension_repo_subtitle": "Mihon/Tachiyomi өргөтгөл нэмэх",
+    "@add_extension_repo_subtitle": {},
+    "install_extension_title": "Өргөтгөл суулгах",
+    "@install_extension_title": {},
+    "install_extension_subtitle": "Суулгах APK файлаа сонгоно уу",
+    "@install_extension_subtitle": {}
 }
