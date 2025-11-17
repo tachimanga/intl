@@ -1323,5 +1323,15 @@
     "download_continue_enable_dialog_content": "Esta funcionalidade permite que as suas transferências continuem mesmo quando sai da aplicação ou bloqueia o dispositivo.",
     "@download_continue_enable_dialog_content": {},
     "download_continue_enable_banner_text": "As transferências serão pausadas quando sair da app ou bloquear o dispositivo. Toque para ativar a transferência em segundo plano.",
-    "@download_continue_enable_banner_text": {}
+    "@download_continue_enable_banner_text": {},
+    "file_added": "Adicionado",
+    "@file_added": {},
+    "file_adding": "A adicionar",
+    "@file_adding": {},
+    "add_extension_repo_subtitle": "Adicionar extensões Mihon/Tachiyomi",
+    "@add_extension_repo_subtitle": {},
+    "install_extension_title": "Instalar extensão",
+    "@install_extension_title": {},
+    "install_extension_subtitle": "Selecione um ficheiro APK para instalar",
+    "@install_extension_subtitle": {}
 }

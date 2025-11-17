@@ -1312,5 +1312,15 @@
     "download_continue_enable_dialog_content": "Questa funzione consente ai tuoi download di continuare anche quando esci dall'app o blocchi il dispositivo.",
     "@download_continue_enable_dialog_content": {},
     "download_continue_enable_banner_text": "I download si metteranno in pausa se esci dall'app o blocchi il dispositivo. Tocca per abilitare il download in background.",
-    "@download_continue_enable_banner_text": {}
+    "@download_continue_enable_banner_text": {},
+    "file_added": "Aggiunto",
+    "@file_added": {},
+    "file_adding": "Aggiungendo",
+    "@file_adding": {},
+    "add_extension_repo_subtitle": "Aggiungi estensioni Mihon/Tachiyomi",
+    "@add_extension_repo_subtitle": {},
+    "install_extension_title": "Installa estensione",
+    "@install_extension_title": {},
+    "install_extension_subtitle": "Seleziona un file APK da installare",
+    "@install_extension_subtitle": {}
 }

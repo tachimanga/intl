@@ -1312,5 +1312,15 @@
     "download_continue_enable_dialog_content": "ฟีเจอร์นี้ช่วยให้การดาวน์โหลดของคุณทำงานต่อได้แม้เมื่อคุณออกจากแอปหรือล็อกอุปกรณ์",
     "@download_continue_enable_dialog_content": {},
     "download_continue_enable_banner_text": "การดาวน์โหลดจะหยุดชั่วคราวเมื่อคุณออกจากแอปหรือล็อกอุปกรณ์ แตะเพื่อเปิดใช้งานการดาวน์โหลดในพื้นหลัง",
-    "@download_continue_enable_banner_text": {}
+    "@download_continue_enable_banner_text": {},
+    "file_added": "เพิ่มแล้ว",
+    "@file_added": {},
+    "file_adding": "กำลังเพิ่ม",
+    "@file_adding": {},
+    "add_extension_repo_subtitle": "เพิ่มส่วนขยาย Mihon/Tachiyomi",
+    "@add_extension_repo_subtitle": {},
+    "install_extension_title": "ติดตั้งส่วนขยาย",
+    "@install_extension_title": {},
+    "install_extension_subtitle": "เลือกไฟล์ APK เพื่อติดตั้ง",
+    "@install_extension_subtitle": {}
 }

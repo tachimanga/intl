@@ -1664,5 +1664,15 @@
     "download_continue_enable_dialog_content": "Cette fonction permet à vos téléchargements de continuer même lorsque vous quittez l'application ou verrouillez l'appareil.",
     "@download_continue_enable_dialog_content": {},
     "download_continue_enable_banner_text": "Les téléchargements se mettront en pause si vous quittez l'application ou verrouillez l'appareil. Appuyez pour activer le téléchargement en arrière-plan.",
-    "@download_continue_enable_banner_text": {}
+    "@download_continue_enable_banner_text": {},
+    "file_added": "Ajouté",
+    "@file_added": {},
+    "file_adding": "Ajout en cours",
+    "@file_adding": {},
+    "add_extension_repo_subtitle": "Ajouter des extensions Mihon/Tachiyomi",
+    "@add_extension_repo_subtitle": {},
+    "install_extension_title": "Installer l'extension",
+    "@install_extension_title": {},
+    "install_extension_subtitle": "Sélectionnez un fichier APK à installer",
+    "@install_extension_subtitle": {}
 }

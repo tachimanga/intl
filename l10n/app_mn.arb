@@ -1313,4 +1313,14 @@
     "@download_continue_enable_banner_text": {},
     "pref_incognito_mode": "Нууц горим",
     "@pref_incognito_mode": {}
+    "file_added": "Нэмэгдсэн",
+    "@file_added": {},
+    "file_adding": "Нэмж байна",
+    "@file_adding": {},
+    "add_extension_repo_subtitle": "Mihon/Tachiyomi өргөтгөл нэмэх",
+    "@add_extension_repo_subtitle": {},
+    "install_extension_title": "Өргөтгөл суулгах",
+    "@install_extension_title": {},
+    "install_extension_subtitle": "Суулгах APK файлаа сонгоно уу",
+    "@install_extension_subtitle": {}
 }

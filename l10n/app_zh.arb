@@ -1652,5 +1652,15 @@
     "download_continue_enable_dialog_content": "此功能让您的下载在离开应用或锁定设备后仍能继续运行。",
     "@download_continue_enable_dialog_content": {},
     "download_continue_enable_banner_text": "离开应用或锁定设备时，下载将暂停。点击启用后台下载。",
-    "@download_continue_enable_banner_text": {}
+    "@download_continue_enable_banner_text": {},
+    "file_added": "已添加",
+    "@file_added": {},
+    "file_adding": "添加中",
+    "@file_adding": {},
+    "add_extension_repo_subtitle": "添加 Mihon/Tachiyomi 扩展",
+    "@add_extension_repo_subtitle": {},
+    "install_extension_title": "安装扩展",
+    "@install_extension_title": {},
+    "install_extension_subtitle": "选择要安装的 APK 文件",
+    "@install_extension_subtitle": {}
 }
