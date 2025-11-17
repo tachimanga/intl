@@ -1312,7 +1312,7 @@
     "download_continue_enable_banner_text": "Та апп-аас гарах эсвэл төхөөрөмжөө түгжих үед таталт түр зогсоно. Энд дарж хаалттай үеийн таталтыг идэвхжүүлнэ үү.",
     "@download_continue_enable_banner_text": {},
     "pref_incognito_mode": "Нууц горим",
-    "@pref_incognito_mode": {}
+    "@pref_incognito_mode": {},
     "file_added": "Нэмэгдсэн",
     "@file_added": {},
     "file_adding": "Нэмж байна",
