@@ -1804,5 +1804,13 @@
     "clear_selected_history_title": "Очистити цей запис?",
     "@clear_selected_history_title": {},
     "clear_history_desc": "Це неможливо скасувати, і ваш відповідний час читання буде очищено.",
-    "@clear_history_desc": {}
+    "@clear_history_desc": {},
+    "in_app_purchase_diagnostic_info": "Діагностична інформація",
+    "@in_app_purchase_diagnostic_info": {},
+    "copy_label": "Копіювати",
+    "@copy_label": {},
+    "premium_subscribed": "Передплата Premium активна",
+    "@premium_subscribed": {},
+    "premium_subscribe_in_grace_period": "Не вдалося поновити передплату. Apple спробує знову — функції Premium тимчасово доступні.",
+    "@premium_subscribe_in_grace_period": {}
 }

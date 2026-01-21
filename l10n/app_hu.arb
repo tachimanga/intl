@@ -1392,5 +1392,13 @@
     "clear_selected_history_title": "Törölje ezt a bejegyzést?",
     "@clear_selected_history_title": {},
     "clear_history_desc": "Ez nem vonható vissza, és a hozzá tartozó olvasási idő is törlődik.",
-    "@clear_history_desc": {}
+    "@clear_history_desc": {},
+    "in_app_purchase_diagnostic_info": "Diagnosztikai információ",
+    "@in_app_purchase_diagnostic_info": {},
+    "copy_label": "Másolás",
+    "@copy_label": {},
+    "premium_subscribed": "Premium előfizető",
+    "@premium_subscribed": {},
+    "premium_subscribe_in_grace_period": "A megújítás sikertelen. Apple újra próbálja — a Premium funkciók egyelőre elérhetők.",
+    "@premium_subscribe_in_grace_period": {}
 }
