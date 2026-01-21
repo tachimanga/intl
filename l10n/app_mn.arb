@@ -27,7 +27,7 @@
     "@categories": {},
     "categoryUpdate": "Ангилал шинэчлэх",
     "@categoryUpdate": {},
-    "chapterNumber": "Бүлэг {дугаар}",
+    "chapterNumber": "Бүлэг {number}",
     "@chapterNumber": {},
     "chapterSortFetchedDate": "Татаж авсан огноогоор",
     "@chapterSortFetchedDate": {},
