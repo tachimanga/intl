@@ -1732,5 +1732,13 @@
     "clear_selected_history_title": "清除此条目？",
     "@clear_selected_history_title": {},
     "clear_history_desc": "此操作不可撤销，相关的阅读时间也将被清除。",
-    "@clear_history_desc": {}
+    "@clear_history_desc": {},
+    "in_app_purchase_diagnostic_info": "诊断信息",
+    "@in_app_purchase_diagnostic_info": {},
+    "copy_label": "复制",
+    "@copy_label": {},
+    "premium_subscribed": "已订阅 Premium",
+    "@premium_subscribed": {},
+    "premium_subscribe_in_grace_period": "订阅续费失败。Apple 将重试 — 您的 Premium 功能目前仍可用。",
+    "@premium_subscribe_in_grace_period": {}
 }

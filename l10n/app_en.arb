@@ -1745,5 +1745,13 @@
     "clear_cloudflare_mutes": "Clear Cloudflare pop-up mutes",
     "@clear_cloudflare_mutes": {},
     "cleared_cloudflare_mutes": "Cloudflare pop-up mutes cleared.",
-    "@cleared_cloudflare_mutes": {}
+    "@cleared_cloudflare_mutes": {},
+    "in_app_purchase_diagnostic_info": "Diagnostic info",
+    "@in_app_purchase_diagnostic_info": {},
+    "copy_label": "Copy",
+    "@copy_label": {},
+    "premium_subscribed": "Premium Subscribed",
+    "@premium_subscribed": {},
+    "premium_subscribe_in_grace_period": "Your subscription renewal failed. Apple will retry — your Premium features remain available for now.",
+    "@premium_subscribe_in_grace_period": {}
 }

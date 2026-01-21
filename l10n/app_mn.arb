@@ -1392,5 +1392,13 @@
     "clear_selected_history_title": "Энэ бичлэгийг цэвэрлэх үү?",
     "@clear_selected_history_title": {},
     "clear_history_desc": "Үүнийг буцаах боломжгүй бөгөөд холбогдох унших цаг чинь цэвэрлэгдэнэ.",
-    "@clear_history_desc": {}
+    "@clear_history_desc": {},
+    "in_app_purchase_diagnostic_info": "Оношилгооны мэдээлэл",
+    "@in_app_purchase_diagnostic_info": {},
+    "copy_label": "Хуулах",
+    "@copy_label": {},
+    "premium_subscribed": "Premium захиалга идэвхтэй",
+    "@premium_subscribed": {},
+    "premium_subscribe_in_grace_period": "Захиалгыг сунгахад алдаа гарлаа. Apple дахин оролдоно — Premium онцлогууд танд түр хугацаанд ашиглагдана.",
+    "@premium_subscribe_in_grace_period": {}
 }

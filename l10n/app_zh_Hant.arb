@@ -1392,5 +1392,13 @@
     "clear_selected_history_title": "清除此條目？",
     "@clear_selected_history_title": {},
     "clear_history_desc": "此操作不可撤銷，相關的閱讀時間也將被清除。",
-    "@clear_history_desc": {}
+    "@clear_history_desc": {},
+    "in_app_purchase_diagnostic_info": "診斷資訊",
+    "@in_app_purchase_diagnostic_info": {},
+    "copy_label": "複製",
+    "@copy_label": {},
+    "premium_subscribed": "已訂閱 Premium",
+    "@premium_subscribed": {},
+    "premium_subscribe_in_grace_period": "訂閱續約失敗。Apple 將重試 — 您的 Premium 功能目前仍可使用。",
+    "@premium_subscribe_in_grace_period": {}
 }

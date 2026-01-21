@@ -1403,5 +1403,13 @@
     "clear_selected_history_title": "Limpar esta entrada?",
     "@clear_selected_history_title": {},
     "clear_history_desc": "Esta ação não pode ser anulada e o seu tempo de leitura associado será limpo.",
-    "@clear_history_desc": {}
+    "@clear_history_desc": {},
+    "in_app_purchase_diagnostic_info": "Informações de diagnóstico",
+    "@in_app_purchase_diagnostic_info": {},
+    "copy_label": "Copiar",
+    "@copy_label": {},
+    "premium_subscribed": "Subscrição Premium ativa",
+    "@premium_subscribed": {},
+    "premium_subscribe_in_grace_period": "Falha na renovação. A Apple irá tentar novamente — as suas funcionalidades Premium mantêm-se disponíveis por agora.",
+    "@premium_subscribe_in_grace_period": {}
 }
