@@ -529,7 +529,7 @@
     "@reader": {
         "description": "Screen title and Button text of Reader screen"
     },
-    "readerModeContinuousHorizontalLTR": "Horizontal en continu (De gauche à droite)",
+    "readerModeContinuousHorizontalLTR": "Continue en horizontal (De gauche à droite)",
     "@readerModeContinuousHorizontalLTR": {
         "description": "Radio button text for Reader Mode Type - Continuous Horizontal (LTR)"
     },
@@ -1431,7 +1431,7 @@
     "@subscription_management": {},
     "use_photo_view_title": "Améliorez l'expérience du geste de glissement pendant le zoom.",
     "@use_photo_view_title": {},
-    "source_not_working_tips": "Cette source ne semble pas fonctionner pour le moment pour diverses raisons; veuillez consulter l'aide pour le dépannage et envisagez de migrer vers d'autres sources.",
+    "source_not_working_tips": "Cette source ne semble pas fonctionner pour le moment pour diverses raisons ; veuillez consulter l'aide pour le dépannage et envisagez de migrer vers d'autres sources.",
     "@source_not_working_tips": {},
     "chapterSortChapterName": "Par nom",
     "@chapterSortChapterName": {},
@@ -1513,7 +1513,7 @@
     "@force_update": {},
     "skip_duplicate_chapters": "Passer les chapitres en double",
     "@skip_duplicate_chapters": {},
-    "how_to_enable_skip_duplicate_chapters": "Comment activer le saut de chapitres en double?",
+    "how_to_enable_skip_duplicate_chapters": "Comment activer le saut de chapitres en double ?",
     "@how_to_enable_skip_duplicate_chapters": {},
     "how_to_enable_skip_duplicate_chapters_tips": "Cette option n'est disponible que lorsqu'il y a plusieurs groupes de scanlation.",
     "@how_to_enable_skip_duplicate_chapters_tips": {},
@@ -1533,7 +1533,7 @@
     "@information_no_entries_found": {},
     "deselect": "Désélectionner",
     "@deselect": {},
-    "estimated": "Estimé: {x}",
+    "estimated": "Estimé : {x}",
     "@estimated": {},
     "storage": "Stockage",
     "@storage": {},
@@ -1545,7 +1545,7 @@
     "@storage_remove_label": {},
     "storage_removing_label": "Suppression en cours...",
     "@storage_removing_label": {},
-    "storage_remove_confirm": "Le contenu supprimé ne peut pas être récupéré. Supprimer quand même?",
+    "storage_remove_confirm": "Le contenu supprimé ne peut pas être récupéré. Supprimer quand même ?",
     "@storage_remove_confirm": {},
     "storage_removed_label": "Supprimé",
     "@storage_removed_label": {},
