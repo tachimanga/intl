@@ -1458,5 +1458,19 @@
     "migration_strategy_first_alternative": "Usa prima sorgente con alternativa",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "Usa sorgente con più capitoli (più lento)",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "Dati da includere in migrazione",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "Esamina fonti selezionate in ordine, si ferma a prima corrispondenza.",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "Cerca in tutte fonti, restituisce quella con più capitoli.",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "Riavvio richiesto",
+    "@restart_required_title": {},
+    "restart_required_content": "Riavvia l'app per applicare le ultime risorse e miglioramenti.",
+    "@restart_required_content": {},
+    "custom_tabs": "Personalizza schede",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "Organizza e personalizza le schede inferiori",
+    "@custom_tabs_subtitle": {}
 }

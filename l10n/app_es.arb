@@ -1473,5 +1473,19 @@
     "migration_strategy_first_alternative": "Usar primera fuente con alternativa",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "Usar fuente con más capítulos (más lento)",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "Datos a incluir en migración",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "Revisa fuentes seleccionadas en orden y se detiene al encontrar coincidencia.",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "Busca en todas las fuentes y devuelve la con más capítulos.",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "Reinicio requerido",
+    "@restart_required_title": {},
+    "restart_required_content": "Reinicie la aplicación para aplicar los últimos recursos y mejoras.",
+    "@restart_required_content": {},
+    "custom_tabs": "Personalizar pestañas",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "Organice y personalice sus pestañas inferiores",
+    "@custom_tabs_subtitle": {}
 }

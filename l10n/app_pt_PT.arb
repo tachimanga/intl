@@ -1469,5 +1469,19 @@
     "migration_strategy_first_alternative": "Usar primeira fonte com alternativa",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "Usar fonte com mais capítulos (mais lento)",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "Dados a incluir na migração",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "Percorre fontes selecionadas por ordem, para ao encontrar correspondência.",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "Procura em todas as fontes, devolve a com mais capítulos.",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "Reinício Necessário",
+    "@restart_required_title": {},
+    "restart_required_content": "Reinicie a aplicação para aplicar os últimos recursos e melhorias.",
+    "@restart_required_content": {},
+    "custom_tabs": "Personalizar Separadores",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "Organize e personalize os seus separadores inferiores",
+    "@custom_tabs_subtitle": {}
 }

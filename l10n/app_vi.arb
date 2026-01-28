@@ -1458,5 +1458,19 @@
     "migration_strategy_first_alternative": "Dùng nguồn thay thế đầu tiên",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "Dùng nguồn có nhiều chương nhất (chậm hơn)",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "Dữ liệu đưa vào di chuyển",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "Kiểm tra nguồn đã chọn theo thứ tự, dừng khi tìm thấy kết quả khớp.",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "Tìm kiếm tất cả nguồn, trả về nguồn có nhiều chương nhất.",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "Cần Khởi Động Lại",
+    "@restart_required_title": {},
+    "restart_required_content": "Vui lòng khởi động lại ứng dụng để áp dụng tài nguyên và cải tiến mới nhất.",
+    "@restart_required_content": {},
+    "custom_tabs": "Tùy chỉnh Tab",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "Sắp xếp và tùy chỉnh các tab dưới cùng của bạn",
+    "@custom_tabs_subtitle": {}
 }

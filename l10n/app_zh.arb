@@ -1798,5 +1798,19 @@
     "migration_strategy_first_alternative": "使用首个有替代的源",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "使用章节最多的源（较慢）",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "迁移中包含的数据",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "按顺序检查所选来源，找到匹配项即停止。",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "搜索所有来源，返回章节数最多的。",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "需要重启",
+    "@restart_required_title": {},
+    "restart_required_content": "请重启应用以应用最新的资源和改进。",
+    "@restart_required_content": {},
+    "custom_tabs": "自定义标签页",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "排列和自定义底部标签页",
+    "@custom_tabs_subtitle": {}
 }

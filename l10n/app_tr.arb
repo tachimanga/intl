@@ -1458,5 +1458,19 @@
     "migration_strategy_first_alternative": "İlk alternatif kaynağı kullan",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "En çok bölüme sahip kaynağı kullan (yavaş)",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "Geçişe dahil edilecek veriler",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "Seçilen kaynakları sırayla tarar, eşleşme bulunca durur.",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "Tüm kaynaklarda ara, en çok bölümü olanı döndür.",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "Yeniden Başlatma Gerekli",
+    "@restart_required_title": {},
+    "restart_required_content": "En son kaynakları ve iyileştirmeleri uygulamak için lütfen uygulamayı yeniden başlatın.",
+    "@restart_required_content": {},
+    "custom_tabs": "Sekmeleri Özelleştir",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "Alt sekmelerinizi düzenleyin ve özelleştirin",
+    "@custom_tabs_subtitle": {}
 }

@@ -1862,5 +1862,19 @@
     "migration_strategy_first_alternative": "استخدم أول مصدر به بديل",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "استخدم المصدر ذا الفصول الأكثر (أبطأ)",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "البيانات المضمنة في النقل",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "يمر عبر المصادر المحددة بالترتيب ويتوقف عند العثور على إدخال مطابق.",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "يبحث في جميع المصادر ويعيد المصدر ذو الفصول الأكثر.",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "إعادة التشغيل مطلوبة",
+    "@restart_required_title": {},
+    "restart_required_content": "يرجى إعادة تشغيل التطبيق لتطبيق أحدث الموارد والتحسينات.",
+    "@restart_required_content": {},
+    "custom_tabs": "تخصيص علامات التبويب",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "رتب وخصص علامات التبويب السفلية",
+    "@custom_tabs_subtitle": {}
 }

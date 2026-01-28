@@ -1458,5 +1458,19 @@
     "migration_strategy_first_alternative": "Erste verfügbare Alternative verwenden",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "Quelle mit meisten Kapiteln verwenden (langsamer)",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "Daten für Migration einschließen",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "Durchläuft ausgewählte Quellen der Reihe nach und stoppt bei erstem Treffer.",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "Durchsucht alle Quellen und wählt die mit meisten Kapiteln.",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "Neustart erforderlich",
+    "@restart_required_title": {},
+    "restart_required_content": "Bitte starten Sie die App neu, um die neuesten Ressourcen und Verbesserungen zu übernehmen.",
+    "@restart_required_content": {},
+    "custom_tabs": "Tabs anpassen",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "Ordnen und passen Sie Ihre unteren Tabs an",
+    "@custom_tabs_subtitle": {}
 }

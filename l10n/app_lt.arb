@@ -1802,5 +1802,19 @@
     "migration_strategy_first_alternative": "Naudoti pirmąjį turintį alternatyvą šaltinį",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "Naudoti šaltinį su daugiausia skyrių (lėčiau)",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "Duomenys, įtraukiami į migraciją",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "Tikrina pasirinktus šaltinius eilės tvarka, sustoja radus atitikimą.",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "Ieško visuose šaltiniuose, grąžina su daugiausia skyrių.",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "Reikalingas paleidimas iš naujo",
+    "@restart_required_title": {},
+    "restart_required_content": "Norėdami pritaikyti naujausius išteklius ir patobulinimus, paleiskite programą iš naujo.",
+    "@restart_required_content": {},
+    "custom_tabs": "Tinkinti skirtukus",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "Rikiuokite ir tinkinkite apatinius skirtukus",
+    "@custom_tabs_subtitle": {}
 }
