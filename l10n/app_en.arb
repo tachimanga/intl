@@ -1811,5 +1811,19 @@
     "migration_strategy_first_alternative": "Use first source with alternative",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "Use source with the most chapters (slower)",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "Data to include in migration",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "Goes through the sources that you selected in order and stops when it finds a matching entry.",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "Searches through all sources and returns the one with the most chapters.",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "Restart Required",
+    "@restart_required_title": {},
+    "restart_required_content": "Please restart the app to apply the latest resources and improvements.",
+    "@restart_required_content": {},
+    "custom_tabs": "Customize Tabs",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "Arrange and customize your bottom tabs",
+    "@custom_tabs_subtitle": {}
 }

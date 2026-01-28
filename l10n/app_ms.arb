@@ -1458,5 +1458,19 @@
     "migration_strategy_first_alternative": "Gunakan sumber alternatif pertama",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "Gunakan sumber dengan bab terbanyak (lebih perlahan)",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "Data untuk disertakan dalam migrasi",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "Periksa sumber terpilih mengikut urutan, berhenti bila jumpa padanan.",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "Cari semua sumber, pulangkan yang ada bab terbanyak.",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "Mulakan Semula Diperlukan",
+    "@restart_required_title": {},
+    "restart_required_content": "Sila mulakan semula aplikasi untuk menggunakan sumber dan penambahbaikan terkini.",
+    "@restart_required_content": {},
+    "custom_tabs": "Sesuaikan Tab",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "Susun dan sesuaikan tab bawah anda",
+    "@custom_tabs_subtitle": {}
 }

@@ -1810,5 +1810,19 @@
     "migration_strategy_first_alternative": "Utiliser la première source avec alternative",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "Utiliser la source avec le plus de chapitres (plus lent)",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "Données à inclure dans migration",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "Parcourt sources sélectionnées dans l'ordre et s'arrête à première correspondance.",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "Cherche dans toutes sources et retourne celle avec plus de chapitres.",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "Redémarrage requis",
+    "@restart_required_title": {},
+    "restart_required_content": "Veuillez redémarrer l'application pour appliquer les dernières ressources et améliorations.",
+    "@restart_required_content": {},
+    "custom_tabs": "Personnaliser les onglets",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "Organisez et personnalisez vos onglets inférieurs",
+    "@custom_tabs_subtitle": {}
 }

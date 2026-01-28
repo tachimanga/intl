@@ -1870,5 +1870,19 @@
     "migration_strategy_first_alternative": "Використовувати перше доступне джерело",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "Використовувати джерело з найбільшою кількістю глав (повільніше)",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "Дані для включення в міграцію",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "Перевіряє вибрані джерела по порядку, зупиняється при збігу.",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "Шукає в усіх джерелах, повертає з найбільшою кількістю розділів.",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "Потрібне перезавантаження",
+    "@restart_required_title": {},
+    "restart_required_content": "Перезавантажте додаток, щоб застосувати останні ресурси та покращення.",
+    "@restart_required_content": {},
+    "custom_tabs": "Налаштувати вкладки",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "Упорядкуйте та налаштуйте нижні вкладки",
+    "@custom_tabs_subtitle": {}
 }

@@ -1458,5 +1458,19 @@
     "migration_strategy_first_alternative": "Használd az első alternatív forrást",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "Használd a legtöbb fejezettel rendelkező forrást (lassabb)",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "Migrációba bevonandó adatok",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "Végigmegy kiválasztott forrásokon sorrendben, megáll első egyezésnél.",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "Keres minden forrásban, visszaadja legtöbb fejezettel rendelkezőt.",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "Újraindítás szükséges",
+    "@restart_required_title": {},
+    "restart_required_content": "Kérjük, indítsa újra az alkalmazást a legújabb erőforrások és fejlesztések alkalmazásához.",
+    "@restart_required_content": {},
+    "custom_tabs": "Lapok testreszabása",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "Rendezze és szabja testre az alsó lapjait",
+    "@custom_tabs_subtitle": {}
 }

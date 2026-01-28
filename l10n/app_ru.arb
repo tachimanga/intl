@@ -1458,5 +1458,19 @@
     "migration_strategy_first_alternative": "Использовать первый доступный источник",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "Использовать источник с наибольшим количеством глав (медленнее)",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "Данные для включения в миграцию",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "Проверяет выбранные источники по порядку, останавливается при совпадении.",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "Ищет во всех источниках, возвращает с наибольшим количеством глав.",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "Требуется перезагрузка",
+    "@restart_required_title": {},
+    "restart_required_content": "Перезапустите приложение, чтобы применить последние ресурсы и улучшения.",
+    "@restart_required_content": {},
+    "custom_tabs": "Настроить вкладки",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "Упорядочивайте и настраивайте нижние вкладки",
+    "@custom_tabs_subtitle": {}
 }

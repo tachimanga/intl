@@ -1458,5 +1458,19 @@
     "migration_strategy_first_alternative": "Эхний боломжит эх сурвалжийг ашиглах",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "Хамгийн олон бүлэгтэй эх сурвалжийг ашиглах (удаан)",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "Шилжилтэд багтах өгөгдөл",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "Сонгогдсон эх сурвалжийг дараалан шалгаж, тохирох олдвол зогсоно.",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "Бүх эх сурвалжаар хайж, хамгийн олон бүлэгтэйг буцаана.",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "Дахин эхлүүлэх шаардлагатай",
+    "@restart_required_title": {},
+    "restart_required_content": "Хамгийн сүүлийн үеийн нөөц, сайжруулалтыг хэрэглэхийн тулд апп-аа дахин эхлүүлнэ үү.",
+    "@restart_required_content": {},
+    "custom_tabs": "Табуудыг тохируулах",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "Доод табынхаа зохион байгуулж, тохируулна уу",
+    "@custom_tabs_subtitle": {}
 }

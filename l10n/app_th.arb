@@ -1458,5 +1458,19 @@
     "migration_strategy_first_alternative": "ใช้แหล่งแรกที่มีทางเลือก",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "ใช้แหล่งที่มีบทมากที่สุด (ช้ากว่า)",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "ข้อมูลที่จะรวมในการย้ายข้อมูล",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "ตรวจสอบแหล่งที่เลือกตามลำดับ หยุดเมื่อพบรายการที่ตรงกัน",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "ค้นหาทุกแหล่ง คืนค่าแหล่งที่มีบทมากที่สุด",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "ต้องรีสตาร์ท",
+    "@restart_required_title": {},
+    "restart_required_content": "กรุณารีสตาร์ทแอปเพื่อใช้ทรัพยากรและการปรับปรุงล่าสุด",
+    "@restart_required_content": {},
+    "custom_tabs": "ปรับแต่งแท็บ",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "จัดเรียงและปรับแต่งแท็บด้านล่างของคุณ",
+    "@custom_tabs_subtitle": {}
 }

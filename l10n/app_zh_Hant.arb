@@ -1458,5 +1458,19 @@
     "migration_strategy_first_alternative": "使用首個有替代的來源",
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "使用章節最多的來源（較慢）",
-    "@migration_strategy_most_chapters": {}
+    "@migration_strategy_most_chapters": {},
+    "bulk_migration_dialog_what_to_include": "遷移中包含的數據",
+    "@bulk_migration_dialog_what_to_include": {},
+    "migration_strategy_first_alternative_desc": "按順序檢查所選來源，找到匹配項即停止。",
+    "@migration_strategy_first_alternative_desc": {},
+    "migration_strategy_most_chapters_desc": "搜尋所有來源，返回章節數最多的。",
+    "@migration_strategy_most_chapters_desc": {},
+    "restart_required_title": "需要重新啟動",
+    "@restart_required_title": {},
+    "restart_required_content": "請重啟應用程式以套用最新的資源和改進。",
+    "@restart_required_content": {},
+    "custom_tabs": "自訂標籤頁",
+    "@custom_tabs": {},
+    "custom_tabs_subtitle": "排列和自訂底部標籤頁",
+    "@custom_tabs_subtitle": {}
 }
