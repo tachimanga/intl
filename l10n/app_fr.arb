@@ -1209,7 +1209,7 @@
     "selected_pinned": "Sélectionner les épinglés",
     "continue_label": "Continuer",
     "unknown_label": "Inconnu",
-    "latest_chapter_label": "Dernier: {name}",
+    "latest_chapter_label": "Dernier : {name}",
     "wait_label": "Attendre",
     "install_extension_wait_tips": "Cela peut prendre un moment, veuillez patienter.",
     "matching_running_text": "Correspondance : {title}",
