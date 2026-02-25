@@ -754,5 +754,6 @@
     "forget_password": "Glömt lösenordet?",
     "reset_password_title": "Återställ ditt lösenord",
     "reset_password_subtitle": "Ange ditt kontos e-postadress så skickar vi en verifieringskod till dig.",
-    "source_settings_title": "Källinställningar"
+    "source_settings_title": "Källinställningar",
+    "pref_incognito_mode": "Inkognitoläge"
 }
