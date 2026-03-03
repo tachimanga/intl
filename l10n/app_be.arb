@@ -1097,7 +1097,7 @@
     "storage_cache": "Kéš",
     "storage_cache_clearing": "Ačyščeńnie kéšu...",
     "storage_space_freed_up": "Výzvalena {x} miésca.",
-    "storage_cache_subtitle": "Kéš utrýmlivaje časóvyja dányja stvóranyja padčás vykarystáńnia. Ačyščeńnie hétych dánych anijak niá paŭpłyvaje ná prácu Tachimanga.",
+    "storage_cache_subtitle": "Kéš utrýmlivaje časóvyja dányja stvóranyja padčás vykarystáńnia. Ačyščeńnie hétych dánych aniják niá paŭpłyváje ná prácu Tachimanga.",
     "storage_cache_images": "Výjavy",
     "storage_cache_covers": "Vókładcy",
     "storage_cache_others": "Jýnšaje",
@@ -1240,5 +1240,8 @@
     "restart_required_title": "Patrabújecca pierazápusk",
     "restart_required_content": "Pierazapuścicie aplikácyju, káb prymianíć apóšnija resúrsy j palapšéńni.",
     "custom_tabs": "Nałádzić ukłádki",
-    "custom_tabs_subtitle": "Uparadkújcie j nałádźcie vášyja nížnija ŭkłádki"
+    "custom_tabs_subtitle": "Uparadkújcie j nałádźcie vášyja nížnija ŭkłádki",
+    "tab_bar_labels_title": "Pódpisy",
+    "tab_bar_labels_subtitle": "Pakázvać albó chaváć pódpisy pád abrazkámi.",
+    "items_per_row": "Elemiéntaŭ u radkié"
 }
