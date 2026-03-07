@@ -331,6 +331,7 @@
     "lock_never": "Aldrig",
     "secure_screen": "Säker skärm",
     "secure_screen_summary": "Säker skärm döljer appinnehåll när du byter app",
+    "pref_incognito_mode": "Inkognitoläge",
     "pref_incognito_mode_summary": "Pausar läst historik",
     "pref_incognito_mode_on": "Incognitoläge på",
     "pref_incognito_mode_off": "Incognitoläge av",
