@@ -755,5 +755,15 @@
     "forget_password": "忘記密碼？",
     "reset_password_title": "重設密碼",
     "reset_password_subtitle": "輸入您帳戶的電子郵件地址，我們將向您發送驗證碼。",
-    "source_settings_title": "來源設定"
+    "source_settings_title": "來源設定",
+    "storage_low_alert_title": "儲存空間即將滿",
+    "storage_low_alert_content": "您的裝置儲存空間即將用完。Tachimanga 可能無法正常運作。請釋放一些空間。",
+    "network_retry_hint": "嘗試切換網路或稍後重試。",
+    "extension_obsolete_tips": "此擴充功能已從倉庫中移除，可能是因為網站已關閉、不再維護或其他原因。它可能無法正常運作，並且不會再收到更新。建議在遷移到其他來源後將其移除。",
+    "extension_language_label": "語言",
+    "extension_version_label": "版本",
+    "show_local_chapters": "顯示本地章節",
+    "invert_double_pages": "反轉雙頁",
+    "auto_webtoon_mode": "自動 Webtoon 模式",
+    "auto_webtoon_mode_desc": "如果條目的標籤包含 {x}，則自動啟用 Webtoon 模式。\n如果您同時閱讀漫畫和 Webtoon，建議將預設閱讀模式設定為分頁模式並啟用此選項。"
 }

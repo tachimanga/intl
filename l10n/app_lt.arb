@@ -1256,5 +1256,15 @@
     "forget_password": "Pamiršote slaptažodį?",
     "reset_password_title": "Atstatyti slaptažodį",
     "reset_password_subtitle": "Įveskite savo paskyros el. pašto adresą ir mes atsiųsime jums patvirtinimo kodą.",
-    "source_settings_title": "Šaltinio nustatymai"
+    "source_settings_title": "Šaltinio nustatymai",
+    "storage_low_alert_title": "Atmintis beveik pilna",
+    "storage_low_alert_content": "Jūsų įrenginio atmintis beveik pilna. Tachimanga gali veikti netinkamai. Atlaisvinkite šiek tiek vietos.",
+    "network_retry_hint": "Pabandykite perjungti tinklą arba bandykite dar kartą vėliau.",
+    "extension_obsolete_tips": "Šis plėtinys buvo pašalintas iš saugyklos, greičiausiai todėl, kad svetainė neveikia, nebeprižiūrima arba dėl kitų priežasčių. Jis gali neveikti tinkamai ir nebegaus atnaujinimų. Rekomenduojama jį pašalinti perkėlus į kitą šaltinį.",
+    "extension_language_label": "Kalba",
+    "extension_version_label": "Versija",
+    "show_local_chapters": "Rodyti vietinius skyrius",
+    "invert_double_pages": "Apversti dvigubus puslapius",
+    "auto_webtoon_mode": "Automatinis Webtoon režimas",
+    "auto_webtoon_mode_desc": "Automatiškai įjunkite Webtoon režimą, jei įrašo žymose yra {x}.\nJei skaitote ir mangą, ir webtoonus, rekomenduojama nustatyti numatytąjį skaitymo režimą į puslapių režimą ir įjungti šią parinktį."
 }

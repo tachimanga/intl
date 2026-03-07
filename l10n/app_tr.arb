@@ -755,5 +755,15 @@
     "forget_password": "Şifrenizi mi unuttunuz?",
     "reset_password_title": "Şifrenizi sıfırlayın",
     "reset_password_subtitle": "Hesabınızın e-posta adresini girin, size bir doğrulama kodu gönderelim.",
-    "source_settings_title": "Kaynak Ayarları"
+    "source_settings_title": "Kaynak Ayarları",
+    "storage_low_alert_title": "Depolama Alanı Neredeyse Dolu",
+    "storage_low_alert_content": "Cihazınızın depolama alanı neredeyse dolu. Tachimanga düzgün çalışmayabilir. Lütfen biraz yer açın.",
+    "network_retry_hint": "Ağ değiştirmeyi deneyin veya daha sonra tekrar deneyin.",
+    "extension_obsolete_tips": "Bu uzantı, muhtemelen site çalışmadığı, artık bakımı yapılmadığı veya başka nedenlerle depodan kaldırıldı. Düzgün çalışmayabilir ve artık güncelleme almayacaktır. Başka bir kaynağa geçtikten sonra kaldırmanız önerilir.",
+    "extension_language_label": "Dil",
+    "extension_version_label": "Sürüm",
+    "show_local_chapters": "Yerel bölümleri göster",
+    "invert_double_pages": "Çift sayfaları ters çevir",
+    "auto_webtoon_mode": "Otomatik Webtoon Modu",
+    "auto_webtoon_mode_desc": "Girdinin etiketleri {x} içeriyorsa Webtoon modunu otomatik olarak etkinleştirin.\nHem manga hem de webtoon okuyorsanız, varsayılan okuma modunuzu sayfalı moda ayarlamanız ve bu seçeneği etkinleştirmeniz önerilir."
 }

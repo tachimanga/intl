@@ -1240,5 +1240,15 @@
     "restart_required_title": "Patrabújecca pierazápusk",
     "restart_required_content": "Pierazapuścicie aplikácyju, káb prymianíć apóšnija resúrsy j palapšéńni.",
     "custom_tabs": "Nałádzić ukłádki",
-    "custom_tabs_subtitle": "Uparadkújcie j nałádźcie vášyja nížnija ŭkłádki"
+    "custom_tabs_subtitle": "Uparadkújcie j nałádźcie vášyja nížnija ŭkłádki",
+    "storage_low_alert_title": "Амаль поўная памяць",
+    "storage_low_alert_content": "Памяць вашай прылады амаль запоўнена. Tachimanga можа працаваць няправільна. Калі ласка, вызваліце трохі месца.",
+    "network_retry_hint": "Паспрабуйце пераключыць сетку або паўтарыце спробу пазней.",
+    "extension_obsolete_tips": "Гэта пашырэнне было выдалена з рэпазіторыя, магчыма, таму што сайт больш не працуе, яно больш не падтрымліваецца або з іншых прычын. Яно можа працаваць няправільна і больш не будзе атрымліваць абнаўленні. Рэкамендуецца выдаліць яго пасля пераходу на іншую крыніцу.",
+    "extension_language_label": "Мова",
+    "extension_version_label": "Версія",
+    "show_local_chapters": "Паказваць лакальныя раздзелы",
+    "invert_double_pages": "Інвертаваць падвойныя старонкі",
+    "auto_webtoon_mode": "Аўтаматычны рэжым Webtoon",
+    "auto_webtoon_mode_desc": "Аўтаматычна ўключаць рэжым Webtoon, калі тэгі запісу ўтрымліваюць {x}.\nКалі вы чытаеце і мангу, і вэбтуны, рэкамендуецца ўсталяваць рэжым чытання па змаўчанні як 'па старонках' і ўключыць гэту опцыю."
 }

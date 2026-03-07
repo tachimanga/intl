@@ -755,5 +755,15 @@
     "forget_password": "Passwort vergessen?",
     "reset_password_title": "Passwort zurücksetzen",
     "reset_password_subtitle": "Geben Sie die E-Mail-Adresse Ihres Kontos ein und wir senden Ihnen einen Bestätigungscode.",
-    "source_settings_title": "Quelleneinstellungen"
+    "source_settings_title": "Quelleneinstellungen",
+    "storage_low_alert_title": "Speicher fast voll",
+    "storage_low_alert_content": "Der Speicher Ihres Geräts ist fast voll. Tachimanga funktioniert möglicherweise nicht richtig. Bitte geben Sie etwas Speicherplatz frei.",
+    "network_retry_hint": "Versuchen Sie, das Netzwerk zu wechseln, oder versuchen Sie es später erneut.",
+    "extension_obsolete_tips": "Diese Erweiterung wurde aus dem Repository entfernt, möglicherweise weil die Website nicht mehr verfügbar ist, sie nicht mehr gewartet wird oder aus anderen Gründen. Sie funktioniert möglicherweise nicht richtig und erhält keine Updates mehr. Es wird empfohlen, sie zu entfernen, nachdem Sie zu einer anderen Quelle gewechselt sind.",
+    "extension_language_label": "Sprache",
+    "extension_version_label": "Version",
+    "show_local_chapters": "Lokale Kapitel anzeigen",
+    "invert_double_pages": "Doppelseiten umkehren",
+    "auto_webtoon_mode": "Automatischer Webtoon-Modus",
+    "auto_webtoon_mode_desc": "Aktiviert automatisch den Webtoon-Modus, wenn die Tags des Eintrags {x} enthalten.\nWenn Sie sowohl Manga als auch Webtoons lesen, empfiehlt es sich, den Standard-Lesemodus auf Seitenmodus einzustellen und diese Option zu aktivieren."
 }
