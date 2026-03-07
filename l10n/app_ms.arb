@@ -755,5 +755,15 @@
     "forget_password": "Lupa kata laluan?",
     "reset_password_title": "Tetapkan semula kata laluan anda",
     "reset_password_subtitle": "Masukkan alamat e-mel akaun anda dan kami akan menghantar kod pengesahan kepada anda.",
-    "source_settings_title": "Tetapan Sumber"
+    "source_settings_title": "Tetapan Sumber",
+    "storage_low_alert_title": "Storan Hampir Penuh",
+    "storage_low_alert_content": "Storan peranti anda hampir penuh. Tachimanga mungkin tidak berfungsi dengan baik. Sila kosongkan sedikit ruang.",
+    "network_retry_hint": "Cuba tukar rangkaian atau cuba lagi kemudian.",
+    "extension_obsolete_tips": "Sambungan ini telah dialih keluar daripada repositori, mungkin kerana laman web tidak lagi aktif, tidak lagi diselenggara, atau atas sebab-sebab lain. Ia mungkin tidak berfungsi dengan baik dan tidak akan menerima kemas kini lagi. Adalah disyorkan untuk mengalih keluarnya selepas beralih ke sumber lain.",
+    "extension_language_label": "Bahasa",
+    "extension_version_label": "Versi",
+    "show_local_chapters": "Tunjukkan bab tempatan",
+    "invert_double_pages": "Songsangkan halaman beregu",
+    "auto_webtoon_mode": "Mod Webtoon Automatik",
+    "auto_webtoon_mode_desc": "Dayakan mod Webtoon secara automatik jika teg entri mengandungi {x}.\nJika anda membaca kedua-dua manga dan webtoon, adalah disyorkan untuk menetapkan mod bacaan lalai anda kepada mod halaman dan dayakan pilihan ini."
 }

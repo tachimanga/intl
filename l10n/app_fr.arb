@@ -1260,5 +1260,15 @@
     "forget_password": "Mot de passe oublié ?",
     "reset_password_title": "Réinitialiser votre mot de passe",
     "reset_password_subtitle": "Saisissez l'adresse courriel de votre compte et nous vous enverrons un code de vérification.",
-    "source_settings_title": "Paramètres de source"
+    "source_settings_title": "Paramètres de source",
+    "storage_low_alert_title": "Stockage presque plein",
+    "storage_low_alert_content": "L'espace de stockage de votre appareil est presque plein. Tachimanga peut ne pas fonctionner correctement. Veuillez libérer de l'espace.",
+    "network_retry_hint": "Essayez de changer de réseau ou réessayez plus tard.",
+    "extension_obsolete_tips": "Cette extension a été supprimée du dépôt, probablement parce que le site n'est plus actif, qu'il n'est plus maintenu, ou pour d'autres raisons. Elle pourrait ne pas fonctionner correctement et ne recevra plus de mises à jour. Il est recommandé de la supprimer après avoir migré vers une autre source.",
+    "extension_language_label": "Langue",
+    "extension_version_label": "Version",
+    "show_local_chapters": "Afficher les chapitres locaux",
+    "invert_double_pages": "Inverser les pages doubles",
+    "auto_webtoon_mode": "Mode Webtoon automatique",
+    "auto_webtoon_mode_desc": "Active automatiquement le mode Webtoon si les étiquettes de l'entrée contiennent {x}.\nSi vous lisez à la fois des mangas et des webtoons, il est recommandé de définir votre mode de lecture par défaut sur le mode paginé et d'activer cette option."
 }

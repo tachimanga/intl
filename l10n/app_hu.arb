@@ -755,5 +755,15 @@
     "forget_password": "Elfelejtett jelszó?",
     "reset_password_title": "Jelszó visszaállítása",
     "reset_password_subtitle": "Adja meg fiókja e-mail címét, és küldünk Önnek egy ellenőrző kódot.",
-    "source_settings_title": "Forrásbeállítások"
+    "source_settings_title": "Forrásbeállítások",
+    "storage_low_alert_title": "A tárhely majdnem megtelt",
+    "storage_low_alert_content": "A készülék tárhelye majdnem megtelt. Előfordulhat, hogy a Tachimanga nem fog megfelelően működni. Kérjük, szabadítson fel helyet.",
+    "network_retry_hint": "Próbáljon hálózatot váltani, vagy próbálkozzon újra később.",
+    "extension_obsolete_tips": "Ez a bővítmény eltávolításra került a tárolóból, valószínűleg azért, mert az oldal már nem elérhető, nem karbantartott, vagy egyéb okok miatt. Lehet, hogy nem működik megfelelően, és nem kap további frissítéseket. Javasoljuk, hogy távolítsa el, miután átállt egy másik forrásra.",
+    "extension_language_label": "Nyelv",
+    "extension_version_label": "Verzió",
+    "show_local_chapters": "Helyi fejezetek megjelenítése",
+    "invert_double_pages": "Kettős oldalak invertálása",
+    "auto_webtoon_mode": "Automatikus Webtoon mód",
+    "auto_webtoon_mode_desc": "Automatikusan engedélyezi a Webtoon módot, ha a bejegyzés címkéi tartalmazzák a(z) {x} értéket.\nHa mangát és webtoont is olvas, ajánlott az alapértelmezett olvasási módot lapozós módra állítani és ezt az opciót engedélyezni."
 }

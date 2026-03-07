@@ -331,6 +331,7 @@
     "lock_never": "Aldrig",
     "secure_screen": "Säker skärm",
     "secure_screen_summary": "Säker skärm döljer appinnehåll när du byter app",
+    "pref_incognito_mode": "Inkognitoläge",
     "pref_incognito_mode_summary": "Pausar läst historik",
     "pref_incognito_mode_on": "Incognitoläge på",
     "pref_incognito_mode_off": "Incognitoläge av",
@@ -755,5 +756,14 @@
     "reset_password_title": "Återställ ditt lösenord",
     "reset_password_subtitle": "Ange ditt kontos e-postadress så skickar vi en verifieringskod till dig.",
     "source_settings_title": "Källinställningar",
-    "pref_incognito_mode": "Inkognitoläge"
+    "storage_low_alert_title": "Lagringen nästan full",
+    "storage_low_alert_content": "Din enhets lagring är nästan full. Tachimanga kanske inte fungerar korrekt. Vänligen frigör lite utrymme.",
+    "network_retry_hint": "Försök byta nätverk eller försök igen senare.",
+    "extension_obsolete_tips": "Det här tillägget har tagits bort från arkivet, möjligen för att webbplatsen är död, inte längre underhålls eller av andra skäl. Det kanske inte fungerar korrekt och kommer inte att få fler uppdateringar. Det rekommenderas att ta bort det efter att ha migrerat till en annan källa.",
+    "extension_language_label": "Språk",
+    "extension_version_label": "Version",
+    "show_local_chapters": "Visa lokala kapitel",
+    "invert_double_pages": "Invertera dubbla sidor",
+    "auto_webtoon_mode": "Automatiskt Webtoon-läge",
+    "auto_webtoon_mode_desc": "Aktivera automatiskt Webtoon-läge om postens taggar innehåller {x}.\nOm du läser både manga och webtoons rekommenderas det att ställa in ditt standardläsningsläge till sidläge och aktivera det här alternativet."
 }

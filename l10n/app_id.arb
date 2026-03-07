@@ -755,5 +755,15 @@
     "forget_password": "Lupa kata sandi?",
     "reset_password_title": "Atur ulang kata sandi Anda",
     "reset_password_subtitle": "Masukkan alamat email akun Anda dan kami akan mengirimkan kode verifikasi.",
-    "source_settings_title": "Pengaturan Sumber"
+    "source_settings_title": "Pengaturan Sumber",
+    "storage_low_alert_title": "Penyimpanan Hampir Penuh",
+    "storage_low_alert_content": "Penyimpanan perangkat Anda hampir penuh. Tachimanga mungkin tidak berfungsi dengan baik. Harap kosongkan beberapa ruang.",
+    "network_retry_hint": "Coba ganti jaringan atau coba lagi nanti.",
+    "extension_obsolete_tips": "Ekstensi ini telah dihapus dari repositori, mungkin karena situsnya sudah tidak ada, tidak lagi dipelihara, atau karena alasan lain. Ekstensi ini mungkin tidak berfungsi dengan baik dan tidak akan menerima pembaruan lagi. Disarankan untuk menghapusnya setelah beralih ke sumber lain.",
+    "extension_language_label": "Bahasa",
+    "extension_version_label": "Versi",
+    "show_local_chapters": "Tampilkan bab lokal",
+    "invert_double_pages": "Balikkan halaman ganda",
+    "auto_webtoon_mode": "Mode Webtoon Otomatis",
+    "auto_webtoon_mode_desc": "Aktifkan mode Webtoon secara otomatis jika tag entri berisi {x}.\nJika Anda membaca manga dan webtoon, disarankan untuk mengatur mode baca default ke mode halaman dan mengaktifkan opsi ini."
 }

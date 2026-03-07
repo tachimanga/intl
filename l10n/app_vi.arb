@@ -755,5 +755,15 @@
     "forget_password": "Quên mật khẩu?",
     "reset_password_title": "Đặt lại mật khẩu của bạn",
     "reset_password_subtitle": "Nhập địa chỉ email tài khoản của bạn và chúng tôi sẽ gửi mã xác minh.",
-    "source_settings_title": "Cài đặt nguồn"
+    "source_settings_title": "Cài đặt nguồn",
+    "storage_low_alert_title": "Bộ nhớ sắp đầy",
+    "storage_low_alert_content": "Bộ nhớ thiết bị của bạn gần đầy. Tachimanga có thể không hoạt động bình thường. Vui lòng giải phóng một ít dung lượng.",
+    "network_retry_hint": "Hãy thử chuyển mạng hoặc thử lại sau.",
+    "extension_obsolete_tips": "Tiện ích mở rộng này đã bị xóa khỏi kho lưu trữ, có thể vì trang web không còn hoạt động, không còn được bảo trì hoặc vì các lý do khác. Nó có thể không hoạt động bình thường và sẽ không còn nhận được bản cập nhật. Bạn nên gỡ bỏ nó sau khi chuyển sang nguồn khác.",
+    "extension_language_label": "Ngôn ngữ",
+    "extension_version_label": "Phiên bản",
+    "show_local_chapters": "Hiển thị chương cục bộ",
+    "invert_double_pages": "Đảo ngược trang đôi",
+    "auto_webtoon_mode": "Chế độ Webtoon tự động",
+    "auto_webtoon_mode_desc": "Tự động bật chế độ Webtoon nếu thẻ của mục nhập chứa {x}.\nNếu bạn đọc cả manga và webtoon, bạn nên đặt chế độ đọc mặc định thành chế độ trang và bật tùy chọn này."
 }

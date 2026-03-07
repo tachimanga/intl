@@ -1242,5 +1242,15 @@
     "forget_password": "忘记密码？",
     "reset_password_title": "重置密码",
     "reset_password_subtitle": "输入您账户的邮箱地址，我们将向您发送验证码。",
-    "source_settings_title": "源设置"
+    "source_settings_title": "源设置",
+    "storage_low_alert_title": "存储空间即将满",
+    "storage_low_alert_content": "您的设备存储空间即将用完。Tachimanga 可能无法正常工作。请释放一些空间。",
+    "network_retry_hint": "尝试切换网络或稍后重试。",
+    "extension_obsolete_tips": "此扩展已从仓库中移除，可能是因为网站已关闭、不再维护或其他原因。它可能无法正常工作，并且不会再收到更新。建议在迁移到其他源后将其移除。",
+    "extension_language_label": "语言",
+    "extension_version_label": "版本",
+    "show_local_chapters": "显示本地章节",
+    "invert_double_pages": "反转双页",
+    "auto_webtoon_mode": "自动 Webtoon 模式",
+    "auto_webtoon_mode_desc": "如果条目的标签包含 {x}，则自动启用 Webtoon 模式。\n如果您同时阅读漫画和 Webtoon，建议将默认阅读模式设置为分页模式并启用此选项。"
 }
