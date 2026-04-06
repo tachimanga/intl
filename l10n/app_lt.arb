@@ -1266,5 +1266,9 @@
     "show_local_chapters": "Rodyti vietinius skyrius",
     "invert_double_pages": "Apversti dvigubus puslapius",
     "auto_webtoon_mode": "Automatinis Webtoon režimas",
-    "auto_webtoon_mode_desc": "Automatiškai įjunkite Webtoon režimą, jei įrašo žymose yra {x}.\nJei skaitote ir mangą, ir webtoonus, rekomenduojama nustatyti numatytąjį skaitymo režimą į puslapių režimą ir įjungti šią parinktį."
+    "auto_webtoon_mode_desc": "Automatiškai įjunkite Webtoon režimą, jei įrašo žymose yra {x}.\nJei skaitote ir mangą, ir webtoonus, rekomenduojama nustatyti numatytąjį skaitymo režimą į puslapių režimą ir įjungti šią parinktį.",
+    "in_app_purchase_diagnostic_info": "Diagnostinė informacija",
+    "copy_label": "Kopijuoti",
+    "premium_subscribed": "Premium prenumerata",
+    "premium_subscribe_in_grace_period": "Nepavyko pratęsti prenumeratos. Apple bandys dar kartą – kol kas Premium funkcijos tebėra prieinamos."
 }
