@@ -15,7 +15,7 @@
     "@appTitle": {
         "description": "Name of the app (Tachidesk Sorayomi in native script)"
     },
-    "appearance": "Зовнішній вигляд",
+    "appearance": "Вигляд",
     "@appearance": {
         "description": "Screen title and Button text of Appearance screen"
     },

@@ -115,7 +115,7 @@
     "@deleteCategoryTitle": {
         "description": "Popup title when deleting Category"
     },
-    "discord": "Discord",
+    "discord": "ديسكورد",
     "@discord": {
         "description": "Discord app title"
     },
@@ -245,7 +245,7 @@
     "@library": {
         "description": "Screen title and Button text of Library and Library Settings screen"
     },
-    "installingExtension": "جار التحميل",
+    "installingExtension": "جار التحميل الإضافة",
     "@installingExtension": {
         "description": "Toast text to show that the extension is installing"
     },
@@ -273,7 +273,7 @@
     "@noUpdatesFound": {
         "description": "Toast Text to show that there are no Updates available"
     },
-    "nsfw": "اظهار محتوى البالغين",
+    "nsfw": "عرض الإضافة والمصادر للبالغين",
     "@nsfw": {
         "description": "Switch text to show/hide the nsfw extensions"
     },
@@ -409,7 +409,7 @@
             }
         }
     },
-    "nsfwInfo": "هذا لا يمنع الإضافات غير الرسمية أو التي يحتمل أن يتم وضع علامة عليها بشكل غير صحيح من الظهور على محتوى للبالغين (18+) داخل التطبيق",
+    "nsfwInfo": "هذا لا يمنع الإضافات غير الرسمية أو التي يحتمل أن يتم وضع علامة عليها بشكل غير صحيح من ظهور محتوى NSFW(18+) داخل التطبيق",
     "@nsfwInfo": {
         "description": "Hint text to show that the nsfw switch cannot prevent incorrectly flagged extensions from surfacing"
     },
@@ -461,7 +461,7 @@
     "@unread": {
         "description": "Checkbox text to unread bookmarked manga/chapters across app"
     },
-    "update": "تحديث",
+    "update": "حدث",
     "@update": {
         "description": "Button text to update the extension"
     },
@@ -716,9 +716,9 @@
     "restorePurchase": "استرداد الشراء",
     "share": "مشاركة",
     "discordServer": "سيرفر الديسكورد",
-    "externalRepository": "إعدادات المصادر",
-    "externalRepositoryUrl": "رابط المصدر",
-    "externalRepositoryUrlShort": "رابط المصدر",
+    "externalRepository": "إعدادات الإضافات",
+    "externalRepositoryUrl": "رابط الإضافات",
+    "externalRepositoryUrlShort": "رابط الإضافات",
     "history": "التاريخ",
     "clearCookies": "مسح معرفات الايصال (الكوكيز)",
     "recentlyDownloaded": "تم تنزيله مؤخراً",
@@ -850,24 +850,24 @@
     "exportLog": "تصدير السجل",
     "cookiesCleared": "تم مسح ملفات معرف الاتصال (الكوكيز)",
     "termsUrl": "شروط الاستخدام",
-    "extension_repo": "مرجع المستودع",
+    "extension_repo": "الإضافات المستودع",
     "one_repository": "مستودع واحد",
     "num_repositories": "{num} مستودعات",
     "add_repository": "إضافة مستودع",
-    "empty_repository": "لم تقم بإضافة أي مستودعات إضافية حتى الآن.",
+    "empty_repository": "لم تقم بإضافة أي الإضافات المستودع حتى الآن.",
     "add_repo_by_name": "بالاسم",
     "add_repo_by_name_tip": "إضافة مستودعات إضافية إلى Tachimanga.\nتكون تنسيق المستودع 'اسم المستخدم/المستودع'، حيث يكون اسم المستخدم هو مالك المستودع، واسم المستودع يكون نفسه",
     "add_repo_by_url": "عن طريق الرابط",
-    "add_repo_by_url_tip": "إضافة مستودعات إضافية إلى Tachimanga.\nيجب أن يكون رابط ينتهي بـ \"index.min.json\"",
-    "get_repo_meta_fail": "فشل في استرداد معلومات المستودع.",
-    "delete_repository": "حذف المستودع",
-    "delete_repository_content": "هل ترغب في حذف المستودع \"{name}\"",
+    "add_repo_by_url_tip": "‪إضافة مستودعات إضافية إلى Tachimanga.\nيجب أن يكون رابط ينتهي بـ \"index.min.json\"",
+    "get_repo_meta_fail": "‪فشل في استرداد معلومات المستودع.",
+    "delete_repository": "حذ‏ف المستودع",
+    "delete_repository_content": "‏‏‪‫هل ترغب في حذف المستودع \"{name}\"",
     "label_add": "إضافة",
     "label_adding": "جارٍ الإضافة",
     "extension_usage_terms": "لتعيين المستودعات الخارجية، يجب عليك الموافقة على الاتفاقية التالية:\n1. أفهم أن تاتشيمانغا لا تنظم المستودعات الخارجية بأي شكل من الأشكال.\n2. أفهم أن تاتشيمانغا ليست مرتبطة بأي إضافات خارجية.\n3. أوافق على عدم استخدام تاتشيمانغا لعرض المحتوى الذي لا أملك الحقوق له.",
     "find_repository": "العثور على مستودع",
     "privacyUrl": "سياسة الخصوصية",
-    "uninstall_confirm": "هل ترغب في إلغاء تثبيت هذه الاضافة ؟",
+    "uninstall_confirm": "هل ترغب في إلغاء تثبيت هذه الإضافات ؟",
     "get_start": "البدء",
     "label_copy": "نسخ",
     "migrate": "ترحيل",
@@ -949,7 +949,7 @@
     "icon_section_title": "رمز",
     "app_icon_title": "رمز التطبيق",
     "app_icon_author": "مصمم بواسطة {author}",
-    "classic_start_reading_button": "زر البدء الكلاسيكي بالقراءة",
+    "classic_start_reading_button": "‭‭‮‫‫‎‌‌‌‌‍‎‏‪‬‫زر البدء الكلاسيكي بالقراءة",
     "long_press_action_menu": "قائمة إجراءات الضغط المطول",
     "app_icon_update_tip": "إذا لم يتم تحديث الرمز بنجاح، يمكنك الانتظار لبعض الوقت أو إعادة تشغيل الجهاز ببساطة.",
     "update_running_text": "جار التحديث: {title}",
@@ -979,7 +979,7 @@
     "history_is_empty": "لم تقرأ شيئًا مؤخرًا.",
     "downloaded_is_empty": "لا توجد تنزيلات حديثة.",
     "reset_filters": "إعادة ضبط الفلاتر",
-    "repo_not_exist": "مستودع التمديد غير موجود.",
+    "repo_not_exist": "الإضافات المستودع هذة غير موجود.",
     "disagree_label": "عدم الموافقة",
     "agree_label": "موافقة",
     "log_enable_tips": "تم تمكين تسجيل البيانات بنجاح. سيتم تطبيق التغييرات بعد إعادة تشغيل التطبيق.",
@@ -1081,7 +1081,7 @@
     "remove_from_library": "إزالة من المكتبة",
     "tachiyomi_import_tip_title": "فشل الاستيراد: ملف النسخ الاحتياطي كبير جدًا.",
     "tachiyomi_import_tip_content": "عند إنشاء نسخة احتياطية من Tachiyomi أو Mihon أو الفروع الأخرى، قم فقط بنسخ المكتبة والفئات والتتبع، ثم أعد المحاولة.",
-    "apple_pencil_integration": "Apple Pencil",
+    "apple_pencil_integration": "قلم أبل",
     "apple_pencil_integration_description": "النقر المزدوج والضغط",
     "apple_pencil_double_tap": "النقر المزدوج",
     "apple_pencil_squeeze": "الضغط",
@@ -1216,7 +1216,7 @@
     "file_added": "تمت الإضافة",
     "file_adding": "جاري الإضافة",
     "add_extension_repo_subtitle": "إضافة إضافات Mihon/Tachiyomi",
-    "install_extension_title": "تثبيت الإضافة",
+    "install_extension_title": "تثبيت ملحق",
     "install_extension_subtitle": "حدد ملف APK للتثبيت",
     "failed_to_load_products": "فشل تحميل المشتريات داخل التطبيق.",
     "purchase_failed_to_load_products": "فشل الحصول على معلومات المنتج. يُرجى المحاولة مرة أخرى.",
