@@ -620,7 +620,7 @@
     "readerNavigationLayoutKindlish": "Kindle-ish",
     "readerNavigationLayoutLShaped": "L Shaped",
     "readerNavigationLayoutRightAndLeft": "Right And Left",
-    "readerPadding": "Reader Padding",
+    "readerPadding": "Side padding",
     "refresh": "Refresh",
     "reset": "Reset",
     "resume": "Resume",
@@ -1868,7 +1868,7 @@
     "@source_settings_title": {},
     "storage_low_alert_title": "Storage Almost Full",
     "@storage_low_alert_title": {},
-    "storage_low_alert_content": "Your device's storage is almost full. Tachimanga may not work properly. Please free up some space.",
+    "storage_low_alert_content": "Your device's storage is almost full. Tachimanga may not work properly.\n\nPlease free up space:\n• Device Storage: Go to System Settings > General > Storage to manage.\n• App Storage: Go to More > General > Storage to manage.",
     "@storage_low_alert_content": {},
     "network_retry_hint": "Try switching networks or try again later.",
     "@network_retry_hint": {},
@@ -1885,5 +1885,135 @@
     "auto_webtoon_mode": "Auto Webtoon Mode",
     "@auto_webtoon_mode": {},
     "auto_webtoon_mode_desc": "Automatically enable Webtoon mode if the entry's tags contain {x}.\nIf you read both manga and webtoons, it's recommended to set your default reading mode to paged mode and enable this option.",
-    "@auto_webtoon_mode_desc": {}
+    "@auto_webtoon_mode_desc": {},
+    "reset_chapters_on_delete": "Reset all chapters for this entry",
+    "@reset_chapters_on_delete": {},
+    "troubleshoot_section_title": "Troubleshoot",
+    "@troubleshoot_section_title": {},
+    "repair_database": "Repair Database",
+    "@repair_database": {},
+    "repair_database_subtitle": "Use when app database is corrupted",
+    "@repair_database_subtitle": {},
+    "repair_database_warning": "This is a dangerous operation. The app may become unusable. Proceed with caution.",
+    "@repair_database_warning": {},
+    "repair_database_verify": "Type \"{text}\" to confirm",
+    "@repair_database_verify": {},
+    "repair_database_backup_before": "Backup before repair",
+    "@repair_database_backup_before": {},
+    "clear_selected_histories_title": "Clear Selected Entries?",
+    "@clear_selected_histories_title": {},
+    "reset_chapters_on_delete_multi": "Reset all chapters for selected entries",
+    "@reset_chapters_on_delete_multi": {},
+    "clear_label": "Clear",
+    "@clear_label": {
+        "description": "Generic clear button label"
+    },
+    "sources_selected": "{x, plural, one{1 source selected} other{{x} sources selected}}",
+    "@sources_selected": {
+        "description": "Text to show the number of selected sources in the library source filter"
+    },
+    "readerPaddingWebtoon": "Webtoon",
+    "@readerPaddingWebtoon": {
+        "description": "Webtoon mode padding label"
+    },
+    "readerPaddingPaged": "Paged",
+    "@readerPaddingPaged": {
+        "description": "Paged mode padding label"
+    },
+    "readerPaddingPortrait": "Portrait",
+    "@readerPaddingPortrait": {
+        "description": "Portrait orientation label"
+    },
+    "readerPaddingLandscape": "Landscape",
+    "@readerPaddingLandscape": {
+        "description": "Landscape orientation label"
+    },
+    "notes": "Notes",
+    "@notes": {
+        "description": "Menu item to edit manga notes"
+    },
+    "edit_notes": "Edit notes",
+    "@edit_notes": {
+        "description": "Button text to edit manga notes"
+    },
+    "promotion_anniversary_title": "Happy 3rd Anniversary, Tachimanga! 🎉",
+    "@promotion_anniversary_title": {
+        "description": "Promotion dialog title"
+    },
+    "promotion_blackfriday_title": "Happy Black Friday! 🎉",
+    "@promotion_blackfriday_title": {},
+    "promotion_default_title": "Special Offer",
+    "@promotion_default_title": {},
+    "promotion_upgrade_subtitle": "Upgrade to Premium",
+    "@promotion_upgrade_subtitle": {
+        "description": "Promotion dialog subtitle"
+    },
+    "promotion_discount_30_off_label": "30% OFF",
+    "@promotion_discount_30_off_label": {
+        "description": "Discount label"
+    },
+    "promotion_ends_in": "Offer ends in {time}",
+    "@promotion_ends_in": {},
+    "promotion_lifetime_plan": "Lifetime Plan",
+    "@promotion_lifetime_plan": {
+        "description": "Lifetime plan option"
+    },
+    "promotion_annual_plan": "Annual Plan",
+    "@promotion_annual_plan": {
+        "description": "Annual plan option"
+    },
+    "promotion_purchase_now_button": "Purchase now",
+    "@promotion_purchase_now_button": {
+        "description": "Purchase now button"
+    },
+    "promotion_already_purchased_hint": "Already purchased?",
+    "@promotion_already_purchased_hint": {
+        "description": "Already purchased hint text"
+    },
+    "promotion_view_details": "View Offer",
+    "@promotion_view_details": {
+        "description": "Banner action button text"
+    },
+    "promotion_banner_anniversary3rd_text": "Tachimanga 3rd Anniversary Sale.",
+    "@promotion_banner_anniversary3rd_text": {},
+    "promotion_banner_blackfriday_text": "Black Friday Sale.",
+    "@promotion_banner_blackfriday_text": {},
+    "promotion_banner_default_text": "Limited-time offer.",
+    "@promotion_banner_default_text": {},
+    "@promotion_banner_text": {
+        "description": "Promotion banner text",
+        "placeholders": {
+            "time": {
+                "example": "23 h 33 m 33 s"
+            }
+        }
+    },
+    "premium_features": "Premium features",
+    "@premium_features": {
+        "description": "Premium features button text"
+    },
+    "hours_minutes_seconds_short": "{x} h {y} m {z} s",
+    "@hours_minutes_seconds_short": {},
+    "promotion_purchase_redirect_hint": "You will be redirected to the App Store to redeem the offer",
+    "@promotion_purchase_redirect_hint": {
+        "description": "Hint text indicating redirection to App Store to redeem offer"
+    },
+    "promotion_discount_hint": "Prices shown are regular. Tap the banner above for the discounted price.",
+    "@promotion_discount_hint": {
+        "description": "Hint text on purchase screen when promotion banner is shown, telling users to tap banner for discount"
+    },
+    "purchase_option_monthly": "Monthly",
+    "@purchase_option_monthly": {},
+    "purchase_option_yearly": "Yearly",
+    "@purchase_option_yearly": {},
+    "purchase_option_lifetime": "Lifetime",
+    "@purchase_option_lifetime": {},
+    "purchase_subscribe_tips": "All features included. Cancel anytime.",
+    "@purchase_subscribe_tips": {},
+    "purchase_lifetime_tips": "One-time purchase. No subscriptions.",
+    "@purchase_lifetime_tips": {},
+    "purchase_per_month_price_short": "{price}/mo",
+    "@purchase_per_month_price_short": {},
+    "subscribe_to_add_notes": "Subscribe Premium to add notes",
+    "@subscribe_to_add_notes": {}
 }
