@@ -1,1 +1,192 @@
-{}
+{
+    "about": "செயலி பற்றி",
+    "@about": {
+        "description": "Screen title and Button text of About screen"
+    },
+    "addCategory": "புதிய வகையைச் சேர்",
+    "@addCategory": {
+        "description": "Popup title and Button text to add new category in Edit Category Screen"
+    },
+    "addToLibrary": "தொகுப்பில் சேர்",
+    "@addToLibrary": {
+        "description": "Button text to add Manga to Library in Manga Details Screen"
+    },
+    "appLanguage": "செயலி மொழி",
+    "@appLanguage": {
+        "description": "Popup title and Button text to change App Language"
+    },
+    "appTheme": "செயலி தோற்றம்",
+    "@appTheme": {
+        "description": "Popup title and Button text to change App Theme"
+    },
+    "appTitle": "டாச்சிமங்கா",
+    "@appTitle": {
+        "description": "Name of the app (Tachidesk Sorayomi in native script)"
+    },
+    "appearance": "தோற்றம்",
+    "@appearance": {
+        "description": "Screen title and Button text of Appearance screen"
+    },
+    "backup": "காப்புநகல்",
+    "@backup": {
+        "description": "Screen title and Button text of Backup & Restore screen"
+    },
+    "badges": "குறிகள்",
+    "@badges": {
+        "description": "Checkbox Group title to enable Badges on manga Cover in Library Screen"
+    },
+    "bookmarked": "குறியிட்டவை",
+    "@bookmarked": {
+        "description": "Checkbox text to filter bookmarked manga chapters in Manga Details screen"
+    },
+    "browse": "உலாவுக",
+    "@browse": {
+        "description": "Screen title, Navigation Bar text and Button text of both Browse screen and Browse Settings Screen"
+    },
+    "cancel": "ரத்து செய்",
+    "@cancel": {
+        "description": "Text for Cancel button in a Popup"
+    },
+    "categories": "வகைகள்",
+    "@categories": {
+        "description": "Button text of edit Categories screen in Library settings screen"
+    },
+    "categoryUpdate": "வகை புதுப்பிப்பு",
+    "@categoryUpdate": {
+        "description": "Button text to update the mangas in the Category"
+    },
+    "chapterNumber": "அத்தியாயம் {number}",
+    "@chapterNumber": {
+        "description": "Text title for Chapter name in chapter list",
+        "placeholders": {
+            "number": {
+                "example": "12.5",
+                "type": "double"
+            }
+        }
+    },
+    "chapterSortFetchedDate": "பெறப்பட்ட தேதிப்படி",
+    "@chapterSortFetchedDate": {
+        "description": "Radio button text for sort by Fetched Date"
+    },
+    "chapterSortSource": "மூலத்தின்படி",
+    "@chapterSortSource": {
+        "description": "Radio button text for sort by Source"
+    },
+    "client": "செயலி",
+    "@client": {
+        "description": "Text title for the name of the client in About screen"
+    },
+    "clientVersion": "செயலி பதிப்பு",
+    "@clientVersion": {
+        "description": "Text title for the current version of the client in About screen"
+    },
+    "close": "மூடு",
+    "@close": {
+        "description": "Text for close button"
+    },
+    "completed": "நிறைவடைந்தது",
+    "@completed": {
+        "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
+    },
+    "copyMsg": "'{msg}' நகலெடுக்கப்பட்டது!",
+    "@copyMsg": {
+        "description": "Toast text to show that the message has been copied",
+        "placeholders": {
+            "msg": {
+                "example": "Client : Tachidesk Sorayomi",
+                "type": "String"
+            }
+        }
+    },
+    "current": "தற்போதைய",
+    "@current": {
+        "description": "Text to show the currently reading chapter in Reader Screen"
+    },
+    "defaultCategory": "புதிய மங்காவை தொகுப்பில் சேர்க்கும்போது இயல்புநிலை வகை",
+    "@defaultCategory": {
+        "description": "Checkbox description when creating a Category to add manga to the Category by Default"
+    },
+    "delete": "நீக்கு",
+    "@delete": {
+        "description": "Text for delete button"
+    },
+    "deleteCategoryDescription": "இந்த வகையில் உள்ள அனைத்து மங்காக்களும் இயல்புநிலை வகையுடன் இணைக்கப்படும்!",
+    "@deleteCategoryDescription": {
+        "description": "Popup description when deleting Category"
+    },
+    "deleteCategoryTitle": "உறுதியாக உள்ளீர்களா?",
+    "@deleteCategoryTitle": {
+        "description": "Popup title when deleting Category"
+    },
+    "discord": "டிஸ்கார்ட்",
+    "@discord": {
+        "description": "Discord app title"
+    },
+    "display": "காட்சி",
+    "@display": {
+        "description": "Text for Display tab in Library screen drawer"
+    },
+    "displayMode": "காட்சி முறை",
+    "@displayMode": {
+        "description": "Radio Group title to change manga Cover display in Library and Source Screens"
+    },
+    "displayModeDescriptiveList": "விளக்கப் பட்டியல்",
+    "@displayModeDescriptiveList": {
+        "description": "Radio button text for Manga Cover display mode - Descriptive List"
+    },
+    "displayModeGrid": "கட்ட வடிவம்",
+    "@displayModeGrid": {
+        "description": "Radio button text for Manga Cover display mode - Grid"
+    },
+    "displayModeList": "பட்டியல்",
+    "@displayModeList": {
+        "description": "Radio button text for Manga Cover display mode - List"
+    },
+    "downloaded": "பதிவிறக்கப்பட்டது",
+    "@downloaded": {
+        "description": "Text to show downloaded chapters status in Filters  "
+    },
+    "downloads": "பதிவிறக்கங்கள்",
+    "@downloads": {
+        "description": "Screen title and Navigation text of Downloads screen"
+    },
+    "edit": "திருத்து",
+    "@edit": {
+        "description": "Popup button text to edit Category in Edit category screen"
+    },
+    "editCategory": "வகையைத் திருத்து",
+    "@editCategory": {
+        "description": "Screen title, Button text and  of Downloads screen"
+    },
+    "emptyCategory": "வகையின் பெயர் காலியாக இருக்கக்கூடாது",
+    "@emptyCategory": {
+        "description": "Description to show that category list is empty in Edit Category screen"
+    },
+    "errorExtension": "தேர்ந்தெடுக்கப்பட்ட நீட்டிப்பைக் கண்டுபிடிக்க முடியவில்லை",
+    "@errorExtension": {
+        "description": "Error Description to show when user selected unknown extension from list"
+    },
+    "errorFilePick": "கோப்பு தேர்ந்தெடுக்கப்படவில்லை!",
+    "@errorFilePick": {
+        "description": "Error Description to show when user does not selected an file"
+    },
+    "errorFilePickUnknownExtension": "{extensionName} நீட்டிப்பு கொண்ட கோப்பைத் தேர்ந்தெடுக்கவும்",
+    "@errorFilePickUnknownExtension": {
+        "description": "Error Description to show when user selected unknown extension file"
+    },
+    "errorLaunchURL": "திறக்க முடியவில்லை! \"{url}\" ஐ இடைநகலுக்கு நகலெடுக்கிறது",
+    "@errorLaunchURL": {
+        "description": "Error Description to show when App failed to launch an URL and copied the URL to clipboard",
+        "placeholders": {
+            "url": {
+                "example": "http://sorayomi.suwayomi.org",
+                "type": "String"
+            }
+        }
+    },
+    "errorSomethingWentWrong": "ஏதோ தவறு ஏற்பட்டது!",
+    "@errorSomethingWentWrong": {
+        "description": "Error Description to show that Something went wrong!"
+    }
+}
