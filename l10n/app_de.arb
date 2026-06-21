@@ -807,5 +807,12 @@
     "purchase_subscribe_tips": "Alle Funktionen enthalten. Jederzeit kündbar.",
     "purchase_lifetime_tips": "Einmaliger Kauf. Keine Abonnements.",
     "purchase_per_month_price_short": "{price}/Monat",
-    "subscribe_to_add_notes": "Premium abonnieren, um Notizen hinzuzufügen"
+    "subscribe_to_add_notes": "Premium abonnieren, um Notizen hinzuzufügen",
+    "restore_buddhist_calendar_error": "Kaufwiederherstellung nicht möglich. Ihr Gerätekalender ist auf buddhistische Zeitrechnung eingestellt. Bitte ändern Sie ihn in Einstellungen > Allgemein > Sprache & Region > Kalender auf Gregorianisch und versuchen Sie es erneut.",
+    "remindLater": "Später erinnern",
+    "send_mail_fail_title": "Mail kann nicht geöffnet werden",
+    "send_mail_fail_hint": "Bitte richten Sie die Mail-App auf Ihrem Gerät ein oder senden Sie eine E-Mail direkt an {email}",
+    "copy_email": "E-Mail kopieren",
+    "app_failed_to_start_tips": "App konnte nicht gestartet werden. Starten Sie Ihr Gerät neu.",
+    "get_started_tips_1b": "Standardmäßig sind keine Erweiterungen oder Quellen enthalten. Fragen Sie gerne die KI oder suchen Sie bei Google, YouTube oder anderen Quellen, um das zu finden, was Sie brauchen."
 }

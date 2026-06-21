@@ -807,5 +807,12 @@
     "purchase_subscribe_tips": "Semua ciri disertakan. Batal bila-bila masa.",
     "purchase_lifetime_tips": "Pembelian sekali. Tiada langganan.",
     "purchase_per_month_price_short": "{price}/bln",
-    "subscribe_to_add_notes": "Langganan Premium untuk menambah nota"
+    "subscribe_to_add_notes": "Langganan Premium untuk menambah nota",
+    "restore_buddhist_calendar_error": "Tidak dapat memulihkan pembelian. Kalendar peranti anda ditetapkan ke Era Buddha. Sila tukar ke kalendar Gregory di Tetapan > Umum > Bahasa & Rantau > Kalendar, kemudian cuba lagi.",
+    "remindLater": "Ingatkan saya kemudian",
+    "send_mail_fail_title": "Tidak dapat membuka Mel",
+    "send_mail_fail_hint": "Sila sediakan aplikasi Mel pada peranti anda, atau hantar e-mel terus ke {email}",
+    "copy_email": "Salin E-mel",
+    "app_failed_to_start_tips": "Aplikasi gagal dimulakan. Cuba mulakan semula peranti anda.",
+    "get_started_tips_1b": "Tiada sambungan atau sumber disertakan secara lalai. Jangan ragu untuk bertanya AI atau cari di Google, YouTube atau sumber lain untuk mencari apa yang anda perlukan."
 }

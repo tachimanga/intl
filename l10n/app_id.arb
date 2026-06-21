@@ -807,5 +807,12 @@
     "purchase_subscribe_tips": "Semua fitur termasuk. Batalkan kapan saja.",
     "purchase_lifetime_tips": "Pembelian satu kali. Tanpa langganan.",
     "purchase_per_month_price_short": "{price}/bln",
-    "subscribe_to_add_notes": "Berlangganan Premium untuk menambahkan catatan"
+    "subscribe_to_add_notes": "Berlangganan Premium untuk menambahkan catatan",
+    "restore_buddhist_calendar_error": "Tidak dapat memulihkan pembelian. Kalender perangkat Anda disetel ke Era Buddha. Silakan ubah ke kalender Gregorian di Pengaturan > Umum > Bahasa & Wilayah > Kalender, lalu coba lagi.",
+    "remindLater": "Ingatkan saya nanti",
+    "send_mail_fail_title": "Tidak dapat membuka Mail",
+    "send_mail_fail_hint": "Silakan atur aplikasi Mail di perangkat Anda, atau kirim email langsung ke {email}",
+    "copy_email": "Salin Email",
+    "app_failed_to_start_tips": "Aplikasi gagal dimulai. Coba mulai ulang perangkat Anda.",
+    "get_started_tips_1b": "Tidak ada ekstensi atau sumber yang disertakan secara default. Silakan tanya AI atau cari di Google, YouTube, atau sumber lain untuk menemukan yang Anda butuhkan."
 }

@@ -1312,5 +1312,12 @@
     "purchase_subscribe_tips": "Toutes les fonctionnalités incluses. Annulation à tout moment.",
     "purchase_lifetime_tips": "Achat unique. Sans abonnement.",
     "purchase_per_month_price_short": "{price}/mois",
-    "subscribe_to_add_notes": "Abonnez-vous à Premium pour ajouter des notes"
+    "subscribe_to_add_notes": "Abonnez-vous à Premium pour ajouter des notes",
+    "restore_buddhist_calendar_error": "Impossible de restaurer les achats. Le calendrier de votre appareil est réglé sur l'ère bouddhique. Veuillez passer au calendrier grégorien dans Réglages > Général > Langue et région > Calendrier, puis réessayer.",
+    "remindLater": "Me le rappeler plus tard",
+    "send_mail_fail_title": "Impossible d'ouvrir Mail",
+    "send_mail_fail_hint": "Veuillez configurer l'app Mail sur votre appareil ou envoyer un e-mail directement à {email}",
+    "copy_email": "Copier l'e-mail",
+    "app_failed_to_start_tips": "Échec du démarrage de l'app. Essayez de redémarrer votre appareil.",
+    "get_started_tips_1b": "Aucune extension ni source n'est incluse par défaut. N'hésitez pas à demander à l'IA ou à rechercher sur Google, YouTube ou d'autres ressources pour trouver ce dont vous avez besoin."
 }

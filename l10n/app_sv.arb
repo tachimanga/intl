@@ -807,5 +807,12 @@
     "purchase_subscribe_tips": "Alla funktioner ingår. Avsluta när som helst.",
     "purchase_lifetime_tips": "Engångsköp. Inga prenumerationer.",
     "purchase_per_month_price_short": "{price}/mån",
-    "subscribe_to_add_notes": "Prenumerera Premium för att lägga till anteckningar"
+    "subscribe_to_add_notes": "Prenumerera Premium för att lägga till anteckningar",
+    "restore_buddhist_calendar_error": "Det gick inte att återställa köp. Din enhets kalender är inställd på buddhistisk tideräkning. Ändra den till gregoriansk kalender i Inställningar > Allmänt > Språk och region > Kalender och försök igen.",
+    "remindLater": "Påminn mig senare",
+    "send_mail_fail_title": "Det gick inte att öppna Mail",
+    "send_mail_fail_hint": "Ställ in Mail-appen på din enhet eller skicka ett e-postmeddelande direkt till {email}",
+    "copy_email": "Kopiera e-post",
+    "app_failed_to_start_tips": "Appen kunde inte startas. Försök att starta om din enhet.",
+    "get_started_tips_1b": "Inga tillägg eller källor ingår som standard. Fråga gärna AI eller sök på Google, YouTube eller andra resurser för att hitta det du behöver."
 }

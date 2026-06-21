@@ -807,5 +807,12 @@
     "purchase_subscribe_tips": "Tüm özellikler dahildir. İstediğiniz zaman iptal edin.",
     "purchase_lifetime_tips": "Tek seferlik satın alma. Abonelik yok.",
     "purchase_per_month_price_short": "{price}/ay",
-    "subscribe_to_add_notes": "Not eklemek için Premium'a abone ol"
+    "subscribe_to_add_notes": "Not eklemek için Premium'a abone ol",
+    "restore_buddhist_calendar_error": "Satın almalar geri yüklenemedi. Cihazınızın takvimi Budist Takvimi'ne ayarlı. Lütfen Ayarlar > Genel > Dil ve Bölge > Takvim'den Miladi takvime geçirin ve tekrar deneyin.",
+    "remindLater": "Daha sonra hatırlat",
+    "send_mail_fail_title": "Posta açılamıyor",
+    "send_mail_fail_hint": "Lütfen cihazınızda Posta uygulamasını kurun veya doğrudan {email} adresine e-posta gönderin",
+    "copy_email": "E-postayı Kopyala",
+    "app_failed_to_start_tips": "Uygulama başlatılamadı. Cihazınızı yeniden başlatmayı deneyin.",
+    "get_started_tips_1b": "Varsayılan olarak hiçbir uzantı veya kaynak dahil değildir. AI'a sormaktan veya Google, YouTube ya da diğer kaynaklarda arama yapmaktan çekinmeyin."
 }

@@ -807,5 +807,12 @@
     "purchase_subscribe_tips": "Minden funkció benne van. Bármikor lemondható.",
     "purchase_lifetime_tips": "Egyszeri vásárlás. Nincs előfizetés.",
     "purchase_per_month_price_short": "{price}/hó",
-    "subscribe_to_add_notes": "Fizess elő a Prémiumra jegyzetek hozzáadásához"
+    "subscribe_to_add_notes": "Fizess elő a Prémiumra jegyzetek hozzáadásához",
+    "restore_buddhist_calendar_error": "Nem sikerült visszaállítani a vásárlásokat. A készülék naptára buddhista időszámításra van állítva. Kérjük, állítsa át Gergely-naptárra a Beállítások > Általános > Nyelv és régió > Naptár menüben, majd próbálja újra.",
+    "remindLater": "Emlékeztess később",
+    "send_mail_fail_title": "Nem lehet megnyitni a Mailt",
+    "send_mail_fail_hint": "Kérjük, állítsa be a Mail alkalmazást a készülékén, vagy küldjön e-mailt közvetlenül a következő címre: {email}",
+    "copy_email": "E-mail másolása",
+    "app_failed_to_start_tips": "Az alkalmazás nem tudott elindulni. Próbálja újraindítani a készüléket.",
+    "get_started_tips_1b": "Alapértelmezés szerint nincsenek bővítmények vagy források. Kérdezze bátran az AI-t, vagy keressen a Google-on, YouTube-on vagy más forrásokban, hogy megtalálja, amire szüksége van."
 }
