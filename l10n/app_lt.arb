@@ -1312,5 +1312,12 @@
     "purchase_subscribe_tips": "Įtrauktos visos funkcijos. Galite atšaukti bet kada.",
     "purchase_lifetime_tips": "Vienkartinis pirkimas. Be prenumeratų.",
     "purchase_per_month_price_short": "{price}/mėn",
-    "subscribe_to_add_notes": "Prenumeruokite „Premium“, kad galėtumėte pridėti pastabų"
+    "subscribe_to_add_notes": "Prenumeruokite „Premium“, kad galėtumėte pridėti pastabų",
+    "restore_buddhist_calendar_error": "Nepavyko atkurti pirkinių. Jūsų įrenginio kalendorius nustatytas į budistinę erą. Pakeiskite jį į Grigaliaus kalendorių Nustatymuose > Bendrieji > Kalba ir regionas > Kalendorius, tada bandykite dar kartą.",
+    "remindLater": "Priminti vėliau",
+    "send_mail_fail_title": "Nepavyko atidaryti Pašto",
+    "send_mail_fail_hint": "Nustatykite Pašto programėlę savo įrenginyje arba siųskite el. laišką tiesiogiai adresu {email}",
+    "copy_email": "Kopijuoti el. paštą",
+    "app_failed_to_start_tips": "Programėlės paleisti nepavyko. Pabandykite iš naujo paleisti įrenginį.",
+    "get_started_tips_1b": "Pagal numatytuosius nustatymus plėtiniai ar šaltiniai neįtraukti. Nedvejodami klauskite DI arba ieškokite „Google“, „YouTube“ ar kituose šaltiniuose, ko jums reikia."
 }

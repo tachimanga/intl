@@ -816,5 +816,12 @@
     "purchase_subscribe_tips": "Todas as funcionalidades incluídas. Cancele quando quiser.",
     "purchase_lifetime_tips": "Compra única. Sem assinaturas.",
     "purchase_per_month_price_short": "{price}/mês",
-    "subscribe_to_add_notes": "Subscreve o Premium para adicionar notas"
+    "subscribe_to_add_notes": "Subscreve o Premium para adicionar notas",
+    "restore_buddhist_calendar_error": "Não foi possível restaurar as compras. O calendário do seu dispositivo está definido para a Era Budista. Altere para o calendário gregoriano em Definições > Geral > Idioma e Região > Calendário e tente novamente.",
+    "remindLater": "Lembrar-me mais tarde",
+    "send_mail_fail_title": "Não foi possível abrir o Mail",
+    "send_mail_fail_hint": "Configure a aplicação Mail no seu dispositivo ou envie um e-mail diretamente para {email}",
+    "copy_email": "Copiar E-mail",
+    "app_failed_to_start_tips": "A aplicação não conseguiu iniciar. Tente reiniciar o seu dispositivo.",
+    "get_started_tips_1b": "Não estão incluídas extensões ou fontes por defeito. Sinta-se à vontade para perguntar à IA ou pesquisar no Google, YouTube ou outros recursos para encontrar o que precisa."
 }

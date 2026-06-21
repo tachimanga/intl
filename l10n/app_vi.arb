@@ -807,5 +807,12 @@
     "purchase_subscribe_tips": "Bao gồm tất cả tính năng. Hủy bất cứ lúc nào.",
     "purchase_lifetime_tips": "Mua một lần. Không đăng ký.",
     "purchase_per_month_price_short": "{price}/tháng",
-    "subscribe_to_add_notes": "Đăng ký Premium để thêm ghi chú"
+    "subscribe_to_add_notes": "Đăng ký Premium để thêm ghi chú",
+    "restore_buddhist_calendar_error": "Không thể khôi phục giao dịch mua. Lịch thiết bị của bạn đang đặt là Phật lịch. Vui lòng đổi sang lịch Gregorian trong Cài đặt > Cài đặt chung > Ngôn ngữ & Vùng > Lịch, rồi thử lại.",
+    "remindLater": "Nhắc tôi sau",
+    "send_mail_fail_title": "Không thể mở Mail",
+    "send_mail_fail_hint": "Vui lòng thiết lập ứng dụng Mail trên thiết bị của bạn hoặc gửi email trực tiếp đến {email}",
+    "copy_email": "Sao chép Email",
+    "app_failed_to_start_tips": "Không thể khởi động ứng dụng. Hãy thử khởi động lại thiết bị của bạn.",
+    "get_started_tips_1b": "Không có tiện ích mở rộng hoặc nguồn nào được bao gồm theo mặc định. Hãy thoải mái hỏi AI hoặc tìm kiếm trên Google, YouTube hoặc các tài nguyên khác để tìm thứ bạn cần."
 }

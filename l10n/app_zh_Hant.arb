@@ -807,5 +807,12 @@
     "purchase_subscribe_tips": "包含所有功能。可隨時取消。",
     "purchase_lifetime_tips": "單次購買。無需訂閱。",
     "purchase_per_month_price_short": "{price}/月",
-    "subscribe_to_add_notes": "訂閱高級版以新增筆記"
+    "subscribe_to_add_notes": "訂閱高級版以新增筆記",
+    "restore_buddhist_calendar_error": "無法恢復購買。您的裝置日曆設定為佛曆。請在設定 > 一般 > 語言與地區 > 日曆中改為西曆，然後重試。",
+    "remindLater": "稍後提醒我",
+    "send_mail_fail_title": "無法開啟郵件",
+    "send_mail_fail_hint": "請在裝置上設定郵件應用程式，或直接發送郵件至 {email}",
+    "copy_email": "複製電郵",
+    "app_failed_to_start_tips": "應用程式啟動失敗。請嘗試重新啟動裝置。",
+    "get_started_tips_1b": "預設不包含任何擴充功能或來源。請隨時詢問 AI 或搜尋 Google、YouTube 或其他資源來尋找您需要的內容。"
 }

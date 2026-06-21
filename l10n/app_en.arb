@@ -2015,5 +2015,34 @@
     "purchase_per_month_price_short": "{price}/mo",
     "@purchase_per_month_price_short": {},
     "subscribe_to_add_notes": "Subscribe Premium to add notes",
-    "@subscribe_to_add_notes": {}
+    "@subscribe_to_add_notes": {},
+    "restore_buddhist_calendar_error": "Unable to restore purchases. Your device calendar is set to Buddhist Era. Please change it to Gregorian calendar in Settings > General > Language & Region > Calendar, then try again.",
+    "@restore_buddhist_calendar_error": {
+        "description": "Error message when restore fails due to Buddhist calendar setting"
+    },
+    "remindLater": "Remind me later",
+    "@remindLater": {
+        "description": "Button text to postpone restart reminder"
+    },
+    "send_mail_fail_title": "Unable to open Mail",
+    "@send_mail_fail_title": {
+        "description": "Dialog title when SEND_MAIL fails"
+    },
+    "send_mail_fail_hint": "Please set up the Mail app on your device, or send an email directly to {email}",
+    "@send_mail_fail_hint": {
+        "description": "Dialog message when SEND_MAIL fails, reminding user to set up Mail app or send email manually",
+        "placeholders": {
+            "email": {
+                "type": "String"
+            }
+        }
+    },
+    "copy_email": "Copy Email",
+    "@copy_email": {
+        "description": "Button text to copy email address"
+    },
+    "app_failed_to_start_tips": "App failed to start. Try restarting your device.",
+    "@app_failed_to_start_tips": {},
+    "get_started_tips_1b": "No extensions or sources are included by default. Feel free to ask AI or search Google, YouTube, or other resources to find what you need.",
+    "@get_started_tips_1b": {}
 }

@@ -1294,5 +1294,12 @@
     "purchase_subscribe_tips": "包含所有功能。可随时取消。",
     "purchase_lifetime_tips": "一次性购买。无需订阅。",
     "purchase_per_month_price_short": "{price}/月",
-    "subscribe_to_add_notes": "订阅高级版以添加笔记"
+    "subscribe_to_add_notes": "订阅高级版以添加笔记",
+    "remindLater": "稍后提醒我",
+    "restore_buddhist_calendar_error": "无法恢复购买。您的设备日历设置为佛历。请在设置 > 通用 > 语言与地区 > 日历中改为公历，然后重试。",
+    "send_mail_fail_title": "无法打开邮件",
+    "send_mail_fail_hint": "请在设备上设置邮件应用，或直接发送邮件至 {email}",
+    "copy_email": "复制邮箱",
+    "app_failed_to_start_tips": "应用启动失败。请尝试重启设备。",
+    "get_started_tips_1b": "默认不包含任何扩展或来源。请随时询问 AI 或搜索 Google、YouTube 或其他资源来查找您需要的内容。"
 }
