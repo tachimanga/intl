@@ -1,0 +1,1373 @@
+{
+    "about": "செயலி பற்றி",
+    "@about": {
+        "description": "Screen title and Button text of About screen"
+    },
+    "addCategory": "புதிய வகையைச் சேர்",
+    "@addCategory": {
+        "description": "Popup title and Button text to add new category in Edit Category Screen"
+    },
+    "addToLibrary": "தொகுப்பில் சேர்",
+    "@addToLibrary": {
+        "description": "Button text to add Manga to Library in Manga Details Screen"
+    },
+    "appLanguage": "செயலி மொழி",
+    "@appLanguage": {
+        "description": "Popup title and Button text to change App Language"
+    },
+    "appTheme": "செயலி தோற்றம்",
+    "@appTheme": {
+        "description": "Popup title and Button text to change App Theme"
+    },
+    "appTitle": "டாச்சிமங்கா",
+    "@appTitle": {
+        "description": "Name of the app (Tachidesk Sorayomi in native script)"
+    },
+    "appearance": "தோற்றம்",
+    "@appearance": {
+        "description": "Screen title and Button text of Appearance screen"
+    },
+    "backup": "காப்புநகல்",
+    "@backup": {
+        "description": "Screen title and Button text of Backup & Restore screen"
+    },
+    "badges": "குறிகள்",
+    "@badges": {
+        "description": "Checkbox Group title to enable Badges on manga Cover in Library Screen"
+    },
+    "bookmarked": "குறியிட்டவை",
+    "@bookmarked": {
+        "description": "Checkbox text to filter bookmarked manga chapters in Manga Details screen"
+    },
+    "browse": "உலாவுக",
+    "@browse": {
+        "description": "Screen title, Navigation Bar text and Button text of both Browse screen and Browse Settings Screen"
+    },
+    "cancel": "ரத்து செய்",
+    "@cancel": {
+        "description": "Text for Cancel button in a Popup"
+    },
+    "categories": "வகைகள்",
+    "@categories": {
+        "description": "Button text of edit Categories screen in Library settings screen"
+    },
+    "categoryUpdate": "வகை புதுப்பிப்பு",
+    "@categoryUpdate": {
+        "description": "Button text to update the mangas in the Category"
+    },
+    "chapterNumber": "அத்தியாயம் {number}",
+    "@chapterNumber": {
+        "description": "Text title for Chapter name in chapter list",
+        "placeholders": {
+            "number": {
+                "example": "12.5",
+                "type": "double"
+            }
+        }
+    },
+    "chapterSortFetchedDate": "பெறப்பட்ட தேதிப்படி",
+    "@chapterSortFetchedDate": {
+        "description": "Radio button text for sort by Fetched Date"
+    },
+    "chapterSortSource": "மூலத்தின்படி",
+    "@chapterSortSource": {
+        "description": "Radio button text for sort by Source"
+    },
+    "client": "செயலி",
+    "@client": {
+        "description": "Text title for the name of the client in About screen"
+    },
+    "clientVersion": "செயலி பதிப்பு",
+    "@clientVersion": {
+        "description": "Text title for the current version of the client in About screen"
+    },
+    "close": "மூடு",
+    "@close": {
+        "description": "Text for close button"
+    },
+    "completed": "நிறைவடைந்தது",
+    "@completed": {
+        "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
+    },
+    "copyMsg": "'{msg}' நகலெடுக்கப்பட்டது!",
+    "@copyMsg": {
+        "description": "Toast text to show that the message has been copied",
+        "placeholders": {
+            "msg": {
+                "example": "Client : Tachidesk Sorayomi",
+                "type": "String"
+            }
+        }
+    },
+    "current": "தற்போதைய",
+    "@current": {
+        "description": "Text to show the currently reading chapter in Reader Screen"
+    },
+    "defaultCategory": "புதிய மங்காவை தொகுப்பில் சேர்க்கும்போது இயல்புநிலை வகை",
+    "@defaultCategory": {
+        "description": "Checkbox description when creating a Category to add manga to the Category by Default"
+    },
+    "delete": "நீக்கு",
+    "@delete": {
+        "description": "Text for delete button"
+    },
+    "deleteCategoryDescription": "இந்த வகையில் உள்ள அனைத்து மங்காக்களும் இயல்புநிலை வகையுடன் இணைக்கப்படும்!",
+    "@deleteCategoryDescription": {
+        "description": "Popup description when deleting Category"
+    },
+    "deleteCategoryTitle": "உறுதியாக உள்ளீர்களா?",
+    "@deleteCategoryTitle": {
+        "description": "Popup title when deleting Category"
+    },
+    "discord": "டிஸ்கார்ட்",
+    "@discord": {
+        "description": "Discord app title"
+    },
+    "display": "காட்சி",
+    "@display": {
+        "description": "Text for Display tab in Library screen drawer"
+    },
+    "displayMode": "காட்சி முறை",
+    "@displayMode": {
+        "description": "Radio Group title to change manga Cover display in Library and Source Screens"
+    },
+    "displayModeDescriptiveList": "விளக்கப் பட்டியல்",
+    "@displayModeDescriptiveList": {
+        "description": "Radio button text for Manga Cover display mode - Descriptive List"
+    },
+    "displayModeGrid": "கட்ட வடிவம்",
+    "@displayModeGrid": {
+        "description": "Radio button text for Manga Cover display mode - Grid"
+    },
+    "displayModeList": "பட்டியல்",
+    "@displayModeList": {
+        "description": "Radio button text for Manga Cover display mode - List"
+    },
+    "downloaded": "பதிவிறக்கப்பட்டது",
+    "@downloaded": {
+        "description": "Text to show downloaded chapters status in Filters  "
+    },
+    "downloads": "பதிவிறக்கங்கள்",
+    "@downloads": {
+        "description": "Screen title and Navigation text of Downloads screen"
+    },
+    "edit": "திருத்து",
+    "@edit": {
+        "description": "Popup button text to edit Category in Edit category screen"
+    },
+    "editCategory": "வகையைத் திருத்து",
+    "@editCategory": {
+        "description": "Screen title, Button text and  of Downloads screen"
+    },
+    "emptyCategory": "வகையின் பெயர் காலியாக இருக்கக்கூடாது",
+    "@emptyCategory": {
+        "description": "Description to show that category list is empty in Edit Category screen"
+    },
+    "errorExtension": "தேர்ந்தெடுக்கப்பட்ட நீட்டிப்பைக் கண்டுபிடிக்க முடியவில்லை",
+    "@errorExtension": {
+        "description": "Error Description to show when user selected unknown extension from list"
+    },
+    "errorFilePick": "கோப்பு தேர்ந்தெடுக்கப்படவில்லை!",
+    "@errorFilePick": {
+        "description": "Error Description to show when user does not selected an file"
+    },
+    "errorFilePickUnknownExtension": "{extensionName} நீட்டிப்பு கொண்ட கோப்பைத் தேர்ந்தெடுக்கவும்",
+    "@errorFilePickUnknownExtension": {
+        "description": "Error Description to show when user selected unknown extension file"
+    },
+    "errorLaunchURL": "திறக்க முடியவில்லை! \"{url}\" ஐ இடைநகலுக்கு நகலெடுக்கிறது",
+    "@errorLaunchURL": {
+        "description": "Error Description to show when App failed to launch an URL and copied the URL to clipboard",
+        "placeholders": {
+            "url": {
+                "example": "http://sorayomi.suwayomi.org",
+                "type": "String"
+            }
+        }
+    },
+    "errorSomethingWentWrong": "ஏதோ தவறு ஏற்பட்டது!",
+    "@errorSomethingWentWrong": {
+        "description": "Error Description to show that Something went wrong!"
+    },
+    "extensionInstalled": "நீட்டிப்பு நிறுவப்பட்டது!",
+    "@extensionInstalled": {
+        "description": "Toast text to show that the Extension Installed successfully"
+    },
+    "extensionListEmpty": "நீட்டிப்புகளின் பட்டியல் காலியாக உள்ளது",
+    "@extensionListEmpty": {
+        "description": "Description to show that Extension list is empty in Extension list tab of Browse screen"
+    },
+    "extensions": "நீட்டிப்புகள்",
+    "@extensions": {
+        "description": "Extension list Tab title in Browse Screen"
+    },
+    "failed": "தோல்வியடைந்தது",
+    "@failed": {
+        "description": "Failed status Manga Group title in Update Summary Screen"
+    },
+    "filter": "வடிகட்டி",
+    "@filter": {
+        "description": "title of filter Tab across the app"
+    },
+    "finished": "முடிந்தது",
+    "@finished": {
+        "description": "Text to show the Currently Finished reading chapter in Reader Screen"
+    },
+    "general": "பொது",
+    "@general": {
+        "description": "Screen title and Button text of General setting screen"
+    },
+    "gitHub": "கிட்ஹப்",
+    "@gitHub": {
+        "description": "GitHub app title"
+    },
+    "globalSearch": "உலகளாவிய தேடல்",
+    "@globalSearch": {
+        "description": "Screen title of Global Search screen"
+    },
+    "globalUpdate": "உலகளாவிய புதுப்பிப்பு",
+    "@globalUpdate": {
+        "description": "Button text of Global Manga Update"
+    },
+    "help": "உதவி",
+    "@help": {
+        "description": "Button text of help in about screen"
+    },
+    "inLibrary": "நூலகத்தில் உள்ளது",
+    "@inLibrary": {
+        "description": "Button and Chip text to show that the manga is in Library"
+    },
+    "install": "சேர்",
+    "@install": {
+        "description": "Button text to install the extension"
+    },
+    "installing": "சேர்க்கப்படுகிறது",
+    "@installing": {
+        "description": "Button text to show that the extension is installing"
+    },
+    "installingExtension": "நீட்டிப்பு சேர்க்கப்படுகிறது",
+    "@installingExtension": {
+        "description": "Toast text to show that the extension is installing"
+    },
+    "languages": "மொழிகள்",
+    "@languages": {
+        "description": "Popup title to filter extensions based on language"
+    },
+    "library": "நூலகம்",
+    "@library": {
+        "description": "Screen title and Button text of Library and Library Settings screen"
+    },
+    "manga": "மங்கா",
+    "@manga": {
+        "description": "Screen title and Button text of Manga details screen"
+    },
+    "mangaGridSize": "மங்கா கட்ட அளவு",
+    "@mangaGridSize": {
+        "description": "Popup title and Button text to change Manga Grid size"
+    },
+    "mangaSortAlphabetical": "அகரவரிசை",
+    "@mangaSortAlphabetical": {
+        "description": "Radio button text for Manga sort Type - Alphabetical"
+    },
+    "mangaSortDateAdded": "சேர்க்கப்பட்ட தேதி",
+    "@mangaSortDateAdded": {
+        "description": "Radio button text for Manga sort Type - Date Added"
+    },
+    "mangaSortUnread": "படிக்காதவை",
+    "@mangaSortUnread": {
+        "description": "Radio button text for Manga sort Type - Unread"
+    },
+    "mangaSortLastRead": "கடைசியாக படித்தது",
+    "@mangaSortLastRead": {
+        "description": "Radio button text for Manga sort Type - Last Read"
+    },
+    "mangaStatusCancelled": "ரத்து செய்யப்பட்டது",
+    "@mangaStatusCancelled": {
+        "description": "Text to show Manga Status Cancelled in Manga details screen"
+    },
+    "mangaStatusCompleted": "நிறைவடைந்தது",
+    "@mangaStatusCompleted": {
+        "description": "Text to show Manga Status Completed in Manga details screen"
+    },
+    "mangaStatusLicensed": "உரிமம் பெற்றது",
+    "@mangaStatusLicensed": {
+        "description": "Text to show Manga Status Licensed in Manga details screen"
+    },
+    "mangaStatusOnHiatus": "தற்காலிக இடைநிறுத்தம்",
+    "@mangaStatusOnHiatus": {
+        "description": "Text to show Manga Status On Hiatus in Manga details screen"
+    },
+    "mangaStatusOngoing": "தொடர்கிறது",
+    "@mangaStatusOngoing": {
+        "description": "Text to show Manga Status Ongoing in Manga details screen"
+    },
+    "mangaStatusPublishingFinished": "வெளியீடு முடிந்தது",
+    "@mangaStatusPublishingFinished": {
+        "description": "Text to show Manga Status Publishing Finished in Manga details screen"
+    },
+    "mangaStatusUnknown": "தெரியவில்லை",
+    "@mangaStatusUnknown": {
+        "description": "Text to show Manga Status Unknown in Manga details screen"
+    },
+    "more": "மேலும்",
+    "@more": {
+        "description": "Screen title and Navigation text of More screen"
+    },
+    "moveToBottom": "கீழே நகர்த்து",
+    "@moveToBottom": {
+        "description": "Button text to move download/category to the bottom of list"
+    },
+    "moveToTop": "மேலே நகர்த்து",
+    "@moveToTop": {
+        "description": "Button text to move download/category to the top of list"
+    },
+    "nameCountDisplay": "{name}: {count}",
+    "@nameCountDisplay": {
+        "description": "Text pattern to display an name and count in a string",
+        "placeholders": {
+            "name": {
+                "example": "Downloaded",
+                "type": "String"
+            },
+            "count": {
+                "example": "22",
+                "type": "int"
+            }
+        }
+    },
+    "newUpdateAvailable": "புதிய புதுப்பிப்பு கிடைக்கிறது",
+    "@newUpdateAvailable": {
+        "description": "Popup title to show that the App/Server has and update"
+    },
+    "noCategoriesFound": "உங்களிடம் எந்த வகைகளும் இல்லை.",
+    "@noCategoriesFound": {
+        "description": "Hint text to add new Category when category list is empty"
+    },
+    "noCategoriesFoundAlt": "உங்களிடம் எந்த வகைகளும் இல்லை.\nஉங்கள் நூலகத்தை ஒழுங்குபடுத்த அமைப்புகளில் ஒன்றை உருவாக்குங்கள்",
+    "@noCategoriesFoundAlt": {
+        "description": "Hint text to add new Category in Settings when category list is empty"
+    },
+    "noCategoryMangaFound": "இந்த வகை காலியாக உள்ளது",
+    "@noCategoryMangaFound": {
+        "description": "Hint text to check filter when manga list is empty in Category tab in Library"
+    },
+    "noChaptersFound": "அத்தியாயங்கள் எதுவும் கிடைக்கவில்லை",
+    "@noChaptersFound": {
+        "description": "Text to show that the Chapter list is empty in Manga details Screen"
+    },
+    "noDownloads": "பதிவிறக்கங்கள் இல்லை",
+    "@noDownloads": {
+        "description": "Text to show that there is no active downloads in Downloads Screen"
+    },
+    "noMangaFound": "மங்காக்கள் எதுவும் கிடைக்கவில்லை",
+    "@noMangaFound": {
+        "description": "Text to show that the Manga list is empty"
+    },
+    "noOfChapters": "{count} அத்தியாயங்கள்",
+    "@noOfChapters": {
+        "description": "Title text to show the number of chapters in the Manga details screen",
+        "placeholders": {
+            "count": {
+                "example": "23",
+                "type": "int"
+            }
+        }
+    },
+    "noResultFound": "முடிவுகள் எதுவும் கிடைக்கவில்லை",
+    "@noResultFound": {
+        "description": "Text to show that no results found for the given search query"
+    },
+    "noSourcesFound": "மூலங்கள் எதுவும் கிடைக்கவில்லை",
+    "@noSourcesFound": {
+        "description": "Text to show that the Source list is empty"
+    },
+    "noUpdatesAvailable": "நீங்கள் சமீபத்திய பதிப்பைப் பயன்படுத்துகிறீர்கள்",
+    "@noUpdatesAvailable": {
+        "description": "Text to show that the user is using the latest version of the app"
+    },
+    "noUpdatesFound": "சமீபத்திய அத்தியாயங்கள் எதுவும் இல்லை",
+    "@noUpdatesFound": {
+        "description": "Toast Text to show that there are no Updates available"
+    },
+    "nsfw": "NSFW நீட்டிப்புகள் மற்றும் மூலங்களைக் காட்டு",
+    "@nsfw": {
+        "description": "Switch text to show/hide the nsfw extensions"
+    },
+    "nsfw18": "18+",
+    "@nsfw18": {
+        "description": "18+ tag Text to show in extensions list"
+    },
+    "nsfwInfo": "இது அதிகாரப்பூர்வமற்ற அல்லது தவறாக வகைப்படுத்தப்பட்ட நீட்டிப்புகள் செயலிக்குள் NSFW (18+) உள்ளடக்கத்தைக் காட்டுவதைத் தடுக்காது",
+    "@nsfwInfo": {
+        "description": "Hint text to show that the nsfw switch cannot prevent incorrectly flagged extensions from surfacing"
+    },
+    "numSelected": "{num} தேர்ந்தெடுக்கப்பட்டது",
+    "@numSelected": {
+        "description": "Title text to show the number of chapters selected in the Manga details screen and Updates screen",
+        "placeholders": {
+            "num": {
+                "example": "23",
+                "type": "int"
+            }
+        }
+    },
+    "obsolete": "பழையது",
+    "@obsolete": {
+        "description": "Text to show that the extension has become Obsolete"
+    },
+    "page": "பக்கம்: {number}",
+    "@page": {
+        "description": "Text to show the last read Page number of the chapter in Manga details screen",
+        "placeholders": {
+            "number": {
+                "example": "23",
+                "type": "int"
+            }
+        }
+    },
+    "pause": "இடைநிறுத்து",
+    "@pause": {
+        "description": "Button text to pause downloads"
+    },
+    "pending": "நிலுவையில் உள்ளது",
+    "@pending": {
+        "description": "Pending status Manga Group title in Update Summary Screen"
+    },
+    "reader": "வாசிப்பான்",
+    "@reader": {
+        "description": "Screen title and Button text of Reader screen"
+    },
+    "readerMode": "வாசிப்பு முறை",
+    "@readerMode": {
+        "description": "Popup title and Button text of Reader Mode popup"
+    },
+    "readerModeContinuousHorizontalLTR": "தொடர்ச்சி (இடமிருந்து வலம்)",
+    "@readerModeContinuousHorizontalLTR": {
+        "description": "Radio button text for Reader Mode Type - Continuous Horizontal (LTR)"
+    },
+    "readerModeContinuousHorizontalRTL": "தொடர்ச்சி (வலமிருந்து இடம்)",
+    "@readerModeContinuousHorizontalRTL": {
+        "description": "Radio button text for Reader Mode Type - Continuous Horizontal (RTL)"
+    },
+    "readerModeContinuousVertical": "தொடர்ச்சி (செங்குத்து)",
+    "@readerModeContinuousVertical": {
+        "description": "Radio button text for Reader Mode Type - Continuous Vertical"
+    },
+    "readerModeDefaultReader": "இயல்புநிலை",
+    "@readerModeDefaultReader": {
+        "description": "Radio button text for Reader Mode Type - Default"
+    },
+    "readerModeSingleHorizontalLTR": "பக்கவாரி (இடமிருந்து வலம்)",
+    "@readerModeSingleHorizontalLTR": {
+        "description": "Radio button text for Reader Mode Type - Single Horizontal (LTR)"
+    },
+    "readerModeSingleHorizontalRTL": "பக்கவாரி (வலமிருந்து இடம்)",
+    "@readerModeSingleHorizontalRTL": {
+        "description": "Radio button text for Reader Mode Type - Single Horizontal (RTL)"
+    },
+    "readerModeSingleVertical": "பக்கவாரி (செங்குத்து)",
+    "@readerModeSingleVertical": {
+        "description": "Radio button text for Reader Mode Type - Single Vertical"
+    },
+    "readerModeWebtoon": "வெப்டூன்",
+    "@readerModeWebtoon": {
+        "description": "Radio button text for Reader Mode Type - Webtoon"
+    },
+    "readerNavigationLayout": "தொடு பகுதிகள்",
+    "@readerNavigationLayout": {
+        "description": "Popup title and Button text of Reader Navigation Layout popup"
+    },
+    "readerNavigationLayoutDefault": "இயல்புநிலை",
+    "@readerNavigationLayoutDefault": {
+        "description": "Radio button text for Reader Navigation Layout - Default"
+    },
+    "readerNavigationLayoutDisabled": "முடக்கப்பட்டது",
+    "@readerNavigationLayoutDisabled": {
+        "description": "Radio button text for Reader Navigation Layout - Disabled"
+    },
+    "readerNavigationLayoutEdge": "விளிம்பு",
+    "@readerNavigationLayoutEdge": {
+        "description": "Radio button text for Reader Navigation Layout - Edge"
+    },
+    "readerNavigationLayoutInvert": "தொடு பகுதிகளை தலைகீழாக்கு",
+    "@readerNavigationLayoutInvert": {
+        "description": "Switch title to invert Tap to scroll in reader screen"
+    },
+    "readerNavigationLayoutKindlish": "கிண்டில் பாணி",
+    "@readerNavigationLayoutKindlish": {
+        "description": "Radio button text for Reader Navigation Layout - Kindle-ish"
+    },
+    "readerNavigationLayoutLShaped": "L வடிவம்",
+    "@readerNavigationLayoutLShaped": {
+        "description": "Radio button text for Reader Navigation Layout - L Shaped"
+    },
+    "readerNavigationLayoutRightAndLeft": "வலதும் இடதும்",
+    "@readerNavigationLayoutRightAndLeft": {
+        "description": "Radio button text for Reader Navigation Layout - Right And Left"
+    },
+    "readerPadding": "பக்க ஓர இடைவெளி",
+    "@readerPadding": {
+        "description": "Slider title text for Reader Padding"
+    },
+    "refresh": "புதுப்பி",
+    "@refresh": {
+        "description": "Refresh button text"
+    },
+    "reset": "மீட்டமை",
+    "@reset": {
+        "description": "Button text of reset button in source filters"
+    },
+    "resume": "தொடரவும்",
+    "@resume": {
+        "description": "Button Text to resume Chapter reading/downloading"
+    },
+    "retry": "மீண்டும் முயற்சி",
+    "@retry": {
+        "description": "Retry Button Text"
+    },
+    "running": "இயங்குகிறது",
+    "@running": {
+        "description": "Running status Manga Group title in Update Summary Screen"
+    },
+    "save": "சேமி",
+    "@save": {
+        "description": "Save Button Text"
+    },
+    "search": "தேடு",
+    "@search": {
+        "description": "Search field hint Text"
+    },
+    "settings": "அமைப்புகள்",
+    "@settings": {
+        "description": "Screen title and Button text of Settings screen"
+    },
+    "sort": "வரிசைப்படுத்து",
+    "@sort": {
+        "description": "title of sort Tab across the app"
+    },
+    "source": "மூலம்",
+    "@source": {
+        "description": "Screen title and Button text of source screen"
+    },
+    "sourceTypeFilter": "வடிகட்டி",
+    "@sourceTypeFilter": {
+        "description": "Tab text Filter for source screen type"
+    },
+    "sourceTypeLatest": "சமீபத்தியவை",
+    "@sourceTypeLatest": {
+        "description": "Tab text Latest for source screen type"
+    },
+    "sourceTypePopular": "பிரபலமானவை",
+    "@sourceTypePopular": {
+        "description": "Tab text Popular for source screen type"
+    },
+    "sources": "மூலங்கள்",
+    "@sources": {
+        "description": "title of Sources Tab in Browse Screen"
+    },
+    "start": "தொடங்கு",
+    "@start": {
+        "description": "Button text start reading the manga"
+    },
+    "themeModeDark": "இருண்ட",
+    "@themeModeDark": {
+        "description": "Radio button text for App theme - Dark"
+    },
+    "themeModeLight": "ஒளிரும்",
+    "@themeModeLight": {
+        "description": "Radio button text for App theme - Light"
+    },
+    "themeModeSystem": "கணினி இயல்புநிலை",
+    "@themeModeSystem": {
+        "description": "Radio button text for App theme - System"
+    },
+    "uninstall": "அகற்று",
+    "@uninstall": {
+        "description": "Button text to Uninstall the extension"
+    },
+    "uninstalling": "அகற்றப்படுகிறது",
+    "@uninstalling": {
+        "description": "Button text to show that the extension is uninstalling"
+    },
+    "unknownAuthor": "அறியப்படாத ஆசிரியர்",
+    "@unknownAuthor": {
+        "description": "Text to show unknown author in Manga details screen"
+    },
+    "unknownManga": "அறியப்படாத மங்கா",
+    "@unknownManga": {
+        "description": "Text to show unknown manga in Manga details screen"
+    },
+    "unknownSource": "அறியப்படாத மூலம்",
+    "@unknownSource": {
+        "description": "Text to show unknown Source in Manga details screen"
+    },
+    "unread": "படிக்காதவை",
+    "@unread": {
+        "description": "Checkbox text to unread bookmarked manga/chapters across app"
+    },
+    "update": "புதுப்பி",
+    "@update": {
+        "description": "Button text to update the extension"
+    },
+    "updateCompleted": "புதுப்பிப்பு நிறைவடைந்தது",
+    "@updateCompleted": {
+        "description": "Button text to show that extension update is completed"
+    },
+    "updates": "புதுப்பிப்புகள்",
+    "@updates": {
+        "description": "Screen title and Button text of Updates screen"
+    },
+    "updatesSummary": "புதுப்பிப்பு சுருக்கம்",
+    "@updatesSummary": {
+        "description": "Screen title and Button text of Updates Summary screen"
+    },
+    "updating": "புதுப்பிக்கப்படுகிறது",
+    "@updating": {
+        "description": "Button text to show that the extension is updating"
+    },
+    "webView": "இணையக் காட்சி",
+    "@webView": {
+        "description": "Button text to open manga website"
+    },
+    "whatsNew": "புதியது என்ன?",
+    "@whatsNew": {
+        "description": "Button text to open whats new page of app in web"
+    },
+    "getPremium": "பிரீமியம் பெறுக",
+    "alreadyGetPremium": "பிரீமியம் வாங்கப்பட்டுள்ளது",
+    "purchaseExpireAt": "பிரீமியம் சந்தா {date} அன்று தானாக புதுப்பிக்கப்படும்.",
+    "iapFaq": "அடிக்கடி கேட்கப்படும் கேள்விகள்",
+    "restorePurchase": "வாங்கியதை மீட்டமை",
+    "share": "பகிர்",
+    "discordServer": "டிஸ்கார்ட் சேவையகம்",
+    "externalRepository": "நீட்டிப்பு அமைப்புகள்",
+    "externalRepositoryUrl": "நீட்டிப்பு களஞ்சிய முகவரி",
+    "externalRepositoryUrlShort": "களஞ்சிய முகவரி",
+    "history": "வரலாறு",
+    "clearCookies": "குக்கீகளை அழி",
+    "clearCache": "தற்காலிக சேமிப்பை அழி",
+    "termsUrl": "பயன்பாட்டு விதிமுறைகள்",
+    "privacyUrl": "தனியுரிமைக் கொள்கை",
+    "recentlyDownloaded": "சமீபத்தில் பதிவிறக்கப்பட்டவை",
+    "tracking": "கண்காணிப்பு",
+    "downloadFailed": "பதிவிறக்கம் தோல்வியடைந்தது",
+    "errorMessageFrom": "பிழைச் செய்தி: {text}",
+    "downloadTip": "குறிப்பு: திற பொத்தானை அழுத்தி சரியாக படிக்க முடியுமா என்று பார்க்கவும்.",
+    "open": "திற",
+    "ok": "சரி",
+    "remove": "அகற்று",
+    "logout": "வெளியேறு",
+    "logoutFrom": "{text} இலிருந்து வெளியேறு",
+    "addTracking": "கண்காணிப்பைச் சேர்",
+    "openInBrowser": "உலாவியில் திற",
+    "processing": "செயலாக்கப்படுகிறது...",
+    "trackingStatus": "நிலை",
+    "trackingStatusReading": "படித்து வருகிறது",
+    "trackingStatusPlanToRead": "படிக்க திட்டமிட்டுள்ளது",
+    "trackingStatusCompleted": "நிறைவடைந்தது",
+    "trackingStatusOnHold": "நிலுவையில்",
+    "trackingStatusDropped": "கைவிடப்பட்டது",
+    "trackingStatusRereading": "மீண்டும் படிக்கப்படுகிறது",
+    "trackingChapter": "அத்தியாயம்",
+    "trackingScore": "மதிப்பெண்",
+    "trackingStartDate": "தொடக்க தேதி",
+    "trackingFinishDate": "முடிவு தேதி",
+    "operationFailTip": "செயல் தோல்வியடைந்தது. மீண்டும் முயற்சிக்கவும்.",
+    "createBackupTitle": "காப்புநகலை உருவாக்கு",
+    "@createBackupTitle": {
+        "description": "Button text to create backup"
+    },
+    "createBackupDescription": "தற்போதைய நூலகத்தை மீட்டமைக்க இதைப் பயன்படுத்தலாம்.",
+    "@createBackupDescription": {
+        "description": "Button text description to create backup"
+    },
+    "backupCreated": "காப்புநகல் உருவாக்கப்பட்டது!",
+    "restoreBackupTitle": "காப்புநகலை மீட்டமை",
+    "@restoreBackupTitle": {
+        "description": "Button text to create backup"
+    },
+    "restoreBackupDescription": "காப்புநகல் கோப்பிலிருந்து நூலகத்தை மீட்டமை",
+    "@restoreBackupDescription": {
+        "description": "Button text description to create backup"
+    },
+    "restoring": "காப்புநகல் மீட்டமைக்கப்படுகிறது",
+    "@restoring": {
+        "description": "Toast Text to show that the backup is restoring"
+    },
+    "restored": "காப்புநகல் மீட்டமைக்கப்பட்டது!",
+    "@restored": {
+        "description": "Toast Text to show that the backup has been restored"
+    },
+    "autoBackupSectionTitle": "தானியங்கி காப்புநகல்கள்",
+    "backupsSectionTitle": "காப்புநகல்கள்",
+    "restoreBackup": "மீட்டமை",
+    "exportBackup": "ஏற்றுமதி செய்",
+    "backupNamePrefixNormal": "காப்புநகல்",
+    "backupNamePrefixAuto": "தானியங்கி காப்புநகல்",
+    "backupNamePrefixSchedule": "திட்டமிடப்பட்ட காப்புநகல்",
+    "restoreConfirmTitle": "இந்த காப்புநகலை மீட்டமைக்கவா?",
+    "restoreConfirmContent": "தற்போதைய அனைத்து தரவுகளும் நீக்கப்பட்டு, இந்த காப்புநகலில் உள்ள தரவுகளால் மாற்றப்படும்.",
+    "importConfirmTitle": "Tachiyomi காப்புநகலை இறக்குமதி செய்யவா?",
+    "importConfirmContent": "Tachiyomi நூலகம் உள்ளூர் நூலகத்துடன் இணைக்கப்படும்; ஏற்கனவே உள்ள தரவு நீக்கப்படவோ மாற்றப்படவோ மாட்டாது.",
+    "autoBackupTip": "காப்புநகலை மீட்டமைப்பதற்கு முன் தானாக ஒரு காப்புநகலை உருவாக்கு.",
+    "autoBackupTipForImport": "காப்புநகலை இறக்குமதி செய்வதற்கு முன் தானாக ஒரு காப்புநகலை உருவாக்கு.",
+    "imported": "காப்புநகல் இறக்குமதி செய்யப்பட்டது!",
+    "restoreSuccessTip": "காப்புநகல் வெற்றிகரமாக மீட்டமைக்கப்பட்டது. செயலியை மறுதொடக்கம் செய்த பின் மாற்றங்கள் அமலுக்கு வரும்.",
+    "importSuccessTip": "காப்புநகல் வெற்றிகரமாக இறக்குமதி செய்யப்பட்டது. செயலியை மறுதொடக்கம் செய்த பின் மாற்றங்கள் அமலுக்கு வரும்.",
+    "invalidBackup": "தவறான காப்புநகல் கோப்பு",
+    "invalidBackupVersion": "காப்புநகலை மீட்டமை செயலியின் சமீபத்திய பதிப்பைப் பயன்படுத்தவும்.",
+    "autoBackupFailTip": "மீட்டமைப்பதற்கு முன் தானியங்கி காப்புநகலை உருவாக்க முடியவில்லை. தானியங்கி காப்புநகலை முடக்கிவிட்டு மீண்டும் முயற்சிக்கவும்.",
+    "restartApp": "செயலியை மறுதொடக்கம் செய்",
+    "confirm": "உறுதிப்படுத்து",
+    "noNextChapter": "அடுத்த அத்தியாயம் இல்லை",
+    "readerScrollAnimation": "பக்க மாற்ற அசைவூட்டம்",
+    "doubleTapZoomIn": "இருமுறை தட்டி பெரிதாக்கு",
+    "allScanlators": "அனைத்து ஸ்கேன்லேட்டர்களும்",
+    "scanlators": "ஸ்கேன்லேட்டர்கள்",
+    "mangaSortLatestChapterFetch": "அத்தியாய பெறப்பட்ட தேதி",
+    "onlySearchPinSource": "பின் செய்யப்பட்ட மூலங்களில் மட்டும் தேடு",
+    "prevPage": "முந்தைய",
+    "nextPage": "அடுத்த",
+    "leftPage": "இடது",
+    "rightPage": "வலது",
+    "tapMenu": "பட்டியல்",
+    "byPassSwitch": "Cloudflare ஐ தானாக கடக்கிறது",
+    "byPassStart": "Cloudflare ஐ கடக்க முயற்சிக்கிறது",
+    "byPassSuccess": "Cloudflare வெற்றிகரமாக கடக்கப்பட்டது",
+    "byPassTimeout": "Cloudflare ஐ கடக்க முடியவில்லை",
+    "byPassCancel": "Cloudflare கடத்தலை பயனர் ரத்து செய்தார்",
+    "checkInWebView": "{msg}, இணையக் காட்சியில் சரிபார்க்கவும்",
+    "imageSaveSuccess": "படம் வெற்றிகரமாக சேமிக்கப்பட்டது.",
+    "imageSaveFail": "படத்தை சேமிக்க முடியவில்லை.",
+    "imageFileFetchFail": "படத்தை பதிவிறக்க முடியவில்லை.",
+    "imageSaveWatermarkSwitch": "படம் வாட்டர்மார்க் உடன் சேமிக்கப்பட்டு பகிரப்பட்டது",
+    "mangaShareText": "{title} - {author} {link}\nTachimanga மூலம் பகிரப்பட்டது",
+    "chapterShareText": "{title} - {author}, {chapter} {link}\nTachimanga மூலம் பகிரப்பட்டது",
+    "theme_default": "இயல்புநிலை",
+    "theme_monet": "மாறும் நிறம்",
+    "theme_greenapple": "பச்சை ஆப்பிள்",
+    "theme_lavender": "லாவெண்டர்",
+    "theme_midnightdusk": "நள்ளிரவு மங்கல்",
+    "theme_strawberrydaiquiri": "ஸ்ட்ராபெரி டைக்விரி",
+    "theme_tako": "டாகோ",
+    "theme_tealturquoise": "டீல் & டர்காய்ஸ்",
+    "theme_yinyang": "யின் & யாங்",
+    "theme_yotsuba": "யோத்சுபா",
+    "theme_tidalwave": "அலைவெள்ளம்",
+    "themePureBlackDarkMode": "தூய கருப்பு இருண்ட முறை",
+    "themeColorBlendLevel": "நிறக் கலவை அளவு",
+    "themeSectionTitle": "தோற்றம்",
+    "displaySectionTitle": "காட்சி",
+    "advanced": "மேம்பட்டவை",
+    "advancedSubtitle": "தற்காலிக சேமிப்பு, குக்கீகளை அழித்தல் மற்றும் பதிவேடுகளை ஏற்றுமதி செய்தல்.",
+    "premiumRequired": "பிரீமியம் தேவை.",
+    "pref_backup_interval": "காப்புநகல் அடிக்கடி",
+    "off": "முடக்கு",
+    "on": "இயக்கு",
+    "update_6hour": "ஒவ்வொரு 6 மணிநேரமும்",
+    "update_12hour": "ஒவ்வொரு 12 மணிநேரமும்",
+    "update_24hour": "தினமும்",
+    "update_48hour": "ஒவ்வொரு 2 நாட்களும்",
+    "update_weekly": "வாரந்தோறும்",
+    "pref_backup_slots": "அதிகபட்ச காப்புநகல்கள்",
+    "backup_info": "காப்புநகல்களின் நகல்களை வேறு இடங்களிலும் வைத்திருக்க வேண்டும்.",
+    "last_auto_backup_info": "கடைசியாக தானாக காப்புநகல் எடுக்கப்பட்டது: {time}",
+    "defaultTab": "இயல்புநிலை தாவல்",
+    "lastOpenedTab": "கடைசியாக திறந்த தாவல்",
+    "showStatusBar": "வாசிக்கும் போது நிலைப் பட்டியைக் காட்டு",
+    "swipeRightToGoBack": "திரும்பிச் செல்ல வலப்புறம் இழுக்கவும்",
+    "always": "எப்போதும்",
+    "disable": "முடக்கு",
+    "disableWhenHorizontal": "கிடைமட்ட முறையில் முடக்கு",
+    "default_category": "இயல்புநிலை வகை",
+    "default_category_summary": "எப்போதும் கேள்",
+    "label_default": "இயல்புநிலை",
+    "action_move_category": "வகைகளை அமை",
+    "readerAdvancedSubtitle": "சைகைகள், பெரிதாக்குதல் மற்றும் நிலைப் பட்டி.",
+    "dataUsageSectionTitle": "தரவு பயன்பாடு",
+    "networkSectionTitle": "இணையம்",
+    "logsSectionTitle": "பதிவேடுகள்",
+    "enableLog": "பதிவேட்டை இயக்கு",
+    "exportLog": "பதிவேட்டை ஏற்றுமதி செய்",
+    "cookiesCleared": "குக்கீகள் அழிக்கப்பட்டன",
+    "cacheCleared": "தற்காலிக சேமிப்பு அழிக்கப்பட்டது",
+    "local_source": "உள்ளூர் மூலம்",
+    "ext_installed": "நிறுவப்பட்டது",
+    "last_used_source": "கடைசியாக பயன்படுத்திய மூலம்",
+    "pinned_sources": "பின் செய்யப்பட்ட மூலங்கள்",
+    "ext_updates_pending": "நிலுவையில் உள்ள புதுப்பிப்புகள்",
+    "other_source": "பிற",
+    "multi_lang": "பல மொழி",
+    "uninstall_confirm": "இந்த நீட்டிப்பை அகற்ற விரும்புகிறீர்களா?",
+    "extension_repo": "நீட்டிப்பு களஞ்சியங்கள்",
+    "one_repository": "1 களஞ்சியம்",
+    "num_repositories": "{num} களஞ்சியங்கள்",
+    "add_repository": "களஞ்சியத்தைச் சேர்",
+    "empty_repository": "நீங்கள் இன்னும் எந்த நீட்டிப்பு களஞ்சியத்தையும் சேர்க்கவில்லை.",
+    "add_repo_by_name": "பெயரால்",
+    "add_repo_by_name_tip": "Tachimanga இல் கூடுதல் களஞ்சியங்களைச் சேர்க்கவும்.\nகளஞ்சிய வடிவம் 'username/repo' ஆகும்.",
+    "add_repo_by_url": "முகவரி மூலம்",
+    "add_repo_by_url_tip": "Tachimanga இல் கூடுதல் களஞ்சியங்களைச் சேர்க்கவும்.\nஇது 'index.min.json' என முடியும் ஒரு முகவரியாக இருக்க வேண்டும்.",
+    "get_repo_meta_fail": "களஞ்சியத் தகவலைப் பெற முடியவில்லை.",
+    "delete_repository": "களஞ்சியத்தை நீக்கு",
+    "delete_repository_content": "\"{name}\" களஞ்சியத்தை நீக்க விரும்புகிறீர்களா?",
+    "label_add": "சேர்",
+    "label_adding": "சேர்க்கப்படுகிறது",
+    "extension_usage_terms": "வெளிப்புற களஞ்சியங்களை அமைக்க, பின்வரும் ஒப்பந்தத்தை ஏற்க வேண்டும்:\n1. வெளிப்புற களஞ்சியங்களை Tachimanga எந்த விதத்திலும் கட்டுப்படுத்தாது என்பதை நான் புரிந்துகொள்கிறேன்.\n2. வெளிப்புற நீட்டிப்புகளுடன் Tachimanga-க்கு தொடர்பில்லை என்பதை நான் புரிந்துகொள்கிறேன்.\n3. எனக்கு உரிமை இல்லாத உள்ளடக்கத்தைப் பார்க்க Tachimanga-வை பயன்படுத்தமாட்டேன்.",
+    "find_repository": "களஞ்சியத்தைக் கண்டறி",
+    "get_start": "தொடங்குதல்",
+    "label_copy": "நகலெடு",
+    "migrate": "இடமாற்று",
+    "migration_dialog_what_to_include": "சேர்க்க வேண்டிய தரவைத் தேர்ந்தெடுக்கவும்",
+    "migrate_action_migrate": "இடமாற்று",
+    "migrate_action_copy": "நகலெடு",
+    "migrate_action_show_manga": "மங்காவைக் காட்டு",
+    "chapters": "அத்தியாயங்கள்",
+    "select_category_to_update": "புதுப்பிக்க வேண்டிய வகைகளைத் தேர்ந்தெடுக்கவும்",
+    "update_all": "அனைத்தையும் புதுப்பி",
+    "always_ask": "எப்போதும் கேள்",
+    "contact_us": "எங்களைத் தொடர்புகொள்ள",
+    "changelogs": "மாற்றப் பதிவுகள்",
+    "help_translate": "மொழிபெயர்க்க உதவுங்கள்",
+    "pref_category_security": "பாதுகாப்பு",
+    "lock_with_biometrics": "திறக்க உறுதிப்படுத்தல் தேவை",
+    "lock_when_idle": "செயலற்ற நிலையில் பூட்டு",
+    "lock_always": "எப்போதும்",
+    "lock_never": "ஒருபோதும் இல்லை",
+    "secure_screen": "பாதுகாப்பான திரை",
+    "secure_screen_summary": "செயலிகளை மாற்றும்போது செயலியின் உள்ளடக்கத்தை மறைக்கும்",
+    "pref_incognito_mode": "மறைநிலை முறை",
+    "pref_incognito_mode_summary": "வாசிப்பு வரலாற்றை இடைநிறுத்தும்",
+    "pref_incognito_mode_on": "மறைநிலை முறை இயக்கப்பட்டது",
+    "pref_incognito_mode_off": "மறைநிலை முறை முடக்கப்பட்டது",
+    "lock_after_mins": "{x, plural, one{ {x} நிமிடத்திற்குப் பின்} other{ {x} நிமிடங்களுக்குப் பின்}}",
+    "lock_type_biometrics": "FaceID/TouchID",
+    "lock_type_passcode": "கடவுக்குறியீடு",
+    "lock_biometrics_unavailable": "FaceID அல்லது TouchID கிடைக்கவில்லை.",
+    "unlock_title": "Tachimanga ஐத் திற",
+    "pref_date_format": "தேதி வடிவம்",
+    "relative_time_today": "இன்று",
+    "relative_time": "{x, plural, one{நேற்று} other{{x} நாட்களுக்கு முன்}}",
+    "num_trackers": "{x, plural, one{{x} கண்காணிப்பு} other{{x} கண்காணிப்புகள்}}",
+    "num_categories": "{x, plural, one{{x} வகை} other{{x} வகைகள்}}",
+    "action_sort_latest_chapter": "சமீபத்திய அத்தியாயம்",
+    "tabs_header": "தாவல்கள்",
+    "action_display_show_number_of_items": "உருப்படிகளின் எண்ணிக்கையைக் காட்டு",
+    "page_layout": "பக்க அமைப்பு",
+    "page_layout_single": "ஒற்றைப் பக்கம்",
+    "page_layout_double": "இரட்டைப் பக்கம்",
+    "page_layout_automatic": "தானியங்கி",
+    "page_layout_separate_first_page": "முதல் பக்கத்தை தனியாகக் காட்டு",
+    "page_layout_tip": "பக்க அமைப்பு பக்கவாரி வாசிப்பு முறையில் மட்டுமே செயல்படும்.",
+    "show_tap_zones_when_start_reading": "வாசிக்கத் தொடங்கும்போது தொடு பகுதிகளைக் காட்டு.",
+    "select_chapters": "அத்தியாயங்களைத் தேர்ந்தெடு",
+    "label_watermark": "வாட்டர்மார்க்",
+    "tap_to_open": "திறக்க தட்டவும்",
+    "labs": "சோதனை அம்சங்கள்",
+    "labsSubtitle": "பரிசோதனை அம்சங்கள்",
+    "concurrent_download_short_title_num": "ஒரேநேர பதிவிறக்கங்கள்: {num}",
+    "concurrent_download_short_title": "ஒரேநேர பதிவிறக்கங்கள்",
+    "concurrent_download_title": "ஒரேநேர பதிவிறக்கங்களின் எண்ணிக்கை",
+    "concurrent_download_tips": "ஒரே மூலத்திலிருந்து நீண்ட நேரம் ஒரேநேரத்தில் பதிவிறக்கினால், உங்கள் IP தடுக்கப்படலாம்.",
+    "download_next_n_chapter": "{x, plural, one{அடுத்த அத்தியாயம்} other{அடுத்த {x} அத்தியாயங்கள்}}",
+    "download_unread_chapters": "படிக்காத அனைத்து அத்தியாயங்களும்",
+    "download_all_chapters": "அனைத்து அத்தியாயங்களும்",
+    "download_queue": "பதிவிறக்க வரிசை",
+    "download_settings": "பதிவிறக்க அமைப்புகள்",
+    "remove_after_read": "படித்த பின் பதிவிறக்கத்தை நீக்கு",
+    "pinch_to_zoom": "விரல்களைப் பயன்படுத்தி பெரிதாக்கு",
+    "errorFilePickUnknownType": "{suffix} கோப்பைத் தேர்ந்தெடுக்கவும்",
+    "attention_label": "⚠️ கவனம்",
+    "homepage_label": "முகப்பு",
+    "download_limit_exceeded_title": "பதிவிறக்க வரம்பு மீறப்பட்டது",
+    "download_limit_number_title": "பதிவிறக்க வரம்பு {num} அத்தியாயங்கள்.",
+    "download_limit_content": "ஒரு நாளுக்கு {freeTicket} அத்தியாயங்களைப் பதிவிறக்கலாம்.\n\nஒரு விளம்பரத்தைப் பார்த்தால் இந்த வரம்பு {ticketPerAd} அத்தியாயங்கள் அதிகரிக்கும். {maxAds} விளம்பரங்களைப் பார்த்த பின் அந்த நாளுக்கு வரம்பு இருக்காது.\n\nபிரீமியம் பயனர்களுக்கு வரம்பற்ற பதிவிறக்கங்கள்.",
+    "download_limit_increase": "பதிவிறக்க வரம்பு {num} அதிகரிக்கப்பட்டது.",
+    "add_download_tips": "{x, plural, one{1 அத்தியாயம் பதிவிறக்க வரிசையில் சேர்க்கப்பட்டது.} other{{x} அத்தியாயங்கள் பதிவிறக்க வரிசையில் சேர்க்கப்பட்டன.}}",
+    "watch_ad_label": "விளம்பரத்தைப் பார்",
+    "backup_created_content": "காப்புநகல்களின் நகல்களை வேறு இடங்களிலும் வைத்திருக்க வேண்டும்.\nபதிவிறக்கப்பட்ட உள்ளடக்கமும் உள்ளூர் மூலங்களும் காப்புநகலில் சேர்க்கப்படாது.",
+    "display_as_single_page": "ஒற்றைப் பக்கமாகக் காட்டு",
+    "clear_last_hour": "கடைசி ஒரு மணி நேரம்",
+    "clear_today": "இன்று",
+    "clear_today_and_yesterday": "இன்றும் நேற்றும்",
+    "clear_all_time": "எல்லா நேரமும்",
+    "start_reading": "வாசிக்கத் தொடங்கு",
+    "continue_reading_chapter": "{title} வாசிப்பைத் தொடரு",
+    "icon_section_title": "செயலி சின்னம்",
+    "app_icon_title": "செயலி சின்னம்",
+    "app_icon_author": "{author} வடிவமைத்தார்",
+    "classic_start_reading_button": "பழைய தொடக்க வாசிப்பு பொத்தான்",
+    "long_press_action_menu": "நீண்ட நேர அழுத்த செயல் பட்டியல்",
+    "app_icon_update_tip": "சின்னம் புதுப்பிக்கப்படவில்லை என்றால் சிறிது நேரம் காத்திருக்கவும் அல்லது சாதனத்தை மறுதொடக்கம் செய்யவும்.",
+    "update_running_text": "புதுப்பிக்கப்படுகிறது: {title}",
+    "update_completed_text": "புதுப்பிப்பு முடிந்தது. {x} வெற்றி, {y} தோல்வி.",
+    "new_category": "புதிய வகை",
+    "add_manga_to": "மங்காவை இதில் சேர்...",
+    "add_to_default_category": "இயல்புநிலை வகையில் சேர்",
+    "add_to_category": "{category} இல் சேர்",
+    "add_to_categories": "{x, plural, one{வகையில் சேர்} other{{x} வகைகளில் சேர்}}",
+    "move_manga_to": "மங்காவை இதில் நகர்த்து...",
+    "keep_in_default_category": "இயல்புநிலை வகையில் வைத்திரு",
+    "move_to_category": "{category} க்கு நகர்த்து",
+    "move_to_categories": "{x, plural, one{வகைக்கு நகர்த்து} other{{x} வகைகளுக்கு நகர்த்து}}",
+    "iCloud_label": "iCloud",
+    "backup_to_iCloud": "iCloud Drive இல் காப்புநகல்",
+    "backup_to_iCloud_tip": "iCloud Drive மூலம் காப்புநகல் கோப்புகளை பதிவேற்று மற்றும் பதிவிறக்கு",
+    "downloading_from_iCloud": "iCloud இலிருந்து பதிவிறக்கப்படுகிறது",
+    "iCloud_unavailable_tip": "iCloud Drive கிடைக்கவில்லை. கணினி அமைப்புகளில் iCloud Drive ஐ இயக்கவும்.",
+    "downloading_running_text": "{total} இல் {running} பதிவிறக்கப்படுகிறது",
+    "edit_cover": "அட்டையைத் திருத்து",
+    "set_as_cover": "அட்டையாக அமை",
+    "cover_updated": "அட்டை புதுப்பிக்கப்பட்டது",
+    "save_image_user_denied_msg": "அணுகல் மறுக்கப்பட்டது. கணினி அமைப்புகளில் Tachimanga க்கு புகைப்பட அணுகலை அனுமதிக்கவும்.",
+    "set_as_default": "இயல்புநிலையாக அமை",
+    "reset_to_default": "இயல்புநிலைக்கு மீட்டமை",
+    "repo_not_exist": "நீட்டிப்பு களஞ்சியம் இல்லை.",
+    "disagree_label": "ஏற்கவில்லை",
+    "agree_label": "ஏற்கிறேன்",
+    "library_is_empty": "உங்கள் நூலகம் காலியாக உள்ளது.\nஉலாவு தாவலில் இருந்து மங்காவைச் சேர்க்கவும்.",
+    "history_is_empty": "சமீபத்தில் எதுவும் படிக்கப்படவில்லை.",
+    "downloaded_is_empty": "சமீபத்திய பதிவிறக்கங்கள் இல்லை.",
+    "reset_filters": "வடிகட்டிகளை மீட்டமை",
+    "log_enable_tips": "பதிவேடு வெற்றிகரமாக இயக்கப்பட்டது. செயலியை மறுதொடக்கம் செய்த பின் மாற்றங்கள் அமலுக்கு வரும்.",
+    "manga_auto_refresh_title": "தானியங்கி புதுப்பிப்பு",
+    "manga_auto_refresh_desc": "தலைப்பைப் பார்க்கும் போது புதிய அத்தியாயங்களைச் சரிபார்க்கும்.",
+    "migration_dialog_tips": "இடமாற்றத்தின் போது பதிவிறக்கப்பட்ட அத்தியாயங்கள் மாற்றப்படாது.",
+    "premium_month_price": "{price}/மாதம்",
+    "premium_month_price_only": "{price}/மாதம் மட்டும்",
+    "premium_year_price": "{price}/ஆண்டு",
+    "early_bird_price": "முன்கூட்டிய சலுகை விலை",
+    "sync": "ஒத்திசை",
+    "enable_sync": "ஒத்திசைவை இயக்கு",
+    "enable_sync_tip": "முதல் முறையாக ஒத்திசைவை இயக்கும்போது முழு நூலகமும் சேவையகத்திற்கு பதிவேற்றப்படும். இதற்கு சில நிமிடங்கள் ஆகலாம்.",
+    "sync_now": "இப்போது ஒத்திசை",
+    "sync_settings": "ஒத்திசைவு அமைப்புகள்",
+    "syncing": "ஒத்திசைக்கப்படுகிறது",
+    "sync_time_tip": "ஒத்திசைவு செயல்முறை சரியான சாதன நேரத்தை நம்பியுள்ளது. தற்போதைய சாதன நேரத்திற்கும் சேவையக நேரத்திற்கும் இடையே பெரிய வேறுபாடு உள்ளது.\n\nதற்போதைய சாதன நேரம்: {deviceTime}\nஒத்திசைவு சேவையக நேரம்: {serverTime}",
+    "login_to_enable_sync": "ஒத்திசைவை இயக்க உள்நுழைக",
+    "login": "உள்நுழைக",
+    "register": "புதிய கணக்கை உருவாக்கு",
+    "email": "மின்னஞ்சல்",
+    "password": "கடவுச்சொல்",
+    "password_again": "கடவுச்சொல்லை உறுதிப்படுத்து",
+    "password_not_match": "கடவுச்சொற்கள் பொருந்தவில்லை.",
+    "email_empty": "சரியான மின்னஞ்சல் முகவரியை உள்ளிடவும்.",
+    "password_empty": "கடவுச்சொல்லை உள்ளிடவும்.",
+    "synced_at_time": "{time} இல் ஒத்திசைக்கப்பட்டது",
+    "just_now": "இப்போதுதான்",
+    "minutes_ago": "{x, plural, one{1 நிமிடத்திற்கு முன்} other{{x} நிமிடங்களுக்கு முன்}}",
+    "hours_ago": "{x, plural, one{1 மணி நேரத்திற்கு முன்} other{{x} மணி நேரங்களுக்கு முன்}}",
+    "sync_faq_q1": "ஒத்திசைவு என்றால் என்ன?",
+    "sync_faq_a1": "ஒத்திசைவு என்பது பல சாதனங்களில் உங்கள் நூலகத்தை ஒரே நிலையில் வைத்திருக்க உதவும் அம்சமாகும்.",
+    "sync_faq_q2": "எந்த தரவுகள் ஒத்திசைக்கப்படும்?",
+    "sync_faq_a2": "நூலகம், வாசிப்பு வரலாறு, புத்தகக்குறிகள், களஞ்சியங்கள் மற்றும் நீட்டிப்புகள் ஒத்திசைக்கப்படும்.",
+    "sync_faq_q3": "எந்த தரவுகள் ஒத்திசைக்கப்படாது?",
+    "sync_faq_a3": "உள்ளூர் கோப்புகள், உள்ளூர் நீட்டிப்புகள், பதிவிறக்கங்கள், செயலி அமைப்புகள், நீட்டிப்பு அமைப்புகள் மற்றும் கண்காணிப்பு உள்நுழைவு தகவல்கள் ஒத்திசைக்கப்படாது.",
+    "sync_faq_q4": "ஒத்திசைவு எப்போது நடைபெறும்?",
+    "sync_faq_a4": "செயலி தொடக்கம், உள்ளடக்கப் புதுப்பிப்பு அல்லது உங்கள் கோரிக்கையின் போது ஒத்திசைவு தானாக நடைபெறும்.",
+    "sync_faq_q5": "ஒத்திசைவுக்கு எவ்வளவு நேரமும் தரவும் தேவைப்படும்?",
+    "sync_faq_a5": "முதல் முழு ஒத்திசைவு தலைப்புகளின் எண்ணிக்கையைப் பொறுத்து சில நிமிடங்கள் ஆகலாம். அதன் பிறகு நடைபெறும் ஒத்திசைவுகள் வேகமாகவும் குறைந்த தரவு பயன்பாட்டுடனும் இருக்கும்.",
+    "sign_in_with_apple": "Apple மூலம் உள்நுழைக",
+    "login_with_email": "மின்னஞ்சல் மூலம் உள்நுழைக",
+    "login_term": "உங்கள் மின்னஞ்சலை வழங்குவதன் மூலம் அல்லது ஒற்றை உள்நுழைவு சேவையைப் பயன்படுத்துவதன் மூலம், எங்கள் {terms} ஐ ஏற்றுக்கொண்டு {privacy} ஐப் படித்ததாக ஒப்புக்கொள்கிறீர்கள்.",
+    "do_not_have_account": "கணக்கு இல்லையா?",
+    "register_here": "இங்கே பதிவு செய்யுங்கள்",
+    "already_have_account": "ஏற்கனவே கணக்கு உள்ளதா?",
+    "login_here": "இங்கே உள்நுழைக",
+    "logout_all": "அனைத்து சாதனங்களிலிருந்தும் வெளியேறு.",
+    "logout_all_tips": "இது அனைத்து சாதனங்களிலிருந்தும் உங்கள் Tachimanga அணுகலை நீக்கும்.",
+    "logout_tips": "இது தற்போதைய சாதனத்திலிருந்து உங்கள் Tachimanga அணுகலை நீக்கும்.",
+    "delete_account_label": "என் கணக்கை நீக்கு",
+    "delete_account_title": "இதைச் செய்ய உறுதியாக உள்ளீர்களா?",
+    "delete_account_content": "ஒருமுறை கணக்கை நீக்கிய பிறகு அதை மீட்டெடுக்க முடியாது. அதே மின்னஞ்சலால் மீண்டும் பதிவு செய்ய முடியாது.",
+    "delete_account_verify": "சரிபார்க்க, கீழே {text} என தட்டச்சு செய்யவும்:",
+    "receive_timeout_label": "பெறுதல் காலாவதி இடைவெளி",
+    "receive_timeout_subtitle": "இந்த அமைப்பை அடிக்கடி காலாவதி பிழைகள் ஏற்பட்டால் மட்டுமே மாற்றவும்.",
+    "next": "அடுத்து",
+    "enable_sync_up_to_date_tip": "ஒத்திசைவை இயக்குவதற்கு முன் தற்போதைய சாதனத்தின் நூலகம் புதுப்பிக்கப்பட்டுள்ளதா என்பதை உறுதிசெய்யவும்.",
+    "are_you_sure_proceed": "தொடர உறுதியாக உள்ளீர்களா?",
+    "create_backup_before_enable_sync": "ஒத்திசைவை இயக்குவதற்கு முன் காப்புநகலை உருவாக்கு.",
+    "subscribe_to_enable_sync": "ஒத்திசைவை இயக்க பிரீமியம் சந்தா தேவை",
+    "sync_not_enable": "ஒத்திசைவு இயக்கப்படவில்லை.",
+    "login_required": "உள்நுழைவு தேவை.",
+    "extension_filtered_out_by_nsfw": "{x, plural, one{1 நீட்டிப்பு} other{{x} நீட்டிப்புகள்}} முக்கியமான உள்ளடக்கம் கொண்டிருக்கக்கூடும் என்பதால் காட்டப்படவில்லை.\nஅமைப்புகளில் மாற்றவும்.",
+    "extension_filtered_out_by_lang": "இந்த நீட்டிப்புகள் {text} மொழியில் கிடைக்கின்றன.\nகாண்பிக்க {preference} ஐ மாற்றவும்.",
+    "extension_language_preference": "நீட்டிப்பு மொழி விருப்பம்",
+    "hours_short": "{x} ம",
+    "minutes_short": "{x} நி",
+    "seconds_short": "{x} வி",
+    "hours_minutes_short": "{x} ம {y} நி",
+    "minutes_seconds_short": "{x} நி {y} வி",
+    "tachiyomiBackupSectionTitle": "Tachiyomi, Mihon மற்றும் கிளைகள்",
+    "importTachiyomiBackupTitle": "Tachiyomi காப்புநகலை இறக்குமதி செய்",
+    "importTachiyomiBackupDescription": "Tachiyomi, Mihon மற்றும் கிளைகளின் காப்புநகலிலிருந்து நூலகத்தை இறக்குமதி செய்.",
+    "createTachiyomiBackupTitle": "Tachiyomi இணக்கமான காப்புநகலை உருவாக்கு",
+    "createTachiyomiBackupDescription": "Tachiyomi, Mihon மற்றும் கிளைகளுடன் இணக்கமான காப்புநகலை உருவாக்கு.",
+    "done_label": "முடிந்தது",
+    "reading_insights": "வாசிப்பு புள்ளிவிவரங்கள்",
+    "auto_scroll": "தானியங்கி உருட்டல்",
+    "seconds_per_page": "ஒரு பக்கத்திற்கு {x} வினாடிகள்",
+    "select_all": "அனைத்தையும் தேர்ந்தெடு",
+    "select_invert": "தேர்வை தலைகீழாக்கு",
+    "select_between": "இடைப்பட்டவற்றைத் தேர்ந்தெடு",
+    "reading_time_tip": "வாசிப்பு நேரம் டிசம்பர் 2024 முதல் கணக்கிடப்படுகிறது.",
+    "pinch_to_zoom_tip": "macOS இல் மவுஸ் சக்கரத்தைப் பயன்படுத்தினால் இந்த அம்சத்தை முடக்கவும்.",
+    "reader_keep_screen_on": "வாசிக்கும் போது திரையை அணையாமல் வைத்திரு.",
+    "remove_from_library": "நூலகத்திலிருந்து நீக்கு",
+    "tachiyomi_import_tip_title": "இறக்குமதி தோல்வியடைந்தது: காப்புநகல் கோப்பு மிகப் பெரியது.",
+    "tachiyomi_import_tip_content": "Tachiyomi, Mihon மற்றும் கிளைகளில் நூலகம், வகைகள் மற்றும் கண்காணிப்பு மட்டும் காப்புநகல் எடுத்து மீண்டும் முயற்சிக்கவும்.",
+    "apple_pencil_integration": "Apple Pencil",
+    "apple_pencil_integration_description": "இருமுறை தட்டுதல் மற்றும் அழுத்துதல்",
+    "apple_pencil_double_tap": "இருமுறை தட்டு",
+    "apple_pencil_squeeze": "அழுத்து",
+    "requires_apple_pencil_pro": "இந்த அம்சத்திற்கு Apple Pencil Pro தேவை.",
+    "action_previous_page": "முந்தைய பக்கம்",
+    "action_next_page": "அடுத்த பக்கம்",
+    "action_previous_chapter": "முந்தைய அத்தியாயம்",
+    "action_next_chapter": "அடுத்த அத்தியாயம்",
+    "action_none": "செயல் இல்லை",
+    "label_select": "தேர்ந்தெடு",
+    "remove_downloads": "பதிவிறக்கங்களை நீக்கு",
+    "remove_downloads_if_migrate": "இடமாற்றினால் பதிவிறக்கங்களையும் நீக்கு",
+    "mark_all_read": "அனைத்து அத்தியாயங்களையும் படித்ததாகக் குறிக்கவா?",
+    "mark_as_read": "படித்ததாகக் குறி",
+    "mark_all_unread": "அனைத்து அத்தியாயங்களையும் படிக்காததாகக் குறிக்கவா?",
+    "mark_as_unread": "படிக்காததாகக் குறி",
+    "move_to_default_category": "இயல்புநிலை வகைக்கு நகர்த்து",
+    "remove_from_category": "{category} இலிருந்து நீக்கு",
+    "remove_from_categories": "{x, plural, one{வகையிலிருந்து நீக்கு} other{{x} வகைகளிலிருந்து நீக்கு}}",
+    "keep_in_category": "{category} இல் வைத்திரு",
+    "keep_in_categories": "{x, plural, one{வகையில் வைத்திரு} other{{x} வகைகளில் வைத்திரு}}",
+    "how_to_upgrade_lifetime": "வாழ்நாள் பிரீமியமாக மேம்படுத்துவது எப்படி?",
+    "how_to_upgrade_lifetime_steps": "முதலில் வாழ்நாள் பிரீமியத்தை வாங்கி, பின்னர் சந்தா மேலாண்மையில் மாதாந்திர அல்லது வருடாந்திர சந்தாவை ரத்து செய்யவும்.",
+    "upgrade_label": "மேம்படுத்து",
+    "subscription_management": "சந்தா மேலாண்மை",
+    "use_photo_view_title": "பெரிதாக்கும் போது இழுக்கும் அனுபவத்தை மேம்படுத்து.",
+    "source_not_working_tips": "இந்த மூலம் தற்போது சரியாக செயல்படவில்லை. உதவியைப் பார்த்து மற்றொரு மூலத்திற்கு இடமாற்றம் செய்யவும்.",
+    "chapterSortUploadDate": "பதிவேற்ற தேதி",
+    "chapterSortChapterName": "பெயரின்படி",
+    "library_search_globally": "\"{text}\" என்பதை முழுமையாக தேடு",
+    "saved_searches": "சேமித்த தேடல்கள்",
+    "long_press_to_delete": "நீக்க நீண்ட நேரம் அழுத்தவும்.",
+    "save_query_title": "தற்போதைய தேடலைச் சேமிக்கவா?",
+    "save_query_hint": "பெயர்",
+    "delete_query_title": "சேமித்த தேடலை நீக்கவா?",
+    "delete_query_content": "{title} ஐ நீக்க விரும்புகிறீர்களா?",
+    "receive_timeout_tips": "கோரிக்கை காலாவதியானது. புதுப்பிக்கவும் அல்லது WebView இல் இணையதளத்தைப் பார்க்கவும்.",
+    "failed_to_get_url": "முகவரியைப் பெற முடியவில்லை.",
+    "user_agent": "பயனர் முகவர்",
+    "user_agent_mobile_webview": "மொபைல் WebView",
+    "user_agent_desktop_webview": "டெஸ்க்டாப் WebView",
+    "user_agent_mobile_safari": "மொபைல் Safari",
+    "user_agent_desktop_safari": "டெஸ்க்டாப் Safari",
+    "scanlator_filter_label": "வடிகட்டி",
+    "scanlator_priority_label": "முன்னுரிமை",
+    "scanlator_filter_description": "தேர்ந்தெடுக்கப்பட்ட ஸ்கேன்லேட்டர்களின் அத்தியாயங்களைக் காட்டு.",
+    "scanlator_priority_description": "உங்கள் அமைப்புகளின் அடிப்படையில் அதிக முன்னுரிமை கொண்ட ஸ்கேன்லேட்டரின் அத்தியாயத்தை மட்டும் காட்டு.",
+    "n_scanlators": "{x} ஸ்கேன்லேட்டர்கள்",
+    "n_scanlators_selected": "{x, plural, one{1 ஸ்கேன்லேட்டர் தேர்ந்தெடுக்கப்பட்டது} other{{x} ஸ்கேன்லேட்டர்கள் தேர்ந்தெடுக்கப்பட்டன}}",
+    "scanlator_priority_enabled": "ஸ்கேன்லேட்டர் முன்னுரிமை இயக்கப்பட்டுள்ளது",
+    "exclude_categories": "விலக்கப்பட்ட வகைகள்",
+    "exclude_categories_tips": "விலக்கப்பட்ட வகைகளில் உள்ள தலைப்புகள் மற்ற வகைகளிலும் இருந்தாலும் புதுப்பிக்கப்படாது.",
+    "skip_updating_titles": "தலைப்புகளை புதுப்பிப்பதைத் தவிர்",
+    "skip_updating_titles_tips": "புதுப்பிப்பு வேகத்தை அதிகரிக்கவும் மூலங்களின் சுமையைக் குறைக்கவும் அனைத்து விருப்பங்களையும் இயக்க பரிந்துரைக்கப்படுகிறது.",
+    "skip_updating_titles_with_unread_chapters": "படிக்காத அத்தியாயங்கள் உள்ளவை",
+    "skip_updating_titles_that_havent_been_read": "படிக்கப்படாதவை",
+    "skip_updating_titles_with_completed_status": "நிறைவடைந்த நிலை கொண்டவை",
+    "none_label": "எதுவுமில்லை",
+    "update_completed_text_v2": "{x} வெற்றி, {y} தவிர்க்கப்பட்டது, {z} தோல்வி.",
+    "update_completed_label": "புதுப்பிப்பு முடிந்தது.",
+    "skipped": "தவிர்க்கப்பட்டது",
+    "skip_titles_with_unread_chapters": "படிக்காத அத்தியாயங்கள் உள்ள தலைப்புகள்",
+    "skip_titles_that_havent_been_read": "படிக்கப்படாத தலைப்புகள்",
+    "skip_titles_with_completed_status": "நிறைவடைந்த தலைப்புகள்",
+    "skip_titles_only_fetch_once": "ஒருமுறை மட்டும் பெற குறிக்கப்பட்ட தலைப்புகள்",
+    "skip_titles_in_excluded_category": "விலக்கப்பட்ட வகைகளில் உள்ள தலைப்புகள்",
+    "force_update": "கட்டாய புதுப்பிப்பு",
+    "skip_duplicate_chapters": "நகல் அத்தியாயங்களைத் தவிர்",
+    "how_to_enable_skip_duplicate_chapters": "நகல் அத்தியாயங்களைத் தவிர்ப்பதை எப்படி இயக்குவது?",
+    "how_to_enable_skip_duplicate_chapters_tips": "பல ஸ்கேன்லேட்டர்கள் இருக்கும்போது மட்டுமே இந்த விருப்பம் கிடைக்கும்.",
+    "open_in_safari": "Safari இல் திற",
+    "restoring_purchase": "வாங்கியதை மீட்டமைக்கிறது...",
+    "enhance_drag_gesture": "பெரிதாக்கும்போது இழுக்கும் அனுபவத்தை மேம்படுத்து",
+    "mouse_wheel_speed": "மவுஸ் சக்கர வேகம்",
+    "noPagesFound": "பக்கங்கள் எதுவும் கிடைக்கவில்லை",
+    "action_open_random_manga": "சீரற்ற மங்காவைத் திற",
+    "information_no_entries_found": "இந்த வகையில் எந்த பதிவுகளும் இல்லை",
+    "deselect": "தேர்வை நீக்கு",
+    "estimated": "மதிப்பீடு: {x}",
+    "storage": "சேமிப்பகம்",
+    "storage_subtitle": "சேமிப்பகத்தைப் பார் & நிர்வகி",
+    "storage_used": "Tachimanga தரவு",
+    "storage_remove_label": "அகற்று",
+    "storage_removing_label": "அகற்றப்படுகிறது...",
+    "storage_remove_confirm": "அகற்றப்பட்ட உள்ளடக்கத்தை மீட்டெடுக்க முடியாது. தொடரவா?",
+    "storage_removed_label": "அகற்றப்பட்டது",
+    "storage_manage_label": "நிர்வகி",
+    "storage_cache": "தற்காலிக சேமிப்பு",
+    "storage_cache_clearing": "தற்காலிக சேமிப்பு அழிக்கப்படுகிறது...",
+    "storage_space_freed_up": "{x} இடம் விடுவிக்கப்பட்டது.",
+    "storage_cache_subtitle": "தற்காலிக சேமிப்பு பயன்பாட்டின் போது உருவாகும் தற்காலிக தரவுகளைக் கொண்டது. இதை அழிப்பது செயலியின் இயல்பான பயன்பாட்டை பாதிக்காது.",
+    "storage_cache_images": "படங்கள்",
+    "storage_cache_covers": "அட்டைகள்",
+    "storage_cache_others": "மற்றவை",
+    "storage_manage_downloads": "பதிவிறக்கங்களை நிர்வகி",
+    "storage_legacy_downloads": "பழைய பதிவிறக்கங்கள்",
+    "storage_legacy_downloads_subtitle": "v3.4 க்கு முன் உருவாக்கப்பட்ட பதிவிறக்கங்களை நிர்வகி",
+    "storage_inaccessible_downloads": "அணுக முடியாத பதிவிறக்கங்கள்",
+    "storage_inaccessible_downloads_subtitle": "மூல அத்தியாயங்கள் நீக்கப்பட்டதால் அல்லது மூலம் கிடைக்காததால் இவை அணுக முடியவில்லை.",
+    "storage_manage_inaccessible_downloads": "அணுக முடியாத மங்கா பதிவிறக்கங்கள்",
+    "storage_other_data": "பிற தரவுகள்",
+    "storage_other_data_subtitle": "தரவுத்தளங்கள், விருப்பங்கள், நிறுவப்பட்ட நீட்டிப்புகள், தனிப்பயன் அட்டைகள் போன்ற முக்கிய கோப்புகளை நீக்கக்கூடாது.",
+    "got_it": "புரிந்தது",
+    "storage_used_by_other_apps": "பிற செயலிகளால் பயன்படுத்தப்படுகிறது",
+    "storage_remaining": "மீதமுள்ள சேமிப்பகம்",
+    "hold_to_scroll": "உருட்ட அழுத்திப் பிடிக்கவும்",
+    "hold_to_scroll_tip": "Webtoon மற்றும் தொடர்ச்சியான வாசிப்பு முறைகளில் மட்டுமே கிடைக்கும்.",
+    "hold_to_scroll_speed_up_tip": "ஒரு விரலை அழுத்திப் பிடித்து, பின்னர் மற்றொரு விரலைப் பிடித்தால் வேகமாக உருட்டலாம்.",
+    "long_press_action_menu_tips": "\"உருட்ட அழுத்திப் பிடிக்கவும்\" இயக்கப்பட்டிருந்தால் இது முடக்கப்படும்.",
+    "tracker_token_expire_message": "அங்கீகார டோக்கன் காலாவதியானது. வெளியேறி மீண்டும் உள்நுழையவும்.",
+    "md_page_tips": "{icon} குறிப்புகள்",
+    "get_started_summary": "Tachimanga என்பது **உள்ளூர் மூலங்கள்** மற்றும் **வெளிப்புற மூன்றாம் தரப்பு நீட்டிப்புகள்** மூலம் வாசிப்பை ஆதரிக்கும் முழுமையான வாசிப்பான்.",
+    "get_started_local_source_title": "{icon} உள்ளூர் மூலத்திலிருந்து வாசித்தல்",
+    "get_started_local_source_content": "உங்கள் சாதனத்தில் சேமிக்கப்பட்ட உள்ளடக்கத்தை வாசிக்கவும்.\nவழிமுறைகளுக்கு [உள்ளூர் மூல வழிகாட்டி]({url}) ஐப் பார்க்கவும்.",
+    "get_started_external_source_title": "{icon} வெளிப்புற மூன்றாம் தரப்பு நீட்டிப்புகளிலிருந்து வாசித்தல்",
+    "get_started_external_source_content": "வெளிப்புற நீட்டிப்புகள் Tachimanga-வில் கூடுதல் மூலங்களைச் சேர்க்கின்றன.\n**Mihon/Tachiyomi நீட்டிப்புகளின் பெரும்பாலானவற்றை Tachimanga ஆதரிக்கிறது**, எனவே [அமைப்புகள்]({url}) இல் அவற்றின் களஞ்சியங்களைச் சேர்க்கலாம்.",
+    "get_started_tips_1": "இயல்பாக எந்த நீட்டிப்புகளோ மூலங்களோ சேர்க்கப்படவில்லை. தேவையானவற்றைக் கண்டறிய Google, YouTube அல்லது பிற ஆதாரங்களைப் பயன்படுத்தலாம்.",
+    "get_started_tips_2": "இந்த நீட்டிப்புகள் Tachimanga உருவாக்குநர்களால் உருவாக்கப்படவோ பராமரிக்கப்படவோ இல்லை. எனவே அவற்றைப் பற்றிய தகவல்களை நாங்கள் வழங்கமாட்டோம்.",
+    "how_to_find_repository_title": "மூன்றாம் தரப்பு நீட்டிப்பு களஞ்சியங்களை எவ்வாறு கண்டுபிடிப்பது?",
+    "how_to_find_repository_content": "Tachimanga, Mihon/Tachiyomi நீட்டிப்புகளில் பெரும்பாலானவற்றை ஆதரிக்கிறது. எனவே அவற்றை Tachimanga-வில் பயன்படுத்தலாம்.",
+    "no_preferences": "விருப்பங்கள் இல்லை",
+    "retry_all": "அனைத்தையும் மீண்டும் முயற்சி",
+    "remove_download_confirm": "பதிவிறக்கத்தை நீக்கவா?",
+    "remove_selected_downloads_confirm": "தேர்ந்தெடுக்கப்பட்ட அனைத்து பதிவிறக்கங்களையும் நீக்கவா?",
+    "liquid_glass_appearance_title": "திரவ கண்ணாடி",
+    "feature_enable_label": "இயக்கு",
+    "feature_disable_label": "முடக்கு",
+    "learn_more_label": "மேலும் அறிக",
+    "update_continue_in_background_title": "பின்னணியில் புதுப்பிப்புகளைத் தொடரவும்",
+    "update_continue_in_background_faq_q1": "\"பின்னணியில் புதுப்பிப்புகளைத் தொடரவும்\" என்றால் என்ன?",
+    "update_continue_in_background_faq_a1": "நீங்கள் செயலியை விட்டு வெளியேறினாலும் அல்லது சாதனத்தைப் பூட்டினாலும் புதுப்பிப்புகள் தொடரும். இந்த செயல்முறையை கணினி நிர்வகிக்கிறது.",
+    "update_continue_in_background_faq_q2": "ஏன் எனது புதுப்பிப்புகள் நிறுத்தப்பட்டன?",
+    "update_continue_in_background_faq_a2": "iOS வளங்கள் குறைவாக இருந்தால் பின்னணி புதுப்பிப்புகளை நிறுத்தலாம். மின்சார இணைப்பு மற்றும் நிலையான Wi-Fi பயன்படுத்த பரிந்துரைக்கப்படுகிறது.",
+    "update_continue_enable_dialog_title": "பின்னணி புதுப்பிப்பை இயக்கவா?",
+    "update_continue_enable_dialog_confirm": "பின்னணி புதுப்பிப்புகள் முழுமையாக கணினியால் நிர்வகிக்கப்படுகின்றன, 100% நம்பகமானவை அல்ல என்பதை நான் புரிந்துகொள்கிறேன்.",
+    "download_continue_in_background_title": "பின்னணி பதிவிறக்கம்",
+    "download_continue_in_background_faq_q1": "பின்னணி பதிவிறக்கம் என்றால் என்ன?",
+    "download_continue_in_background_faq_a1": "நீங்கள் செயலியை விட்டு வெளியேறினாலும் அல்லது சாதனத்தைப் பூட்டினாலும் பதிவிறக்கங்கள் தொடரும்.",
+    "download_continue_in_background_faq_q2": "ஏன் எனது பதிவிறக்கங்கள் நிறுத்தப்பட்டன?",
+    "download_continue_in_background_faq_a2": "iOS வளங்கள் குறைவாக இருந்தால் பின்னணி பதிவிறக்கங்கள் நிறுத்தப்படலாம். மின்சார இணைப்பு மற்றும் நிலையான Wi-Fi பயன்படுத்த பரிந்துரைக்கப்படுகிறது.",
+    "download_continue_enable_dialog_title": "பின்னணி பதிவிறக்கத்தை இயக்கவா?",
+    "download_continue_enable_dialog_confirm": "பின்னணி பதிவிறக்கங்கள் முழுமையாக கணினியால் நிர்வகிக்கப்படுகின்றன, 100% நம்பகமானவை அல்ல என்பதை நான் புரிந்துகொள்கிறேன்.",
+    "download_continue_enable_dialog_content": "நீங்கள் செயலியை விட்டு வெளியேறினாலும் அல்லது சாதனத்தைப் பூட்டினாலும் பதிவிறக்கங்கள் தொடரும்.",
+    "download_continue_enable_banner_text": "செயலியை விட்டு வெளியேறினால் அல்லது சாதனத்தைப் பூட்டினால் பதிவிறக்கங்கள் இடைநிறுத்தப்படும். பின்னணி பதிவிறக்கத்தை இயக்க தட்டவும்.",
+    "file_added": "சேர்க்கப்பட்டது",
+    "file_adding": "சேர்க்கப்படுகிறது",
+    "add_extension_repo_subtitle": "Mihon/Tachiyomi நீட்டிப்புகளைச் சேர்",
+    "install_extension_title": "நீட்டிப்பை நிறுவு",
+    "install_extension_subtitle": "நிறுவ APK கோப்பைத் தேர்ந்தெடுக்கவும்",
+    "failed_to_load_products": "செயலிக்குள் வாங்கும் பொருட்களை ஏற்ற முடியவில்லை.",
+    "purchase_failed_to_load_products": "பொருள் தகவலைப் பெற முடியவில்லை. மீண்டும் முயற்சிக்கவும்.",
+    "failed_to_verify_purchase": "உங்கள் வாங்குதலை சரிபார்க்க முடியவில்லை. மீண்டும் முயற்சிக்கவும்.",
+    "in_app_purchases_not_allowed_title": "செயலிக்குள் வாங்குதல் அனுமதிக்கப்படவில்லை.",
+    "in_app_purchases_not_allowed_desc": "அமைப்புகள் > Screen Time > Content & Privacy Restrictions > iTunes & App Store Purchases சென்று In-app Purchases ஐ Allow ஆக அமைக்கவும்.",
+    "purchase_successful_title": "வாங்குதல் வெற்றிகரமானது",
+    "purchase_successful_message": "உங்கள் ஆதரவுக்கு நன்றி! இப்போது அனைத்து பிரீமியம் அம்சங்களையும் பயன்படுத்தலாம்.",
+    "purchase_restored_title": "வாங்குதல் மீட்டமைக்கப்பட்டது",
+    "purchase_restored_message": "மீண்டும் வரவேற்கிறோம்! உங்கள் வாங்குதல் மீட்டமைக்கப்பட்டது.",
+    "unable_to_restore_purchase_title": "வாங்குதலை மீட்டமைக்க முடியவில்லை",
+    "unable_to_restore_purchase_no_records_message": "சரியான வாங்குதல் பதிவுகள் எதுவும் கிடைக்கவில்லை. நீங்கள் முன்பு பயன்படுத்திய அதே Apple ID ஐப் பயன்படுத்துகிறீர்களா என்பதை உறுதிசெய்யவும்.",
+    "unable_to_restore_purchase_no_valid_records_message": "சரியான வாங்குதல் பதிவுகள் எதுவும் கிடைக்கவில்லை. உங்கள் வாங்குதல் காலாவதியாகியிருக்கலாம் அல்லது பணம் திருப்பி வழங்கப்பட்டிருக்கலாம்.",
+    "unable_to_restore_purchase_failed_message": "App Store இலிருந்து வாங்குதல் வரலாற்றைப் பெற முடியவில்லை. பின்னர் மீண்டும் முயற்சிக்கவும்.\nபிழை விவரம்: {msg}",
+    "reader_allow_pinch_when_long_press_scrolling": "அழுத்திப் பிடித்து உருட்டும் போது பெரிதாக்க அனுமதி",
+    "reader_strict_scale": "கடுமையான அளவீடு",
+    "reader_strict_scale_desc": "இதை இயக்கினால் பெரிதாக்கல் ஒரு குறிப்பிட்ட வரம்புக்குள் மட்டுமே இருக்கும்.",
+    "reader_scroll_indicator": "வாசிப்பு உருட்டல் குறியீடு",
+    "clear_last_hour_title": "கடைசி ஒரு மணி நேர வரலாற்றை அழிக்கவா?",
+    "clear_today_title": "இன்றைய வரலாற்றை அழிக்கவா?",
+    "clear_today_and_yesterday_title": "கடைசி 2 நாட்களின் வரலாற்றை அழிக்கவா?",
+    "clear_all_time_title": "அனைத்து வரலாற்றையும் அழிக்கவா?",
+    "clear_selected_history_title": "இந்த பதிவை அழிக்கவா?",
+    "clear_history_desc": "இதனை மீட்டெடுக்க முடியாது. தொடர்புடைய வாசிப்பு நேரமும் அழிக்கப்படும்.",
+    "rotation_label": "சுழற்சி",
+    "rotation_free": "சாதனத்தைப் பின்பற்று",
+    "rotation_portrait_app": "செங்குத்து (செயலி)",
+    "rotation_landscape_app": "கிடைமட்டம் (செயலி)",
+    "rotation_portrait_reader": "செங்குத்து (வாசிப்பான்)",
+    "rotation_landscape_reader": "கிடைமட்டம் (வாசிப்பான்)",
+    "rotation_portrait": "செங்குத்து",
+    "rotation_landscape": "கிடைமட்டம்",
+    "not_sale_region": "Tachimanga பிரீமியம் தற்போது உங்கள் நாடு அல்லது பகுதியில் கிடைக்கவில்லை.",
+    "byPassMuted": "Cloudflare புறக்கணிப்பு அறிவிப்பு அமைதிப்படுத்தப்பட்டது.",
+    "clear_cloudflare_mutes": "Cloudflare அறிவிப்பு அமைதிப்படுத்தல்களை அழி",
+    "cleared_cloudflare_mutes": "Cloudflare அறிவிப்பு அமைதிப்படுத்தல்கள் அழிக்கப்பட்டன.",
+    "in_app_purchase_diagnostic_info": "கண்டறிதல் தகவல்",
+    "copy_label": "நகலெடு",
+    "premium_subscribed": "பிரீமியம் சந்தா செயலில் உள்ளது",
+    "premium_subscribe_in_grace_period": "சந்தா புதுப்பித்தல் தோல்வியடைந்தது. Apple மீண்டும் முயற்சிக்கும். பிரீமியம் அம்சங்கள் தற்போது தொடரும்.",
+    "deselect_all": "அனைத்து தேர்வுகளையும் நீக்கு",
+    "selected_pinned": "பின் செய்யப்பட்டவற்றைத் தேர்ந்தெடு",
+    "continue_label": "தொடர்",
+    "unknown_label": "தெரியாதது",
+    "latest_chapter_label": "சமீபத்தியது: {name}",
+    "wait_label": "காத்திரு",
+    "install_extension_wait_tips": "இதற்கு சிறிது நேரம் ஆகலாம். தயவுசெய்து காத்திருக்கவும்.",
+    "matching_running_text": "பொருத்தப்படுகிறது: {title}",
+    "matching_in_progress": "பொருத்தம் நடைபெறுகிறது",
+    "matching_in_progress_alert": "{x, plural, one{{x} பதிவு இன்னும் பொருத்தப்படுகிறது} other{{x} பதிவுகள் இன்னும் பொருத்தப்படுகின்றன}}.\nஅவற்றைத் தவிர்த்து தொடரவா?",
+    "matching_completed_title": "பொருத்தம் முடிந்தது",
+    "matching_completed_text": "{x} பொருந்தின, {y} கிடைக்கவில்லை",
+    "bulk_migration": "மொத்த இடமாற்றம்",
+    "migrate_to": "இதற்கு இடமாற்று",
+    "migrate_all": "அனைத்தையும் இடமாற்று",
+    "migrate_select_target_sources_title": "இலக்கு மூலங்களைத் தேர்ந்தெடுக்கவும்",
+    "migrate_select_target_sources_subtitle": "இடமாற்றத்தை வேகப்படுத்த 5 க்கும் குறைவான மூலங்களைத் தேர்ந்தெடுக்கவும்.",
+    "migrate_no_match_found": "மாற்று மூலங்கள் எதுவும் கிடைக்கவில்லை",
+    "migrate_search_manually_action_label": "கைமுறையாக தேடு",
+    "migrate_skip_action_label": "இடமாற்ற வேண்டாம்",
+    "migrate_now": "இப்போது இடமாற்று",
+    "migrate_confirm_title": "{x, plural, one{{x} பதிவை இடமாற்றவா?} other{{x} பதிவுகளை இடமாற்றவா?}}",
+    "create_backup_before_migrating": "இடமாற்றத்திற்கு முன் காப்புநகலை உருவாக்கு.",
+    "migrate_completed_title": "இடமாற்றம் முடிந்தது",
+    "migrate_completed_text": "{x} முடிந்தது, {y} தோல்வி",
+    "migration_settings": "இடமாற்ற அமைப்புகள்",
+    "migration_strategy": "இடமாற்ற உத்தி",
+    "migration_strategy_first_alternative": "முதல் மாற்று மூலத்தைப் பயன்படுத்து",
+    "migration_strategy_most_chapters": "அதிக அத்தியாயங்கள் கொண்ட மூலத்தைப் பயன்படுத்து (மெதுவானது)",
+    "bulk_migration_dialog_what_to_include": "இடமாற்றத்தில் சேர்க்க வேண்டிய தரவு",
+    "migration_strategy_first_alternative_desc": "நீங்கள் தேர்ந்தெடுத்த மூலங்களை வரிசையாகச் சோதித்து பொருந்தும் ஒன்றில் நிறுத்தும்.",
+    "migration_strategy_most_chapters_desc": "அனைத்து மூலங்களையும் தேடி அதிக அத்தியாயங்கள் உள்ளதைத் தேர்ந்தெடுக்கும்.",
+    "restart_required_title": "மறுதொடக்கம் தேவை",
+    "restart_required_content": "சமீபத்திய வளங்கள் மற்றும் மேம்பாடுகளைப் பயன்படுத்த செயலியை மறுதொடக்கம் செய்யவும்.",
+    "custom_tabs": "தாவல்களை தனிப்பயனாக்கு",
+    "custom_tabs_subtitle": "கீழ்த் தாவல்களை ஒழுங்குபடுத்து மற்றும் தனிப்பயனாக்கு",
+    "tab_bar_labels_title": "லேபிள்கள்",
+    "tab_bar_labels_subtitle": "சின்னங்களின் கீழ் உள்ள பெயர்களைக் காட்டு அல்லது மறை.",
+    "items_per_row": "ஒரு வரிசைக்கு உருப்படிகள்",
+    "n_items_per_row": "{x, plural, one{ஒரு வரிசைக்கு {x} உருப்படி} other{ஒரு வரிசைக்கு {x} உருப்படிகள்}}",
+    "portrait_label": "செங்குத்து",
+    "landscape_label": "கிடைமட்டம்",
+    "check_your_email_title": "உங்கள் மின்னஞ்சலைச் சரிபார்க்கவும்",
+    "check_your_email_subtitle": "{email} க்கு அனுப்பிய குறியீட்டை உள்ளிடவும்.",
+    "verification_code_label": "சரிபார்ப்புக் குறியீடு",
+    "verification_code_empty": "சரிபார்ப்புக் குறியீட்டை உள்ளிடவும்.",
+    "check_your_email_tips": "பலமுறை முயன்றும் குறியீடு வரவில்லை என்றால், Apple மூலம் உள்நுழைய முயற்சிக்கவும்.",
+    "change_password_label": "கடவுச்சொல்லை மாற்று",
+    "current_password_label": "தற்போதைய கடவுச்சொல்",
+    "new_password_label": "புதிய கடவுச்சொல்",
+    "new_password_again_label": "புதிய கடவுச்சொல்லை உறுதிப்படுத்து",
+    "change_password_successfully": "கடவுச்சொல் வெற்றிகரமாக மாற்றப்பட்டது.",
+    "forget_password": "கடவுச்சொல்லை மறந்துவிட்டீர்களா?",
+    "reset_password_title": "கடவுச்சொல்லை மீட்டமை",
+    "reset_password_subtitle": "உங்கள் கணக்கின் மின்னஞ்சலை உள்ளிடவும். நாங்கள் சரிபார்ப்புக் குறியீட்டை அனுப்புவோம்.",
+    "source_settings_title": "மூல அமைப்புகள்",
+    "storage_low_alert_title": "சேமிப்பகம் கிட்டத்தட்ட நிரம்பியுள்ளது",
+    "storage_low_alert_content": "உங்கள் சாதனத்தின் சேமிப்பகம் கிட்டத்தட்ட நிரம்பியுள்ளது. Tachimanga சரியாக செயல்படாமல் இருக்கலாம்.\n\nஇடத்தை காலி செய்யவும்:\n• சாதன சேமிப்பகம்: கணினி அமைப்புகள் > பொது > சேமிப்பகம்.\n• செயலி சேமிப்பகம்: மேலும் > பொது > சேமிப்பகம்.",
+    "network_retry_hint": "வேறு இணைய இணைப்பைப் பயன்படுத்தவும் அல்லது பின்னர் முயற்சிக்கவும்.",
+    "extension_obsolete_tips": "இந்த நீட்டிப்பு களஞ்சியத்திலிருந்து அகற்றப்பட்டுள்ளது. இது சரியாக செயல்படாமல் இருக்கலாம் மற்றும் இனி புதுப்பிப்புகள் பெறாது. வேறு மூலத்திற்கு இடமாற்றம் செய்த பின் இதை அகற்ற பரிந்துரைக்கப்படுகிறது.",
+    "extension_language_label": "மொழி",
+    "extension_version_label": "பதிப்பு",
+    "show_local_chapters": "உள்ளூர் அத்தியாயங்களைக் காட்டு",
+    "invert_double_pages": "இரட்டைப் பக்கங்களை தலைகீழாக்கு",
+    "auto_webtoon_mode": "தானியங்கி Webtoon முறை",
+    "auto_webtoon_mode_desc": "பதிவின் குறிச்சொற்களில் {x} இருந்தால் Webtoon முறையை தானாக இயக்கு.\nமங்கா மற்றும் Webtoon இரண்டையும் படித்தால், இயல்புநிலை வாசிப்பு முறையை பக்கவாரி முறையாக அமைக்க பரிந்துரைக்கப்படுகிறது.",
+    "reset_chapters_on_delete": "இந்த பதிவின் அனைத்து அத்தியாயங்களையும் மீட்டமை",
+    "troubleshoot_section_title": "சிக்கல் தீர்வு",
+    "repair_database": "தரவுத்தளத்தைச் சரிசெய்",
+    "repair_database_subtitle": "செயலியின் தரவுத்தளம் சேதமடைந்தால் பயன்படுத்தவும்",
+    "repair_database_warning": "இது ஆபத்தான செயல். செயலி பயன்படுத்த முடியாததாக மாறலாம். கவனமாக தொடரவும்.",
+    "repair_database_verify": "உறுதிப்படுத்த \"{text}\" என தட்டச்சு செய்யவும்",
+    "repair_database_backup_before": "சரிசெய்வதற்கு முன் காப்புநகல் எடு",
+    "clear_selected_histories_title": "தேர்ந்தெடுக்கப்பட்ட பதிவுகளை அழிக்கவா?",
+    "reset_chapters_on_delete_multi": "தேர்ந்தெடுக்கப்பட்ட பதிவுகளின் அனைத்து அத்தியாயங்களையும் மீட்டமை",
+    "clear_label": "அழி",
+    "@clear_label": {
+        "description": "Generic clear button label"
+    },
+    "sources_selected": "{x, plural, one{1 மூலம் தேர்ந்தெடுக்கப்பட்டது} other{{x} மூலங்கள் தேர்ந்தெடுக்கப்பட்டன}}",
+    "@sources_selected": {
+        "description": "Text to show the number of selected sources in the library source filter"
+    },
+    "readerPaddingWebtoon": "Webtoon",
+    "@readerPaddingWebtoon": {
+        "description": "Webtoon mode padding label"
+    },
+    "readerPaddingPaged": "பக்கவாரி",
+    "@readerPaddingPaged": {
+        "description": "Paged mode padding label"
+    },
+    "readerPaddingPortrait": "செங்குத்து",
+    "@readerPaddingPortrait": {
+        "description": "Portrait orientation label"
+    },
+    "readerPaddingLandscape": "கிடைமட்டம்",
+    "@readerPaddingLandscape": {
+        "description": "Landscape orientation label"
+    },
+    "notes": "குறிப்புகள்",
+    "@notes": {
+        "description": "Menu item to edit manga notes"
+    },
+    "edit_notes": "குறிப்புகளைத் திருத்து",
+    "@edit_notes": {
+        "description": "Button text to edit manga notes"
+    },
+    "promotion_anniversary_title": "Tachimanga 3ஆம் ஆண்டு வாழ்த்துகள்! 🎉",
+    "@promotion_anniversary_title": {
+        "description": "Promotion dialog title"
+    },
+    "promotion_blackfriday_title": "இனிய Black Friday! 🎉",
+    "promotion_default_title": "சிறப்பு சலுகை",
+    "promotion_upgrade_subtitle": "பிரீமியமாக மேம்படுத்து",
+    "@promotion_upgrade_subtitle": {
+        "description": "Promotion dialog subtitle"
+    },
+    "promotion_discount_30_off_label": "30% தள்ளுபடி",
+    "@promotion_discount_30_off_label": {
+        "description": "Discount label"
+    },
+    "promotion_ends_in": "சலுகை {time} இல் முடிகிறது",
+    "promotion_lifetime_plan": "வாழ்நாள் திட்டம்",
+    "@promotion_lifetime_plan": {
+        "description": "Lifetime plan option"
+    },
+    "promotion_annual_plan": "ஆண்டு திட்டம்",
+    "@promotion_annual_plan": {
+        "description": "Annual plan option"
+    },
+    "promotion_purchase_now_button": "இப்போது வாங்கு",
+    "@promotion_purchase_now_button": {
+        "description": "Purchase now button"
+    },
+    "promotion_already_purchased_hint": "ஏற்கனவே வாங்கிவிட்டீர்களா?",
+    "@promotion_already_purchased_hint": {
+        "description": "Already purchased hint text"
+    },
+    "promotion_view_details": "சலுகையைப் பார்",
+    "@promotion_view_details": {
+        "description": "Banner action button text"
+    },
+    "promotion_banner_anniversary3rd_text": "Tachimanga 3ஆம் ஆண்டு விழா சலுகை.",
+    "promotion_banner_blackfriday_text": "Black Friday சலுகை.",
+    "promotion_banner_default_text": "குறுகிய கால சலுகை.",
+    "premium_features": "பிரீமியம் அம்சங்கள்",
+    "@premium_features": {
+        "description": "Premium features button text"
+    },
+    "hours_minutes_seconds_short": "{x} ம {y} நி {z} வி",
+    "promotion_purchase_redirect_hint": "சலுகையைப் பெற App Store க்கு மாற்றப்படுவீர்கள்",
+    "@promotion_purchase_redirect_hint": {
+        "description": "Hint text indicating redirection to App Store to redeem offer"
+    },
+    "promotion_discount_hint": "காட்டப்படும் விலைகள் சாதாரண விலைகள். தள்ளுபடி விலைக்கு மேலுள்ள பேனரைத் தட்டவும்.",
+    "@promotion_discount_hint": {
+        "description": "Hint text on purchase screen when promotion banner is shown, telling users to tap banner for discount"
+    },
+    "purchase_option_monthly": "மாதாந்திரம்",
+    "purchase_option_yearly": "வருடாந்திரம்",
+    "purchase_option_lifetime": "வாழ்நாள்",
+    "purchase_subscribe_tips": "அனைத்து அம்சங்களும் அடங்கும். எப்போது வேண்டுமானாலும் ரத்து செய்யலாம்.",
+    "purchase_lifetime_tips": "ஒருமுறை வாங்குதல். சந்தா இல்லை.",
+    "purchase_per_month_price_short": "{price}/மா",
+    "subscribe_to_add_notes": "குறிப்புகளைச் சேர்க்க பிரீமியம் சந்தா தேவை"
+}
