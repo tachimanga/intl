@@ -814,5 +814,29 @@
     "send_mail_fail_hint": "Ställ in Mail-appen på din enhet eller skicka ett e-postmeddelande direkt till {email}",
     "copy_email": "Kopiera e-post",
     "app_failed_to_start_tips": "Appen kunde inte startas. Försök att starta om din enhet.",
-    "get_started_tips_1b": "Inga tillägg eller källor ingår som standard. Fråga gärna AI eller sök på Google, YouTube eller andra resurser för att hitta det du behöver."
+    "get_started_tips_1b": "Inga tillägg eller källor ingår som standard. Fråga gärna AI eller sök på Google, YouTube eller andra resurser för att hitta det du behöver.",
+    "ocr_recognize_text": "Känn igen text",
+    "@ocr_recognize_text": {
+        "description": "OCR text recognition action in reader long-press menu"
+    },
+    "httpDumpTitle": "HTTP-förfrågningslogg",
+    "@httpDumpTitle": {
+        "description": "Title for HTTP dump toggle in advanced settings"
+    },
+    "httpDumpViewFiles": "Visa loggfiler",
+    "@httpDumpViewFiles": {
+        "description": "Label for button to view dump files"
+    },
+    "httpDumpEmpty": "Inga loggfiler ännu",
+    "@httpDumpEmpty": {
+        "description": "Message when no dump files exist"
+    },
+    "httpDumpGroupByDomain": "Gruppera efter domän",
+    "@httpDumpGroupByDomain": {
+        "description": "Label for grouping toggle"
+    },
+    "httpDumpClearAll": "Rensa alla",
+    "@httpDumpClearAll": {
+        "description": "Label for clear all button"
+    }
 }

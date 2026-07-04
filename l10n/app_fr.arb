@@ -1319,5 +1319,29 @@
     "send_mail_fail_hint": "Veuillez configurer l'app Mail sur votre appareil ou envoyer un e-mail directement à {email}",
     "copy_email": "Copier l'e-mail",
     "app_failed_to_start_tips": "Échec du démarrage de l'app. Essayez de redémarrer votre appareil.",
-    "get_started_tips_1b": "Aucune extension ni source n'est incluse par défaut. N'hésitez pas à demander à l'IA ou à rechercher sur Google, YouTube ou d'autres ressources pour trouver ce dont vous avez besoin."
+    "get_started_tips_1b": "Aucune extension ni source n'est incluse par défaut. N'hésitez pas à demander à l'IA ou à rechercher sur Google, YouTube ou d'autres ressources pour trouver ce dont vous avez besoin.",
+    "ocr_recognize_text": "Reconnaître le texte",
+    "@ocr_recognize_text": {
+        "description": "OCR text recognition action in reader long-press menu"
+    },
+    "httpDumpTitle": "Journal des requêtes HTTP",
+    "@httpDumpTitle": {
+        "description": "Title for HTTP dump toggle in advanced settings"
+    },
+    "httpDumpViewFiles": "Voir les fichiers journaux",
+    "@httpDumpViewFiles": {
+        "description": "Label for button to view dump files"
+    },
+    "httpDumpEmpty": "Aucun fichier journal pour l'instant",
+    "@httpDumpEmpty": {
+        "description": "Message when no dump files exist"
+    },
+    "httpDumpGroupByDomain": "Grouper par domaine",
+    "@httpDumpGroupByDomain": {
+        "description": "Label for grouping toggle"
+    },
+    "httpDumpClearAll": "Tout effacer",
+    "@httpDumpClearAll": {
+        "description": "Label for clear all button"
+    }
 }

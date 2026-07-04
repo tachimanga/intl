@@ -814,5 +814,29 @@
     "send_mail_fail_hint": "Configura l'app Mail sul tuo dispositivo o invia un'email direttamente a {email}",
     "copy_email": "Copia email",
     "app_failed_to_start_tips": "Impossibile avviare l'app. Prova a riavviare il dispositivo.",
-    "get_started_tips_1b": "Nessuna estensione o fonte è inclusa per impostazione predefinita. Chiedi pure all'IA o cerca su Google, YouTube o altre risorse per trovare ciò che ti serve."
+    "get_started_tips_1b": "Nessuna estensione o fonte è inclusa per impostazione predefinita. Chiedi pure all'IA o cerca su Google, YouTube o altre risorse per trovare ciò che ti serve.",
+    "ocr_recognize_text": "Riconosci testo",
+    "@ocr_recognize_text": {
+        "description": "OCR text recognition action in reader long-press menu"
+    },
+    "httpDumpTitle": "Registro richieste HTTP",
+    "@httpDumpTitle": {
+        "description": "Title for HTTP dump toggle in advanced settings"
+    },
+    "httpDumpViewFiles": "Visualizza file di registro",
+    "@httpDumpViewFiles": {
+        "description": "Label for button to view dump files"
+    },
+    "httpDumpEmpty": "Nessun file di registro ancora",
+    "@httpDumpEmpty": {
+        "description": "Message when no dump files exist"
+    },
+    "httpDumpGroupByDomain": "Raggruppa per dominio",
+    "@httpDumpGroupByDomain": {
+        "description": "Label for grouping toggle"
+    },
+    "httpDumpClearAll": "Cancella tutto",
+    "@httpDumpClearAll": {
+        "description": "Label for clear all button"
+    }
 }
