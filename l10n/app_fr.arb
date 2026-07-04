@@ -1343,5 +1343,9 @@
     "httpDumpClearAll": "Tout effacer",
     "@httpDumpClearAll": {
         "description": "Label for clear all button"
+    },
+    "duplicateCategoryName": "Le nom de catégorie existe déjà",
+    "@duplicateCategoryName": {
+        "description": "Toast message when trying to create or edit a category with a name that already exists"
     }
 }
