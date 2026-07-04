@@ -1302,5 +1302,29 @@
     "send_mail_fail_hint": "Калі ласка, наладзьце праграму Пошты на прыладзе або адпраўце ліст непасрэдна на {email}",
     "copy_email": "Скапіраваць email",
     "app_failed_to_start_tips": "Не ўдалося запусціць праграму. Паспрабуйце перазапусціць прыладу.",
-    "get_started_tips_1b": "Па змаўчанні пашырэнні або крыніцы не ўключаны. Не саромейцеся пытацца ў ШІ або шукаць у Google, YouTube ці іншых рэсурсах, каб знайсці тое, што вам трэба."
+    "get_started_tips_1b": "Па змаўчанні пашырэнні або крыніцы не ўключаны. Не саромейцеся пытацца ў ШІ або шукаць у Google, YouTube ці іншых рэсурсах, каб знайсці тое, што вам трэба.",
+    "ocr_recognize_text": "Распазнаць тэкст",
+    "@ocr_recognize_text": {
+        "description": "OCR text recognition action in reader long-press menu"
+    },
+    "httpDumpTitle": "Журнал HTTP-запытаў",
+    "@httpDumpTitle": {
+        "description": "Title for HTTP dump toggle in advanced settings"
+    },
+    "httpDumpViewFiles": "Прагляд файлаў журнала",
+    "@httpDumpViewFiles": {
+        "description": "Label for button to view dump files"
+    },
+    "httpDumpEmpty": "Файлаў журнала пакуль няма",
+    "@httpDumpEmpty": {
+        "description": "Message when no dump files exist"
+    },
+    "httpDumpGroupByDomain": "Групаваць па дамене",
+    "@httpDumpGroupByDomain": {
+        "description": "Label for grouping toggle"
+    },
+    "httpDumpClearAll": "Ачысціць усё",
+    "@httpDumpClearAll": {
+        "description": "Label for clear all button"
+    }
 }

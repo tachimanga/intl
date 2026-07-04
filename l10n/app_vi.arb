@@ -814,5 +814,29 @@
     "send_mail_fail_hint": "Vui lòng thiết lập ứng dụng Mail trên thiết bị của bạn hoặc gửi email trực tiếp đến {email}",
     "copy_email": "Sao chép Email",
     "app_failed_to_start_tips": "Không thể khởi động ứng dụng. Hãy thử khởi động lại thiết bị của bạn.",
-    "get_started_tips_1b": "Không có tiện ích mở rộng hoặc nguồn nào được bao gồm theo mặc định. Hãy thoải mái hỏi AI hoặc tìm kiếm trên Google, YouTube hoặc các tài nguyên khác để tìm thứ bạn cần."
+    "get_started_tips_1b": "Không có tiện ích mở rộng hoặc nguồn nào được bao gồm theo mặc định. Hãy thoải mái hỏi AI hoặc tìm kiếm trên Google, YouTube hoặc các tài nguyên khác để tìm thứ bạn cần.",
+    "ocr_recognize_text": "Nhận dạng văn bản",
+    "@ocr_recognize_text": {
+        "description": "OCR text recognition action in reader long-press menu"
+    },
+    "httpDumpTitle": "Nhật ký yêu cầu HTTP",
+    "@httpDumpTitle": {
+        "description": "Title for HTTP dump toggle in advanced settings"
+    },
+    "httpDumpViewFiles": "Xem tệp nhật ký",
+    "@httpDumpViewFiles": {
+        "description": "Label for button to view dump files"
+    },
+    "httpDumpEmpty": "Chưa có tệp nhật ký",
+    "@httpDumpEmpty": {
+        "description": "Message when no dump files exist"
+    },
+    "httpDumpGroupByDomain": "Nhóm theo tên miền",
+    "@httpDumpGroupByDomain": {
+        "description": "Label for grouping toggle"
+    },
+    "httpDumpClearAll": "Xóa tất cả",
+    "@httpDumpClearAll": {
+        "description": "Label for clear all button"
+    }
 }

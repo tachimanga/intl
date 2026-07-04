@@ -1379,5 +1379,29 @@
     "send_mail_fail_hint": "Будь ласка, налаштуйте додаток Пошти на пристрої або надішліть лист безпосередньо на {email}",
     "copy_email": "Скопіювати email",
     "app_failed_to_start_tips": "Не вдалося запустити додаток. Спробуйте перезавантажити пристрій.",
-    "get_started_tips_1b": "Жодних розширень чи джерел за замовчуванням не включено. Не соромтеся запитувати ШІ або шукати в Google, YouTube чи інших ресурсах, щоб знайти те, що вам потрібно."
+    "get_started_tips_1b": "Жодних розширень чи джерел за замовчуванням не включено. Не соромтеся запитувати ШІ або шукати в Google, YouTube чи інших ресурсах, щоб знайти те, що вам потрібно.",
+    "ocr_recognize_text": "Розпізнати текст",
+    "@ocr_recognize_text": {
+        "description": "OCR text recognition action in reader long-press menu"
+    },
+    "httpDumpTitle": "Журнал HTTP-запитів",
+    "@httpDumpTitle": {
+        "description": "Title for HTTP dump toggle in advanced settings"
+    },
+    "httpDumpViewFiles": "Перегляд файлів журналу",
+    "@httpDumpViewFiles": {
+        "description": "Label for button to view dump files"
+    },
+    "httpDumpEmpty": "Файлів журналу ще немає",
+    "@httpDumpEmpty": {
+        "description": "Message when no dump files exist"
+    },
+    "httpDumpGroupByDomain": "Групувати за доменом",
+    "@httpDumpGroupByDomain": {
+        "description": "Label for grouping toggle"
+    },
+    "httpDumpClearAll": "Очистити все",
+    "@httpDumpClearAll": {
+        "description": "Label for clear all button"
+    }
 }

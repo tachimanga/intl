@@ -902,5 +902,29 @@
     "app_icon_author": "Ontworpen door {author}",
     "classic_start_reading_button": "Klassieke start lezen-knop",
     "long_press_action_menu": "Lang indrukken actiemenu",
-    "app_icon_update_tip": "Als het icoon niet succesvol is bijgewerkt, kunt je even wachten of gewoon je apparaat opnieuw opstarten."
+    "app_icon_update_tip": "Als het icoon niet succesvol is bijgewerkt, kunt je even wachten of gewoon je apparaat opnieuw opstarten.",
+    "ocr_recognize_text": "Recognize Text",
+    "@ocr_recognize_text": {
+        "description": "OCR text recognition action in reader long-press menu"
+    },
+    "httpDumpTitle": "HTTP Request Dump",
+    "@httpDumpTitle": {
+        "description": "Title for HTTP dump toggle in advanced settings"
+    },
+    "httpDumpViewFiles": "View Dump Files",
+    "@httpDumpViewFiles": {
+        "description": "Label for button to view dump files"
+    },
+    "httpDumpEmpty": "No dump files yet",
+    "@httpDumpEmpty": {
+        "description": "Message when no dump files exist"
+    },
+    "httpDumpGroupByDomain": "Group by domain",
+    "@httpDumpGroupByDomain": {
+        "description": "Label for grouping toggle"
+    },
+    "httpDumpClearAll": "Clear All",
+    "@httpDumpClearAll": {
+        "description": "Label for clear all button"
+    }
 }

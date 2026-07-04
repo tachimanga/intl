@@ -1371,5 +1371,29 @@
     "send_mail_fail_hint": "يرجى إعداد تطبيق البريد على جهازك، أو إرسال بريد إلكتروني مباشرة إلى {email}",
     "copy_email": "نسخ البريد الإلكتروني",
     "app_failed_to_start_tips": "فشل تشغيل التطبيق. حاول إعادة تشغيل جهازك.",
-    "get_started_tips_1b": "لا توجد ملحقات أو مصادر مضمنة بشكل افتراضي. لا تتردد في سؤال الذكاء الاصطناعي أو البحث في Google أو YouTube أو موارد أخرى للعثور على ما تحتاجه."
+    "get_started_tips_1b": "لا توجد ملحقات أو مصادر مضمنة بشكل افتراضي. لا تتردد في سؤال الذكاء الاصطناعي أو البحث في Google أو YouTube أو موارد أخرى للعثور على ما تحتاجه.",
+    "ocr_recognize_text": "التعرف على النص",
+    "@ocr_recognize_text": {
+        "description": "OCR text recognition action in reader long-press menu"
+    },
+    "httpDumpTitle": "سجل طلبات HTTP",
+    "@httpDumpTitle": {
+        "description": "Title for HTTP dump toggle in advanced settings"
+    },
+    "httpDumpViewFiles": "عرض ملفات السجل",
+    "@httpDumpViewFiles": {
+        "description": "Label for button to view dump files"
+    },
+    "httpDumpEmpty": "لا توجد ملفات سجل بعد",
+    "@httpDumpEmpty": {
+        "description": "Message when no dump files exist"
+    },
+    "httpDumpGroupByDomain": "تجميع حسب النطاق",
+    "@httpDumpGroupByDomain": {
+        "description": "Label for grouping toggle"
+    },
+    "httpDumpClearAll": "مسح الكل",
+    "@httpDumpClearAll": {
+        "description": "Label for clear all button"
+    }
 }

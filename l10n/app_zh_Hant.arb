@@ -814,5 +814,29 @@
     "send_mail_fail_hint": "請在裝置上設定郵件應用程式，或直接發送郵件至 {email}",
     "copy_email": "複製電郵",
     "app_failed_to_start_tips": "應用程式啟動失敗。請嘗試重新啟動裝置。",
-    "get_started_tips_1b": "預設不包含任何擴充功能或來源。請隨時詢問 AI 或搜尋 Google、YouTube 或其他資源來尋找您需要的內容。"
+    "get_started_tips_1b": "預設不包含任何擴充功能或來源。請隨時詢問 AI 或搜尋 Google、YouTube 或其他資源來尋找您需要的內容。",
+    "ocr_recognize_text": "識別文字",
+    "@ocr_recognize_text": {
+        "description": "OCR text recognition action in reader long-press menu"
+    },
+    "httpDumpTitle": "HTTP請求記錄",
+    "@httpDumpTitle": {
+        "description": "Title for HTTP dump toggle in advanced settings"
+    },
+    "httpDumpViewFiles": "檢視記錄檔案",
+    "@httpDumpViewFiles": {
+        "description": "Label for button to view dump files"
+    },
+    "httpDumpEmpty": "尚無記錄檔案",
+    "@httpDumpEmpty": {
+        "description": "Message when no dump files exist"
+    },
+    "httpDumpGroupByDomain": "按網域分組",
+    "@httpDumpGroupByDomain": {
+        "description": "Label for grouping toggle"
+    },
+    "httpDumpClearAll": "全部清除",
+    "@httpDumpClearAll": {
+        "description": "Label for clear all button"
+    }
 }

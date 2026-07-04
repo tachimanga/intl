@@ -1301,5 +1301,18 @@
     "send_mail_fail_hint": "请在设备上设置邮件应用，或直接发送邮件至 {email}",
     "copy_email": "复制邮箱",
     "app_failed_to_start_tips": "应用启动失败。请尝试重启设备。",
-    "get_started_tips_1b": "默认不包含任何扩展或来源。请随时询问 AI 或搜索 Google、YouTube 或其他资源来查找您需要的内容。"
+    "get_started_tips_1b": "默认不包含任何扩展或来源。请随时询问 AI 或搜索 Google、YouTube 或其他资源来查找您需要的内容。",
+    "httpDumpTitle": "HTTP请求记录",
+    "httpDumpViewFiles": "查看记录文件",
+    "httpDumpEmpty": "暂无记录文件",
+    "httpDumpGroupByDomain": "按域名分组",
+    "httpDumpClearAll": "全部清除",
+    "ocr_recognize_text": "识别文字",
+    "@ocr_recognize_text": {
+        "description": "OCR text recognition action in reader long-press menu"
+    },
+    "duplicateCategoryName": "分类名称已存在",
+    "@duplicateCategoryName": {
+        "description": "Toast message when trying to create or edit a category with a name that already exists"
+    }
 }

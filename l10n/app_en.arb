@@ -2044,5 +2044,33 @@
     "app_failed_to_start_tips": "App failed to start. Try restarting your device.",
     "@app_failed_to_start_tips": {},
     "get_started_tips_1b": "No extensions or sources are included by default. Feel free to ask AI or search Google, YouTube, or other resources to find what you need.",
-    "@get_started_tips_1b": {}
+    "@get_started_tips_1b": {},
+    "ocr_recognize_text": "Recognize Text",
+    "@ocr_recognize_text": {
+        "description": "OCR text recognition action in reader long-press menu"
+    },
+    "httpDumpTitle": "HTTP Request Dump",
+    "@httpDumpTitle": {
+        "description": "Title for HTTP dump toggle in advanced settings"
+    },
+    "httpDumpViewFiles": "View Dump Files",
+    "@httpDumpViewFiles": {
+        "description": "Label for button to view dump files"
+    },
+    "httpDumpEmpty": "No dump files yet",
+    "@httpDumpEmpty": {
+        "description": "Message when no dump files exist"
+    },
+    "httpDumpGroupByDomain": "Group by domain",
+    "@httpDumpGroupByDomain": {
+        "description": "Label for grouping toggle"
+    },
+    "httpDumpClearAll": "Clear All",
+    "@httpDumpClearAll": {
+        "description": "Label for clear all button"
+    },
+    "duplicateCategoryName": "Category name already exists",
+    "@duplicateCategoryName": {
+        "description": "Toast message when trying to create or edit a category with a name that already exists"
+    }
 }

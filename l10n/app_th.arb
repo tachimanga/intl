@@ -814,5 +814,29 @@
     "send_mail_fail_hint": "กรุณาตั้งค่าแอปเมลบนอุปกรณ์ของคุณ หรือส่งอีเมลโดยตรงไปที่ {email}",
     "copy_email": "คัดลอกอีเมล",
     "app_failed_to_start_tips": "แอปเริ่มทำงานล้มเหลว ลองรีสตาร์ทอุปกรณ์ของคุณ",
-    "get_started_tips_1b": "ไม่มีส่วนขยายหรือแหล่งที่มารวมอยู่ตามค่าเริ่มต้น ถาม AI หรือค้นหาใน Google, YouTube หรือแหล่งอื่น ๆ เพื่อค้นหาสิ่งที่คุณต้องการได้ตามสบาย"
+    "get_started_tips_1b": "ไม่มีส่วนขยายหรือแหล่งที่มารวมอยู่ตามค่าเริ่มต้น ถาม AI หรือค้นหาใน Google, YouTube หรือแหล่งอื่น ๆ เพื่อค้นหาสิ่งที่คุณต้องการได้ตามสบาย",
+    "ocr_recognize_text": "รู้จำข้อความ",
+    "@ocr_recognize_text": {
+        "description": "OCR text recognition action in reader long-press menu"
+    },
+    "httpDumpTitle": "บันทึกคำขอ HTTP",
+    "@httpDumpTitle": {
+        "description": "Title for HTTP dump toggle in advanced settings"
+    },
+    "httpDumpViewFiles": "ดูไฟล์บันทึก",
+    "@httpDumpViewFiles": {
+        "description": "Label for button to view dump files"
+    },
+    "httpDumpEmpty": "ยังไม่มีไฟล์บันทึก",
+    "@httpDumpEmpty": {
+        "description": "Message when no dump files exist"
+    },
+    "httpDumpGroupByDomain": "จัดกลุ่มตามโดเมน",
+    "@httpDumpGroupByDomain": {
+        "description": "Label for grouping toggle"
+    },
+    "httpDumpClearAll": "ล้างทั้งหมด",
+    "@httpDumpClearAll": {
+        "description": "Label for clear all button"
+    }
 }

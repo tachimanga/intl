@@ -814,5 +814,29 @@
     "send_mail_fail_hint": "Bitte richten Sie die Mail-App auf Ihrem Gerät ein oder senden Sie eine E-Mail direkt an {email}",
     "copy_email": "E-Mail kopieren",
     "app_failed_to_start_tips": "App konnte nicht gestartet werden. Starten Sie Ihr Gerät neu.",
-    "get_started_tips_1b": "Standardmäßig sind keine Erweiterungen oder Quellen enthalten. Fragen Sie gerne die KI oder suchen Sie bei Google, YouTube oder anderen Quellen, um das zu finden, was Sie brauchen."
+    "get_started_tips_1b": "Standardmäßig sind keine Erweiterungen oder Quellen enthalten. Fragen Sie gerne die KI oder suchen Sie bei Google, YouTube oder anderen Quellen, um das zu finden, was Sie brauchen.",
+    "ocr_recognize_text": "Text erkennen",
+    "@ocr_recognize_text": {
+        "description": "OCR text recognition action in reader long-press menu"
+    },
+    "httpDumpTitle": "HTTP-Anfrageprotokoll",
+    "@httpDumpTitle": {
+        "description": "Title for HTTP dump toggle in advanced settings"
+    },
+    "httpDumpViewFiles": "Protokolldateien anzeigen",
+    "@httpDumpViewFiles": {
+        "description": "Label for button to view dump files"
+    },
+    "httpDumpEmpty": "Noch keine Protokolldateien",
+    "@httpDumpEmpty": {
+        "description": "Message when no dump files exist"
+    },
+    "httpDumpGroupByDomain": "Nach Domain gruppieren",
+    "@httpDumpGroupByDomain": {
+        "description": "Label for grouping toggle"
+    },
+    "httpDumpClearAll": "Alle löschen",
+    "@httpDumpClearAll": {
+        "description": "Label for clear all button"
+    }
 }

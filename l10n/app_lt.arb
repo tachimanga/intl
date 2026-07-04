@@ -1319,5 +1319,29 @@
     "send_mail_fail_hint": "Nustatykite Pašto programėlę savo įrenginyje arba siųskite el. laišką tiesiogiai adresu {email}",
     "copy_email": "Kopijuoti el. paštą",
     "app_failed_to_start_tips": "Programėlės paleisti nepavyko. Pabandykite iš naujo paleisti įrenginį.",
-    "get_started_tips_1b": "Pagal numatytuosius nustatymus plėtiniai ar šaltiniai neįtraukti. Nedvejodami klauskite DI arba ieškokite „Google“, „YouTube“ ar kituose šaltiniuose, ko jums reikia."
+    "get_started_tips_1b": "Pagal numatytuosius nustatymus plėtiniai ar šaltiniai neįtraukti. Nedvejodami klauskite DI arba ieškokite „Google“, „YouTube“ ar kituose šaltiniuose, ko jums reikia.",
+    "ocr_recognize_text": "Atpažinti tekstą",
+    "@ocr_recognize_text": {
+        "description": "OCR text recognition action in reader long-press menu"
+    },
+    "httpDumpTitle": "HTTP užklausų žurnalas",
+    "@httpDumpTitle": {
+        "description": "Title for HTTP dump toggle in advanced settings"
+    },
+    "httpDumpViewFiles": "Peržiūrėti žurnalo failus",
+    "@httpDumpViewFiles": {
+        "description": "Label for button to view dump files"
+    },
+    "httpDumpEmpty": "Dar nėra žurnalo failų",
+    "@httpDumpEmpty": {
+        "description": "Message when no dump files exist"
+    },
+    "httpDumpGroupByDomain": "Grupuoti pagal domeną",
+    "@httpDumpGroupByDomain": {
+        "description": "Label for grouping toggle"
+    },
+    "httpDumpClearAll": "Išvalyti viską",
+    "@httpDumpClearAll": {
+        "description": "Label for clear all button"
+    }
 }

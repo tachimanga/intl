@@ -814,5 +814,29 @@
     "send_mail_fail_hint": "Настройте приложение Почта на устройстве или отправьте письмо напрямую на {email}",
     "copy_email": "Скопировать email",
     "app_failed_to_start_tips": "Не удалось запустить приложение. Попробуйте перезагрузить устройство.",
-    "get_started_tips_1b": "Расширения и источники по умолчанию не включены. Не стесняйтесь спрашивать ИИ или искать в Google, YouTube и других ресурсах, чтобы найти то, что вам нужно."
+    "get_started_tips_1b": "Расширения и источники по умолчанию не включены. Не стесняйтесь спрашивать ИИ или искать в Google, YouTube и других ресурсах, чтобы найти то, что вам нужно.",
+    "ocr_recognize_text": "Распознать текст",
+    "@ocr_recognize_text": {
+        "description": "OCR text recognition action in reader long-press menu"
+    },
+    "httpDumpTitle": "Журнал HTTP-запросов",
+    "@httpDumpTitle": {
+        "description": "Title for HTTP dump toggle in advanced settings"
+    },
+    "httpDumpViewFiles": "Просмотр файлов журнала",
+    "@httpDumpViewFiles": {
+        "description": "Label for button to view dump files"
+    },
+    "httpDumpEmpty": "Файлов журнала пока нет",
+    "@httpDumpEmpty": {
+        "description": "Message when no dump files exist"
+    },
+    "httpDumpGroupByDomain": "Группировать по домену",
+    "@httpDumpGroupByDomain": {
+        "description": "Label for grouping toggle"
+    },
+    "httpDumpClearAll": "Очистить всё",
+    "@httpDumpClearAll": {
+        "description": "Label for clear all button"
+    }
 }
