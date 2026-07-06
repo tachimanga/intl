@@ -838,5 +838,9 @@
     "httpDumpClearAll": "Rensa alla",
     "@httpDumpClearAll": {
         "description": "Label for clear all button"
+    },
+    "duplicateCategoryName": "Kategorinamn existerar redan",
+    "@duplicateCategoryName": {
+        "description": "Toast message when trying to create or edit a category with a name that already exists"
     }
 }
