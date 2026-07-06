@@ -245,7 +245,7 @@
     "@library": {
         "description": "Screen title and Button text of Library and Library Settings screen"
     },
-    "installingExtension": "جار التحميل الإضافة",
+    "installingExtension": "جارٍ تثبيت الإضافة",
     "@installingExtension": {
         "description": "Toast text to show that the extension is installing"
     },
@@ -409,7 +409,7 @@
             }
         }
     },
-    "nsfwInfo": "هذا لا يمنع الإضافات غير الرسمية أو التي يحتمل أن يتم وضع علامة عليها بشكل غير صحيح من ظهور محتوى NSFW(18+) داخل التطبيق",
+    "nsfwInfo": "هذا لا يمنع الإضافات غير الرسمية أو التي قد تكون مُصنَّفة بشكل غير صحيح من عرض محتوى NSFW (18+) داخل التطبيق",
     "@nsfwInfo": {
         "description": "Hint text to show that the nsfw switch cannot prevent incorrectly flagged extensions from surfacing"
     },
@@ -854,7 +854,7 @@
     "one_repository": "مستودع واحد",
     "num_repositories": "{num} مستودعات",
     "add_repository": "إضافة مستودع",
-    "empty_repository": "لم تقم بإضافة أي الإضافات المستودع حتى الآن.",
+    "empty_repository": "لم تُضِف أي مستودعات للإضافات حتى الآن.",
     "add_repo_by_name": "بالاسم",
     "add_repo_by_name_tip": "إضافة مستودعات إضافية إلى Tachimanga.\nتكون تنسيق المستودع 'اسم المستخدم/المستودع'، حيث يكون اسم المستخدم هو مالك المستودع، واسم المستودع يكون نفسه",
     "add_repo_by_url": "عن طريق الرابط",
@@ -979,7 +979,7 @@
     "history_is_empty": "لم تقرأ شيئًا مؤخرًا.",
     "downloaded_is_empty": "لا توجد تنزيلات حديثة.",
     "reset_filters": "إعادة ضبط الفلاتر",
-    "repo_not_exist": "الإضافات المستودع هذة غير موجود.",
+    "repo_not_exist": "مستودع الإضافات غير موجود.",
     "disagree_label": "عدم الموافقة",
     "agree_label": "موافقة",
     "log_enable_tips": "تم تمكين تسجيل البيانات بنجاح. سيتم تطبيق التغييرات بعد إعادة تشغيل التطبيق.",
@@ -1395,5 +1395,9 @@
     "httpDumpClearAll": "مسح الكل",
     "@httpDumpClearAll": {
         "description": "Label for clear all button"
+    },
+    "duplicateCategoryName": "اسم الفئة موجود بالفعل",
+    "@duplicateCategoryName": {
+        "description": "Toast message when trying to create or edit a category with a name that already exists"
     }
 }
