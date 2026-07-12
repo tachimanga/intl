@@ -1369,5 +1369,60 @@
     "purchase_subscribe_tips": "அனைத்து அம்சங்களும் அடங்கும். எப்போது வேண்டுமானாலும் ரத்து செய்யலாம்.",
     "purchase_lifetime_tips": "ஒருமுறை வாங்குதல். சந்தா இல்லை.",
     "purchase_per_month_price_short": "{price}/மா",
-    "subscribe_to_add_notes": "குறிப்புகளைச் சேர்க்க பிரீமியம் சந்தா தேவை"
+    "subscribe_to_add_notes": "குறிப்புகளைச் சேர்க்க பிரீமியம் சந்தா தேவை",
+    "restore_buddhist_calendar_error": "வாங்கியவற்றை மீட்டெடுக்க முடியவில்லை. உங்கள் கருவியின் நாள்காட்டி புத்த ஆண்டு முறையில் அமைக்கப்பட்டுள்ளது. அமைப்புகள் > பொது > மொழி மற்றும் வட்டாரம் > நாள்காட்டி என்பதற்குச் சென்று, கிரிகோரியன் நாள்காட்டிக்கு மாற்றிய பின் மீண்டும் முயலவும்.",
+    "@restore_buddhist_calendar_error": {
+        "description": "Error message when restore fails due to Buddhist calendar setting"
+    },
+    "remindLater": "பின்னர் நினைவூட்டு",
+    "@remindLater": {
+        "description": "Button text to postpone restart reminder"
+    },
+    "send_mail_fail_title": "அஞ்சலைத் திறக்க முடியவில்லை",
+    "@send_mail_fail_title": {
+        "description": "Dialog title when SEND_MAIL fails"
+    },
+    "send_mail_fail_hint": "உங்கள் கருவியில் அஞ்சல் செயலியை அமைக்கவும் அல்லது {email} முகவரிக்கு நேரடியாக மின்னஞ்சல் அனுப்பவும்.",
+    "@send_mail_fail_hint": {
+        "description": "Dialog message when SEND_MAIL fails, reminding user to set up Mail app or send email manually",
+        "placeholders": {
+            "email": {
+                "type": "String"
+            }
+        }
+    },
+    "copy_email": "மின்னஞ்சல் முகவரியை நகலெடு",
+    "@copy_email": {
+        "description": "Button text to copy email address"
+    },
+    "app_failed_to_start_tips": "செயலி தொடங்கவில்லை. உங்கள் கருவியை மறுதொடக்கம் செய்து முயலவும்.",
+    "get_started_tips_1b": "இயல்பாக எந்த நீட்சிகளும் மூலங்களும் சேர்க்கப்படவில்லை. உங்களுக்குத் தேவையானவற்றைக் கண்டறிய செயற்கை நுண்ணறிவிடம் கேட்கலாம் அல்லது கூகுள், யூடியூப் போன்ற பிற வழிகளில் தேடலாம்.",
+    "ocr_recognize_text": "உரையைக் கண்டறி",
+    "@ocr_recognize_text": {
+        "description": "OCR text recognition action in reader long-press menu"
+    },
+    "httpDumpTitle": "HTTP கோரிக்கை பதிவு",
+    "@httpDumpTitle": {
+        "description": "Title for HTTP dump toggle in advanced settings"
+    },
+    "httpDumpViewFiles": "பதிவுக் கோப்புகளைக் காண்க",
+    "@httpDumpViewFiles": {
+        "description": "Label for button to view dump files"
+    },
+    "httpDumpEmpty": "பதிவுக் கோப்புகள் இன்னும் இல்லை",
+    "@httpDumpEmpty": {
+        "description": "Message when no dump files exist"
+    },
+    "httpDumpGroupByDomain": "இணையதள முகவரிப்படி தொகுக்கவும்",
+    "@httpDumpGroupByDomain": {
+        "description": "Label for grouping toggle"
+    },
+    "httpDumpClearAll": "அனைத்தையும் அழி",
+    "@httpDumpClearAll": {
+        "description": "Label for clear all button"
+    },
+    "duplicateCategoryName": "இந்தப் பகுப்பின் பெயர் ஏற்கனவே உள்ளது",
+    "@duplicateCategoryName": {
+        "description": "Toast message when trying to create or edit a category with a name that already exists"
+    }
 }
