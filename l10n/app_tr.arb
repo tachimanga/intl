@@ -400,11 +400,11 @@
     "add_manga_to": "Manga ekle...",
     "add_to_default_category": "Varsayılan kategoriye ekle",
     "add_to_category": "{category} kategorisine ekle",
-    "add_to_categories": "{x, plural, one{kategorisine ekle} other{{x} kategoriye ekle}}",
+    "add_to_categories": "{x, plural, one{Kategoriye ekle} other{{x} kategoriye ekle}}",
     "move_manga_to": "Mangayı taşı...",
     "keep_in_default_category": "Varsayılan kategoride tut",
     "move_to_category": "{category} kategorisine taşı",
-    "move_to_categories": "{x, plural, one{Kategoriye taşı} other{{x} kategorisine taşı}}",
+    "move_to_categories": "{x, plural, one{Kategoriye taşı} other{{x} kategoriye taşı}}",
     "iCloud_label": "iCloud",
     "backup_to_iCloud": "iCloud Drive'a Yedekle",
     "backup_to_iCloud_tip": "iCloud Drive'dan yedek dosyaları yükleme ve indirme",
@@ -523,7 +523,7 @@
     "remove_from_library": "Kütüphaneden kaldır",
     "tachiyomi_import_tip_title": "İçe aktarma başarısız: Yedek dosyası çok büyük.",
     "tachiyomi_import_tip_content": "Tachiyomi, Mihon ve çatallarının yedeğini oluştururken yalnızca Kütüphane, Kategoriler ve İzleme'yi yedekleyin ve yeniden deneyin.",
-    "apple_pencil_integration": "Apple Pencil",
+    "apple_pencil_integration": "Apple Kalem",
     "apple_pencil_integration_description": "Çift dokunma ve sıkma",
     "apple_pencil_double_tap": "Çift dokunma",
     "apple_pencil_squeeze": "Sıkma",
@@ -619,7 +619,7 @@
     "storage_remaining": "Kalan depolama",
     "hold_to_scroll": "Kaydırmak için basılı tutun",
     "hold_to_scroll_tip": "Sadece Webtoon ve Sürekli Okuma modlarında kullanılabilir.",
-    "hold_to_scroll_speed_up_tip": "Daha hızlı kaydırmak için bir parmağı basılı tutun, sonra başka bir parmağı basılı tutun.",
+    "hold_to_scroll_speed_up_tip": "Bir parmağı basılı tutun, ardından başka bir parmağı daha basılı tutarak daha hızlı kaydırın.",
     "long_press_action_menu_tips": "\"Kaydırmak için basılı tutun\" açıkken devre dışı bırakılır.",
     "tracker_token_expire_message": "Kimlik doğrulama jetonunun süresi doldu. Lütfen yenilemek için çıkış yapıp tekrar giriş yapın.",
     "md_page_tips": "{icon} İpuçları",
@@ -838,5 +838,9 @@
     "httpDumpClearAll": "Tümünü Temizle",
     "@httpDumpClearAll": {
         "description": "Label for clear all button"
+    },
+    "duplicateCategoryName": "Kategori adı zaten var",
+    "@duplicateCategoryName": {
+        "description": "Toast message when trying to create or edit a category with a name that already exists"
     }
 }
