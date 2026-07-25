@@ -788,6 +788,8 @@
     "@readerScrollAnimation": {},
     "doubleTapZoomIn": "Double tap to zoom in",
     "@doubleTapZoomIn": {},
+    "cropBorder": "Crop borders",
+    "@cropBorder": {},
     "allScanlators": "All Scanlators",
     "@allScanlators": {},
     "scanlators": "Scanlators",
@@ -958,7 +960,7 @@
     "@add_repo_by_name_tip": {},
     "add_repo_by_url": "By URL",
     "@add_repo_by_url": {},
-    "add_repo_by_url_tip": "Add additional repos to Tachimanga.\nThis should be a URL that ends with \"index.min.json\"",
+    "add_repo_by_url_tip": "Add additional repos to Tachimanga.\nEnter a URL ending with \"index.pb\" or \"index.min.json\".",
     "@add_repo_by_url_tip": {},
     "get_repo_meta_fail": "Failed to retrieve repository information.",
     "@get_repo_meta_fail": {},
@@ -1674,7 +1676,7 @@
     "@add_extension_repo_subtitle": {},
     "install_extension_title": "Install extension",
     "@install_extension_title": {},
-    "install_extension_subtitle": "Select an APK file to install",
+    "install_extension_subtitle": "Select an APK or JAR file to install",
     "@install_extension_subtitle": {},
     "failed_to_load_products": "Failed to load in‑app purchases.",
     "@failed_to_load_products": {},
@@ -2072,5 +2074,151 @@
     "duplicateCategoryName": "Category name already exists",
     "@duplicateCategoryName": {
         "description": "Toast message when trying to create or edit a category with a name that already exists"
+    },
+    "chapter_list_refreshing": "Refreshing",
+    "@chapter_list_refreshing": {
+        "description": "Chapter list refresh in progress"
+    },
+    "chapter_list_may_outdated": "Chapter list may outdated",
+    "@chapter_list_may_outdated": {
+        "description": "Chapter list may be outdated warning"
+    },
+    "n_new_chapters": "{count, plural, one{1 new chapter} other{{count} new chapters}}",
+    "@n_new_chapters": {
+        "description": "Number of new chapters found after refresh",
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "no_new_chapters_found": "No new chapters found",
+    "@no_new_chapters_found": {
+        "description": "Shown after refresh when no new chapters were detected"
+    },
+    "automatically_refresh_metadata": "Automatically refresh metadata",
+    "@automatically_refresh_metadata": {
+        "description": "Library setting title for refreshing manga metadata during library updates"
+    },
+    "automatically_refresh_metadata_desc": "Check for new metadata when updating library.",
+    "@automatically_refresh_metadata_desc": {
+        "description": "Library setting description for refreshing manga metadata during library updates"
+    },
+    "refresh_library_covers": "Refresh library covers",
+    "@refresh_library_covers": {
+        "description": "Library setting title for refreshing manga covers from source"
+    },
+    "refresh_library_covers_desc": "Fetch covers again from source.",
+    "@refresh_library_covers_desc": {
+        "description": "Library setting description for refreshing manga covers from source"
+    },
+    "refresh_library_covers_confirm_desc": "This will clear cached source covers. If a source is unavailable, covers that cannot be fetched cannot be restored from the existing cache.",
+    "@refresh_library_covers_confirm_desc": {
+        "description": "Confirmation dialog description for refreshing library covers"
+    },
+    "refresh_library_covers_running_desc": "Refreshing, go back to Library to check.",
+    "@refresh_library_covers_running_desc": {
+        "description": "Subtitle shown while library covers are being refreshed"
+    },
+    "extension_content_mixed": "Mixed",
+    "@extension_content_mixed": {
+        "description": "Label for mixed extension content"
+    },
+    "extension_install_type": "Install type",
+    "@extension_install_type": {
+        "description": "Label for the extension installation path type"
+    },
+    "bulk_migration_guide": "Want to migrate multiple manga at once? Go to Library and select the manga you want to migrate. Tap the ⋮ menu in the bottom-right corner, then choose “Migrate”.",
+    "@bulk_migration_guide": {
+        "description": "Instructions for starting bulk migration from the Library"
+    },
+    "unsupported_extension_title": "Unsupported extension",
+    "@unsupported_extension_title": {
+        "description": "Title for the unsupported extension installation dialog"
+    },
+    "unsupported_extension_verify_error_tips": "This extension is not supported. If you built it yourself, lower minSdk to 21, disable ProGuard optimization, and rebuild it. If you downloaded it from a link, replace the .apk suffix in the link with .jar, then try installing the JAR version.",
+    "@unsupported_extension_verify_error_tips": {
+        "description": "Instructions shown when an APK extension cannot be converted because of a Java VerifyError"
+    },
+    "bulk_tracking": "Bulk Tracking",
+    "@bulk_tracking": {},
+    "bulk_tracking_select_tracker": "Select a tracker",
+    "@bulk_tracking_select_tracker": {
+        "description": "Title shown when choosing a tracker for bulk tracking"
+    },
+    "bulk_tracking_no_logged_in": "No logged-in trackers found",
+    "@bulk_tracking_no_logged_in": {
+        "description": "Empty state when bulk tracking has no available tracker"
+    },
+    "bulk_tracking_no_match": "No match found",
+    "@bulk_tracking_no_match": {
+        "description": "Status when automatic tracker search finds no eligible match"
+    },
+    "bulk_tracking_confirm_title": "Add tracking for {count} manga?",
+    "@bulk_tracking_confirm_title": {
+        "description": "Confirmation title before adding tracking in bulk",
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "bulk_tracking_completed": "Bulk tracking completed",
+    "@bulk_tracking_completed": {
+        "description": "Title shown after bulk tracking finishes"
+    },
+    "bulk_tracking_completed_text": "{success} succeeded, {failed} failed",
+    "@bulk_tracking_completed_text": {
+        "description": "Bulk tracking completion summary",
+        "placeholders": {
+            "success": {
+                "type": "int"
+            },
+            "failed": {
+                "type": "int"
+            }
+        }
+    },
+    "bulk_tracking_matching": "Matching {title}",
+    "@bulk_tracking_matching": {
+        "description": "Progress label while matching tracker entries",
+        "placeholders": {
+            "title": {
+                "type": "String"
+            }
+        }
+    },
+    "bulk_tracking_match_completed": "{x} matched, {y} not found",
+    "@bulk_tracking_match_completed": {
+        "description": "Bulk tracker automatic matching summary",
+        "placeholders": {
+            "x": {
+                "type": "int"
+            },
+            "y": {
+                "type": "int"
+            }
+        }
+    },
+    "bulk_tracking_guide": "Want to add tracking to multiple manga at once? Go to Library and select the manga you want to track. Tap the ⋮ menu in the bottom-right corner, then choose “Tracking”.",
+    "@bulk_tracking_guide": {
+        "description": "Instructions for starting bulk tracking from the Library"
+    },
+    "bulk_tracking_skip_action": "Don't track",
+    "@bulk_tracking_skip_action": {
+        "description": "Action for removing a manga from the bulk tracking list"
+    },
+    "bulk_tracking_already_tracked_hint": "{count, plural, one{1 manga is already being tracked and will be skipped.} other{{count} manga are already being tracked and will be skipped.}}",
+    "@bulk_tracking_already_tracked_hint": {
+        "description": "Bottom hint explaining that manga already tracked by the selected service will be skipped",
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "bulk_tracking_all_already_tracked": "All selected manga are already being tracked. There’s nothing to add.",
+    "@bulk_tracking_all_already_tracked": {
+        "description": "Message shown when every selected manga is already tracked"
     }
 }
