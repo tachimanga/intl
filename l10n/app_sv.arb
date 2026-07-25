@@ -839,7 +839,7 @@
     "@httpDumpClearAll": {
         "description": "Label for clear all button"
     },
-    "duplicateCategoryName": "Kategorinamnet finns redan",
+  	"duplicateCategoryName": "Kategorinamn existerar redan",
     "chapter_list_refreshing": "Uppdaterar",
     "chapter_list_may_outdated": "Kapitellistan kan vara föråldrad",
     "n_new_chapters": "{count, plural, one{1 nytt kapitel} other{{count} nya kapitel}}",
