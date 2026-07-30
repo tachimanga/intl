@@ -867,5 +867,6 @@
     "bulk_tracking_guide": "Birden fazla mangayı aynı anda takip etmek ister misiniz? Kitaplık’a gidip mangaları seçin. Sağ alttaki ⋮ menüsüne dokunun ve “Takip”i seçin.",
     "bulk_tracking_skip_action": "Takip etme",
     "bulk_tracking_already_tracked_hint": "{count, plural, one{1 manga zaten takip ediliyor ve atlanacak.} other{{count} manga zaten takip ediliyor ve atlanacak.}}",
-    "bulk_tracking_all_already_tracked": "Seçilen tüm mangalar zaten takip ediliyor. Eklenecek bir şey yok."
+    "bulk_tracking_all_already_tracked": "Seçilen tüm mangalar zaten takip ediliyor. Eklenecek bir şey yok.",
+    "cropBorder": "Kenarları kırp"
 }
