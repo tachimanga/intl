@@ -1372,5 +1372,6 @@
     "bulk_tracking_guide": "Norite sekti kelias mangas vienu metu? Atverkite Biblioteką ir pasirinkite mangas. Bakstelėkite ⋮ meniu apatiniame dešiniajame kampe, tada pasirinkite „Sekimas“.",
     "bulk_tracking_skip_action": "Nesekti",
     "bulk_tracking_already_tracked_hint": "{count, plural, one{1 manga jau sekama ir bus praleista.} other{{count} mangos jau sekamos ir bus praleistos.}}",
-    "bulk_tracking_all_already_tracked": "Visos pasirinktos mangos jau sekamos. Nėra ko pridėti."
+    "bulk_tracking_all_already_tracked": "Visos pasirinktos mangos jau sekamos. Nėra ko pridėti.",
+    "cropBorder": "Apkirpti rėmelius"
 }
