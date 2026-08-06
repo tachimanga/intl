@@ -1372,5 +1372,6 @@
     "bulk_tracking_guide": "Vous voulez suivre plusieurs mangas à la fois ? Ouvrez la Bibliothèque et sélectionnez-les. Touchez le menu ⋮ en bas à droite, puis choisissez « Suivi ».",
     "bulk_tracking_skip_action": "Ne pas suivre",
     "bulk_tracking_already_tracked_hint": "{count, plural, one{1 manga est déjà suivi et sera ignoré.} other{{count} mangas sont déjà suivis et seront ignorés.}}",
-    "bulk_tracking_all_already_tracked": "Tous les mangas sélectionnés sont déjà suivis. Il n’y a rien à ajouter."
+    "bulk_tracking_all_already_tracked": "Tous les mangas sélectionnés sont déjà suivis. Il n’y a rien à ajouter.",
+    "cropBorder": "Rogner les bordures"
 }
