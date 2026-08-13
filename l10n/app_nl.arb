@@ -505,7 +505,7 @@
     "@readerNavigationLayoutRightAndLeft": {
         "description": "Radio button text for Reader Navigation Layout - Right And Left"
     },
-    "readerPadding": "Lezermarges",
+    "readerPadding": "Zijmarge",
     "@readerPadding": {
         "description": "Slider title text for Reader Padding"
     },
@@ -709,8 +709,8 @@
     "restoreConfirmContent": "Alle huidige gegevens worden verwijderd en vervangen door de gegevens uit deze back-up.",
     "importConfirmTitle": "Tachiyomi-back-up importeren?",
     "importConfirmContent": "Voeg de bibliotheek van Tachiyomi samen met de lokale bibliotheek; bestaande lokale gegevens worden NIET verwijderd of vervangen.",
-    "autoBackupTip": "Voor het herstellen van de back-up, automatisch een back-up maken.",
-    "autoBackupTipForImport": "Voor het importeren van de back-up, automatisch een back-up maken.",
+    "autoBackupTip": "Vóór het herstellen van de back-up, automatisch een back-up maken.",
+    "autoBackupTipForImport": "Vóór het importeren van de back-up, automatisch een back-up maken.",
     "imported": "Back-up geïmporteerd!",
     "restoreSuccessTip": "Back-upherstel geslaagd. Wijzigingen worden van kracht na het opnieuw starten van de app.",
     "importSuccessTip": "Back-upimport geslaagd. Wijzigingen worden van kracht na het opnieuw starten van de app.",
