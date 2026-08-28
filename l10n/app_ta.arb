@@ -175,7 +175,7 @@
     "@errorFilePickUnknownExtension": {
         "description": "Error Description to show when user selected unknown extension file"
     },
-    "errorLaunchURL": "திறக்க முடியவில்லை! \"{url}\" ஐ இடைநகலுக்கு நகலெடுக்கிறது",
+    "errorLaunchURL": "திறக்க முடியவில்லை! \n\"{url}\" ஐ இடைநகலுக்கு நகலெடுக்கிறது",
     "@errorLaunchURL": {
         "description": "Error Description to show when App failed to launch an URL and copied the URL to clipboard",
         "placeholders": {
