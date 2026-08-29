@@ -868,6 +868,7 @@
     "bulk_tracking_skip_action": "Takip etme",
     "bulk_tracking_already_tracked_hint": "{count, plural, one{1 manga zaten takip ediliyor ve atlanacak.} other{{count} manga zaten takip ediliyor ve atlanacak.}}",
     "bulk_tracking_all_already_tracked": "Seçilen tüm mangalar zaten takip ediliyor. Eklenecek bir şey yok.",
+    "cropBorder": "Kenarları kırp",
     "bulk_tracking_reset_title": "Takip sıfırlansın mı?",
     "bulk_tracking_reset_message": "{count, plural, one{Bu işlem, seçilen 1 manganın takibini kaldıracak.} other{Bu işlem, seçilen {count} manganın takibini kaldıracak.}} Mangalarınız ve okuma geçmişiniz etkilenmeyecek.",
     "bulk_tracking_reset_success": "Takip sıfırlandı. Bunları tekrar eklemek için Toplu Takip'i yeniden çalıştırın."

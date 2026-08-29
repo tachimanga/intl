@@ -1373,6 +1373,7 @@
     "bulk_tracking_skip_action": "Ne pas suivre",
     "bulk_tracking_already_tracked_hint": "{count, plural, one{1 manga est déjà suivi et sera ignoré.} other{{count} mangas sont déjà suivis et seront ignorés.}}",
     "bulk_tracking_all_already_tracked": "Tous les mangas sélectionnés sont déjà suivis. Il n’y a rien à ajouter.",
+    "cropBorder": "Rogner les bordures",
     "bulk_tracking_reset_title": "Réinitialiser le suivi ?",
     "bulk_tracking_reset_message": "{count, plural, one{Le suivi sera supprimé pour 1 manga sélectionné.} other{Le suivi sera supprimé pour {count} mangas sélectionnés.}} Vos mangas et votre historique de lecture ne seront pas affectés.",
     "bulk_tracking_reset_success": "Suivi réinitialisé. Relancez le suivi groupé pour les ajouter à nouveau."

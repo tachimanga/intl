@@ -868,6 +868,7 @@
     "bulk_tracking_skip_action": "Spåra inte",
     "bulk_tracking_already_tracked_hint": "{count, plural, one{1 manga spåras redan och hoppas över.} other{{count} manga spåras redan och hoppas över.}}",
     "bulk_tracking_all_already_tracked": "Alla valda manga spåras redan. Det finns inget att lägga till.",
+    "cropBorder": "Beskär gränser",
     "bulk_tracking_reset_title": "Återställa spårning?",
     "bulk_tracking_reset_message": "{count, plural, one{Spårningen tas bort från 1 vald manga.} other{Spårningen tas bort från {count} valda manga.}} Dina manga och din läshistorik påverkas inte.",
     "bulk_tracking_reset_success": "Spårningen har återställts. Kör masspårning igen för att lägga till dem på nytt."
