@@ -851,10 +851,10 @@
     "refresh_library_covers_confirm_desc": "Thao tác này sẽ xóa bìa nguồn đã lưu trong bộ nhớ đệm. Nếu nguồn không khả dụng, những bìa không thể tải về sẽ không thể khôi phục từ bộ nhớ đệm hiện có.",
     "refresh_library_covers_running_desc": "Đang làm mới, quay lại Thư viện để kiểm tra.",
     "extension_content_mixed": "Hỗn hợp",
-    "extension_install_type": "Kiểu cài đặt",
+    "extension_install_type": "Định dạng gói",
     "bulk_migration_guide": "Muốn chuyển nhiều manga cùng lúc? Mở Thư viện và chọn manga. Nhấn menu ⋮ ở góc dưới bên phải, rồi chọn “Chuyển”.",
     "unsupported_extension_title": "Tiện ích không được hỗ trợ",
-    "unsupported_extension_verify_error_tips": "Tiện ích này không được hỗ trợ. Nếu bạn tự tạo, hãy hạ minSdk xuống 21, tắt tối ưu hóa ProGuard rồi tạo lại. Nếu tải từ liên kết, hãy đổi đuôi .apk trong liên kết thành .jar rồi cài phiên bản JAR.",
+    "unsupported_extension_verify_error_tips": "Tiện ích này không được hỗ trợ. Nếu bạn tự tạo, hãy hạ minSdk xuống 21, tắt tối ưu hóa ProGuard rồi tạo lại. Nếu bạn tải xuống từ một liên kết kết thúc bằng .apk, hãy đổi phần cuối của liên kết tải xuống gốc thành .jar, sau đó tải xuống và cài đặt tệp JAR từ liên kết đó.",
     "bulk_tracking": "Theo dõi hàng loạt",
     "bulk_tracking_select_tracker": "Chọn dịch vụ theo dõi",
     "bulk_tracking_no_logged_in": "Không có dịch vụ theo dõi đã đăng nhập",
@@ -867,5 +867,8 @@
     "bulk_tracking_guide": "Muốn theo dõi nhiều manga cùng lúc? Mở Thư viện và chọn manga. Nhấn menu ⋮ ở góc dưới bên phải, rồi chọn “Theo dõi”.",
     "bulk_tracking_skip_action": "Không theo dõi",
     "bulk_tracking_already_tracked_hint": "{count, plural, one{1 manga đã được theo dõi và sẽ bị bỏ qua.} other{{count} manga đã được theo dõi và sẽ bị bỏ qua.}}",
-    "bulk_tracking_all_already_tracked": "Tất cả manga đã chọn đều đang được theo dõi. Không có gì để thêm."
+    "bulk_tracking_all_already_tracked": "Tất cả manga đã chọn đều đang được theo dõi. Không có gì để thêm.",
+    "bulk_tracking_reset_title": "Đặt lại theo dõi?",
+    "bulk_tracking_reset_message": "{count, plural, one{Thao tác này sẽ bỏ theo dõi 1 manga đã chọn.} other{Thao tác này sẽ bỏ theo dõi {count} manga đã chọn.}} Manga và lịch sử đọc của bạn sẽ không bị ảnh hưởng.",
+    "bulk_tracking_reset_success": "Đã đặt lại theo dõi. Chạy lại Theo dõi hàng loạt để thêm lại."
 }

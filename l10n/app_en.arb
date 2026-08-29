@@ -1260,25 +1260,25 @@
     "@minutes_ago": {},
     "hours_ago": "{x, plural, one{1 hour ago} other{{x} hours ago}}",
     "@hours_ago": {},
-    "sync_faq_q1": "What is the Sync?",
+    "sync_faq_q1": "What is Sync?",
     "@sync_faq_q1": {},
-    "sync_faq_a1": "The Sync is a feature that allows you to seamlessly update and access your library across multiple devices. It ensures that your library is consistent and up-to-date regardless of the device you are using.",
+    "sync_faq_a1": "Sync automatically keeps your Tachimanga library and reading data up to date across your devices in near real time. Sign in to the same account and enable Sync on each device.",
     "@sync_faq_a1": {},
     "sync_faq_q2": "What data is synced?",
     "@sync_faq_q2": {},
-    "sync_faq_a2": "Sync includes library, reading history, bookmarks, repositories, and extensions.",
+    "sync_faq_a2": "Sync includes your library and categories, reading history, chapter progress and bookmarks, tracker records, and extensions.",
     "@sync_faq_a2": {},
-    "sync_faq_q3": "What data will not be synced?",
+    "sync_faq_q3": "What data is not synced?",
     "@sync_faq_q3": {},
-    "sync_faq_a3": "Local source files, local extensions, downloads, updates, app settings, extension settings, and auth info for trackers will not be synced.",
+    "sync_faq_a3": "Downloads, local source files, app settings, extension settings, and tracker login credentials are not synced.",
     "@sync_faq_a3": {},
-    "sync_faq_q4": "When does sync occur?",
+    "sync_faq_q4": "When does Sync happen?",
     "@sync_faq_q4": {},
-    "sync_faq_a4": "Sync is triggered automatically in the background at set intervals or upon specific events such as app launch, content update, or your own sync requests. This ensures that your data is consistent across all your linked devices.",
+    "sync_faq_a4": "After Sync is enabled, changes are synced automatically in near real time. Sync also checks for changes when the app starts or returns to the foreground. You can use Sync now at any time.",
     "@sync_faq_a4": {},
-    "sync_faq_q5": "How much time and data are required for sync?",
+    "sync_faq_q5": "How long does Sync take, and how much data does it use?",
     "@sync_faq_q5": {},
-    "sync_faq_a5": "Initial Full Sync: The initial full sync may take several minutes to complete, depending on the number of titles. This process consumes data bandwidth as it transmits a large amount of data.\nSubsequent Incremental Sync: Subsequent sync after the initial full sync is completed swiftly and efficiently. Incremental syncs are quick and consume significantly less data compared to the initial sync process.",
+    "sync_faq_a5": "Your first sync may take a few minutes and use more data, depending on the size of your library. Later syncs transfer only changes, so they are usually much faster and use much less data.",
     "@sync_faq_a5": {},
     "sign_in_with_apple": "Sign in with Apple",
     "@sign_in_with_apple": {},
@@ -1982,14 +1982,6 @@
     "@promotion_banner_blackfriday_text": {},
     "promotion_banner_default_text": "Limited-time offer.",
     "@promotion_banner_default_text": {},
-    "@promotion_banner_text": {
-        "description": "Promotion banner text",
-        "placeholders": {
-            "time": {
-                "example": "23 h 33 m 33 s"
-            }
-        }
-    },
     "premium_features": "Premium features",
     "@premium_features": {
         "description": "Premium features button text"
@@ -2124,9 +2116,9 @@
     "@extension_content_mixed": {
         "description": "Label for mixed extension content"
     },
-    "extension_install_type": "Install type",
+    "extension_install_type": "Package format",
     "@extension_install_type": {
-        "description": "Label for the extension installation path type"
+        "description": "Label for the extension package format"
     },
     "bulk_migration_guide": "Want to migrate multiple manga at once? Go to Library and select the manga you want to migrate. Tap the ⋮ menu in the bottom-right corner, then choose “Migrate”.",
     "@bulk_migration_guide": {
@@ -2136,7 +2128,7 @@
     "@unsupported_extension_title": {
         "description": "Title for the unsupported extension installation dialog"
     },
-    "unsupported_extension_verify_error_tips": "This extension is not supported. If you built it yourself, lower minSdk to 21, disable ProGuard optimization, and rebuild it. If you downloaded it from a link, replace the .apk suffix in the link with .jar, then try installing the JAR version.",
+    "unsupported_extension_verify_error_tips": "This extension is not supported. If you built it yourself, lower minSdk to 21, disable ProGuard optimization, and rebuild it. If you downloaded it from a link ending in .apk, change the original download link to end in .jar, then download and install the JAR file from that link.",
     "@unsupported_extension_verify_error_tips": {
         "description": "Instructions shown when an APK extension cannot be converted because of a Java VerifyError"
     },
@@ -2220,5 +2212,378 @@
     "bulk_tracking_all_already_tracked": "All selected manga are already being tracked. There’s nothing to add.",
     "@bulk_tracking_all_already_tracked": {
         "description": "Message shown when every selected manga is already tracked"
+    },
+    "bulk_tracking_reset_title": "Reset tracking?",
+    "@bulk_tracking_reset_title": {
+        "description": "Title of the bulk tracking reset confirmation dialog"
+    },
+    "bulk_tracking_reset_message": "{count, plural, one{This will remove tracking from 1 selected manga.} other{This will remove tracking from {count} selected manga.}} Your manga and reading history won’t be affected.",
+    "@bulk_tracking_reset_message": {
+        "description": "Warning shown before removing tracking from selected manga",
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "bulk_tracking_reset_success": "Tracking reset. Run Bulk Tracking again to add them back.",
+    "@bulk_tracking_reset_success": {
+        "description": "Message shown after successfully resetting tracking"
+    },
+    "readerBackgroundColor": "Background color",
+    "@readerBackgroundColor": {
+        "description": "Title for the reader background color setting"
+    },
+    "readerBackgroundBlack": "Black",
+    "@readerBackgroundBlack": {
+        "description": "Black reader background option"
+    },
+    "readerBackgroundWhite": "White",
+    "@readerBackgroundWhite": {
+        "description": "White reader background option"
+    },
+    "readerBackgroundAutomatic": "Automatic",
+    "@readerBackgroundAutomatic": {
+        "description": "Automatic reader background option"
+    },
+    "readerBackgroundAutomaticDescription": "In single-page mode, the background adapts to the image. In other modes, it follows the app appearance.",
+    "@readerBackgroundAutomaticDescription": {
+        "description": "Explanation shown from the help button beside the automatic reader background option"
+    },
+    "persistent_tabs_title": "Keep tab state",
+    "@persistent_tabs_title": {
+        "description": "Title for the setting that remembers bottom tab positions"
+    },
+    "persistent_tabs_subtitle": "Remember the selected section and scroll position when switching bottom tabs.",
+    "@persistent_tabs_subtitle": {
+        "description": "Description for the setting that remembers bottom tab positions"
+    },
+    "tracking_services": "Tracking services",
+    "@tracking_services": {
+        "description": "Section title for conventional tracking services"
+    },
+    "enhanced_tracking": "Enhanced tracking",
+    "@enhanced_tracking": {
+        "description": "Section title for source-aware automatic tracking services"
+    },
+    "enhanced_tracking_info": "Tracks reading progress both ways for compatible sources. Entries are automatically tracked when added to your library.",
+    "@enhanced_tracking_info": {
+        "description": "Information shown below the enhanced tracking section"
+    },
+    "enhanced_tracking_source_missing": "Install a compatible source to enable this tracker.",
+    "@enhanced_tracking_source_missing": {
+        "description": "Message shown when an enhanced tracker's source is unavailable"
+    },
+    "enhanced_tracking_backfill_progress": "Matching library: {processed}/{total} ({bound} added)",
+    "@enhanced_tracking_backfill_progress": {
+        "description": "Progress shown while an enhanced tracker scans existing library manga",
+        "placeholders": {
+            "processed": {
+                "type": "int"
+            },
+            "total": {
+                "type": "int"
+            },
+            "bound": {
+                "type": "int"
+            }
+        }
+    },
+    "trackingStatusUnread": "Unread",
+    "@trackingStatusUnread": {
+        "description": "Unread enhanced tracking status"
+    },
+    "enhanced_tracking_backfill_confirm_title": "Match existing library manga?",
+    "@enhanced_tracking_backfill_confirm_title": {
+        "description": "Question shown after enabling an enhanced tracker to start matching existing library manga"
+	},
+    "tracker_username": "Username or email",
+    "@tracker_username": {
+        "description": "Label for the username or email field when signing in to a tracking service"
+    },
+    "tracker_username_empty": "Please enter a username or email address.",
+    "@tracker_username_empty": {
+        "description": "Validation message for an empty tracking-service username"
+    },
+    "trackingStatusConsidering": "Considering",
+    "@trackingStatusConsidering": {
+        "description": "Considering tracker status"
+    },
+    "tracked": "Tracked",
+    "@tracked": {
+        "description": "Section title for library filters based on tracking services"
+    },
+    "trackerSearchType": "Type",
+    "@trackerSearchType": {
+        "description": "Label for a tracking search result's publishing type"
+    },
+    "trackerSearchStatus": "Status",
+    "@trackerSearchStatus": {
+        "description": "Label for a tracking search result's publishing status"
+    },
+    "tracking_services_info": "Track reading progress for individual manga with external services. Local progress is uploaded automatically; remote progress can be applied manually from the Tracking panel.",
+    "@tracking_services_info": {
+        "description": "Information shown below the conventional tracking services section"
+    },
+    "no_tracker_found": "No trackers found",
+    "@no_tracker_found": {
+        "description": "Empty-state message shown when no tracking services are available"
+    },
+    "tracking_faq_q1": "What is Tracking?",
+    "@tracking_faq_q1": {
+        "description": "Tracking FAQ question explaining what tracking is"
+    },
+    "tracking_faq_a1": "Tracking connects manga in Tachimanga to external tracking services such as MyAnimeList, AniList, and MangaUpdates. Reading progress is automatically sent from Tachimanga to your tracker. You can also manually import remote progress into your local chapter status.",
+    "@tracking_faq_a1": {
+        "description": "Tracking FAQ answer explaining what tracking is"
+    },
+    "tracking_faq_q2": "How is Tracking different from Sync?",
+    "@tracking_faq_q2": {
+        "description": "Tracking FAQ question comparing Tracking and Sync"
+    },
+    "tracking_faq_a2": "Tracking manages the reading progress of individual manga in external tracking services. Progress from Tachimanga is uploaded automatically, while importing tracker progress into local chapters must be triggered manually. Sync automatically keeps your Tachimanga library and reading data synchronized across your devices in real time.",
+    "@tracking_faq_a2": {
+        "description": "Tracking FAQ answer comparing Tracking and Sync"
+    },
+    "tracking_faq_q3": "How do I set up Tracking?",
+    "@tracking_faq_q3": {
+        "description": "Tracking FAQ question explaining how to set up tracking"
+    },
+    "tracking_faq_a3": "Go to More → Tracking, then sign in to or enable a tracking service. For a standard tracker, open a manga, tap Tracking, and select Add tracking. If the correct manga is not shown, edit the search text and search again. Enhanced Trackers can match compatible manga automatically when they are added to your library.",
+    "@tracking_faq_a3": {
+        "description": "Tracking FAQ answer explaining how to set up tracking"
+    },
+    "tracking_faq_q4": "When is progress uploaded to a tracker?",
+    "@tracking_faq_q4": {
+        "description": "Tracking FAQ question about uploading reading progress"
+    },
+    "tracking_faq_a4": "Progress is automatically uploaded when a chapter is marked as read, such as when you reach the last page or manually mark chapters as read. Changes made in the Tracking panel, including status, chapter, score, and reading dates, are also sent immediately.",
+    "@tracking_faq_a4": {
+        "description": "Tracking FAQ answer about uploading reading progress"
+    },
+    "tracking_faq_q5": "When is tracker progress applied to local chapters?",
+    "@tracking_faq_q5": {
+        "description": "Tracking FAQ question about importing remote progress"
+    },
+    "tracking_faq_a5": "Tachimanga checks remote progress when you open the Tracking panel for a manga. If the remote progress is ahead, choose Apply on that tracker to mark the corresponding local chapters as read.",
+    "@tracking_faq_a5": {
+        "description": "Tracking FAQ answer about importing remote progress"
+    },
+    "tracking_faq_q6": "What is an Enhanced Tracker?",
+    "@tracking_faq_q6": {
+        "description": "Tracking FAQ question explaining Enhanced Trackers"
+    },
+    "tracking_faq_a6": "Enhanced Trackers automatically match manga from compatible sources, without requiring you to search for each title manually. Currently supported: Komga, Kavita, and Suwayomi.",
+    "@tracking_faq_a6": {
+        "description": "Tracking FAQ answer explaining Enhanced Trackers"
+    },
+    "sync_realtime_title": "Real-time sync across devices",
+    "@sync_realtime_title": {
+        "description": "Headline for the real-time cross-device sync feature card"
+    },
+    "sync_realtime_description": "Your library, reading progress, and bookmarks update instantly on every device.",
+    "@sync_realtime_description": {
+        "description": "Description for the real-time cross-device sync feature card"
+    },
+    "sync_realtime_unlock": "Unlock Real-time Sync",
+    "@sync_realtime_unlock": {
+        "description": "Premium purchase call to action on the real-time sync feature card"
+    },
+    "sync_realtime_live_badge": "LIVE",
+    "@sync_realtime_live_badge": {
+        "description": "Badge emphasizing that cross-device sync happens in real time"
+    },
+    "sync_realtime_premium_badge": "PREMIUM",
+    "@sync_realtime_premium_badge": {
+        "description": "Premium badge on the real-time sync feature card"
+    },
+    "sync_realtime_iphone": "iPhone",
+    "@sync_realtime_iphone": {
+        "description": "iPhone label in the cross-device sync animation"
+    },
+    "sync_realtime_ipad": "iPad",
+    "@sync_realtime_ipad": {
+        "description": "iPad label in the cross-device sync animation"
+    },
+    "sync_realtime_mac": "Mac",
+    "@sync_realtime_mac": {
+        "description": "Mac label in the cross-device sync animation"
+    },
+    "downloads_faq_title": "Downloads FAQ",
+    "@downloads_faq_title": {
+        "description": "Title of the Downloads FAQ screen"
+    },
+    "downloads_faq_speed_q": "What determines download speed?",
+    "@downloads_faq_speed_q": {
+        "description": "Downloads FAQ question about factors that affect download speed"
+    },
+    "downloads_faq_speed_a": "Several factors can affect download speed:\n\n• Source: Download performance may vary between sources and at different times. If a download is slow, try the same title from another available source and compare the result.\n• Network bandwidth: Your internet connection directly affects download speed. Higher bandwidth generally allows faster downloads.\n• Concurrent downloads: Increasing the number of concurrent downloads may improve speed, but setting it too high can cause requests to be limited or fail.\n• Connection quality: The connection between your network and the source can affect performance. In some cases, an appropriate VPN may improve connection quality.",
+    "@downloads_faq_speed_a": {
+        "description": "Downloads FAQ answer explaining factors that affect download speed"
+    },
+    "downloads_faq_background_q": "Is background downloading supported?",
+    "@downloads_faq_background_q": {
+        "description": "Downloads FAQ question about background downloading support"
+    },
+    "downloads_faq_background_a": "Background Download is available on iOS 26 and later. Open Downloads, tap Settings, then Background Download. iOS schedules background work, so downloads may still pause when system resources are limited. For better reliability, connect your device to power and stable Wi-Fi, and turn off Low Power Mode and Low Data Mode.",
+    "@downloads_faq_background_a": {
+        "description": "Downloads FAQ answer explaining background download availability and reliability"
+    },
+    "downloads_faq_failure_q": "Why does the download sometimes fail?",
+    "@downloads_faq_failure_q": {
+        "description": "Downloads FAQ question about failed downloads"
+    },
+    "downloads_faq_failure_a": "Chapters that can be read online are generally downloadable. Open the chapter and check whether it can be read normally, then retry the download.",
+    "@downloads_faq_failure_a": {
+        "description": "Downloads FAQ answer explaining how to troubleshoot a failed download"
+    },
+    "downloads_faq_sync_backup_q": "Are downloaded chapters included in Sync or backups?",
+    "@downloads_faq_sync_backup_q": {
+        "description": "Downloads FAQ question about Sync and backup coverage"
+    },
+    "downloads_faq_sync_backup_a": "No. Downloaded chapters are stored locally on the current device and are not included in Sync or backup files. They must be downloaded separately on each device.",
+    "@downloads_faq_sync_backup_a": {
+        "description": "Downloads FAQ answer explaining that downloaded chapters remain local"
+    },
+    "downloads_faq_export_q": "Can I export downloaded chapters?",
+    "@downloads_faq_export_q": {
+        "description": "Downloads FAQ question about exporting downloaded chapters"
+    },
+    "downloads_faq_export_a": "No. Downloads are stored for offline reading inside Tachimanga and cannot currently be exported.",
+    "@downloads_faq_export_a": {
+        "description": "Downloads FAQ answer explaining that downloaded chapters cannot be exported"
+    },
+    "premium_faq_title": "Premium FAQ",
+    "@premium_faq_title": {
+        "description": "Title of the Premium FAQ screen"
+    },
+    "premium_faq_plans_q": "What is the difference between Monthly, Yearly, and Lifetime?",
+    "@premium_faq_plans_q": {
+        "description": "Premium FAQ question comparing available purchase plans"
+    },
+    "premium_faq_plans_a": "Monthly and Yearly are auto-renewing subscriptions. Lifetime is a one-time purchase and does not renew. All three options unlock the same Premium features.",
+    "@premium_faq_plans_a": {
+        "description": "Premium FAQ answer comparing subscriptions and the lifetime purchase"
+    },
+    "premium_faq_renewal_q": "How does renewal work, and how do I cancel?",
+    "@premium_faq_renewal_q": {
+        "description": "Premium FAQ question about subscription renewal and cancellation"
+    },
+    "premium_faq_renewal_a": "Apple manages subscription billing. Monthly and Yearly plans renew automatically until canceled. To manage or cancel a subscription, open Settings on your device, tap your name, then Subscriptions. Canceling stops future renewals, and Premium remains available until the current subscription period ends.",
+    "@premium_faq_renewal_a": {
+        "description": "Premium FAQ answer explaining subscription renewal and cancellation"
+    },
+    "premium_faq_devices_q": "Can I use Premium on multiple devices?",
+    "@premium_faq_devices_q": {
+        "description": "Premium FAQ question about using a purchase on multiple devices"
+    },
+    "premium_faq_devices_a": "Yes. Install Tachimanga on another supported device using the same Apple Account that made the purchase. Open Get Premium and tap Restore Purchase. You will not be charged again.",
+    "@premium_faq_devices_a": {
+        "description": "Premium FAQ answer explaining how to restore Premium on another device"
+    },
+    "premium_faq_restore_q": "Why can’t my purchase be restored?",
+    "@premium_faq_restore_q": {
+        "description": "Premium FAQ question about troubleshooting purchase restoration"
+    },
+    "premium_faq_restore_a": "Make sure Media & Purchases is signed in with the same Apple Account used for the original purchase, and that in-app purchases are allowed on your device. Restart your device, switch to a different network, then return to the Get Premium page and tap Restore Purchase again. You can also check your App Store Purchase History to confirm that the purchase is still valid. If you were charged and the purchase still cannot be restored, contact us.",
+    "@premium_faq_restore_a": {
+        "description": "Premium FAQ answer with troubleshooting steps for restoring a purchase"
+    },
+    "premium_faq_lifetime_q": "How do I upgrade to Lifetime?",
+    "@premium_faq_lifetime_q": {
+        "description": "Premium FAQ question about upgrading from a subscription to Lifetime"
+    },
+    "premium_faq_lifetime_a": "Purchase Lifetime from the Get Premium page, then open Subscription management and cancel your active Monthly or Yearly subscription. Buying Lifetime does not automatically cancel an existing subscription.",
+    "@premium_faq_lifetime_a": {
+        "description": "Premium FAQ answer explaining how to upgrade to the lifetime purchase"
+    },
+    "sync_faq_q6": "Which devices support Sync?",
+    "@sync_faq_q6": {
+        "description": "Sync FAQ question about supported devices"
+    },
+    "sync_faq_a6": "Sync is currently available on iPhone, iPad, and Macs with M-series chips.",
+    "@sync_faq_a6": {
+        "description": "Sync FAQ answer listing supported devices"
+    },
+    "sync_request_another_platform": "Request another platform",
+    "@sync_request_another_platform": {
+        "description": "Button for requesting Sync support on another platform"
+    },
+    "sync_platform_request_title": "Which platform would you like Sync to support?",
+    "@sync_platform_request_title": {
+        "description": "Title of the Sync platform request sheet"
+    },
+    "sync_platform_android": "Android",
+    "@sync_platform_android": {
+        "description": "Android option in the Sync platform request sheet"
+    },
+    "sync_platform_windows": "Windows",
+    "@sync_platform_windows": {
+        "description": "Windows option in the Sync platform request sheet"
+    },
+    "sync_platform_intel_mac": "Intel-based Mac",
+    "@sync_platform_intel_mac": {
+        "description": "Intel-based Mac option in the Sync platform request sheet"
+    },
+    "sync_platform_linux": "Linux",
+    "@sync_platform_linux": {
+        "description": "Linux option in the Sync platform request sheet"
+    },
+    "sync_platform_other": "Other",
+    "@sync_platform_other": {
+        "description": "Other platform option in the Sync platform request sheet"
+    },
+    "sync_platform_request_recorded": "Thanks! Your request has been recorded.",
+    "@sync_platform_request_recorded": {
+        "description": "Confirmation shown after requesting Sync support for another platform"
+    },
+    "tracker_refresh_remote_progress": "Remote progress is at Chapter {remoteChapter}. Mark available local chapters as read?",
+    "@tracker_refresh_remote_progress": {
+        "description": "Confirmation shown before applying remote tracker progress to local chapters",
+        "placeholders": {
+            "remoteChapter": {
+                "type": "String"
+            }
+        }
+    },
+    "tracker_refresh_apply": "Apply",
+    "@tracker_refresh_apply": {
+        "description": "Button that applies remote tracker progress to local chapters"
+    },
+    "source_filters_applied": "{x, plural, one{1 source filter applied} other{{x} source filters applied}}",
+    "@source_filters_applied": {
+        "description": "Text showing the number of included or excluded source filters in the library"
+    },
+    "mangaSortTotalChapters": "Total chapters",
+    "@mangaSortTotalChapters": {
+        "description": "Sort library manga by total chapter count"
+    },
+    "reader_page_progress": "Show page progress",
+    "@reader_page_progress": {
+        "description": "Title for the setting that shows page progress in the reader"
+    },
+    "reader_page_progress_desc": "Show the current page and total pages at the bottom.",
+    "@reader_page_progress_desc": {
+        "description": "Description for the reader page progress setting"
+    },
+    "hold_to_scroll_adjust_speed_tip": "Press and hold, then swipe up to speed up or down to slow down.",
+    "@hold_to_scroll_adjust_speed_tip": {
+        "description": "Instructions shown in settings for adjusting long-press scroll speed"
+    },
+    "hold_to_scroll_gesture_guide": "Press and hold to start scrolling. Keep your finger on the screen, then swipe up to speed up or swipe down to slow down. Lift your finger to stop.",
+    "@hold_to_scroll_gesture_guide": {
+        "description": "Gesture guide shown when enabling press-and-hold scrolling"
+    },
+    "dont_remind_again": "Don't remind me again",
+    "@dont_remind_again": {
+        "description": "Button that permanently dismisses an informational reminder"
+    },
+    "readerNavigationLayoutInvertUnavailable": "Right And Left follows the reading direction.",
+    "@readerNavigationLayoutInvertUnavailable": {
+        "description": "Explains why tap zone inversion is unavailable for the Right And Left layout"
+    },
+    "readerGesturesSectionTitle": "Gestures",
+    "@readerGesturesSectionTitle": {
+        "description": "Section title for gesture-related reader settings"
     }
 }

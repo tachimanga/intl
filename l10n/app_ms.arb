@@ -851,10 +851,10 @@
     "refresh_library_covers_confirm_desc": "Ini akan memadam cache kulit sumber. Jika sumber tidak tersedia, kulit yang gagal diambil tidak dapat dipulihkan dari cache sedia ada.",
     "refresh_library_covers_running_desc": "Menyegarkan, kembali ke Perpustakaan untuk periksa.",
     "extension_content_mixed": "Campuran",
-    "extension_install_type": "Jenis pemasangan",
+    "extension_install_type": "Format pakej",
     "bulk_migration_guide": "Mahu memindahkan beberapa manga serentak? Buka Pustaka dan pilih manga. Ketik menu ⋮ di sudut kanan bawah, kemudian pilih “Pindahkan”.",
     "unsupported_extension_title": "Sambungan tidak disokong",
-    "unsupported_extension_verify_error_tips": "Sambungan ini tidak disokong. Jika anda membinanya sendiri, turunkan minSdk kepada 21, nyahaktifkan pengoptimuman ProGuard dan bina semula. Jika dimuat turun daripada pautan, gantikan akhiran .apk dalam pautan dengan .jar, kemudian pasang versi JAR.",
+    "unsupported_extension_verify_error_tips": "Sambungan ini tidak disokong. Jika anda membinanya sendiri, turunkan minSdk kepada 21, nyahaktifkan pengoptimuman ProGuard dan bina semula. Jika anda memuat turunnya daripada pautan yang berakhir dengan .apk, ubah pautan muat turun asal supaya berakhir dengan .jar, kemudian muat turun dan pasang fail JAR daripada pautan tersebut.",
     "bulk_tracking": "Penjejakan Pukal",
     "bulk_tracking_select_tracker": "Pilih penjejak",
     "bulk_tracking_no_logged_in": "Tiada penjejak yang telah dilog masuk",
@@ -867,5 +867,8 @@
     "bulk_tracking_guide": "Mahu menjejaki beberapa manga serentak? Buka Pustaka dan pilih manga. Ketik menu ⋮ di sudut kanan bawah, kemudian pilih “Penjejakan”.",
     "bulk_tracking_skip_action": "Jangan jejaki",
     "bulk_tracking_already_tracked_hint": "{count, plural, one{1 manga sudah dijejaki dan akan dilangkau.} other{{count} manga sudah dijejaki dan akan dilangkau.}}",
-    "bulk_tracking_all_already_tracked": "Semua manga yang dipilih sudah dijejaki. Tiada apa-apa untuk ditambah."
+    "bulk_tracking_all_already_tracked": "Semua manga yang dipilih sudah dijejaki. Tiada apa-apa untuk ditambah.",
+    "bulk_tracking_reset_title": "Tetapkan semula penjejakan?",
+    "bulk_tracking_reset_message": "{count, plural, one{Tindakan ini akan mengalih keluar penjejakan daripada 1 manga yang dipilih.} other{Tindakan ini akan mengalih keluar penjejakan daripada {count} manga yang dipilih.}} Manga dan sejarah bacaan anda tidak akan terjejas.",
+    "bulk_tracking_reset_success": "Penjejakan ditetapkan semula. Jalankan Penjejakan Pukal sekali lagi untuk menambahkannya semula."
 }

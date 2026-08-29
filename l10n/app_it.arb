@@ -851,10 +851,10 @@
     "refresh_library_covers_confirm_desc": "Questo cancellerà le copertine nella cache della fonte. Se una fonte non è disponibile, le copertine che non possono essere recuperate non possono essere ripristinate dalla cache esistente.",
     "refresh_library_covers_running_desc": "Aggiornamento in corso, torna alla Libreria per verificare.",
     "extension_content_mixed": "Misto",
-    "extension_install_type": "Tipo di installazione",
+    "extension_install_type": "Formato del pacchetto",
     "bulk_migration_guide": "Vuoi migrare più manga insieme? Apri la Libreria e seleziona i manga. Tocca il menu ⋮ in basso a destra, quindi scegli “Migra”.",
     "unsupported_extension_title": "Estensione non supportata",
-    "unsupported_extension_verify_error_tips": "Questa estensione non è supportata. Se l’hai creata tu, imposta minSdk su 21, disattiva l’ottimizzazione ProGuard e ricompilala. Se l’hai scaricata da un link, sostituisci .apk con .jar nel link, quindi installa la versione JAR.",
+    "unsupported_extension_verify_error_tips": "Questa estensione non è supportata. Se l’hai creata tu, imposta minSdk su 21, disattiva l’ottimizzazione ProGuard e ricompilala. Se l’hai scaricata da un link che termina con .apk, modifica il link di download originale in modo che termini con .jar, quindi scarica e installa il file JAR da quel link.",
     "bulk_tracking": "Monitoraggio multiplo",
     "bulk_tracking_select_tracker": "Seleziona un servizio",
     "bulk_tracking_no_logged_in": "Nessun servizio connesso",
@@ -867,5 +867,8 @@
     "bulk_tracking_guide": "Vuoi monitorare più manga insieme? Apri la Libreria e seleziona i manga. Tocca il menu ⋮ in basso a destra, quindi scegli “Monitoraggio”.",
     "bulk_tracking_skip_action": "Non monitorare",
     "bulk_tracking_already_tracked_hint": "{count, plural, one{1 manga è già monitorato e verrà ignorato.} other{{count} manga sono già monitorati e verranno ignorati.}}",
-    "bulk_tracking_all_already_tracked": "Tutti i manga selezionati sono già monitorati. Non c’è nulla da aggiungere."
+    "bulk_tracking_all_already_tracked": "Tutti i manga selezionati sono già monitorati. Non c’è nulla da aggiungere.",
+    "bulk_tracking_reset_title": "Reimpostare il monitoraggio?",
+    "bulk_tracking_reset_message": "{count, plural, one{Il monitoraggio verrà rimosso da 1 manga selezionato.} other{Il monitoraggio verrà rimosso da {count} manga selezionati.}} I tuoi manga e la cronologia di lettura non subiranno modifiche.",
+    "bulk_tracking_reset_success": "Monitoraggio reimpostato. Avvia di nuovo il monitoraggio in blocco per aggiungerli nuovamente."
 }

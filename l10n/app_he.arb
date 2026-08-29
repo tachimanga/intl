@@ -512,5 +512,9 @@
     "readerModeSingleHorizontalRTL": "יחיד אופקי (RTL)",
     "@readerModeSingleHorizontalRTL": {
         "description": "Radio button text for Reader Mode Type - Single Horizontal (RTL)"
-    }
+    },
+    "bulk_tracking_reset_title": "לאפס את המעקב?",
+    "bulk_tracking_reset_message": "{count, plural, one{פעולה זו תסיר את המעקב ממאנגה אחת שנבחרה.} other{פעולה זו תסיר את המעקב מ־{count} מאנגות שנבחרו.}} המאנגה והיסטוריית הקריאה שלך לא יושפעו.",
+    "bulk_tracking_reset_success": "המעקב אופס. יש להפעיל שוב את המעקב המרוכז כדי להוסיף אותן מחדש.",
+    "unsupported_extension_verify_error_tips": "הרחבה זו אינה נתמכת. אם בנית אותה בעצמך, יש להוריד את minSdk ל־21, להשבית את מיטוב ProGuard ולבנות אותה מחדש. אם הורדת אותה מקישור שמסתיים ב־.apk, יש לשנות את הסיומת של קישור ההורדה המקורי ל־.jar, ולאחר מכן להוריד ולהתקין את קובץ ה־JAR מאותו קישור."
 }

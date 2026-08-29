@@ -926,5 +926,9 @@
     "httpDumpClearAll": "Clear All",
     "@httpDumpClearAll": {
         "description": "Label for clear all button"
-    }
+    },
+    "bulk_tracking_reset_title": "Tracking resetten?",
+    "bulk_tracking_reset_message": "{count, plural, one{Hiermee wordt de tracking van 1 geselecteerde manga verwijderd.} other{Hiermee wordt de tracking van {count} geselecteerde manga verwijderd.}} Je manga en leesgeschiedenis blijven ongewijzigd.",
+    "bulk_tracking_reset_success": "Tracking gereset. Voer Bulktracking opnieuw uit om ze weer toe te voegen.",
+    "unsupported_extension_verify_error_tips": "Deze extensie wordt niet ondersteund. Als je deze zelf hebt gebouwd, verlaag dan minSdk naar 21, schakel ProGuard-optimalisatie uit en bouw de extensie opnieuw. Als je deze hebt gedownload via een link die eindigt op .apk, wijzig dan de oorspronkelijke downloadlink zodat deze eindigt op .jar en download en installeer vervolgens het JAR-bestand via die link."
 }

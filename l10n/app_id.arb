@@ -851,10 +851,10 @@
     "refresh_library_covers_confirm_desc": "Ini akan menghapus cache sampul sumber. Jika sumber tidak tersedia, sampul yang gagal diambil tidak dapat dipulihkan dari cache yang ada.",
     "refresh_library_covers_running_desc": "Menyegarkan, kembali ke Perpustakaan untuk memeriksa.",
     "extension_content_mixed": "Campuran",
-    "extension_install_type": "Jenis instalasi",
+    "extension_install_type": "Format paket",
     "bulk_migration_guide": "Ingin memigrasikan beberapa manga sekaligus? Buka Pustaka dan pilih manga. Ketuk menu ⋮ di kanan bawah, lalu pilih “Migrasikan”.",
     "unsupported_extension_title": "Ekstensi tidak didukung",
-    "unsupported_extension_verify_error_tips": "Ekstensi ini tidak didukung. Jika Anda membuatnya sendiri, turunkan minSdk ke 21, nonaktifkan pengoptimalan ProGuard, lalu build ulang. Jika diunduh dari tautan, ganti akhiran .apk pada tautan dengan .jar, lalu instal versi JAR.",
+    "unsupported_extension_verify_error_tips": "Ekstensi ini tidak didukung. Jika Anda membuatnya sendiri, turunkan minSdk ke 21, nonaktifkan pengoptimalan ProGuard, lalu build ulang. Jika Anda mengunduhnya dari tautan yang berakhiran .apk, ubah tautan unduhan asli agar berakhiran .jar, lalu unduh dan instal file JAR dari tautan tersebut.",
     "bulk_tracking": "Pelacakan Massal",
     "bulk_tracking_select_tracker": "Pilih pelacak",
     "bulk_tracking_no_logged_in": "Tidak ada pelacak yang sudah masuk",
@@ -867,5 +867,8 @@
     "bulk_tracking_guide": "Ingin melacak beberapa manga sekaligus? Buka Pustaka dan pilih manga. Ketuk menu ⋮ di kanan bawah, lalu pilih “Pelacakan”.",
     "bulk_tracking_skip_action": "Jangan lacak",
     "bulk_tracking_already_tracked_hint": "{count, plural, one{1 manga sudah dilacak dan akan dilewati.} other{{count} manga sudah dilacak dan akan dilewati.}}",
-    "bulk_tracking_all_already_tracked": "Semua manga yang dipilih sudah dilacak. Tidak ada yang perlu ditambahkan."
+    "bulk_tracking_all_already_tracked": "Semua manga yang dipilih sudah dilacak. Tidak ada yang perlu ditambahkan.",
+    "bulk_tracking_reset_title": "Atur ulang pelacakan?",
+    "bulk_tracking_reset_message": "{count, plural, one{Tindakan ini akan menghapus pelacakan dari 1 manga yang dipilih.} other{Tindakan ini akan menghapus pelacakan dari {count} manga yang dipilih.}} Manga dan riwayat bacaan Anda tidak akan terpengaruh.",
+    "bulk_tracking_reset_success": "Pelacakan diatur ulang. Jalankan Pelacakan Massal lagi untuk menambahkannya kembali."
 }

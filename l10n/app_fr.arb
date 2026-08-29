@@ -1356,10 +1356,10 @@
     "refresh_library_covers_confirm_desc": "Cela effacera les couvertures en cache de la source. Si une source est indisponible, les couvertures qui ne peuvent être récupérées ne pourront pas être restaurées depuis le cache existant.",
     "refresh_library_covers_running_desc": "Actualisation en cours, retournez à la Bibliothèque pour vérifier.",
     "extension_content_mixed": "Mixte",
-    "extension_install_type": "Type d’installation",
+    "extension_install_type": "Format du paquet",
     "bulk_migration_guide": "Vous voulez migrer plusieurs mangas à la fois ? Ouvrez la Bibliothèque et sélectionnez-les. Touchez le menu ⋮ en bas à droite, puis choisissez « Migrer ».",
     "unsupported_extension_title": "Extension non prise en charge",
-    "unsupported_extension_verify_error_tips": "Cette extension n’est pas prise en charge. Si vous l’avez créée, définissez minSdk sur 21, désactivez l’optimisation ProGuard et recompilez-la. Si vous l’avez téléchargée via un lien, remplacez .apk par .jar dans le lien, puis installez la version JAR.",
+    "unsupported_extension_verify_error_tips": "Cette extension n’est pas prise en charge. Si vous l’avez créée, définissez minSdk sur 21, désactivez l’optimisation ProGuard et recompilez-la. Si vous l’avez téléchargée depuis un lien se terminant par .apk, modifiez le lien de téléchargement d’origine pour qu’il se termine par .jar, puis téléchargez et installez le fichier JAR depuis ce lien.",
     "bulk_tracking": "Suivi groupé",
     "bulk_tracking_select_tracker": "Sélectionner un service",
     "bulk_tracking_no_logged_in": "Aucun service connecté trouvé",
@@ -1372,5 +1372,8 @@
     "bulk_tracking_guide": "Vous voulez suivre plusieurs mangas à la fois ? Ouvrez la Bibliothèque et sélectionnez-les. Touchez le menu ⋮ en bas à droite, puis choisissez « Suivi ».",
     "bulk_tracking_skip_action": "Ne pas suivre",
     "bulk_tracking_already_tracked_hint": "{count, plural, one{1 manga est déjà suivi et sera ignoré.} other{{count} mangas sont déjà suivis et seront ignorés.}}",
-    "bulk_tracking_all_already_tracked": "Tous les mangas sélectionnés sont déjà suivis. Il n’y a rien à ajouter."
+    "bulk_tracking_all_already_tracked": "Tous les mangas sélectionnés sont déjà suivis. Il n’y a rien à ajouter.",
+    "bulk_tracking_reset_title": "Réinitialiser le suivi ?",
+    "bulk_tracking_reset_message": "{count, plural, one{Le suivi sera supprimé pour 1 manga sélectionné.} other{Le suivi sera supprimé pour {count} mangas sélectionnés.}} Vos mangas et votre historique de lecture ne seront pas affectés.",
+    "bulk_tracking_reset_success": "Suivi réinitialisé. Relancez le suivi groupé pour les ajouter à nouveau."
 }

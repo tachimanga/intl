@@ -851,10 +851,10 @@
     "refresh_library_covers_confirm_desc": "Ez törli a gyorsítótárazott forrásborítókat. Ha egy forrás nem elérhető, a le nem tölthető borítók nem állíthatók vissza a meglévő gyorsítótárból.",
     "refresh_library_covers_running_desc": "Frissítés folyamatban, menj vissza a Könyvtárba ellenőrizni.",
     "extension_content_mixed": "Vegyes",
-    "extension_install_type": "Telepítés típusa",
+    "extension_install_type": "Csomagformátum",
     "bulk_migration_guide": "Több mangát szeretnél egyszerre áttelepíteni? Nyisd meg a Könyvtárat, és jelöld ki őket. Koppints a jobb alsó ⋮ menüre, majd válaszd az „Áttelepítés” lehetőséget.",
     "unsupported_extension_title": "Nem támogatott bővítmény",
-    "unsupported_extension_verify_error_tips": "Ez a bővítmény nem támogatott. Ha saját magad készítetted, állítsd a minSdk értékét 21-re, kapcsold ki a ProGuard-optimalizálást, majd építsd újra. Ha hivatkozásról töltötted le, cseréld le benne az .apk végződést .jar végződésre, majd telepítsd a JAR-verziót.",
+    "unsupported_extension_verify_error_tips": "Ez a bővítmény nem támogatott. Ha saját magad készítetted, állítsd a minSdk értékét 21-re, kapcsold ki a ProGuard-optimalizálást, majd építsd újra. Ha egy .apk végződésű hivatkozásról töltötted le, módosítsd az eredeti letöltési hivatkozás végét .jar-ra, majd töltsd le és telepítsd a JAR-fájlt erről a hivatkozásról.",
     "bulk_tracking": "Kötegelt követés",
     "bulk_tracking_select_tracker": "Követő kiválasztása",
     "bulk_tracking_no_logged_in": "Nincs bejelentkezett követő",
@@ -867,5 +867,8 @@
     "bulk_tracking_guide": "Több mangát szeretnél egyszerre követni? Nyisd meg a Könyvtárat, és jelöld ki őket. Koppints a jobb alsó ⋮ menüre, majd válaszd a „Követés” lehetőséget.",
     "bulk_tracking_skip_action": "Ne kövesse",
     "bulk_tracking_already_tracked_hint": "{count, plural, one{1 manga már követve van, ezért kimarad.} other{{count} manga már követve van, ezért kimarad.}}",
-    "bulk_tracking_all_already_tracked": "Már minden kijelölt manga követve van. Nincs mit hozzáadni."
+    "bulk_tracking_all_already_tracked": "Már minden kijelölt manga követve van. Nincs mit hozzáadni.",
+    "bulk_tracking_reset_title": "Visszaállítod a követést?",
+    "bulk_tracking_reset_message": "{count, plural, one{Ezzel megszűnik 1 kiválasztott manga követése.} other{Ezzel megszűnik {count} kiválasztott manga követése.}} A mangáid és az olvasási előzményeid nem változnak.",
+    "bulk_tracking_reset_success": "A követés visszaállítva. Indítsd el újra a tömeges követést a mangák újbóli hozzáadásához."
 }

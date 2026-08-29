@@ -851,10 +851,10 @@
     "refresh_library_covers_confirm_desc": "Dadurch werden zwischengespeicherte Quellcover gelöscht. Wenn eine Quelle nicht verfügbar ist, können nicht abrufbare Cover nicht aus dem vorhandenen Cache wiederhergestellt werden.",
     "refresh_library_covers_running_desc": "Aktualisierung läuft, zurück zur Bibliothek zum Überprüfen.",
     "extension_content_mixed": "Gemischt",
-    "extension_install_type": "Installationstyp",
+    "extension_install_type": "Paketformat",
     "bulk_migration_guide": "Möchtest du mehrere Manga gleichzeitig migrieren? Öffne die Bibliothek und wähle die gewünschten Manga aus. Tippe unten rechts auf das ⋮-Menü und dann auf „Migrieren“.",
     "unsupported_extension_title": "Nicht unterstützte Erweiterung",
-    "unsupported_extension_verify_error_tips": "Diese Erweiterung wird nicht unterstützt. Wenn du sie selbst erstellt hast, setze minSdk auf 21, deaktiviere die ProGuard-Optimierung und erstelle sie neu. Wenn du sie über einen Link heruntergeladen hast, ersetze im Link .apk durch .jar und installiere die JAR-Version.",
+    "unsupported_extension_verify_error_tips": "Diese Erweiterung wird nicht unterstützt. Wenn du sie selbst erstellt hast, setze minSdk auf 21, deaktiviere die ProGuard-Optimierung und erstelle sie neu. Wenn du sie über einen Link heruntergeladen hast, der auf .apk endet, ändere den ursprünglichen Download-Link so, dass er auf .jar endet. Lade dann die JAR-Datei über diesen Link herunter und installiere sie.",
     "bulk_tracking": "Mehrfach-Tracking",
     "bulk_tracking_select_tracker": "Tracker auswählen",
     "bulk_tracking_no_logged_in": "Keine angemeldeten Tracker gefunden",
@@ -867,5 +867,8 @@
     "bulk_tracking_guide": "Möchtest du mehrere Manga gleichzeitig tracken? Öffne die Bibliothek und wähle die gewünschten Manga aus. Tippe unten rechts auf das ⋮-Menü und dann auf „Tracking“.",
     "bulk_tracking_skip_action": "Nicht tracken",
     "bulk_tracking_already_tracked_hint": "{count, plural, one{1 Manga wird bereits getrackt und übersprungen.} other{{count} Manga werden bereits getrackt und übersprungen.}}",
-    "bulk_tracking_all_already_tracked": "Alle ausgewählten Manga werden bereits getrackt. Es gibt nichts hinzuzufügen."
+    "bulk_tracking_all_already_tracked": "Alle ausgewählten Manga werden bereits getrackt. Es gibt nichts hinzuzufügen.",
+    "bulk_tracking_reset_title": "Tracking zurücksetzen?",
+    "bulk_tracking_reset_message": "{count, plural, one{Dadurch wird das Tracking für 1 ausgewählten Manga entfernt.} other{Dadurch wird das Tracking für {count} ausgewählte Manga entfernt.}} Deine Manga und dein Leseverlauf bleiben erhalten.",
+    "bulk_tracking_reset_success": "Tracking zurückgesetzt. Starte das Massen-Tracking erneut, um sie wieder hinzuzufügen."
 }

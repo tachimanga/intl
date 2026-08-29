@@ -1324,10 +1324,10 @@
     "refresh_library_covers_confirm_desc": "这将清除已缓存的来源封面。如果来源不可用，无法获取的封面将无法从现有缓存中恢复。",
     "refresh_library_covers_running_desc": "正在刷新，返回书库查看。",
     "extension_content_mixed": "混合",
-    "extension_install_type": "安装类型",
+    "extension_install_type": "安装包格式",
     "bulk_migration_guide": "想一次迁移多部漫画？前往书架并选择要迁移的漫画。点击右下角的 ⋮ 菜单，然后选择“迁移”。",
     "unsupported_extension_title": "不支持的扩展",
-    "unsupported_extension_verify_error_tips": "不支持此扩展。如果是自行构建的，请将 minSdk 降至 21、关闭 ProGuard 优化，然后重新构建。如果是从链接下载的，请将链接中的 .apk 后缀改为 .jar，再尝试安装 JAR 版本。",
+    "unsupported_extension_verify_error_tips": "不支持此扩展。如果是自行构建的，请将 minSdk 降至 21、关闭 ProGuard 优化，然后重新构建。如果是从以 .apk 结尾的链接下载，请将原始下载链接的结尾改为 .jar，然后通过该链接下载并安装 JAR 文件。",
     "bulk_tracking": "批量追踪",
     "bulk_tracking_select_tracker": "选择追踪平台",
     "bulk_tracking_no_logged_in": "未找到已登录的追踪平台",
@@ -1340,5 +1340,8 @@
     "bulk_tracking_guide": "想一次追踪多部漫画？前往书架并选择要追踪的漫画。点击右下角的 ⋮ 菜单，然后选择“追踪”。",
     "bulk_tracking_skip_action": "不追踪",
     "bulk_tracking_already_tracked_hint": "{count, plural, one{已有 1 部漫画正在追踪，将跳过。} other{已有 {count} 部漫画正在追踪，将跳过。}}",
-    "bulk_tracking_all_already_tracked": "所选漫画均已在追踪，无需添加。"
+    "bulk_tracking_all_already_tracked": "所选漫画均已在追踪，无需添加。",
+    "bulk_tracking_reset_title": "重置追踪？",
+    "bulk_tracking_reset_message": "{count, plural, one{这将取消追踪所选的 1 部漫画。} other{这将取消追踪所选的 {count} 部漫画。}} 你的漫画和阅读记录不会受到影响。",
+    "bulk_tracking_reset_success": "追踪已重置。请重新运行批量追踪以再次添加。"
 }

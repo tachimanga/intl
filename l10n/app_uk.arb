@@ -269,14 +269,6 @@
     "@pause": {
         "description": "Button text to pause downloads"
     },
-    "quickSearchCategoryManga": "Перейти до манґи \"M\" у категорію \"C\"",
-    "@quickSearchCategoryManga": {
-        "description": "Quick Open Hint text for searching Manga M in Category C with prefill '#C/M'"
-    },
-    "quickSearchCategoryMangaChapter": "Перейти до назви розділу \"CN\" з манґи \"M\" в категорію \"C\"",
-    "@quickSearchCategoryMangaChapter": {
-        "description": "Quick Open Hint text for searching Chapter name CN from Manga M in Source S with prefill '#C/M:CN'"
-    },
     "reader": "Читач",
     "@reader": {
         "description": "Screen title and Button text of Reader screen"
@@ -376,10 +368,6 @@
     "search": "Пошук",
     "@search": {
         "description": "Search field hint Text"
-    },
-    "serverPortHintText": "Порт сервера",
-    "@serverPortHintText": {
-        "description": "Text Filed hint text to update Server Port"
     },
     "settings": "Налаштування",
     "@settings": {
@@ -533,10 +521,6 @@
     "@globalUpdate": {
         "description": "Button text of Global Manga Update"
     },
-    "findServer": "Знайти",
-    "@findServer": {
-        "description": "Button text of Find Server"
-    },
     "finished": "Завершено",
     "@finished": {
         "description": "Text to show the Currently Finished reading chapter in Reader Screen"
@@ -609,33 +593,13 @@
             }
         }
     },
-    "noServerFound": "У вашій локальній мережі не знайдено сервер",
-    "@noServerFound": {
-        "description": "Text to show that no Server found in locale network"
-    },
-    "quickSearchSourceManga": "Пошук манґи \"M\" у джерелі \"S\"",
-    "@quickSearchSourceManga": {
-        "description": "Quick Open Hint text for searching Manga M in Source S with prefill '@S/M'"
-    },
     "pending": "В очікуванні",
     "@pending": {
         "description": "Pending status Manga Group title in Update Summary Screen"
     },
-    "quickSearchContext": "Пошук за запитом X (результати базуються на контексті екрана)",
-    "@quickSearchContext": {
-        "description": "Quick Open Hint text for query X"
-    },
     "readerModeContinuousHorizontalRTL": "Горизонтальний безперервний (справа наліво)",
     "@readerModeContinuousHorizontalRTL": {
         "description": "Radio button text for Reader Mode Type - Continuous Horizontal (RTL)"
-    },
-    "quickSearchCategory": "Перейти до категорії \"C\"",
-    "@quickSearchCategory": {
-        "description": "Quick Open Hint text for Category C with prefill '#C'"
-    },
-    "quickSearchSource": "Перейти до джерела \"S\"",
-    "@quickSearchSource": {
-        "description": "Quick Open Hint text for Source S with prefill '@S'"
     },
     "readerNavigationLayoutInvert": "Інвертувати зони тицяння",
     "@readerNavigationLayoutInvert": {
@@ -665,10 +629,6 @@
     "@webView": {
         "description": "Button text to open manga website"
     },
-    "serverPort": "Порт сервера",
-    "@serverPort": {
-        "description": "Popup title and Button text to update Server Port"
-    },
     "sort": "Сортувати",
     "@sort": {
         "description": "title of sort Tab across the app"
@@ -696,26 +656,6 @@
     "unknownSource": "Невідоме джерело",
     "@unknownSource": {
         "description": "Text to show unknown Source in Manga details screen"
-    },
-    "daysAgo": "{days} днів тому",
-    "@daysAgo": {
-        "description": "Days ago text to show the release date of manga"
-    },
-    "yesterday": "Вчора",
-    "@yesterday": {
-        "description": "Yesterday Text to show the release date of manga"
-    },
-    "today": "Сьогодні",
-    "@today": {
-        "description": "Today Text to show the release date of manga"
-    },
-    "readerSwipeChapterToggle": "Проведіть пальцем, щоб перегорнути",
-    "@readerSwipeChapterToggle": {
-        "description": "Switch title to toggle `swipe to change chapter` in reader screen"
-    },
-    "readerSwipeChapterToggleDescription": "Проведіть пальцем, щоб змінити розділ в читачу",
-    "@readerSwipeChapterToggleDescription": {
-        "description": "Switch tile description for, toggle `swipe to change chapter` in reader screen"
     },
     "getPremium": "Отримати Premium",
     "alreadyGetPremium": "Придбано Premium",
@@ -1416,10 +1356,10 @@
     "refresh_library_covers_confirm_desc": "Це очистить кешовані обкладинки з джерела. Якщо джерело недоступне, обкладинки, які не вдалося отримати, не можна буде відновити з наявного кешу.",
     "refresh_library_covers_running_desc": "Оновлення, поверніться до Бібліотеки для перевірки.",
     "extension_content_mixed": "Змішане",
-    "extension_install_type": "Тип установлення",
+    "extension_install_type": "Формат пакета",
     "bulk_migration_guide": "Хочете перенести кілька манґ одночасно? Відкрийте Бібліотеку та виберіть потрібні манґи. Натисніть меню ⋮ у нижньому правому куті та виберіть «Перенести».",
     "unsupported_extension_title": "Непідтримуване розширення",
-    "unsupported_extension_verify_error_tips": "Це розширення не підтримується. Якщо ви створили його самі, установіть minSdk 21, вимкніть оптимізацію ProGuard і перебудуйте його. Якщо ви завантажили його за посиланням, замініть у посиланні .apk на .jar і встановіть версію JAR.",
+    "unsupported_extension_verify_error_tips": "Це розширення не підтримується. Якщо ви створили його самі, установіть minSdk 21, вимкніть оптимізацію ProGuard і перебудуйте його. Якщо ви завантажили його за посиланням, що закінчується на .apk, змініть закінчення початкового посилання для завантаження на .jar, а потім завантажте файл JAR за цим посиланням і встановіть його.",
     "bulk_tracking": "Масове відстеження",
     "bulk_tracking_select_tracker": "Виберіть сервіс",
     "bulk_tracking_no_logged_in": "Немає сервісів із виконаним входом",
@@ -1432,5 +1372,8 @@
     "bulk_tracking_guide": "Хочете відстежувати кілька манґ одночасно? Відкрийте Бібліотеку та виберіть потрібні манґи. Натисніть меню ⋮ у нижньому правому куті та виберіть «Відстеження».",
     "bulk_tracking_skip_action": "Не відстежувати",
     "bulk_tracking_already_tracked_hint": "{count, plural, one{1 манґа вже відстежується та буде пропущена.} other{{count} манґ уже відстежуються та будуть пропущені.}}",
-    "bulk_tracking_all_already_tracked": "Усі вибрані манґи вже відстежуються. Додавати нічого."
+    "bulk_tracking_all_already_tracked": "Усі вибрані манґи вже відстежуються. Додавати нічого.",
+    "bulk_tracking_reset_title": "Скинути відстеження?",
+    "bulk_tracking_reset_message": "{count, plural, one{Відстеження буде видалено для 1 вибраної манґи.} few{Відстеження буде видалено для {count} вибраних манґ.} many{Відстеження буде видалено для {count} вибраних манґ.} other{Відстеження буде видалено для {count} вибраних манґ.}} Ваші манґи та історія читання не зміняться.",
+    "bulk_tracking_reset_success": "Відстеження скинуто. Знову запустіть масове відстеження, щоб повторно додати їх."
 }

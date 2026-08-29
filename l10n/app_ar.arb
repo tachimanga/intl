@@ -285,10 +285,6 @@
     "@noSourcesFound": {
         "description": "Text to show that the Source list is empty"
     },
-    "findServer": "ابحث",
-    "@findServer": {
-        "description": "Button text of Find Server"
-    },
     "manga": "مانجا",
     "@manga": {
         "description": "Screen title and Button text of Manga details screen"
@@ -390,10 +386,6 @@
                 "type": "int"
             }
         }
-    },
-    "noServerFound": "لا يوجد خادم في شبكتك المحلية",
-    "@noServerFound": {
-        "description": "Text to show that no Server found in locale network"
     },
     "nsfw18": "18+",
     "@nsfw18": {
@@ -589,14 +581,6 @@
     "@search": {
         "description": "Search field hint Text"
     },
-    "serverPort": "منفذ السيرفر",
-    "@serverPort": {
-        "description": "Popup title and Button text to update Server Port"
-    },
-    "serverPortHintText": "أدخل منفذ السيرفر",
-    "@serverPortHintText": {
-        "description": "Text Filed hint text to update Server Port"
-    },
     "sourceTypeFilter": "فرز",
     "@sourceTypeFilter": {
         "description": "Tab text Filter for source screen type"
@@ -665,18 +649,6 @@
     "@unknownAuthor": {
         "description": "Text to show unknown author in Manga details screen"
     },
-    "quickSearchCategoryManga": "اذهب إلى المانجا 'M' في الفئة 'C'",
-    "@quickSearchCategoryManga": {
-        "description": "Quick Open Hint text for searching Manga M in Category C with prefill '#C/M'"
-    },
-    "quickSearchSourceManga": "ابحث عن المانجا 'M' في المصدر 'S'",
-    "@quickSearchSourceManga": {
-        "description": "Quick Open Hint text for searching Manga M in Source S with prefill '@S/M'"
-    },
-    "quickSearchCategoryMangaChapter": "انتقل إلى اسم الفصل 'CN' من المانجا 'M' في الفئة 'C'",
-    "@quickSearchCategoryMangaChapter": {
-        "description": "Quick Open Hint text for searching Chapter name CN from Manga M in Source S with prefill '#C/M:CN'"
-    },
     "scanlators": "فِرَق الترجمة",
     "@scanlators": {
         "description": "Title text for Scanlators"
@@ -684,30 +656,6 @@
     "allScanlators": "جميع فِرَق الترجمة",
     "@allScanlators": {
         "description": "Text for all Scanlators in manga description screen chapter filter"
-    },
-    "quickSearchContext": "للبحث عن استعلام (النتائج مبنية على معلومات الشاشة)",
-    "@quickSearchContext": {
-        "description": "Quick Open Hint text for query X"
-    },
-    "quickSearchSource": "اذهب إلى المصدر 'S'",
-    "@quickSearchSource": {
-        "description": "Quick Open Hint text for Source S with prefill '@S'"
-    },
-    "quickSearchCategory": "اذهب إلى الفئة 'C'",
-    "@quickSearchCategory": {
-        "description": "Quick Open Hint text for Category C with prefill '#C'"
-    },
-    "today": "اليوم",
-    "@today": {
-        "description": "Today Text to show the release date of manga"
-    },
-    "daysAgo": "منذ {days} أيام",
-    "@daysAgo": {
-        "description": "Days ago text to show the release date of manga"
-    },
-    "yesterday": "أمس",
-    "@yesterday": {
-        "description": "Yesterday Text to show the release date of manga"
     },
     "getPremium": "احصل على النسخة المميزة",
     "alreadyGetPremium": "تم شراء النسخة المميزة",
@@ -1408,10 +1356,10 @@
     "refresh_library_covers_confirm_desc": "سيؤدي هذا إلى مسح الأغلفة المخزنة مؤقتًا من المصدر. إذا كان المصدر غير متاح، لا يمكن استعادة الأغلفة التي تعذر جلبها من ذاكرة التخزين المؤقت الحالية.",
     "refresh_library_covers_running_desc": "جارٍ التحديث، عد إلى المكتبة للتحقق.",
     "extension_content_mixed": "مختلط",
-    "extension_install_type": "نوع التثبيت",
+    "extension_install_type": "تنسيق الحزمة",
     "bulk_migration_guide": "هل تريد ترحيل عدة مانغا دفعة واحدة؟ انتقل إلى المكتبة وحدد المانغا المطلوبة. اضغط على قائمة ⋮ أسفل اليمين، ثم اختر “ترحيل”.",
     "unsupported_extension_title": "امتداد غير مدعوم",
-    "unsupported_extension_verify_error_tips": "هذا الامتداد غير مدعوم. إذا أنشأته بنفسك، فاخفض minSdk إلى 21، وعطّل تحسين ProGuard، ثم أعد بناءه. إذا نزّلته من رابط، فاستبدل لاحقة .apk في الرابط بـ .jar، ثم حاول تثبيت إصدار JAR.",
+    "unsupported_extension_verify_error_tips": "هذا الامتداد غير مدعوم. إذا أنشأته بنفسك، فاخفض minSdk إلى 21، وعطّل تحسين ProGuard، ثم أعد بناءه. إذا نزّلته من رابط ينتهي بـ .apk، فغيّر نهاية رابط التنزيل الأصلي إلى .jar، ثم نزّل ملف JAR من ذلك الرابط وثبّته.",
     "bulk_tracking": "تتبّع جماعي",
     "bulk_tracking_select_tracker": "اختر متتبّعًا",
     "bulk_tracking_no_logged_in": "لم يتم العثور على متتبّعات مسجّل دخولها",
@@ -1424,5 +1372,8 @@
     "bulk_tracking_guide": "هل تريد إضافة تتبّع لعدة مانغا دفعة واحدة؟ انتقل إلى المكتبة وحدد المانغا المطلوبة. اضغط على قائمة ⋮ أسفل اليمين، ثم اختر “التتبّع”.",
     "bulk_tracking_skip_action": "عدم التتبّع",
     "bulk_tracking_already_tracked_hint": "{count, plural, one{هناك مانغا واحدة قيد التتبّع بالفعل وسيتم تخطيها.} other{هناك {count} مانغا قيد التتبّع بالفعل وسيتم تخطيها.}}",
-    "bulk_tracking_all_already_tracked": "كل المانغا المحددة قيد التتبّع بالفعل. لا يوجد ما يمكن إضافته."
+    "bulk_tracking_all_already_tracked": "كل المانغا المحددة قيد التتبّع بالفعل. لا يوجد ما يمكن إضافته.",
+    "bulk_tracking_reset_title": "إعادة ضبط التتبع؟",
+    "bulk_tracking_reset_message": "{count, plural, one{سيؤدي هذا إلى إزالة التتبع من مانغا واحدة محددة.} other{سيؤدي هذا إلى إزالة التتبع من {count} مانغا محددة.}} لن تتأثر المانغا أو سجل القراءة.",
+    "bulk_tracking_reset_success": "تمت إعادة ضبط التتبع. شغّل التتبع الجماعي مرة أخرى لإضافتها من جديد."
 }
