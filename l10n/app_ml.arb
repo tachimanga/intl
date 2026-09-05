@@ -1,106 +1,341 @@
 {
-  "addCategory": "വിഭാഗം ചേർക്കുക",
-  "@addCategory": {
-    "description": "Popup title and Button text to add new category in Edit Category Screen"
-  },
-  "addToLibrary": "ലൈബ്രറിയിലേക്ക് ചേർക്കുക",
-  "@addToLibrary": {
-    "description": "Button text to add Manga to Library in Manga Details Screen"
-  },
-  "appLanguage": "അപ്ലിക്കേഷൻ ഭാഷ",
-  "@appLanguage": {
-    "description": "Popup title and Button text to change App Language"
-  },
-  "appTitle": "താച്ചിമാംഗ",
-  "@appTitle": {
-    "description": "Name of the app (Tachidesk Sorayomi in native script)"
-  },
-  "appearance": "രൂപം",
-  "@appearance": {
-    "description": "Screen title and Button text of Appearance screen"
-  },
-  "badges": "ബാഡ്ജുകൾ",
-  "@badges": {
-    "description": "Checkbox Group title to enable Badges on manga Cover in Library Screen"
-  },
-  "bookmarked": "ബുക്ക്‌മാർക്ക് ചെയ്തു",
-  "@bookmarked": {
-    "description": "Checkbox text to filter bookmarked manga chapters in Manga Details screen"
-  },
-  "cancel": "റദ്ദാക്കുക",
-  "@cancel": {
-    "description": "Text for Cancel button in a Popup"
-  },
-  "about": "കുറിച്ച്",
-  "@about": {
-    "description": "Screen title and Button text of About screen"
-  },
-  "categories": "വിഭാഗങ്ങൾ",
-  "@categories": {
-    "description": "Button text of edit Categories screen in Library settings screen"
-  },
-  "chapterSortFetchedDate": "ലഭിച്ച തീയതി പ്രകാരം",
-  "@chapterSortFetchedDate": {
-    "description": "Radio button text for sort by Fetched Date"
-  },
-  "chapterSortSource": "ഉറവിടം വഴി",
-  "@chapterSortSource": {
-    "description": "Radio button text for sort by Source"
-  },
-  "client": "ക്ലയൻ്റ്",
-  "@client": {
-    "description": "Text title for the name of the client in About screen"
-  },
-  "close": "അടയ്ക്കുക",
-  "@close": {
-    "description": "Text for close button"
-  },
-  "completed": "പൂർത്തിയാക്കി",
-  "@completed": {
-    "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
-  },
-  "appTheme": "ആപ്പ് തീം",
-  "@appTheme": {
-    "description": "Popup title and Button text to change App Theme"
-  },
-  "backup": "ബാക്കപ്പ് & പുനഃസ്ഥാപിക്കുക",
-  "@backup": {
-    "description": "Screen title and Button text of Backup & Restore screen"
-  },
-  "displayMode": "പ്രദർശന മോഡ്",
-  "@displayMode": {
-    "description": "Radio Group title to change manga Cover display in Library and Source Screens"
-  },
-  "displayModeDescriptiveList": "വിവരണമുള്ള പട്ടിക",
-  "@displayModeDescriptiveList": {
-    "description": "Radio button text for Manga Cover display mode - Descriptive List"
-  },
-  "downloaded": "ഡൗൺലോഡ് ചെയ്തത്",
-  "@downloaded": {
-    "description": "Text to show downloaded chapters status in Filters  "
-  },
-  "downloads": "ഡൗൺലോഡുകൾ",
-  "@downloads": {
-    "description": "Screen title and Navigation text of Downloads screen"
-  },
-  "edit": "തിരുത്തുക",
-  "@edit": {
-    "description": "Popup button text to edit Category in Edit category screen"
-  },
-  "editCategory": "വിഭാഗം തിരുത്തുക",
-  "@editCategory": {
-    "description": "Screen title, Button text and  of Downloads screen"
-  },
-  "discord": "ഡിസ്‌കോർഡ്",
-  "@discord": {
-    "description": "Discord app title"
-  },
-  "mangaStatusCompleted": "പൂർത്തിയാക്കി",
-  "@mangaStatusCompleted": {
-    "description": "Text to show Manga Status Completed in Manga details screen"
-  },
-  "mangaStatusLicensed": "ലൈസൻസ് ഉള്ളത്",
-  "@mangaStatusLicensed": {
-    "description": "Text to show Manga Status Licensed in Manga details screen"
-  }
+    "addCategory": "വിഭാഗം ചേർക്കുക",
+    "@addCategory": {
+        "description": "Popup title and Button text to add new category in Edit Category Screen"
+    },
+    "addToLibrary": "ലൈബ്രറിയിലേക്ക് ചേർക്കുക",
+    "@addToLibrary": {
+        "description": "Button text to add Manga to Library in Manga Details Screen"
+    },
+    "appLanguage": "അപ്ലിക്കേഷൻ ഭാഷ",
+    "@appLanguage": {
+        "description": "Popup title and Button text to change App Language"
+    },
+    "appTitle": "താച്ചിമാംഗ",
+    "@appTitle": {
+        "description": "Name of the app (Tachidesk Sorayomi in native script)"
+    },
+    "appearance": "രൂപം",
+    "@appearance": {
+        "description": "Screen title and Button text of Appearance screen"
+    },
+    "badges": "ബാഡ്ജുകൾ",
+    "@badges": {
+        "description": "Checkbox Group title to enable Badges on manga Cover in Library Screen"
+    },
+    "bookmarked": "ബുക്ക്‌മാർക്ക് ചെയ്തു",
+    "@bookmarked": {
+        "description": "Checkbox text to filter bookmarked manga chapters in Manga Details screen"
+    },
+    "cancel": "റദ്ദാക്കുക",
+    "@cancel": {
+        "description": "Text for Cancel button in a Popup"
+    },
+    "about": "കുറിച്ച്",
+    "@about": {
+        "description": "Screen title and Button text of About screen"
+    },
+    "categories": "വിഭാഗങ്ങൾ",
+    "@categories": {
+        "description": "Button text of edit Categories screen in Library settings screen"
+    },
+    "chapterSortFetchedDate": "ലഭിച്ച തീയതി പ്രകാരം",
+    "@chapterSortFetchedDate": {
+        "description": "Radio button text for sort by Fetched Date"
+    },
+    "chapterSortSource": "ഉറവിടം വഴി",
+    "@chapterSortSource": {
+        "description": "Radio button text for sort by Source"
+    },
+    "client": "ക്ലയൻ്റ്",
+    "@client": {
+        "description": "Text title for the name of the client in About screen"
+    },
+    "close": "അടയ്ക്കുക",
+    "@close": {
+        "description": "Text for close button"
+    },
+    "completed": "പൂർത്തിയാക്കി",
+    "@completed": {
+        "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
+    },
+    "appTheme": "ആപ്പ് തീം",
+    "@appTheme": {
+        "description": "Popup title and Button text to change App Theme"
+    },
+    "backup": "ബാക്കപ്പ് & പുനഃസ്ഥാപിക്കുക",
+    "@backup": {
+        "description": "Screen title and Button text of Backup & Restore screen"
+    },
+    "displayMode": "പ്രദർശന മോഡ്",
+    "@displayMode": {
+        "description": "Radio Group title to change manga Cover display in Library and Source Screens"
+    },
+    "displayModeDescriptiveList": "വിവരണമുള്ള പട്ടിക",
+    "@displayModeDescriptiveList": {
+        "description": "Radio button text for Manga Cover display mode - Descriptive List"
+    },
+    "downloaded": "ഡൗൺലോഡ് ചെയ്തത്",
+    "@downloaded": {
+        "description": "Text to show downloaded chapters status in Filters  "
+    },
+    "downloads": "ഡൗൺലോഡുകൾ",
+    "@downloads": {
+        "description": "Screen title and Navigation text of Downloads screen"
+    },
+    "edit": "തിരുത്തുക",
+    "@edit": {
+        "description": "Popup button text to edit Category in Edit category screen"
+    },
+    "editCategory": "വിഭാഗം തിരുത്തുക",
+    "@editCategory": {
+        "description": "Screen title, Button text and  of Downloads screen"
+    },
+    "discord": "ഡിസ്‌കോർഡ്",
+    "@discord": {
+        "description": "Discord app title"
+    },
+    "mangaStatusCompleted": "പൂർത്തിയാക്കി",
+    "@mangaStatusCompleted": {
+        "description": "Text to show Manga Status Completed in Manga details screen"
+    },
+    "mangaStatusLicensed": "ലൈസൻസ് ഉള്ളത്",
+    "@mangaStatusLicensed": {
+        "description": "Text to show Manga Status Licensed in Manga details screen"
+    },
+    "bulk_tracking_reset_title": "ട്രാക്കിംഗ് പുനഃസജ്ജമാക്കണോ?",
+    "bulk_tracking_reset_message": "{count, plural, one{തിരഞ്ഞെടുത്ത 1 മാങ്ങയുടെ ട്രാക്കിംഗ് ഇത് നീക്കം ചെയ്യും.} other{തിരഞ്ഞെടുത്ത {count} മാങ്ങകളുടെ ട്രാക്കിംഗ് ഇത് നീക്കം ചെയ്യും.}} നിങ്ങളുടെ മാങ്ങയെയും വായനാ ചരിത്രത്തെയും ഇത് ബാധിക്കില്ല.",
+    "bulk_tracking_reset_success": "ട്രാക്കിംഗ് പുനഃസജ്ജമാക്കി. അവ വീണ്ടും ചേർക്കാൻ ബൾക്ക് ട്രാക്കിംഗ് വീണ്ടും പ്രവർത്തിപ്പിക്കുക.",
+    "unsupported_extension_verify_error_tips": "ഈ എക്സ്റ്റെൻഷന് പിന്തുണയില്ല. നിങ്ങൾ ഇത് സ്വയം നിർമ്മിച്ചതാണെങ്കിൽ, minSdk 21 ആയി കുറയ്ക്കുക, ProGuard ഒപ്റ്റിമൈസേഷൻ പ്രവർത്തനരഹിതമാക്കി വീണ്ടും നിർമ്മിക്കുക. .apk-ൽ അവസാനിക്കുന്ന ലിങ്കിൽ നിന്ന് ഡൗൺലോഡ് ചെയ്തതാണെങ്കിൽ, യഥാർത്ഥ ഡൗൺലോഡ് ലിങ്കിന്റെ അവസാനം .jar ആക്കുക; തുടർന്ന് ആ ലിങ്കിൽ നിന്ന് JAR ഫയൽ ഡൗൺലോഡ് ചെയ്ത് ഇൻസ്റ്റാൾ ചെയ്യുക.",
+    "importConfirmTitle": "Mihon ബാക്കപ്പ് ഇറക്കുമതി ചെയ്യണോ?",
+    "importConfirmContent": "Mihon-ന്റെ ലൈബ്രറി പ്രാദേശിക ലൈബ്രറിയുമായി ലയിപ്പിക്കുക; നിലവിലുള്ള പ്രാദേശിക ഡാറ്റ നീക്കം ചെയ്യുകയോ പകരംവയ്ക്കുകയോ ചെയ്യില്ല.",
+    "showStatusBar": "സ്റ്റാറ്റസ് ബാർ കാണിക്കുക",
+    "readerAdvancedSubtitle": "ആംഗ്യങ്ങൾ, പ്രദർശനം, റീഡർ നിയന്ത്രണങ്ങൾ.",
+    "delete_repository": "എക്സ്റ്റെൻഷൻ സ്റ്റോർ നീക്കം ചെയ്യുക",
+    "delete_repository_content": "\"{name}\" എന്ന എക്സ്റ്റെൻഷൻ സ്റ്റോർ താച്ചിമാംഗയിൽ നിന്ന് നീക്കണോ?",
+    "extension_usage_terms": "മൂന്നാം കക്ഷി എക്സ്റ്റെൻഷൻ സ്റ്റോറുകൾ ചേർക്കാൻ, ഇനിപ്പറയുന്ന കാര്യങ്ങൾ നിങ്ങൾ അംഗീകരിക്കണം:\n1. മൂന്നാം കക്ഷി എക്സ്റ്റെൻഷൻ സ്റ്റോറുകളെ താച്ചിമാംഗ ഒരു വിധത്തിലും നിയന്ത്രിക്കുന്നില്ലെന്ന് ഞാൻ മനസ്സിലാക്കുന്നു.\n2. ഏതെങ്കിലും ബാഹ്യ എക്സ്റ്റെൻഷനുകളുമായി താച്ചിമാംഗയ്ക്ക് ബന്ധമില്ലെന്ന് ഞാൻ മനസ്സിലാക്കുന്നു.\n3. എനിക്ക് അവകാശമില്ലാത്ത ഉള്ളടക്കം കാണാൻ താച്ചിമാംഗ ഉപയോഗിക്കില്ലെന്ന് ഞാൻ സമ്മതിക്കുന്നു.",
+    "classic_start_reading_button": "ക്ലാസിക് ആരംഭ ബട്ടൺ",
+    "sync_faq_q1": "Sync എന്താണ്?",
+    "sync_faq_a1": "നിങ്ങളുടെ ഉപകരണങ്ങളിലുടനീളം താച്ചിമാംഗ ലൈബ്രറിയും വായനാ ഡാറ്റയും ഏതാണ്ട് തത്സമയം പുതുക്കി നിലനിർത്തുന്നതാണ് Sync. ഓരോ ഉപകരണത്തിലും ഒരേ അക്കൗണ്ടിൽ സൈൻ ഇൻ ചെയ്ത് Sync പ്രവർത്തനക്ഷമമാക്കുക.",
+    "sync_faq_a2": "നിങ്ങളുടെ ലൈബ്രറിയും വിഭാഗങ്ങളും, വായനാ ചരിത്രം, അധ്യായ പുരോഗതിയും ബുക്ക്മാർക്കുകളും, ട്രാക്കർ റെക്കോർഡുകൾ, എക്സ്റ്റെൻഷനുകൾ എന്നിവ Sync-ൽ ഉൾപ്പെടുന്നു.",
+    "sync_faq_q3": "ഏത് ഡാറ്റയാണ് Sync ചെയ്യാത്തത്?",
+    "sync_faq_a3": "ഡൗൺലോഡുകൾ, പ്രാദേശിക സോഴ്സ് ഫയലുകൾ, ആപ്പ് ക്രമീകരണങ്ങൾ, എക്സ്റ്റെൻഷൻ ക്രമീകരണങ്ങൾ, ട്രാക്കർ ലോഗിൻ വിവരങ്ങൾ എന്നിവ Sync ചെയ്യില്ല.",
+    "sync_faq_q4": "Sync എപ്പോഴാണ് നടക്കുന്നത്?",
+    "sync_faq_a4": "Sync പ്രവർത്തനക്ഷമമാക്കിയ ശേഷം മാറ്റങ്ങൾ ഏതാണ്ട് തത്സമയം സ്വയമേവ Sync ചെയ്യും. ആപ്പ് ആരംഭിക്കുമ്പോഴോ മുൻനിരയിലേക്ക് മടങ്ങുമ്പോഴോ Sync മാറ്റങ്ങൾ പരിശോധിക്കുകയും ചെയ്യും. നിങ്ങൾക്ക് എപ്പോൾ വേണമെങ്കിലും ഇപ്പോൾ Sync ഉപയോഗിക്കാം.",
+    "sync_faq_q5": "Sync-ന് എത്ര സമയമെടുക്കും, എത്ര ഡാറ്റ ഉപയോഗിക്കും?",
+    "sync_faq_a5": "നിങ്ങളുടെ ലൈബ്രറിയുടെ വലുപ്പം അനുസരിച്ച്, ആദ്യ Sync-ന് കുറച്ച് മിനിറ്റും കൂടുതൽ ഡാറ്റയും വേണ്ടിവന്നേക്കാം. പിന്നീടുള്ള Sync-കൾ മാറ്റങ്ങൾ മാത്രം കൈമാറുന്നതിനാൽ സാധാരണയായി വളരെ വേഗതയുള്ളതും വളരെ കുറച്ച് ഡാറ്റ ഉപയോഗിക്കുന്നതുമാണ്.",
+    "tachiyomiBackupSectionTitle": "Mihon ഉം ഫോർക്കുകളും",
+    "importTachiyomiBackupTitle": "Mihon ബാക്കപ്പ് ഇറക്കുമതി ചെയ്യുക",
+    "importTachiyomiBackupDescription": "Mihon-ന്റെയും ഫോർക്കുകളുടെയും ബാക്കപ്പിൽ നിന്ന് ലൈബ്രറി ഇറക്കുമതി ചെയ്യുക.",
+    "createTachiyomiBackupTitle": "Mihon-ന് അനുയോജ്യമായ ബാക്കപ്പ് സൃഷ്ടിക്കുക",
+    "createTachiyomiBackupDescription": "Mihon-നും ഫോർക്കുകൾക്കും അനുയോജ്യമായ ഒരു ബാക്കപ്പ് സൃഷ്ടിക്കുക.",
+    "reader_keep_screen_on": "സ്ക്രീൻ ഓണായി നിലനിർത്തുക",
+    "tachiyomi_import_tip_content": "Mihon-ന്റെയും ഫോർക്കുകളുടെയും ബാക്കപ്പ് സൃഷ്ടിക്കുമ്പോൾ, ലൈബ്രറി, വിഭാഗങ്ങൾ, ട്രാക്കിംഗ് എന്നിവ മാത്രം ബാക്കപ്പ് ചെയ്തശേഷം വീണ്ടും ശ്രമിക്കുക.",
+    "get_started_external_source_content_b": "ബാഹ്യ മൂന്നാം കക്ഷി എക്സ്റ്റെൻഷനുകൾ താച്ചിമാംഗയിൽ കൂടുതൽ സോഴ്സുകൾ ചേർക്കുന്നു.\n**താച്ചിമാംഗ മിക്ക Mihon എക്സ്റ്റെൻഷനുകളെയും പിന്തുണയ്ക്കുന്നു**, അതിനാൽ [ക്രമീകരണങ്ങളിൽ]({url}) നിങ്ങൾക്ക് Mihon എക്സ്റ്റെൻഷൻ സ്റ്റോറുകൾ ചേർക്കാം.",
+    "how_to_find_repository_content_b": "താച്ചിമാംഗ മിക്ക Mihon എക്സ്റ്റെൻഷനുകളെയും പിന്തുണയ്ക്കുന്നു, അതിനാൽ താച്ചിമാംഗയിൽ നിങ്ങൾക്ക് Mihon എക്സ്റ്റെൻഷനുകൾ ഉപയോഗിക്കാം.",
+    "add_extension_repo_subtitle_b": "Mihon എക്സ്റ്റെൻഷനുകൾ ചേർക്കുക",
+    "reader_strict_scale": "സൂം പരിധി നിയന്ത്രിക്കുക",
+    "reader_strict_scale_desc": "സൂമിനെ നിശ്ചിത പരിധിയിലേക്ക് നിയന്ത്രിച്ച് അരികിലെ ബൗൺസ് പ്രവർത്തനരഹിതമാക്കുക.",
+    "reader_scroll_indicator": "സ്ക്രോൾ സൂചിക",
+    "extension_obsolete_tips": "ഈ എക്സ്റ്റെൻഷൻ എക്സ്റ്റെൻഷൻ സ്റ്റോറിൽ നിന്ന് നീക്കംചെയ്തിരിക്കുന്നു; സൈറ്റ് പ്രവർത്തനരഹിതമായതോ ഇനി പരിപാലിക്കാത്തതോ മറ്റ് കാരണങ്ങളോ ആയിരിക്കാം കാരണം. ഇത് ശരിയായി പ്രവർത്തിക്കാതിരിക്കാം, ഇനി അപ്‌ഡേറ്റുകളും ലഭിക്കില്ല. മറ്റൊരു സോഴ്സിലേക്ക് മാറിയ ശേഷം ഇത് നീക്കം ചെയ്യാൻ ശുപാർശ ചെയ്യുന്നു.",
+    "readerBackgroundColor": "പശ്ചാത്തല നിറം",
+    "readerBackgroundBlack": "കറുപ്പ്",
+    "readerBackgroundWhite": "വെള്ള",
+    "readerBackgroundAutomatic": "സ്വയമേവ",
+    "readerBackgroundAutomaticDescription": "ഒറ്റ-പേജ് മോഡിൽ, പശ്ചാത്തലം ചിത്രത്തിനനുസരിച്ച് മാറും. മറ്റ് മോഡുകളിൽ, അത് ആപ്പിന്റെ രൂപം പിന്തുടരും.",
+    "persistent_tabs_title": "ടാബിന്റെ നില നിലനിർത്തുക",
+    "persistent_tabs_subtitle": "താഴെയുള്ള ടാബുകൾ മാറുമ്പോൾ തിരഞ്ഞെടുത്ത വിഭാഗവും സ്ക്രോൾ സ്ഥാനവും ഓർക്കുക.",
+    "tracking_services": "ട്രാക്കിംഗ് സേവനങ്ങൾ",
+    "enhanced_tracking": "മെച്ചപ്പെടുത്തിയ ട്രാക്കിംഗ്",
+    "enhanced_tracking_info": "അനുയോജ്യമായ സോഴ്സുകൾക്കായി വായനാ പുരോഗതി ഇരുവഴിയും ട്രാക്ക് ചെയ്യുന്നു. ലൈബ്രറിയിൽ ചേർക്കുമ്പോൾ എൻട്രികൾ സ്വയമേവ ട്രാക്ക് ചെയ്യപ്പെടും.",
+    "enhanced_tracking_source_missing": "ഈ ട്രാക്കർ പ്രവർത്തനക്ഷമമാക്കാൻ അനുയോജ്യമായ സോഴ്സ് ഇൻസ്റ്റാൾ ചെയ്യുക.",
+    "enhanced_tracking_backfill_progress": "ലൈബ്രറി പൊരുത്തപ്പെടുത്തുന്നു: {processed}/{total} ({bound} ചേർത്തു)",
+    "trackingStatusUnread": "വായിക്കാത്തത്",
+    "enhanced_tracking_backfill_confirm_title": "നിലവിലുള്ള ലൈബ്രറി മാംഗ പൊരുത്തപ്പെടുത്തണോ?",
+    "tracker_username": "ഉപയോക്തൃനാമം അല്ലെങ്കിൽ ഇമെയിൽ",
+    "tracker_username_empty": "ഒരു ഉപയോക്തൃനാമമോ ഇമെയിൽ വിലാസമോ നൽകുക.",
+    "trackingStatusConsidering": "പരിഗണനയിൽ",
+    "tracked": "ട്രാക്ക് ചെയ്തത്",
+    "trackerSearchType": "തരം",
+    "trackerSearchStatus": "നില",
+    "tracking_services_info": "ഓരോ മാംഗയുടെയും വായനാ പുരോഗതി ബാഹ്യ സേവനങ്ങൾ ഉപയോഗിച്ച് ട്രാക്ക് ചെയ്യുക. പ്രാദേശിക പുരോഗതി സ്വയമേവ അപ്‌ലോഡ് ചെയ്യും; ട്രാക്കിംഗ് പാനലിൽ നിന്ന് റിമോട്ട് പുരോഗതി സ്വമേധയാ പ്രയോഗിക്കാം.",
+    "no_tracker_found": "ട്രാക്കറുകളൊന്നും കണ്ടെത്തിയില്ല",
+    "tracking_faq_q1": "ട്രാക്കിംഗ് എന്താണ്?",
+    "tracking_faq_a1": "Tachimangaയിലെ മാംഗയെ MyAnimeList, AniList, MangaUpdates പോലുള്ള ബാഹ്യ ട്രാക്കിംഗ് സേവനങ്ങളുമായി ട്രാക്കിംഗ് ബന്ധിപ്പിക്കുന്നു. വായനാ പുരോഗതി Tachimangaയിൽ നിന്ന് നിങ്ങളുടെ ട്രാക്കറിലേക്ക് സ്വയമേവ അയയ്ക്കപ്പെടും. റിമോട്ട് പുരോഗതി പ്രാദേശിക ചാപ്റ്റർ നിലയിലേക്ക് സ്വമേധയാ ഇംപോർട്ട് ചെയ്യാനും കഴിയും.",
+    "tracking_faq_q2": "ട്രാക്കിംഗ്, സമന്വയത്തിൽ നിന്ന് എങ്ങനെ വ്യത്യസ്തമാണ്?",
+    "tracking_faq_a2": "ബാഹ്യ ട്രാക്കിംഗ് സേവനങ്ങളിലെ ഓരോ മാംഗയുടെയും വായനാ പുരോഗതിയാണ് ട്രാക്കിംഗ് നിയന്ത്രിക്കുന്നത്. Tachimangaയിൽ നിന്നുള്ള പുരോഗതി സ്വയമേവ അപ്‌ലോഡ് ചെയ്യും; ട്രാക്കറിലെ പുരോഗതി പ്രാദേശിക ചാപ്റ്ററുകളിലേക്ക് ഇംപോർട്ട് ചെയ്യുന്നത് സ്വമേധയാ ആരംഭിക്കണം. നിങ്ങളുടെ ഉപകരണങ്ങളിലുടനീളം Tachimanga ലൈബ്രറിയും വായനാ ഡാറ്റയും തത്സമയം സ്വയമേവ സമന്വയിപ്പിക്കുന്നു.",
+    "tracking_faq_q3": "ട്രാക്കിംഗ് എങ്ങനെ സജ്ജീകരിക്കാം?",
+    "tracking_faq_a3": "കൂടുതൽ → ട്രാക്കിംഗ് എന്നതിലേക്ക് പോയി, ഒരു ട്രാക്കിംഗ് സേവനത്തിൽ സൈൻ ഇൻ ചെയ്യുക അല്ലെങ്കിൽ അത് പ്രവർത്തനക്ഷമമാക്കുക. സാധാരണ ട്രാക്കറിനായി, ഒരു മാംഗ തുറന്ന് ട്രാക്കിംഗ് ടാപ്പ് ചെയ്ത് ട്രാക്കിംഗ് ചേർക്കുക തിരഞ്ഞെടുക്കുക. ശരിയായ മാംഗ കാണുന്നില്ലെങ്കിൽ, തിരയൽ വാചകം തിരുത്തി വീണ്ടും തിരയുക. അനുയോജ്യമായ മാംഗ നിങ്ങളുടെ ലൈബ്രറിയിൽ ചേർക്കുമ്പോൾ മെച്ചപ്പെടുത്തിയ ട്രാക്കറുകൾക്ക് അവ സ്വയമേവ പൊരുത്തപ്പെടുത്താനാകും.",
+    "tracking_faq_q4": "പുരോഗതി ട്രാക്കറിലേക്ക് എപ്പോഴാണ് അപ്‌ലോഡ് ചെയ്യുന്നത്?",
+    "tracking_faq_a4": "അവസാന പേജിലെത്തുമ്പോഴോ ചാപ്റ്ററുകൾ വായിച്ചതായി സ്വമേധയാ അടയാളപ്പെടുത്തുമ്പോഴോ പോലുള്ള സാഹചര്യങ്ങളിൽ ഒരു ചാപ്റ്റർ വായിച്ചതായി അടയാളപ്പെടുത്തുമ്പോൾ പുരോഗതി സ്വയമേവ അപ്‌ലോഡ് ചെയ്യും. നില, ചാപ്റ്റർ, സ്കോർ, വായനാ തീയതികൾ എന്നിവയുൾപ്പെടെ ട്രാക്കിംഗ് പാനലിൽ വരുത്തുന്ന മാറ്റങ്ങളും ഉടൻ അയയ്ക്കപ്പെടും.",
+    "tracking_faq_q5": "ട്രാക്കറിലെ പുരോഗതി പ്രാദേശിക ചാപ്റ്ററുകളിൽ എപ്പോഴാണ് പ്രയോഗിക്കുന്നത്?",
+    "tracking_faq_a5": "നിങ്ങൾ ഒരു മാംഗയ്ക്കായി ട്രാക്കിംഗ് പാനൽ തുറക്കുമ്പോൾ Tachimanga റിമോട്ട് പുരോഗതി പരിശോധിക്കും. റിമോട്ട് പുരോഗതി മുന്നിലാണെങ്കിൽ, അനുബന്ധ പ്രാദേശിക ചാപ്റ്ററുകൾ വായിച്ചതായി അടയാളപ്പെടുത്താൻ ആ ട്രാക്കറിൽ പ്രയോഗിക്കുക തിരഞ്ഞെടുക്കുക.",
+    "tracking_faq_q6": "മെച്ചപ്പെടുത്തിയ ട്രാക്കർ എന്താണ്?",
+    "tracking_faq_a6": "ഓരോ ശീർഷകവും സ്വമേധയാ തിരയേണ്ടതില്ലാതെ, മെച്ചപ്പെടുത്തിയ ട്രാക്കറുകൾ അനുയോജ്യമായ സ്രോതസുകളിൽ നിന്നുള്ള മാംഗ സ്വയമേവ പൊരുത്തപ്പെടുത്തുന്നു. നിലവിൽ പിന്തുണയ്ക്കുന്നത്: Komga, Kavita, Suwayomi.",
+    "sync_realtime_title": "ഉപകരണങ്ങളിലുടനീളം തത്സമയ സമന്വയം",
+    "sync_realtime_description": "നിങ്ങളുടെ ലൈബ്രറി, വായനാ പുരോഗതി, ബുക്ക്മാർക്കുകൾ എന്നിവ എല്ലാ ഉപകരണങ്ങളിലും ഉടൻ അപ്ഡേറ്റ് ചെയ്യും.",
+    "sync_realtime_unlock": "തത്സമയ സമന്വയം അൺലോക്ക് ചെയ്യുക",
+    "sync_realtime_live_badge": "തത്സമയം",
+    "sync_realtime_premium_badge": "പ്രീമിയം",
+    "sync_realtime_iphone": "iPhone",
+    "sync_realtime_ipad": "iPad",
+    "sync_realtime_mac": "Mac",
+    "downloads_faq_title": "ഡൗൺലോഡുകൾ പതിവുചോദ്യങ്ങൾ",
+    "downloads_faq_speed_q": "ഡൗൺലോഡ് വേഗത നിർണയിക്കുന്നത് എന്താണ്?",
+    "downloads_faq_speed_a": "നിരവധി ഘടകങ്ങൾ ഡൗൺലോഡ് വേഗതയെ ബാധിക്കാം:\n\n• സ്രോതസ്: സ്രോതസുകൾക്കിടയിലും വ്യത്യസ്ത സമയങ്ങളിലും ഡൗൺലോഡ് പ്രകടനം മാറാം. ഡൗൺലോഡ് മന്ദഗതിയിലാണെങ്കിൽ, ലഭ്യമായ മറ്റൊരു സ്രോതസിൽ നിന്ന് അതേ ശീർഷകം പരീക്ഷിച്ച് ഫലം താരതമ്യം ചെയ്യുക.\n• നെറ്റ്‌വർക്ക് ബാൻഡ്‌വിഡ്ത്ത്: നിങ്ങളുടെ ഇന്റർനെറ്റ് കണക്ഷൻ ഡൗൺലോഡ് വേഗതയെ നേരിട്ട് ബാധിക്കുന്നു. ഉയർന്ന ബാൻഡ്‌വിഡ്ത്ത് സാധാരണയായി വേഗത്തിലുള്ള ഡൗൺലോഡുകൾ അനുവദിക്കും.\n• ഒരേസമയം നടക്കുന്ന ഡൗൺലോഡുകൾ: ഒരേസമയം നടക്കുന്ന ഡൗൺലോഡുകളുടെ എണ്ണം വർധിപ്പിക്കുന്നത് വേഗത മെച്ചപ്പെടുത്താം, എന്നാൽ അത് വളരെ ഉയർത്തിയാൽ അഭ്യർഥനകൾ പരിമിതപ്പെടുകയോ പരാജയപ്പെടുകയോ ചെയ്യാം.\n• കണക്ഷൻ നിലവാരം: നിങ്ങളുടെ നെറ്റ്‌വർക്കിനും സ്രോതസിനുമിടയിലെ കണക്ഷൻ പ്രകടനത്തെ ബാധിക്കാം. ചില സാഹചര്യങ്ങളിൽ, അനുയോജ്യമായ VPN കണക്ഷൻ നിലവാരം മെച്ചപ്പെടുത്താം.",
+    "downloads_faq_background_q": "പശ്ചാത്തല ഡൗൺലോഡിംഗ് പിന്തുണയ്ക്കുന്നുണ്ടോ?",
+    "downloads_faq_background_a": "പശ്ചാത്തല ഡൗൺലോഡ് iOS 26-ലും അതിനുശേഷമുള്ള പതിപ്പുകളിലും ലഭ്യമാണ്. ഡൗൺലോഡുകൾ തുറന്ന് ക്രമീകരണങ്ങൾ ടാപ്പ് ചെയ്യുക, തുടർന്ന് പശ്ചാത്തല ഡൗൺലോഡ് ടാപ്പ് ചെയ്യുക. പശ്ചാത്തല പ്രവർത്തനം iOS ഷെഡ്യൂൾ ചെയ്യുന്നതിനാൽ സിസ്റ്റം വിഭവങ്ങൾ പരിമിതമായിരിക്കുമ്പോൾ ഡൗൺലോഡുകൾ ഇപ്പോഴും താൽക്കാലികമായി നിൽക്കാം. കൂടുതൽ വിശ്വസനീയതയ്ക്കായി, ഉപകരണം പവറിലേക്കും സ്ഥിരതയുള്ള Wi-Fi-യിലേക്കും ബന്ധിപ്പിച്ച് ലോ പവർ മോഡും ലോ ഡാറ്റ മോഡും ഓഫാക്കുക.",
+    "downloads_faq_failure_q": "ഡൗൺലോഡ് ചിലപ്പോൾ പരാജയപ്പെടുന്നത് എന്തുകൊണ്ട്?",
+    "downloads_faq_failure_a": "ഓൺലൈനിൽ വായിക്കാനാകുന്ന ചാപ്റ്ററുകൾ സാധാരണയായി ഡൗൺലോഡ് ചെയ്യാവുന്നതാണ്. ചാപ്റ്റർ തുറന്ന് സാധാരണയായി വായിക്കാനാകുമോ എന്ന് പരിശോധിച്ചശേഷം ഡൗൺലോഡ് വീണ്ടും ശ്രമിക്കുക.",
+    "downloads_faq_sync_backup_q": "ഡൗൺലോഡ് ചെയ്ത ചാപ്റ്ററുകൾ സമന്വയത്തിലോ ബാക്കപ്പുകളിലോ ഉൾപ്പെടുമോ?",
+    "downloads_faq_sync_backup_a": "ഇല്ല. ഡൗൺലോഡ് ചെയ്ത ചാപ്റ്ററുകൾ നിലവിലെ ഉപകരണത്തിൽ പ്രാദേശികമായി സൂക്ഷിക്കുന്നതിനാൽ സമന്വയത്തിലോ ബാക്കപ്പ് ഫയലുകളിലോ ഉൾപ്പെടില്ല. ഓരോ ഉപകരണത്തിലും അവ പ്രത്യേകം ഡൗൺലോഡ് ചെയ്യണം.",
+    "downloads_faq_export_q": "ഡൗൺലോഡ് ചെയ്ത ചാപ്റ്ററുകൾ എക്സ്പോർട്ട് ചെയ്യാനാകുമോ?",
+    "downloads_faq_export_a": "ഇല്ല. ഓഫ്‌ലൈൻ വായനയ്ക്കായി ഡൗൺലോഡുകൾ Tachimangaയ്ക്കുള്ളിൽ സൂക്ഷിക്കുന്നതിനാൽ നിലവിൽ എക്സ്പോർട്ട് ചെയ്യാനാകില്ല.",
+    "premium_faq_title": "പ്രീമിയം പതിവുചോദ്യങ്ങൾ",
+    "premium_faq_plans_q": "മാസിക, വാർഷിക, ലൈഫ്‌ടൈം എന്നിവ തമ്മിലുള്ള വ്യത്യാസം എന്താണ്?",
+    "premium_faq_plans_a": "മാസികയും വാർഷികവും സ്വയം പുതുക്കുന്ന സബ്സ്ക്രിപ്ഷനുകളാണ്. ലൈഫ്‌ടൈം ഒറ്റത്തവണ വാങ്ങലാണ്; അത് പുതുക്കില്ല. മൂന്ന് ഓപ്ഷനുകളും ഒരേ പ്രീമിയം സവിശേഷതകൾ അൺലോക്ക് ചെയ്യും.",
+    "premium_faq_renewal_q": "പുതുക്കൽ എങ്ങനെ പ്രവർത്തിക്കും, എങ്ങനെ റദ്ദാക്കാം?",
+    "premium_faq_renewal_a": "സബ്സ്ക്രിപ്ഷൻ ബില്ലിംഗ് Apple കൈകാര്യം ചെയ്യുന്നു. റദ്ദാക്കുന്നതുവരെ മാസിക, വാർഷിക പ്ലാനുകൾ സ്വയമേവ പുതുക്കും. സബ്സ്ക്രിപ്ഷൻ നിയന്ത്രിക്കാനോ റദ്ദാക്കാനോ, ഉപകരണത്തിൽ ക്രമീകരണങ്ങൾ തുറന്ന് നിങ്ങളുടെ പേര് ടാപ്പ് ചെയ്യുക, തുടർന്ന് സബ്സ്ക്രിപ്ഷനുകൾ ടാപ്പ് ചെയ്യുക. റദ്ദാക്കുന്നത് ഭാവി പുതുക്കലുകൾ നിർത്തും; നിലവിലെ സബ്സ്ക്രിപ്ഷൻ കാലയളവ് അവസാനിക്കുന്നതുവരെ പ്രീമിയം ലഭ്യമായിരിക്കും.",
+    "premium_faq_devices_q": "ഒന്നിലധികം ഉപകരണങ്ങളിൽ പ്രീമിയം ഉപയോഗിക്കാനാകുമോ?",
+    "premium_faq_devices_a": "അതെ. വാങ്ങലിനുപയോഗിച്ച അതേ Apple Account ഉപയോഗിച്ച് പിന്തുണയ്ക്കുന്ന മറ്റൊരു ഉപകരണത്തിൽ Tachimanga ഇൻസ്റ്റാൾ ചെയ്യുക. പ്രീമിയം നേടുക തുറന്ന് വാങ്ങൽ പുനഃസ്ഥാപിക്കുക ടാപ്പ് ചെയ്യുക. നിങ്ങളിൽ നിന്ന് വീണ്ടും പണം ഈടാക്കില്ല.",
+    "premium_faq_restore_q": "എന്റെ വാങ്ങൽ പുനഃസ്ഥാപിക്കാനാകാത്തത് എന്തുകൊണ്ട്?",
+    "premium_faq_restore_a": "യഥാർത്ഥ വാങ്ങലിന് ഉപയോഗിച്ച അതേ Apple Account ഉപയോഗിച്ച് മീഡിയയും വാങ്ങലുകളും സൈൻ ഇൻ ചെയ്തിട്ടുണ്ടെന്നും ഉപകരണത്തിൽ ഇൻ-ആപ്പ് വാങ്ങലുകൾ അനുവദിച്ചിട്ടുണ്ടെന്നും ഉറപ്പാക്കുക. ഉപകരണം പുനരാരംഭിച്ച് മറ്റൊരു നെറ്റ്‌വർക്കിലേക്ക് മാറുക; തുടർന്ന് പ്രീമിയം നേടുക പേജിലേക്ക് മടങ്ങി വാങ്ങൽ പുനഃസ്ഥാപിക്കുക വീണ്ടും ടാപ്പ് ചെയ്യുക. വാങ്ങൽ ഇപ്പോഴും സാധുവാണെന്ന് സ്ഥിരീകരിക്കാൻ App Store വാങ്ങൽ ചരിത്രവും പരിശോധിക്കാം. പണം ഈടാക്കിയിട്ടും വാങ്ങൽ പുനഃസ്ഥാപിക്കാനാകുന്നില്ലെങ്കിൽ, ഞങ്ങളെ ബന്ധപ്പെടുക.",
+    "premium_faq_lifetime_q": "ലൈഫ്‌ടൈമിലേക്ക് എങ്ങനെ അപ്ഗ്രേഡ് ചെയ്യാം?",
+    "premium_faq_lifetime_a": "Get Premium പേജിൽ നിന്ന് ലൈഫ്‌ടൈം വാങ്ങുക, തുടർന്ന് സബ്‌സ്‌ക്രിപ്ഷൻ മാനേജ്‌മെന്റ് തുറന്ന് നിലവിലുള്ള പ്രതിമാസ അല്ലെങ്കിൽ വാർഷിക സബ്‌സ്‌ക്രിപ്ഷൻ റദ്ദാക്കുക. ലൈഫ്‌ടൈം വാങ്ങുന്നത് നിലവിലുള്ള സബ്‌സ്‌ക്രിപ്ഷൻ സ്വയമേവ റദ്ദാക്കില്ല.",
+    "sync_faq_q6": "Sync ഏത് ഉപകരണങ്ങളെ പിന്തുണയ്ക്കുന്നു?",
+    "sync_faq_a6": "Sync നിലവിൽ iPhone, iPad, M-സീരീസ് ചിപ്പുകളുള്ള Mac എന്നിവയിൽ ലഭ്യമാണ്.",
+    "sync_request_another_platform": "മറ്റൊരു പ്ലാറ്റ്‌ഫോം അഭ്യർത്ഥിക്കുക",
+    "sync_platform_request_title": "Sync ഏത് പ്ലാറ്റ്‌ഫോമിനെ പിന്തുണയ്ക്കണമെന്നാണ് നിങ്ങൾ ആഗ്രഹിക്കുന്നത്?",
+    "sync_platform_android": "Android",
+    "sync_platform_windows": "Windows",
+    "sync_platform_intel_mac": "Intel-അധിഷ്ഠിത Mac",
+    "sync_platform_linux": "Linux",
+    "sync_platform_other": "മറ്റുള്ളത്",
+    "sync_platform_request_recorded": "നന്ദി! നിങ്ങളുടെ അഭ്യർത്ഥന രേഖപ്പെടുത്തി.",
+    "tracker_refresh_remote_progress": "റിമോട്ട് പുരോഗതി അധ്യായം {remoteChapter}-ലാണ്. ലഭ്യമായ പ്രാദേശിക അധ്യായങ്ങൾ വായിച്ചതായി അടയാളപ്പെടുത്തണോ?",
+    "tracker_refresh_apply": "പ്രയോഗിക്കുക",
+    "source_filters_applied": "{x, plural, one{1 ഉറവിട ഫിൽട്ടർ പ്രയോഗിച്ചു} other{{x} ഉറവിട ഫിൽട്ടറുകൾ പ്രയോഗിച്ചു}}",
+    "mangaSortTotalChapters": "ആകെ അധ്യായങ്ങൾ",
+    "reader_page_progress": "പേജ് പുരോഗതി കാണിക്കുക",
+    "reader_page_progress_desc": "നിലവിലെ പേജും ആകെ പേജുകളും താഴെ കാണിക്കുക.",
+    "hold_to_scroll_adjust_speed_tip": "അമർത്തിപ്പിടിക്കുക, തുടർന്ന് വേഗം കൂട്ടാൻ മുകളിലേക്കോ കുറയ്ക്കാൻ താഴേക്കോ സ്വൈപ്പ് ചെയ്യുക.",
+    "hold_to_scroll_gesture_guide": "സ്ക്രോൾ ചെയ്യാൻ അമർത്തിപ്പിടിക്കുക. വിരൽ സ്ക്രീനിൽ തന്നെ വച്ച ശേഷം, വേഗം കൂട്ടാൻ മുകളിലേക്കോ കുറയ്ക്കാൻ താഴേക്കോ സ്വൈപ്പ് ചെയ്യുക. നിർത്താൻ വിരൽ ഉയർത്തുക.",
+    "dont_remind_again": "ഇനി ഓർമ്മിപ്പിക്കരുത്",
+    "readerNavigationLayoutInvertUnavailable": "വലതും ഇടതും വായനാ ദിശ പിന്തുടരുന്നു.",
+    "readerGesturesSectionTitle": "ആംഗ്യങ്ങൾ",
+    "reader_scroll_indicator_desc": "Webtoon, തുടർച്ചയായ വായന മോഡുകളിൽ സ്ക്രോൾ സ്ഥാനം കാണിക്കുക.",
+    "classic_start_reading_button_desc": "മാംഗ വിശദാംശ സ്ക്രീനിൽ ഒഴുകിക്കിടക്കുന്ന വായന ആരംഭിക്കുക ബട്ടൺ കാണിക്കുക.",
+    "repo_url_invalid_prefix": "റിപ്പോസിറ്ററി URL \"https://\" ഉപയോഗിച്ച് ആരംഭിക്കണം.",
+    "repo_url_invalid_suffix": "റിപ്പോസിറ്ററി URL \"index.pb\" അല്ലെങ്കിൽ \"index.min.json\" ഉപയോഗിച്ച് അവസാനിക്കണം.",
+    "extension_repo_b": "എക്സ്റ്റൻഷൻ സ്റ്റോറുകൾ",
+    "one_repository_b": "1 സ്റ്റോർ",
+    "num_repositories_b": "{num} സ്റ്റോറുകൾ",
+    "add_repository_b": "എക്സ്റ്റൻഷൻ സ്റ്റോർ ചേർക്കുക",
+    "empty_repository_b": "നിങ്ങൾ ഇതുവരെ എക്സ്റ്റൻഷൻ സ്റ്റോറുകളൊന്നും ചേർത്തിട്ടില്ല.",
+    "add_repo_by_name_tip_b": "സ്റ്റോറിന്റെ GitHub റിപ്പോസിറ്ററി നൽകുക:\ngithub.com/username/repo → username/repo",
+    "add_repo_by_url_tip_b": "താച്ചിമാംഗയിലേക്ക് ഒരു എക്സ്റ്റൻഷൻ സ്റ്റോർ ചേർക്കുക.\n\"index.pb\" അല്ലെങ്കിൽ \"index.min.json\" എന്ന് അവസാനിക്കുന്ന URL നൽകുക.",
+    "get_repo_meta_fail_b": "എക്സ്റ്റൻഷൻ സ്റ്റോർ വിവരങ്ങൾ ലഭ്യമാക്കുന്നതിൽ പരാജയപ്പെട്ടു.",
+    "find_repository_b": "എക്സ്റ്റൻഷൻ സ്റ്റോറുകൾ കണ്ടെത്തുക",
+    "repo_not_exist_b": "എക്സ്റ്റൻഷൻ സ്റ്റോർ നിലവിലില്ല.",
+    "how_to_find_repository_title_b": "മൂന്നാം കക്ഷി എക്സ്റ്റൻഷൻ സ്റ്റോറുകൾ എങ്ങനെ കണ്ടെത്താം",
+    "premium_b_title": "നിങ്ങളുടെ രീതിയിൽ വായിക്കുക.",
+    "premium_b_subtitle": "സമ്പൂർണ താച്ചിമാംഗ അനുഭവം അൺലോക്ക് ചെയ്ത് തുടർച്ചയായ വികസനത്തെ പിന്തുണയ്ക്കുക.",
+    "premium_b_everything_included": "എല്ലാം ഉൾപ്പെടുന്നു",
+    "premium_b_feature_count": "{count} സവിശേഷതകൾ",
+    "premium_b_highlight_sync_title": "എല്ലായിടത്തും Sync",
+    "premium_b_highlight_sync_description": "ഉപകരണങ്ങൾക്കിടയിൽ നിങ്ങളുടെ ലൈബ്രറി, വായനാ പുരോഗതി, ബുക്ക്‌മാർക്കുകൾ എന്നിവ തൽക്ഷണം സമന്വയിപ്പിക്കുക.",
+    "premium_b_highlight_ad_free_title": "പരസ്യങ്ങളില്ല",
+    "premium_b_highlight_ad_free_description": "ആപ്പ് തുറക്കുമ്പോഴോ വായിക്കുമ്പോഴോ ഡൗൺലോഡുകൾക്ക് മുമ്പോ പരസ്യങ്ങളില്ല.",
+    "premium_b_highlight_reading_title": "മികച്ച വായന",
+    "premium_b_highlight_reading_description": "ഇരട്ട-പേജ് ലേഔട്ടുകൾ, ഓട്ടോസ്ക്രോൾ, ഇഷ്ടാനുസൃത നിറങ്ങൾ, ബോർഡർ ക്രോപ്പിംഗ്.",
+    "premium_b_highlight_downloads_title": "പരിധിയില്ലാത്ത ഡൗൺലോഡുകൾ",
+    "premium_b_highlight_downloads_description": "സ്വതന്ത്രമായി ഡൗൺലോഡ് ചെയ്യുക, കൂടുതൽ ജോലികൾ പ്രവർത്തിപ്പിക്കുക, പശ്ചാത്തലത്തിൽ തുടരുക.",
+    "premium_b_highlight_tracking_title": "കൂടുതൽ സ്മാർട്ട് ട്രാക്കിംഗ്",
+    "premium_b_highlight_tracking_description": "സാധാരണ, മെച്ചപ്പെടുത്തിയ, ബൾക്ക് ട്രാക്കിംഗ് എല്ലാം ഒരിടത്ത്.",
+    "premium_b_highlight_appearance_title": "നിങ്ങളുടേതാക്കൂ",
+    "premium_b_highlight_appearance_description": "തീമുകൾ, ഐക്കണുകൾ, കവറുകൾ, ടാബുകൾ.",
+    "premium_b_group_library_sync": "ലൈബ്രറിയും സമന്വയവും",
+    "premium_b_group_ad_free": "പരസ്യങ്ങളില്ലാതെ",
+    "premium_b_group_reading": "വായന",
+    "premium_b_group_downloads": "ഡൗൺലോഡുകൾ",
+    "premium_b_group_tracking": "ട്രാക്കിംഗ്",
+    "premium_b_group_appearance": "രൂപഭാവം",
+    "premium_b_group_backup": "ബാക്കപ്പ്",
+    "premium_b_group_privacy": "സ്വകാര്യത",
+    "premium_b_group_more": "കൂടുതൽ",
+    "premium_b_sync_title": "ഉപകരണങ്ങളിലുടനീളം തത്സമയ സമന്വയം",
+    "premium_b_sync_description": "ഉപകരണങ്ങൾ മാറ്റി, നിർത്തിയിടത്ത് നിന്ന് തുടരുക. വേഗത്തിലുള്ള ഇൻക്രിമെന്റൽ സമന്വയം മാറിയവ മാത്രം അയയ്ക്കുന്നതിനാൽ എല്ലാ ഉപകരണങ്ങളും പുതുക്കിയ നിലയിൽ തുടരും.",
+    "premium_b_sync_supported_devices": "Apple silicon ഉള്ള iPhone, iPad, Mac എന്നിവയിൽ പിന്തുണയ്ക്കുന്നു.",
+    "premium_b_saved_filters_title": "സംരക്ഷിച്ച ഉറവിട ഫിൽട്ടറുകൾ",
+    "premium_b_saved_filters_description": "ഒരു മാംഗ ഉറവിടത്തിനായി നിലവിലെ ഫിൽട്ടർ കോമ്പിനേഷന് പേര് നൽകി വീണ്ടും ഉപയോഗിക്കുക.",
+    "premium_b_manga_notes_title": "മാംഗ കുറിപ്പുകൾ",
+    "premium_b_manga_notes_description": "നിങ്ങളുടെ ലൈബ്രറിയിലെ ഏത് ശീർഷകത്തിലും സ്വകാര്യ കുറിപ്പ് ചേർക്കുക.",
+    "premium_b_reset_chapters_title": "ചരിത്രം മായ്ക്കുമ്പോൾ അധ്യായങ്ങൾ പുനഃസജ്ജമാക്കുക",
+    "premium_b_reset_chapters_description": "വായനാ ചരിത്രം മായ്ച്ച് ബാധിച്ച അധ്യായങ്ങളെ അതേ നടപടിയിൽ വായിക്കാത്തതായി അടയാളപ്പെടുത്തുക.",
+    "premium_b_bulk_migration_title": "മികച്ച ബൾക്ക് മൈഗ്രേഷൻ",
+    "premium_b_bulk_migration_description": "തിരഞ്ഞെടുത്ത എല്ലാ ഉറവിടങ്ങളിലും തിരഞ്ഞ്, ഏറ്റവും കൂടുതൽ അധ്യായങ്ങളുള്ള പൊരുത്തപ്പെടുന്ന ശീർഷകം തിരഞ്ഞെടുക്കുക.",
+    "premium_b_no_ads_title": "എവിടെയും പരസ്യങ്ങളില്ല",
+    "premium_b_no_ads_description": "ആപ്പ് തുറക്കുമ്പോഴും വായിക്കുമ്പോഴും ഡൗൺലോഡുകൾക്കുമുമ്പും കാണിക്കുന്ന പരസ്യങ്ങൾ നീക്കുന്നു.",
+    "premium_b_reader_layouts_title": "ഇരട്ട-പേജ്, സ്വയമേവയുള്ള ലേഔട്ടുകൾ",
+    "premium_b_reader_layouts_description": "ഒറ്റ പേജുകൾ, ജോടിയാക്കിയ സ്പ്രെഡുകൾ, അല്ലെങ്കിൽ സ്വയമേവയുള്ള ലേഔട്ട് ഉപയോഗിക്കുക; ആവശ്യമെങ്കിൽ ആദ്യ പേജ് വേർതിരിക്കാനും സ്പ്രെഡുകൾ വിപരീതമാക്കാനും കഴിയും.",
+    "premium_b_autoscroll_title": "സ്വയമേവ സ്ക്രോൾ",
+    "premium_b_autoscroll_description": "ക്രമീകരിക്കാവുന്ന വേഗതയോടെ ടൈമർ ഉപയോഗിച്ച് പേജുകൾ തിരിക്കുകയോ തുടർച്ചയായി സ്ക്രോൾ ചെയ്യുകയോ ചെയ്യുക.",
+    "premium_b_hold_scroll_title": "സ്ക്രോൾ ചെയ്യാൻ അമർത്തിപ്പിടിക്കുക",
+    "premium_b_hold_scroll_description": "Webtoon, തുടർച്ചയായ മോഡുകളിൽ, ആരംഭിക്കാൻ അമർത്തിപ്പിടിച്ച് വേഗത മാറ്റാൻ മുകളിലേക്കോ താഴേക്കോ സ്വൈപ്പ് ചെയ്യുക.",
+    "premium_b_reader_color_title": "റീഡർ പശ്ചാത്തല നിറം",
+    "premium_b_reader_color_description": "ആഗോളമായോ ഒരു പ്രത്യേക ശീർഷകത്തിനായോ കറുപ്പ്, വെള്ള, അല്ലെങ്കിൽ സ്വയമേവ തിരഞ്ഞെടുക്കുക.",
+    "premium_b_crop_borders_title": "പേജ് അതിരുകൾ മുറിക്കുക",
+    "premium_b_crop_borders_description": "iPhone, iPad എന്നിവയ്ക്കായി പ്രത്യേകം ക്രമീകരണത്തോടെ ഒഴിഞ്ഞ അരികുകൾ മുറിച്ചുമാറ്റുക.",
+    "premium_b_apple_pencil_title": "Apple Pencil പ്രവർത്തനങ്ങൾ",
+    "premium_b_apple_pencil_description": "ഇരട്ട ടാപ്പിനും സ്ക്വീസിനും മുമ്പത്തെ/അടുത്ത പേജ്, അധ്യായ പ്രവർത്തനങ്ങൾ നിയോഗിക്കുക.",
+    "premium_b_scanlator_title": "സ്കാൻലേറ്റർ മുൻഗണനയും ഡ്യൂപ്ലിക്കേറ്റ് ഒഴിവാക്കലും",
+    "premium_b_scanlator_description": "സ്കാൻലേറ്റർമാർക്ക് റാങ്ക് നൽകി ഓരോ അധ്യായത്തിനും ഏറ്റവും ഉയർന്ന മുൻഗണനയുള്ള റിലീസ് മാത്രം നിലനിർത്തുക.",
+    "premium_b_watermark_title": "വാട്ടർമാർക്കില്ലാത്ത സംരക്ഷണവും പങ്കിടലും",
+    "premium_b_watermark_description": "താച്ചിമാംഗ വാട്ടർമാർക്ക് ഇല്ലാതെ റീഡർ പേജുകളും കവറുകളും സംരക്ഷിക്കുകയോ പങ്കിടുകയോ ചെയ്യുക.",
+    "premium_b_rotation_title": "റൊട്ടേഷൻ നിയന്ത്രണങ്ങൾ",
+    "premium_b_rotation_description": "ആപ്പിനെയോ ഒരു പ്രത്യേക ശീർഷകത്തെയോ പോർട്രെയ്റ്റിലോ ലാൻഡ്‌സ്‌കേപ്പിലോ പൂട്ടുക.",
+    "premium_b_unlimited_downloads_title": "പരിധിയില്ലാത്ത ഡൗൺലോഡുകൾ",
+    "premium_b_unlimited_downloads_description": "പരിധികൾ സജീവമാകുമ്പോൾ ദിവസേനയുള്ള ഡൗൺലോഡ് ടിക്കറ്റുകൾ ഒഴിവാക്കി പരസ്യം കാണാതെ ഡൗൺലോഡ് ചെയ്യുക.",
+    "premium_b_concurrent_downloads_title": "ഒരേസമയം 5 ഡൗൺലോഡുകൾ വരെ",
+    "premium_b_concurrent_downloads_description": "ഒന്ന് മുതൽ അഞ്ച് വരെ ഒരേസമയം നടക്കുന്ന ഡൗൺലോഡ് ജോലികളിൽ നിന്ന് തിരഞ്ഞെടുക്കുക.",
+    "premium_b_background_downloads_title": "പശ്ചാത്തല ഡൗൺലോഡുകൾ",
+    "premium_b_background_downloads_description": "ആപ്പിൽ നിന്ന് പുറത്തുകടന്നതിനുശേഷമോ ഉപകരണം പൂട്ടിയശേഷമോ യോഗ്യമായ ഡൗൺലോഡുകൾ പ്രവർത്തിപ്പിച്ചുകൊണ്ടിരിക്കുക. iOS 26 അല്ലെങ്കിൽ അതിനുശേഷമുള്ള പതിപ്പ് ആവശ്യമാണ്.",
+    "premium_b_delete_after_reading_title": "വായിച്ചശേഷം ഇല്ലാതാക്കുക",
+    "premium_b_delete_after_reading_description": "ഡൗൺലോഡ് ചെയ്ത അധ്യായം പൂർത്തിയാക്കിയതിന് ശേഷം സ്വയമേവ നീക്കംചെയ്യുക.",
+    "premium_b_tracking_services_title": "ട്രാക്കിംഗ് സേവനങ്ങൾ",
+    "premium_b_tracking_services_description": "MyAnimeList, AniList, MangaUpdates എന്നിവയും പിന്തുണയ്ക്കുന്ന മറ്റ് സേവനങ്ങളും ബന്ധിപ്പിക്കുക.",
+    "premium_b_enhanced_tracking_title": "മെച്ചപ്പെടുത്തിയ ട്രാക്കിംഗ്",
+    "premium_b_enhanced_tracking_description": "ഓരോ ശീർഷകവും തിരയാതെ തന്നെ Komga, Kavita, Suwayomi എന്നിവയ്ക്ക് അനുയോജ്യമായ മാംഗകൾ സ്വയമേവ പൊരുത്തപ്പെടുത്താൻ കഴിയും.",
+    "premium_b_bulk_tracking_title": "ബൾക്ക് ട്രാക്കിംഗ്",
+    "premium_b_bulk_tracking_description": "തിരഞ്ഞെടുത്ത ഒന്നിലധികം ശീർഷകങ്ങൾക്കായി ഒരേസമയം ട്രാക്കർ റെക്കോർഡുകൾ തിരയുക, പൊരുത്തപ്പെടുത്തുക, ചേർക്കുക.",
+    "premium_b_color_themes_title": "പ്രീമിയം വർണ്ണ തീമുകൾ",
+    "premium_b_color_themes_description": "സ്ഥിരസ്ഥിതി തീമിന് പുറമെ, ആപ്പ് മുഴുവനുമുള്ള അധിക വർണ്ണ സ്കീമുകൾ തിരഞ്ഞെടുക്കുക.",
+    "premium_b_true_black_title": "യഥാർഥ കറുപ്പ് ഡാർക്ക് മോഡ്",
+    "premium_b_true_black_description": "ഡാർക്ക് മോഡ് സജീവമായിരിക്കുമ്പോൾ പൂർണ കറുപ്പ് ഇന്റർഫേസ് ഉപയോഗിക്കുക.",
+    "premium_b_app_icons_title": "പകരമുള്ള ആപ്പ് ഐക്കണുകൾ",
+    "premium_b_app_icons_description": "നിങ്ങളുടെ iPhone അല്ലെങ്കിൽ iPad ഹോം സ്ക്രീനിൽ കാണിക്കുന്ന ഐക്കൺ മാറ്റുക.",
+    "premium_b_bottom_tabs_title": "ഇഷ്ടാനുസൃത താഴത്തെ ടാബുകൾ",
+    "premium_b_bottom_tabs_description": "നാവിഗേഷൻ ടാബുകൾ തിരഞ്ഞെടുക്കുക, മറയ്ക്കുക, പുനഃക്രമീകരിക്കുക; പിന്തുണയുള്ളിടത്ത് ലേബലുകൾ മറയ്ക്കുക.",
+    "premium_b_manga_covers_title": "ഇഷ്ടാനുസൃത മാംഗ കവർകൾ",
+    "premium_b_manga_covers_description": "ഒരു ചിത്രം തിരഞ്ഞെടുക്കുക അല്ലെങ്കിൽ നിലവിലെ റീഡർ പേജ് ശീർഷക കവറായി ഉപയോഗിക്കുക.",
+    "premium_b_scheduled_backups_title": "ഷെഡ്യൂൾ ചെയ്ത സ്വയമേവയുള്ള ബാക്കപ്പുകൾ",
+    "premium_b_scheduled_backups_description": "ഓരോ 6, 12, 24, അല്ലെങ്കിൽ 48 മണിക്കൂറിലും, അല്ലെങ്കിൽ ആഴ്ചയിൽ ഒരിക്കൽ ബാക്കപ്പുകൾ പ്രവർത്തിപ്പിക്കുക.",
+    "premium_b_icloud_backups_title": "iCloud Drive ബാക്കപ്പുകൾ",
+    "premium_b_icloud_backups_description": "iCloud Drive വഴി താച്ചിമാംഗ ബാക്കപ്പ് ഫയലുകൾ അപ്‌ലോഡ് ചെയ്യുകയും പുനഃസ്ഥാപിക്കുകയും ചെയ്യുക.",
+    "premium_b_mihon_export_title": "Mihon-അനുയോജ്യമായ എക്സ്പോർട്ട്",
+    "premium_b_mihon_export_description": "Mihon-നും പിന്തുണയ്ക്കുന്ന ഫോർക്ക് പതിപ്പുകൾക്കും അനുയോജ്യമായ ബാക്കപ്പ് സൃഷ്ടിക്കുക.",
+    "premium_b_app_lock_title": "ആപ്പ് ലോക്ക്",
+    "premium_b_app_lock_description": "ബയോമെട്രിക്സ് അല്ലെങ്കിൽ പാസ്‌കോഡ് ഉപയോഗിച്ച് താച്ചിമാംഗ സംരക്ഷിച്ച്, അത് എപ്പോൾ ലോക്ക് ചെയ്യണമെന്ന് തിരഞ്ഞെടുക്കുക.",
+    "premium_b_incognito_title": "ഇൻകോഗ്നിറ്റോ മോഡ്",
+    "premium_b_incognito_description": "സ്വകാര്യത വേണമെന്നപ്പോൾ വായനാ ചരിത്രം രേഖപ്പെടുത്തുന്നത് നിർത്തിവയ്ക്കുക.",
+    "premium_b_secure_screen_title": "സുരക്ഷിത സ്ക്രീൻ",
+    "premium_b_secure_screen_description": "ആപ്പ് സ്വിച്ചറിൽ ആപ്പിന്റെ ഉള്ളടക്കം എല്ലായ്പ്പോഴും അല്ലെങ്കിൽ ഇൻകോഗ്നിറ്റോ മോഡിൽ മാത്രം മറയ്ക്കുക.",
+    "premium_b_testflight_title": "TestFlight ഉപയോഗിച്ച് നേരത്തേയുള്ള ആക്സസ്",
+    "premium_b_testflight_description": "താച്ചിമാംഗ ബീറ്റ പ്രോഗ്രാം വഴി വരാനിരിക്കുന്ന ഫീച്ചറുകൾ നേരത്തെ പരീക്ഷിക്കുക.",
+    "premium_b_testflight_action": "ആക്സസ് നേടുക",
+    "premium_b_family_sharing_title": "Family Sharing",
+    "premium_b_family_sharing_description": "നിങ്ങളുടെ Apple Family Sharing ഗ്രൂപ്പിലെ അംഗങ്ങളുമായി താച്ചിമാംഗ പ്രീമിയം പങ്കിടുക.",
+    "premium_b_multiple_devices_title": "ഒന്നിലധികം ഉപകരണങ്ങളിൽ പ്രീമിയം",
+    "premium_b_multiple_devices_description": "വീണ്ടും പണമടയ്ക്കാതെ പിന്തുണയുള്ള ഒന്നിലധികം ഉപകരണങ്ങളിൽ പ്രീമിയം ഉപയോഗിക്കുക. ഓരോ ഉപകരണത്തിലും ഒരേ Apple Account ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക.",
+    "premium_b_app_store_rating_label": "5K+ യു.എസ്. App Store റേറ്റിംഗുകൾ"
 }

@@ -666,12 +666,6 @@
     "@share": {},
     "discordServer": "Discord Server",
     "@discordServer": {},
-    "externalRepository": "Extension Settings",
-    "@externalRepository": {},
-    "externalRepositoryUrl": "Extension Repository Url",
-    "@externalRepositoryUrl": {},
-    "externalRepositoryUrlShort": "Extension Repository Url",
-    "@externalRepositoryUrlShort": {},
     "history": "History",
     "@history": {},
     "clearCookies": "Clear Cookies",
@@ -758,9 +752,9 @@
     "@restoreConfirmTitle": {},
     "restoreConfirmContent": "All current data will be removed and replaced by the data from this backup.",
     "@restoreConfirmContent": {},
-    "importConfirmTitle": "Import Tachiyomi Backup?",
+    "importConfirmTitle": "Import Mihon Backup?",
     "@importConfirmTitle": {},
-    "importConfirmContent": "Merge the library of Tachiyomi with the local library; existing local data will NOT be removed or replaced.",
+    "importConfirmContent": "Merge the library of Mihon with the local library; existing local data will NOT be removed or replaced.",
     "@importConfirmContent": {},
     "autoBackupTip": "Before restoring the backup, automatically create a backup.",
     "@autoBackupTip": {},
@@ -894,7 +888,7 @@
     "@defaultTab": {},
     "lastOpenedTab": "Last opened tab",
     "@lastOpenedTab": {},
-    "showStatusBar": "Show status bar when reading",
+    "showStatusBar": "Show status bar",
     "@showStatusBar": {},
     "swipeRightToGoBack": "Swipe right to go back",
     "@swipeRightToGoBack": {},
@@ -912,7 +906,7 @@
     "@label_default": {},
     "action_move_category": "Set categories",
     "@action_move_category": {},
-    "readerAdvancedSubtitle": "Gesture, zooming, and status bar.",
+    "readerAdvancedSubtitle": "Gestures, display, and reader controls.",
     "@readerAdvancedSubtitle": {},
     "dataUsageSectionTitle": "Data usage",
     "@dataUsageSectionTitle": {},
@@ -964,15 +958,15 @@
     "@add_repo_by_url_tip": {},
     "get_repo_meta_fail": "Failed to retrieve repository information.",
     "@get_repo_meta_fail": {},
-    "delete_repository": "Delete repository",
+    "delete_repository": "Remove extension store",
     "@delete_repository": {},
-    "delete_repository_content": "Do you wish to delete the repository \"{name}\"",
+    "delete_repository_content": "Remove the extension store \"{name}\" from Tachimanga?",
     "@delete_repository_content": {},
     "label_add": "Add",
     "@label_add": {},
     "label_adding": "Adding",
     "@label_adding": {},
-    "extension_usage_terms": "To set external repositories, you need to agree to the following agreement:\n1. I understand that Tachimanga does not regulate external repositories in any way.\n2. I understand that Tachimanga is not affiliated with any external extensions.\n3. I agree to not use Tachimanga to view content that I do not have the rights for.",
+    "extension_usage_terms": "To add third-party extension stores, you need to agree to the following:\n1. I understand that Tachimanga does not regulate third-party extension stores in any way.\n2. I understand that Tachimanga is not affiliated with any external extensions.\n3. I agree to not use Tachimanga to view content that I do not have the rights for.",
     "@extension_usage_terms": {},
     "find_repository": "Find repository",
     "@find_repository": {},
@@ -1138,7 +1132,7 @@
     "@app_icon_title": {},
     "app_icon_author": "Designed by {author}",
     "@app_icon_author": {},
-    "classic_start_reading_button": "Classic start reading button",
+    "classic_start_reading_button": "Classic start button",
     "@classic_start_reading_button": {},
     "long_press_action_menu": "Long press action menu",
     "@long_press_action_menu": {},
@@ -1260,25 +1254,25 @@
     "@minutes_ago": {},
     "hours_ago": "{x, plural, one{1 hour ago} other{{x} hours ago}}",
     "@hours_ago": {},
-    "sync_faq_q1": "What is the Sync?",
+    "sync_faq_q1": "What is Sync?",
     "@sync_faq_q1": {},
-    "sync_faq_a1": "The Sync is a feature that allows you to seamlessly update and access your library across multiple devices. It ensures that your library is consistent and up-to-date regardless of the device you are using.",
+    "sync_faq_a1": "Sync automatically keeps your Tachimanga library and reading data up to date across your devices in near real time. Sign in to the same account and enable Sync on each device.",
     "@sync_faq_a1": {},
     "sync_faq_q2": "What data is synced?",
     "@sync_faq_q2": {},
-    "sync_faq_a2": "Sync includes library, reading history, bookmarks, repositories, and extensions.",
+    "sync_faq_a2": "Sync includes your library and categories, reading history, chapter progress and bookmarks, tracker records, and extensions.",
     "@sync_faq_a2": {},
-    "sync_faq_q3": "What data will not be synced?",
+    "sync_faq_q3": "What data is not synced?",
     "@sync_faq_q3": {},
-    "sync_faq_a3": "Local source files, local extensions, downloads, updates, app settings, extension settings, and auth info for trackers will not be synced.",
+    "sync_faq_a3": "Downloads, local source files, app settings, extension settings, and tracker login credentials are not synced.",
     "@sync_faq_a3": {},
-    "sync_faq_q4": "When does sync occur?",
+    "sync_faq_q4": "When does Sync happen?",
     "@sync_faq_q4": {},
-    "sync_faq_a4": "Sync is triggered automatically in the background at set intervals or upon specific events such as app launch, content update, or your own sync requests. This ensures that your data is consistent across all your linked devices.",
+    "sync_faq_a4": "After Sync is enabled, changes are synced automatically in near real time. Sync also checks for changes when the app starts or returns to the foreground. You can use Sync now at any time.",
     "@sync_faq_a4": {},
-    "sync_faq_q5": "How much time and data are required for sync?",
+    "sync_faq_q5": "How long does Sync take, and how much data does it use?",
     "@sync_faq_q5": {},
-    "sync_faq_a5": "Initial Full Sync: The initial full sync may take several minutes to complete, depending on the number of titles. This process consumes data bandwidth as it transmits a large amount of data.\nSubsequent Incremental Sync: Subsequent sync after the initial full sync is completed swiftly and efficiently. Incremental syncs are quick and consume significantly less data compared to the initial sync process.",
+    "sync_faq_a5": "Your first sync may take a few minutes and use more data, depending on the size of your library. Later syncs transfer only changes, so they are usually much faster and use much less data.",
     "@sync_faq_a5": {},
     "sign_in_with_apple": "Sign in with Apple",
     "@sign_in_with_apple": {},
@@ -1342,15 +1336,15 @@
     "@hours_minutes_short": {},
     "minutes_seconds_short": "{x} m {y} s",
     "@minutes_seconds_short": {},
-    "tachiyomiBackupSectionTitle": "Tachiyomi, Mihon and forks",
+    "tachiyomiBackupSectionTitle": "Mihon and forks",
     "@tachiyomiBackupSectionTitle": {},
-    "importTachiyomiBackupTitle": "Import Tachiyomi backup",
+    "importTachiyomiBackupTitle": "Import Mihon backup",
     "@importTachiyomiBackupTitle": {},
-    "importTachiyomiBackupDescription": "Import library from the backup of Tachiyomi, Mihon and forks.",
+    "importTachiyomiBackupDescription": "Import library from the backup of Mihon and forks.",
     "@importTachiyomiBackupDescription": {},
-    "createTachiyomiBackupTitle": "Create Tachiyomi-compatible backup",
+    "createTachiyomiBackupTitle": "Create Mihon-compatible backup",
     "@createTachiyomiBackupTitle": {},
-    "createTachiyomiBackupDescription": "Create a backup compatible with Tachiyomi, Mihon and forks.",
+    "createTachiyomiBackupDescription": "Create a backup compatible with Mihon and forks.",
     "@createTachiyomiBackupDescription": {},
     "done_label": "Done",
     "@done_label": {},
@@ -1370,13 +1364,13 @@
     "@reading_time_tip": {},
     "pinch_to_zoom_tip": "Disable this feature if using a mouse wheel on macOS.",
     "@pinch_to_zoom_tip": {},
-    "reader_keep_screen_on": "Keep the screen on while reading.",
+    "reader_keep_screen_on": "Keep screen on",
     "@reader_keep_screen_on": {},
     "remove_from_library": "Remove from library",
     "@remove_from_library": {},
     "tachiyomi_import_tip_title": "Import failed: Backup file is too large.",
     "@tachiyomi_import_tip_title": {},
-    "tachiyomi_import_tip_content": "When creating a backup of Tachiyomi, Mihon and forks, only backup Library, Categories, and Tracking, then retry.",
+    "tachiyomi_import_tip_content": "When creating a backup of Mihon and forks, only backup Library, Categories, and Tracking, then retry.",
     "@tachiyomi_import_tip_content": {},
     "apple_pencil_integration": "Apple Pencil",
     "@apple_pencil_integration": {},
@@ -1612,6 +1606,7 @@
     "@get_started_external_source_title": {},
     "get_started_external_source_content": "External third-party extensions add additional sources to Tachimanga.\n**Tachimanga supports most of Mihon/Tachiyomi extensions**, so you can add Mihon/Tachiyomi extensions repositories in the [Settings]({url}).",
     "@get_started_external_source_content": {},
+    "get_started_external_source_content_b": "External third-party extensions add additional sources to Tachimanga.\n**Tachimanga supports most of Mihon extensions**, so you can add Mihon extension stores in the [Settings]({url}).",
     "get_started_tips_1": "No extensions or sources are included by default. Feel free to use Google, YouTube, or other resources to find what you need.",
     "@get_started_tips_1": {},
     "get_started_tips_2": "These extensions are not developed or maintained by the Tachimanga developers. Therefore, we do not provide any info regarding those extensions.",
@@ -1619,6 +1614,7 @@
     "how_to_find_repository_title": "How to find third-party extension repositories?",
     "@how_to_find_repository_title": {},
     "how_to_find_repository_content": "Tachimanga supports most of Mihon/Tachiyomi extensions, so you can use Mihon/Tachiyomi extensions on Tachimanga.",
+    "how_to_find_repository_content_b": "Tachimanga supports most of Mihon extensions, so you can use Mihon extensions on Tachimanga.",
     "@how_to_find_repository_content": {},
     "no_preferences": "No preferences",
     "@no_preferences": {},
@@ -1673,6 +1669,7 @@
     "file_adding": "Adding",
     "@file_adding": {},
     "add_extension_repo_subtitle": "Add Mihon/Tachiyomi extensions",
+    "add_extension_repo_subtitle_b": "Add Mihon extensions",
     "@add_extension_repo_subtitle": {},
     "install_extension_title": "Install extension",
     "@install_extension_title": {},
@@ -1706,11 +1703,11 @@
     "@unable_to_restore_purchase_failed_message": {},
     "reader_allow_pinch_when_long_press_scrolling": "Allow pinch when long-press scrolling",
     "@reader_allow_pinch_when_long_press_scrolling": {},
-    "reader_strict_scale": "Strict scale",
+    "reader_strict_scale": "Limit zoom range",
     "@reader_strict_scale": {},
-    "reader_strict_scale_desc": "Enabling strict scale restricts zoom to a fixed range with no bounce.",
+    "reader_strict_scale_desc": "Restrict zoom to a fixed range and disable edge bounce.",
     "@reader_strict_scale_desc": {},
-    "reader_scroll_indicator": "Reader scroll indicator",
+    "reader_scroll_indicator": "Scroll indicator",
     "@reader_scroll_indicator": {},
     "clear_last_hour_title": "Clear Last Hour?",
     "@clear_last_hour_title": {},
@@ -1874,7 +1871,7 @@
     "@storage_low_alert_content": {},
     "network_retry_hint": "Try switching networks or try again later.",
     "@network_retry_hint": {},
-    "extension_obsolete_tips": "This extension has been removed from the repo, possibly because the site is dead, it's no longer maintained, or for other reasons. It may not work properly and will no longer receive updates. It's recommended to remove it after migrating to another source.",
+    "extension_obsolete_tips": "This extension has been removed from the extension store, possibly because the site is dead, it's no longer maintained, or for other reasons. It may not work properly and will no longer receive updates. It's recommended to remove it after migrating to another source.",
     "@extension_obsolete_tips": {},
     "extension_language_label": "Language",
     "@extension_language_label": {},
@@ -1982,14 +1979,6 @@
     "@promotion_banner_blackfriday_text": {},
     "promotion_banner_default_text": "Limited-time offer.",
     "@promotion_banner_default_text": {},
-    "@promotion_banner_text": {
-        "description": "Promotion banner text",
-        "placeholders": {
-            "time": {
-                "example": "23 h 33 m 33 s"
-            }
-        }
-    },
     "premium_features": "Premium features",
     "@premium_features": {
         "description": "Premium features button text"
@@ -2124,9 +2113,9 @@
     "@extension_content_mixed": {
         "description": "Label for mixed extension content"
     },
-    "extension_install_type": "Install type",
+    "extension_install_type": "Package format",
     "@extension_install_type": {
-        "description": "Label for the extension installation path type"
+        "description": "Label for the extension package format"
     },
     "bulk_migration_guide": "Want to migrate multiple manga at once? Go to Library and select the manga you want to migrate. Tap the ⋮ menu in the bottom-right corner, then choose “Migrate”.",
     "@bulk_migration_guide": {
@@ -2136,7 +2125,7 @@
     "@unsupported_extension_title": {
         "description": "Title for the unsupported extension installation dialog"
     },
-    "unsupported_extension_verify_error_tips": "This extension is not supported. If you built it yourself, lower minSdk to 21, disable ProGuard optimization, and rebuild it. If you downloaded it from a link, replace the .apk suffix in the link with .jar, then try installing the JAR version.",
+    "unsupported_extension_verify_error_tips": "This extension is not supported. If you built it yourself, lower minSdk to 21, disable ProGuard optimization, and rebuild it. If you downloaded it from a link ending in .apk, change the original download link to end in .jar, then download and install the JAR file from that link.",
     "@unsupported_extension_verify_error_tips": {
         "description": "Instructions shown when an APK extension cannot be converted because of a Java VerifyError"
     },
@@ -2220,5 +2209,843 @@
     "bulk_tracking_all_already_tracked": "All selected manga are already being tracked. There’s nothing to add.",
     "@bulk_tracking_all_already_tracked": {
         "description": "Message shown when every selected manga is already tracked"
+    },
+    "bulk_tracking_reset_title": "Reset tracking?",
+    "@bulk_tracking_reset_title": {
+        "description": "Title of the bulk tracking reset confirmation dialog"
+    },
+    "bulk_tracking_reset_message": "{count, plural, one{This will remove tracking from 1 selected manga.} other{This will remove tracking from {count} selected manga.}} Your manga and reading history won’t be affected.",
+    "@bulk_tracking_reset_message": {
+        "description": "Warning shown before removing tracking from selected manga",
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "bulk_tracking_reset_success": "Tracking reset. Run Bulk Tracking again to add them back.",
+    "@bulk_tracking_reset_success": {
+        "description": "Message shown after successfully resetting tracking"
+    },
+    "readerBackgroundColor": "Background color",
+    "@readerBackgroundColor": {
+        "description": "Title for the reader background color setting"
+    },
+    "readerBackgroundBlack": "Black",
+    "@readerBackgroundBlack": {
+        "description": "Black reader background option"
+    },
+    "readerBackgroundWhite": "White",
+    "@readerBackgroundWhite": {
+        "description": "White reader background option"
+    },
+    "readerBackgroundAutomatic": "Automatic",
+    "@readerBackgroundAutomatic": {
+        "description": "Automatic reader background option"
+    },
+    "readerBackgroundAutomaticDescription": "In single-page mode, the background adapts to the image. In other modes, it follows the app appearance.",
+    "@readerBackgroundAutomaticDescription": {
+        "description": "Explanation shown from the help button beside the automatic reader background option"
+    },
+    "persistent_tabs_title": "Keep tab state",
+    "@persistent_tabs_title": {
+        "description": "Title for the setting that remembers bottom tab positions"
+    },
+    "persistent_tabs_subtitle": "Remember the selected section and scroll position when switching bottom tabs.",
+    "@persistent_tabs_subtitle": {
+        "description": "Description for the setting that remembers bottom tab positions"
+    },
+    "tracking_services": "Tracking services",
+    "@tracking_services": {
+        "description": "Section title for conventional tracking services"
+    },
+    "enhanced_tracking": "Enhanced tracking",
+    "@enhanced_tracking": {
+        "description": "Section title for source-aware automatic tracking services"
+    },
+    "enhanced_tracking_info": "Tracks reading progress both ways for compatible sources. Entries are automatically tracked when added to your library.",
+    "@enhanced_tracking_info": {
+        "description": "Information shown below the enhanced tracking section"
+    },
+    "enhanced_tracking_source_missing": "Install a compatible source to enable this tracker.",
+    "@enhanced_tracking_source_missing": {
+        "description": "Message shown when an enhanced tracker's source is unavailable"
+    },
+    "enhanced_tracking_backfill_progress": "Matching library: {processed}/{total} ({bound} added)",
+    "@enhanced_tracking_backfill_progress": {
+        "description": "Progress shown while an enhanced tracker scans existing library manga",
+        "placeholders": {
+            "processed": {
+                "type": "int"
+            },
+            "total": {
+                "type": "int"
+            },
+            "bound": {
+                "type": "int"
+            }
+        }
+    },
+    "trackingStatusUnread": "Unread",
+    "@trackingStatusUnread": {
+        "description": "Unread enhanced tracking status"
+    },
+    "enhanced_tracking_backfill_confirm_title": "Match existing library manga?",
+    "@enhanced_tracking_backfill_confirm_title": {
+        "description": "Question shown after enabling an enhanced tracker to start matching existing library manga"
+	},
+    "tracker_username": "Username or email",
+    "@tracker_username": {
+        "description": "Label for the username or email field when signing in to a tracking service"
+    },
+    "tracker_username_empty": "Please enter a username or email address.",
+    "@tracker_username_empty": {
+        "description": "Validation message for an empty tracking-service username"
+    },
+    "trackingStatusConsidering": "Considering",
+    "@trackingStatusConsidering": {
+        "description": "Considering tracker status"
+    },
+    "tracked": "Tracked",
+    "@tracked": {
+        "description": "Section title for library filters based on tracking services"
+    },
+    "trackerSearchType": "Type",
+    "@trackerSearchType": {
+        "description": "Label for a tracking search result's publishing type"
+    },
+    "trackerSearchStatus": "Status",
+    "@trackerSearchStatus": {
+        "description": "Label for a tracking search result's publishing status"
+    },
+    "tracking_services_info": "Track reading progress for individual manga with external services. Local progress is uploaded automatically; remote progress can be applied manually from the Tracking panel.",
+    "@tracking_services_info": {
+        "description": "Information shown below the conventional tracking services section"
+    },
+    "no_tracker_found": "No trackers found",
+    "@no_tracker_found": {
+        "description": "Empty-state message shown when no tracking services are available"
+    },
+    "tracking_faq_q1": "What is Tracking?",
+    "@tracking_faq_q1": {
+        "description": "Tracking FAQ question explaining what tracking is"
+    },
+    "tracking_faq_a1": "Tracking connects manga in Tachimanga to external tracking services such as MyAnimeList, AniList, and MangaUpdates. Reading progress is automatically sent from Tachimanga to your tracker. You can also manually import remote progress into your local chapter status.",
+    "@tracking_faq_a1": {
+        "description": "Tracking FAQ answer explaining what tracking is"
+    },
+    "tracking_faq_q2": "How is Tracking different from Sync?",
+    "@tracking_faq_q2": {
+        "description": "Tracking FAQ question comparing Tracking and Sync"
+    },
+    "tracking_faq_a2": "Tracking manages the reading progress of individual manga in external tracking services. Progress from Tachimanga is uploaded automatically, while importing tracker progress into local chapters must be triggered manually. Sync automatically keeps your Tachimanga library and reading data synchronized across your devices in real time.",
+    "@tracking_faq_a2": {
+        "description": "Tracking FAQ answer comparing Tracking and Sync"
+    },
+    "tracking_faq_q3": "How do I set up Tracking?",
+    "@tracking_faq_q3": {
+        "description": "Tracking FAQ question explaining how to set up tracking"
+    },
+    "tracking_faq_a3": "Go to More → Tracking, then sign in to or enable a tracking service. For a standard tracker, open a manga, tap Tracking, and select Add tracking. If the correct manga is not shown, edit the search text and search again. Enhanced Trackers can match compatible manga automatically when they are added to your library.",
+    "@tracking_faq_a3": {
+        "description": "Tracking FAQ answer explaining how to set up tracking"
+    },
+    "tracking_faq_q4": "When is progress uploaded to a tracker?",
+    "@tracking_faq_q4": {
+        "description": "Tracking FAQ question about uploading reading progress"
+    },
+    "tracking_faq_a4": "Progress is automatically uploaded when a chapter is marked as read, such as when you reach the last page or manually mark chapters as read. Changes made in the Tracking panel, including status, chapter, score, and reading dates, are also sent immediately.",
+    "@tracking_faq_a4": {
+        "description": "Tracking FAQ answer about uploading reading progress"
+    },
+    "tracking_faq_q5": "When is tracker progress applied to local chapters?",
+    "@tracking_faq_q5": {
+        "description": "Tracking FAQ question about importing remote progress"
+    },
+    "tracking_faq_a5": "Tachimanga checks remote progress when you open the Tracking panel for a manga. If the remote progress is ahead, choose Apply on that tracker to mark the corresponding local chapters as read.",
+    "@tracking_faq_a5": {
+        "description": "Tracking FAQ answer about importing remote progress"
+    },
+    "tracking_faq_q6": "What is an Enhanced Tracker?",
+    "@tracking_faq_q6": {
+        "description": "Tracking FAQ question explaining Enhanced Trackers"
+    },
+    "tracking_faq_a6": "Enhanced Trackers automatically match manga from compatible sources, without requiring you to search for each title manually. Currently supported: Komga, Kavita, and Suwayomi.",
+    "@tracking_faq_a6": {
+        "description": "Tracking FAQ answer explaining Enhanced Trackers"
+    },
+    "sync_realtime_title": "Real-time sync across devices",
+    "@sync_realtime_title": {
+        "description": "Headline for the real-time cross-device sync feature card"
+    },
+    "sync_realtime_description": "Your library, reading progress, and bookmarks update instantly on every device.",
+    "@sync_realtime_description": {
+        "description": "Description for the real-time cross-device sync feature card"
+    },
+    "sync_realtime_unlock": "Unlock Real-time Sync",
+    "@sync_realtime_unlock": {
+        "description": "Premium purchase call to action on the real-time sync feature card"
+    },
+    "sync_realtime_live_badge": "LIVE",
+    "@sync_realtime_live_badge": {
+        "description": "Badge emphasizing that cross-device sync happens in real time"
+    },
+    "sync_realtime_premium_badge": "PREMIUM",
+    "@sync_realtime_premium_badge": {
+        "description": "Premium badge on the real-time sync feature card"
+    },
+    "sync_realtime_iphone": "iPhone",
+    "@sync_realtime_iphone": {
+        "description": "iPhone label in the cross-device sync animation"
+    },
+    "sync_realtime_ipad": "iPad",
+    "@sync_realtime_ipad": {
+        "description": "iPad label in the cross-device sync animation"
+    },
+    "sync_realtime_mac": "Mac",
+    "@sync_realtime_mac": {
+        "description": "Mac label in the cross-device sync animation"
+    },
+    "downloads_faq_title": "Downloads FAQ",
+    "@downloads_faq_title": {
+        "description": "Title of the Downloads FAQ screen"
+    },
+    "downloads_faq_speed_q": "What determines download speed?",
+    "@downloads_faq_speed_q": {
+        "description": "Downloads FAQ question about factors that affect download speed"
+    },
+    "downloads_faq_speed_a": "Several factors can affect download speed:\n\n• Source: Download performance may vary between sources and at different times. If a download is slow, try the same title from another available source and compare the result.\n• Network bandwidth: Your internet connection directly affects download speed. Higher bandwidth generally allows faster downloads.\n• Concurrent downloads: Increasing the number of concurrent downloads may improve speed, but setting it too high can cause requests to be limited or fail.\n• Connection quality: The connection between your network and the source can affect performance. In some cases, an appropriate VPN may improve connection quality.",
+    "@downloads_faq_speed_a": {
+        "description": "Downloads FAQ answer explaining factors that affect download speed"
+    },
+    "downloads_faq_background_q": "Is background downloading supported?",
+    "@downloads_faq_background_q": {
+        "description": "Downloads FAQ question about background downloading support"
+    },
+    "downloads_faq_background_a": "Background Download is available on iOS 26 and later. Open Downloads, tap Settings, then Background Download. iOS schedules background work, so downloads may still pause when system resources are limited. For better reliability, connect your device to power and stable Wi-Fi, and turn off Low Power Mode and Low Data Mode.",
+    "@downloads_faq_background_a": {
+        "description": "Downloads FAQ answer explaining background download availability and reliability"
+    },
+    "downloads_faq_failure_q": "Why does the download sometimes fail?",
+    "@downloads_faq_failure_q": {
+        "description": "Downloads FAQ question about failed downloads"
+    },
+    "downloads_faq_failure_a": "Chapters that can be read online are generally downloadable. Open the chapter and check whether it can be read normally, then retry the download.",
+    "@downloads_faq_failure_a": {
+        "description": "Downloads FAQ answer explaining how to troubleshoot a failed download"
+    },
+    "downloads_faq_sync_backup_q": "Are downloaded chapters included in Sync or backups?",
+    "@downloads_faq_sync_backup_q": {
+        "description": "Downloads FAQ question about Sync and backup coverage"
+    },
+    "downloads_faq_sync_backup_a": "No. Downloaded chapters are stored locally on the current device and are not included in Sync or backup files. They must be downloaded separately on each device.",
+    "@downloads_faq_sync_backup_a": {
+        "description": "Downloads FAQ answer explaining that downloaded chapters remain local"
+    },
+    "downloads_faq_export_q": "Can I export downloaded chapters?",
+    "@downloads_faq_export_q": {
+        "description": "Downloads FAQ question about exporting downloaded chapters"
+    },
+    "downloads_faq_export_a": "No. Downloads are stored for offline reading inside Tachimanga and cannot currently be exported.",
+    "@downloads_faq_export_a": {
+        "description": "Downloads FAQ answer explaining that downloaded chapters cannot be exported"
+    },
+    "premium_faq_title": "Premium FAQ",
+    "@premium_faq_title": {
+        "description": "Title of the Premium FAQ screen"
+    },
+    "premium_faq_plans_q": "What is the difference between Monthly, Yearly, and Lifetime?",
+    "@premium_faq_plans_q": {
+        "description": "Premium FAQ question comparing available purchase plans"
+    },
+    "premium_faq_plans_a": "Monthly and Yearly are auto-renewing subscriptions. Lifetime is a one-time purchase and does not renew. All three options unlock the same Premium features.",
+    "@premium_faq_plans_a": {
+        "description": "Premium FAQ answer comparing subscriptions and the lifetime purchase"
+    },
+    "premium_faq_renewal_q": "How does renewal work, and how do I cancel?",
+    "@premium_faq_renewal_q": {
+        "description": "Premium FAQ question about subscription renewal and cancellation"
+    },
+    "premium_faq_renewal_a": "Apple manages subscription billing. Monthly and Yearly plans renew automatically until canceled. To manage or cancel a subscription, open Settings on your device, tap your name, then Subscriptions. Canceling stops future renewals, and Premium remains available until the current subscription period ends.",
+    "@premium_faq_renewal_a": {
+        "description": "Premium FAQ answer explaining subscription renewal and cancellation"
+    },
+    "premium_faq_devices_q": "Can I use Premium on multiple devices?",
+    "@premium_faq_devices_q": {
+        "description": "Premium FAQ question about using a purchase on multiple devices"
+    },
+    "premium_faq_devices_a": "Yes. Install Tachimanga on another supported device using the same Apple Account that made the purchase. Open Get Premium and tap Restore Purchase. You will not be charged again.",
+    "@premium_faq_devices_a": {
+        "description": "Premium FAQ answer explaining how to restore Premium on another device"
+    },
+    "premium_faq_restore_q": "Why can’t my purchase be restored?",
+    "@premium_faq_restore_q": {
+        "description": "Premium FAQ question about troubleshooting purchase restoration"
+    },
+    "premium_faq_restore_a": "Make sure Media & Purchases is signed in with the same Apple Account used for the original purchase, and that in-app purchases are allowed on your device. Restart your device, switch to a different network, then return to the Get Premium page and tap Restore Purchase again. You can also check your App Store Purchase History to confirm that the purchase is still valid. If you were charged and the purchase still cannot be restored, contact us.",
+    "@premium_faq_restore_a": {
+        "description": "Premium FAQ answer with troubleshooting steps for restoring a purchase"
+    },
+    "premium_faq_lifetime_q": "How do I upgrade to Lifetime?",
+    "@premium_faq_lifetime_q": {
+        "description": "Premium FAQ question about upgrading from a subscription to Lifetime"
+    },
+    "premium_faq_lifetime_a": "Purchase Lifetime from the Get Premium page, then open Subscription management and cancel your active Monthly or Yearly subscription. Buying Lifetime does not automatically cancel an existing subscription.",
+    "@premium_faq_lifetime_a": {
+        "description": "Premium FAQ answer explaining how to upgrade to the lifetime purchase"
+    },
+    "sync_faq_q6": "Which devices support Sync?",
+    "@sync_faq_q6": {
+        "description": "Sync FAQ question about supported devices"
+    },
+    "sync_faq_a6": "Sync is currently available on iPhone, iPad, and Macs with M-series chips.",
+    "@sync_faq_a6": {
+        "description": "Sync FAQ answer listing supported devices"
+    },
+    "sync_request_another_platform": "Request another platform",
+    "@sync_request_another_platform": {
+        "description": "Button for requesting Sync support on another platform"
+    },
+    "sync_platform_request_title": "Which platform would you like Sync to support?",
+    "@sync_platform_request_title": {
+        "description": "Title of the Sync platform request sheet"
+    },
+    "sync_platform_android": "Android",
+    "@sync_platform_android": {
+        "description": "Android option in the Sync platform request sheet"
+    },
+    "sync_platform_windows": "Windows",
+    "@sync_platform_windows": {
+        "description": "Windows option in the Sync platform request sheet"
+    },
+    "sync_platform_intel_mac": "Intel-based Mac",
+    "@sync_platform_intel_mac": {
+        "description": "Intel-based Mac option in the Sync platform request sheet"
+    },
+    "sync_platform_linux": "Linux",
+    "@sync_platform_linux": {
+        "description": "Linux option in the Sync platform request sheet"
+    },
+    "sync_platform_other": "Other",
+    "@sync_platform_other": {
+        "description": "Other platform option in the Sync platform request sheet"
+    },
+    "sync_platform_request_recorded": "Thanks! Your request has been recorded.",
+    "@sync_platform_request_recorded": {
+        "description": "Confirmation shown after requesting Sync support for another platform"
+    },
+    "tracker_refresh_remote_progress": "Remote progress is at Chapter {remoteChapter}. Mark available local chapters as read?",
+    "@tracker_refresh_remote_progress": {
+        "description": "Confirmation shown before applying remote tracker progress to local chapters",
+        "placeholders": {
+            "remoteChapter": {
+                "type": "String"
+            }
+        }
+    },
+    "tracker_refresh_apply": "Apply",
+    "@tracker_refresh_apply": {
+        "description": "Button that applies remote tracker progress to local chapters"
+    },
+    "source_filters_applied": "{x, plural, one{1 source filter applied} other{{x} source filters applied}}",
+    "@source_filters_applied": {
+        "description": "Text showing the number of included or excluded source filters in the library"
+    },
+    "mangaSortTotalChapters": "Total chapters",
+    "@mangaSortTotalChapters": {
+        "description": "Sort library manga by total chapter count"
+    },
+    "reader_page_progress": "Show page progress",
+    "@reader_page_progress": {
+        "description": "Title for the setting that shows page progress in the reader"
+    },
+    "reader_page_progress_desc": "Show the current page and total pages at the bottom.",
+    "@reader_page_progress_desc": {
+        "description": "Description for the reader page progress setting"
+    },
+    "hold_to_scroll_adjust_speed_tip": "Press and hold, then swipe up to speed up or down to slow down.",
+    "@hold_to_scroll_adjust_speed_tip": {
+        "description": "Instructions shown in settings for adjusting long-press scroll speed"
+    },
+    "hold_to_scroll_gesture_guide": "Press and hold to start scrolling. Keep your finger on the screen, then swipe up to speed up or swipe down to slow down. Lift your finger to stop.",
+    "@hold_to_scroll_gesture_guide": {
+        "description": "Gesture guide shown when enabling press-and-hold scrolling"
+    },
+    "dont_remind_again": "Don't remind me again",
+    "@dont_remind_again": {
+        "description": "Button that permanently dismisses an informational reminder"
+    },
+    "readerNavigationLayoutInvertUnavailable": "Right And Left follows the reading direction.",
+    "@readerNavigationLayoutInvertUnavailable": {
+        "description": "Explains why tap zone inversion is unavailable for the Right And Left layout"
+    },
+    "readerGesturesSectionTitle": "Gestures",
+    "@readerGesturesSectionTitle": {
+        "description": "Section title for gesture-related reader settings"
+    },
+    "reader_scroll_indicator_desc": "Show scroll position in Webtoon and Continuous Reading modes.",
+    "@reader_scroll_indicator_desc": {
+        "description": "Description for the reader scroll indicator setting"
+    },
+    "classic_start_reading_button_desc": "Show a floating Start Reading button on the manga details screen.",
+    "@classic_start_reading_button_desc": {
+        "description": "Description for the classic start reading button setting"
+    },
+    "repo_url_invalid_prefix": "The repository URL must start with \"https://\".",
+    "@repo_url_invalid_prefix": {
+        "description": "Error shown when a processed repository URL does not start with http"
+    },
+    "repo_url_invalid_suffix": "The repository URL must end with \"index.pb\" or \"index.min.json\".",
+    "@repo_url_invalid_suffix": {
+        "description": "Error shown when a processed repository URL does not end with a supported index filename"
+    },
+    "extension_repo_b": "Extension stores",
+    "@extension_repo_b": {
+        "description": "B variant of the extension repository settings title using extension store terminology"
+    },
+    "one_repository_b": "1 store",
+    "@one_repository_b": {
+        "description": "B variant of the count for one extension store"
+    },
+    "num_repositories_b": "{num} stores",
+    "@num_repositories_b": {
+        "description": "B variant of the extension store count"
+    },
+    "add_repository_b": "Add extension store",
+    "@add_repository_b": {
+        "description": "B variant of the action to add an extension store"
+    },
+    "empty_repository_b": "You haven't added any extension stores yet.",
+    "@empty_repository_b": {
+        "description": "B variant of the empty extension store list message"
+    },
+    "add_repo_by_name_tip_b": "Enter the store's GitHub repository:\ngithub.com/username/repo → username/repo",
+    "@add_repo_by_name_tip_b": {
+        "description": "B variant of the instructions for adding an extension store by GitHub repository name"
+    },
+    "add_repo_by_url_tip_b": "Add an extension store to Tachimanga.\nEnter a URL ending with \"index.pb\" or \"index.min.json\".",
+    "@add_repo_by_url_tip_b": {
+        "description": "B variant of the instructions for adding an extension store by URL"
+    },
+    "get_repo_meta_fail_b": "Failed to retrieve extension store information.",
+    "@get_repo_meta_fail_b": {
+        "description": "B variant of the error shown when extension store information cannot be retrieved"
+    },
+    "find_repository_b": "Find extension stores",
+    "@find_repository_b": {
+        "description": "B variant of the action and page title for finding extension stores"
+    },
+    "repo_not_exist_b": "The extension store does not exist.",
+    "@repo_not_exist_b": {
+        "description": "B variant of the error shown when an extension store does not exist"
+    },
+    "how_to_find_repository_title_b": "How to find third-party extension stores",
+    "@how_to_find_repository_title_b": {
+        "description": "B variant of the help heading for finding third-party extension stores"
+    },
+    "premium_b_title": "Read your way.",
+    "@premium_b_title": {
+        "description": "Hero title on the B variant of the Premium purchase page"
+    },
+    "premium_b_subtitle": "Unlock the complete Tachimanga experience and support continued development.",
+    "@premium_b_subtitle": {
+        "description": "Hero description on the B variant of the Premium purchase page"
+    },
+    "premium_b_everything_included": "Everything included",
+    "@premium_b_everything_included": {
+        "description": "Heading above the complete Premium feature list"
+    },
+    "premium_b_feature_count": "{count} features",
+    "@premium_b_feature_count": {
+        "description": "Number of features shown on the Premium purchase page",
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "premium_b_highlight_sync_title": "Sync everywhere",
+    "@premium_b_highlight_sync_title": {
+        "description": "Title of the Premium sync highlight"
+    },
+    "premium_b_highlight_sync_description": "Instantly sync your library, reading progress, and bookmarks across devices.",
+    "@premium_b_highlight_sync_description": {
+        "description": "Description of the Premium sync highlight"
+    },
+    "premium_b_highlight_ad_free_title": "Zero ads",
+    "@premium_b_highlight_ad_free_title": {
+        "description": "Title of the Premium ad-free highlight"
+    },
+    "premium_b_highlight_ad_free_description": "No ads at app launch, while reading, or before downloads.",
+    "@premium_b_highlight_ad_free_description": {
+        "description": "Description of the Premium ad-free highlight"
+    },
+    "premium_b_highlight_reading_title": "Better reading",
+    "@premium_b_highlight_reading_title": {
+        "description": "Title of the Premium reading highlight"
+    },
+    "premium_b_highlight_reading_description": "Double-page layouts, autoscroll, custom colors, and border cropping.",
+    "@premium_b_highlight_reading_description": {
+        "description": "Description of the Premium reading highlight"
+    },
+    "premium_b_highlight_downloads_title": "Unlimited downloads",
+    "@premium_b_highlight_downloads_title": {
+        "description": "Title of the Premium downloads highlight"
+    },
+    "premium_b_highlight_downloads_description": "Download freely, run more tasks, and continue in the background.",
+    "@premium_b_highlight_downloads_description": {
+        "description": "Description of the Premium downloads highlight"
+    },
+    "premium_b_highlight_tracking_title": "Smarter tracking",
+    "@premium_b_highlight_tracking_title": {
+        "description": "Title of the Premium tracking highlight"
+    },
+    "premium_b_highlight_tracking_description": "Standard, enhanced, and bulk tracking in one place.",
+    "@premium_b_highlight_tracking_description": {
+        "description": "Description of the Premium tracking highlight"
+    },
+    "premium_b_highlight_appearance_title": "Make it yours",
+    "@premium_b_highlight_appearance_title": {
+        "description": "Title of the Premium appearance highlight"
+    },
+    "premium_b_highlight_appearance_description": "Themes, icons, covers, and tabs.",
+    "@premium_b_highlight_appearance_description": {
+        "description": "Description of the Premium appearance highlight"
+    },
+    "premium_b_group_library_sync": "Library & Sync",
+    "@premium_b_group_library_sync": {
+        "description": "Premium feature group for library and sync features"
+    },
+    "premium_b_group_ad_free": "Ad-free",
+    "@premium_b_group_ad_free": {
+        "description": "Premium feature group for the ad-free experience"
+    },
+    "premium_b_group_reading": "Reading",
+    "@premium_b_group_reading": {
+        "description": "Premium feature group for reading features"
+    },
+    "premium_b_group_downloads": "Downloads",
+    "@premium_b_group_downloads": {
+        "description": "Premium feature group for download features"
+    },
+    "premium_b_group_tracking": "Tracking",
+    "@premium_b_group_tracking": {
+        "description": "Premium feature group for tracking features"
+    },
+    "premium_b_group_appearance": "Appearance",
+    "@premium_b_group_appearance": {
+        "description": "Premium feature group for appearance features"
+    },
+    "premium_b_group_backup": "Backup",
+    "@premium_b_group_backup": {
+        "description": "Premium feature group for backup features"
+    },
+    "premium_b_group_privacy": "Privacy",
+    "@premium_b_group_privacy": {
+        "description": "Premium feature group for privacy features"
+    },
+    "premium_b_group_more": "More",
+    "@premium_b_group_more": {
+        "description": "Premium feature group for additional benefits"
+    },
+    "premium_b_sync_title": "Real-time sync across devices",
+    "@premium_b_sync_title": {
+        "description": "Title of the detailed Premium sync feature"
+    },
+    "premium_b_sync_description": "Switch devices and continue right where you left off. Fast incremental sync sends only what changed, keeping every device up to date.",
+    "@premium_b_sync_description": {
+        "description": "Description of the detailed Premium sync feature"
+    },
+    "premium_b_sync_supported_devices": "Supported on iPhone, iPad, and Mac with Apple silicon.",
+    "@premium_b_sync_supported_devices": {
+        "description": "Device compatibility note for the detailed Premium sync feature"
+    },
+    "premium_b_saved_filters_title": "Saved source filters",
+    "@premium_b_saved_filters_title": {
+        "description": "Title of the saved source filters Premium feature"
+    },
+    "premium_b_saved_filters_description": "Name and reuse the current filter combination for a manga source.",
+    "@premium_b_saved_filters_description": {
+        "description": "Description of the saved source filters Premium feature"
+    },
+    "premium_b_manga_notes_title": "Manga notes",
+    "@premium_b_manga_notes_title": {
+        "description": "Title of the manga notes Premium feature"
+    },
+    "premium_b_manga_notes_description": "Attach a private note to any title in your library.",
+    "@premium_b_manga_notes_description": {
+        "description": "Description of the manga notes Premium feature"
+    },
+    "premium_b_reset_chapters_title": "Reset chapters while clearing history",
+    "@premium_b_reset_chapters_title": {
+        "description": "Title of the reading history reset Premium feature"
+    },
+    "premium_b_reset_chapters_description": "Clear reading history and mark affected chapters unread in the same action.",
+    "@premium_b_reset_chapters_description": {
+        "description": "Description of the reading history reset Premium feature"
+    },
+    "premium_b_bulk_migration_title": "Smarter bulk migration",
+    "@premium_b_bulk_migration_title": {
+        "description": "Title of the bulk migration Premium feature"
+    },
+    "premium_b_bulk_migration_description": "Search every selected source and choose the matching title with the most chapters.",
+    "@premium_b_bulk_migration_description": {
+        "description": "Description of the bulk migration Premium feature"
+    },
+    "premium_b_no_ads_title": "No ads, anywhere",
+    "@premium_b_no_ads_title": {
+        "description": "Title of the detailed ad-free Premium feature"
+    },
+    "premium_b_no_ads_description": "Removes ads shown at app launch, while reading, or before downloads.",
+    "@premium_b_no_ads_description": {
+        "description": "Description of the detailed ad-free Premium feature"
+    },
+    "premium_b_reader_layouts_title": "Double-page & automatic layouts",
+    "@premium_b_reader_layouts_title": {
+        "description": "Title of the reader layout Premium feature"
+    },
+    "premium_b_reader_layouts_description": "Use single pages, paired spreads, or automatic layout; separate the first page and invert spreads when needed.",
+    "@premium_b_reader_layouts_description": {
+        "description": "Description of the reader layout Premium feature"
+    },
+    "premium_b_autoscroll_title": "Autoscroll",
+    "@premium_b_autoscroll_title": {
+        "description": "Title of the autoscroll Premium feature"
+    },
+    "premium_b_autoscroll_description": "Turn pages on a timer or scroll continuously, with adjustable speed.",
+    "@premium_b_autoscroll_description": {
+        "description": "Description of the autoscroll Premium feature"
+    },
+    "premium_b_hold_scroll_title": "Press and hold to scroll",
+    "@premium_b_hold_scroll_title": {
+        "description": "Title of the press-and-hold scroll Premium feature"
+    },
+    "premium_b_hold_scroll_description": "In Webtoon and Continuous modes, hold to start and swipe up or down to change speed.",
+    "@premium_b_hold_scroll_description": {
+        "description": "Description of the press-and-hold scroll Premium feature"
+    },
+    "premium_b_reader_color_title": "Reader background color",
+    "@premium_b_reader_color_title": {
+        "description": "Title of the reader background color Premium feature"
+    },
+    "premium_b_reader_color_description": "Choose black, white, or automatic globally or for an individual title.",
+    "@premium_b_reader_color_description": {
+        "description": "Description of the reader background color Premium feature"
+    },
+    "premium_b_crop_borders_title": "Crop page borders",
+    "@premium_b_crop_borders_title": {
+        "description": "Title of the page border cropping Premium feature"
+    },
+    "premium_b_crop_borders_description": "Trim empty margins, with separate behavior for iPhone and iPad.",
+    "@premium_b_crop_borders_description": {
+        "description": "Description of the page border cropping Premium feature"
+    },
+    "premium_b_apple_pencil_title": "Apple Pencil actions",
+    "@premium_b_apple_pencil_title": {
+        "description": "Title of the Apple Pencil Premium feature"
+    },
+    "premium_b_apple_pencil_description": "Assign double tap and squeeze to previous or next page and chapter actions.",
+    "@premium_b_apple_pencil_description": {
+        "description": "Description of the Apple Pencil Premium feature"
+    },
+    "premium_b_scanlator_title": "Scanlator priority & duplicate skipping",
+    "@premium_b_scanlator_title": {
+        "description": "Title of the scanlator priority Premium feature"
+    },
+    "premium_b_scanlator_description": "Rank scanlators and keep only the highest-priority release for each chapter.",
+    "@premium_b_scanlator_description": {
+        "description": "Description of the scanlator priority Premium feature"
+    },
+    "premium_b_watermark_title": "Watermark-free saves & shares",
+    "@premium_b_watermark_title": {
+        "description": "Title of the watermark-free saving and sharing Premium feature"
+    },
+    "premium_b_watermark_description": "Save or share reader pages and covers without the Tachimanga watermark.",
+    "@premium_b_watermark_description": {
+        "description": "Description of the watermark-free saving and sharing Premium feature"
+    },
+    "premium_b_rotation_title": "Rotation controls",
+    "@premium_b_rotation_title": {
+        "description": "Title of the rotation controls Premium feature"
+    },
+    "premium_b_rotation_description": "Lock the app or an individual title to portrait or landscape.",
+    "@premium_b_rotation_description": {
+        "description": "Description of the rotation controls Premium feature"
+    },
+    "premium_b_unlimited_downloads_title": "Unlimited downloads",
+    "@premium_b_unlimited_downloads_title": {
+        "description": "Title of the unlimited downloads Premium feature"
+    },
+    "premium_b_unlimited_downloads_description": "Skip daily download tickets and download without watching an ad when limits are enabled.",
+    "@premium_b_unlimited_downloads_description": {
+        "description": "Description of the unlimited downloads Premium feature"
+    },
+    "premium_b_concurrent_downloads_title": "Up to 5 concurrent downloads",
+    "@premium_b_concurrent_downloads_title": {
+        "description": "Title of the concurrent downloads Premium feature"
+    },
+    "premium_b_concurrent_downloads_description": "Choose between one and five simultaneous download tasks.",
+    "@premium_b_concurrent_downloads_description": {
+        "description": "Description of the concurrent downloads Premium feature"
+    },
+    "premium_b_background_downloads_title": "Background downloads",
+    "@premium_b_background_downloads_title": {
+        "description": "Title of the background downloads Premium feature"
+    },
+    "premium_b_background_downloads_description": "Keep eligible downloads running after leaving the app or locking your device. Requires iOS 26 or later.",
+    "@premium_b_background_downloads_description": {
+        "description": "Description of the background downloads Premium feature"
+    },
+    "premium_b_delete_after_reading_title": "Delete after reading",
+    "@premium_b_delete_after_reading_title": {
+        "description": "Title of the delete-after-reading Premium feature"
+    },
+    "premium_b_delete_after_reading_description": "Automatically remove a downloaded chapter after you finish it.",
+    "@premium_b_delete_after_reading_description": {
+        "description": "Description of the delete-after-reading Premium feature"
+    },
+    "premium_b_tracking_services_title": "Tracking services",
+    "@premium_b_tracking_services_title": {
+        "description": "Title of the standard tracking services Premium feature"
+    },
+    "premium_b_tracking_services_description": "Connect MyAnimeList, AniList, MangaUpdates, and other supported services.",
+    "@premium_b_tracking_services_description": {
+        "description": "Description of the standard tracking services Premium feature"
+    },
+    "premium_b_enhanced_tracking_title": "Enhanced Tracking",
+    "@premium_b_enhanced_tracking_title": {
+        "description": "Title of the enhanced tracking Premium feature"
+    },
+    "premium_b_enhanced_tracking_description": "Komga, Kavita, and Suwayomi can automatically match compatible manga without searching for every title.",
+    "@premium_b_enhanced_tracking_description": {
+        "description": "Description of the enhanced tracking Premium feature"
+    },
+    "premium_b_bulk_tracking_title": "Bulk tracking",
+    "@premium_b_bulk_tracking_title": {
+        "description": "Title of the bulk tracking Premium feature"
+    },
+    "premium_b_bulk_tracking_description": "Search, match, and add tracker records for multiple selected titles at once.",
+    "@premium_b_bulk_tracking_description": {
+        "description": "Description of the bulk tracking Premium feature"
+    },
+    "premium_b_color_themes_title": "Premium color themes",
+    "@premium_b_color_themes_title": {
+        "description": "Title of the Premium color themes feature"
+    },
+    "premium_b_color_themes_description": "Choose additional app-wide color schemes beyond the default.",
+    "@premium_b_color_themes_description": {
+        "description": "Description of the Premium color themes feature"
+    },
+    "premium_b_true_black_title": "True black dark mode",
+    "@premium_b_true_black_title": {
+        "description": "Title of the true black dark mode Premium feature"
+    },
+    "premium_b_true_black_description": "Use a pure-black interface when dark mode is active.",
+    "@premium_b_true_black_description": {
+        "description": "Description of the true black dark mode Premium feature"
+    },
+    "premium_b_app_icons_title": "Alternate app icons",
+    "@premium_b_app_icons_title": {
+        "description": "Title of the alternate app icons Premium feature"
+    },
+    "premium_b_app_icons_description": "Switch the icon shown on your iPhone or iPad Home Screen.",
+    "@premium_b_app_icons_description": {
+        "description": "Description of the alternate app icons Premium feature"
+    },
+    "premium_b_bottom_tabs_title": "Custom bottom tabs",
+    "@premium_b_bottom_tabs_title": {
+        "description": "Title of the custom bottom tabs Premium feature"
+    },
+    "premium_b_bottom_tabs_description": "Choose, hide, and reorder navigation tabs; hide labels where supported.",
+    "@premium_b_bottom_tabs_description": {
+        "description": "Description of the custom bottom tabs Premium feature"
+    },
+    "premium_b_manga_covers_title": "Custom manga covers",
+    "@premium_b_manga_covers_title": {
+        "description": "Title of the custom manga covers Premium feature"
+    },
+    "premium_b_manga_covers_description": "Choose an image or use the current reader page as a title cover.",
+    "@premium_b_manga_covers_description": {
+        "description": "Description of the custom manga covers Premium feature"
+    },
+    "premium_b_scheduled_backups_title": "Scheduled automatic backups",
+    "@premium_b_scheduled_backups_title": {
+        "description": "Title of the scheduled automatic backups Premium feature"
+    },
+    "premium_b_scheduled_backups_description": "Run backups every 6, 12, 24, or 48 hours, or once a week.",
+    "@premium_b_scheduled_backups_description": {
+        "description": "Description of the scheduled automatic backups Premium feature"
+    },
+    "premium_b_icloud_backups_title": "iCloud Drive backups",
+    "@premium_b_icloud_backups_title": {
+        "description": "Title of the iCloud Drive backups Premium feature"
+    },
+    "premium_b_icloud_backups_description": "Upload and restore Tachimanga backup files through iCloud Drive.",
+    "@premium_b_icloud_backups_description": {
+        "description": "Description of the iCloud Drive backups Premium feature"
+    },
+    "premium_b_mihon_export_title": "Mihon-compatible export",
+    "@premium_b_mihon_export_title": {
+        "description": "Title of the Mihon-compatible export Premium feature"
+    },
+    "premium_b_mihon_export_description": "Create a backup compatible with Mihon and supported forks.",
+    "@premium_b_mihon_export_description": {
+        "description": "Description of the Mihon-compatible export Premium feature"
+    },
+    "premium_b_app_lock_title": "App lock",
+    "@premium_b_app_lock_title": {
+        "description": "Title of the app lock Premium feature"
+    },
+    "premium_b_app_lock_description": "Protect Tachimanga with biometrics or a passcode and choose when it locks.",
+    "@premium_b_app_lock_description": {
+        "description": "Description of the app lock Premium feature"
+    },
+    "premium_b_incognito_title": "Incognito mode",
+    "@premium_b_incognito_title": {
+        "description": "Title of the incognito mode Premium feature"
+    },
+    "premium_b_incognito_description": "Pause reading-history recording whenever you want privacy.",
+    "@premium_b_incognito_description": {
+        "description": "Description of the incognito mode Premium feature"
+    },
+    "premium_b_secure_screen_title": "Secure screen",
+    "@premium_b_secure_screen_title": {
+        "description": "Title of the secure screen Premium feature"
+    },
+    "premium_b_secure_screen_description": "Hide app contents in the app switcher always or only during Incognito mode.",
+    "@premium_b_secure_screen_description": {
+        "description": "Description of the secure screen Premium feature"
+    },
+    "premium_b_testflight_title": "Early access with TestFlight",
+    "@premium_b_testflight_title": {
+        "description": "Title of the TestFlight early-access Premium benefit"
+    },
+    "premium_b_testflight_description": "Try upcoming features earlier through the Tachimanga beta program.",
+    "@premium_b_testflight_description": {
+        "description": "Description of the TestFlight early-access Premium benefit"
+    },
+    "premium_b_testflight_action": "Get access",
+    "@premium_b_testflight_action": {
+        "description": "Action that opens the Tachimanga TestFlight access page"
+    },
+    "premium_b_family_sharing_title": "Family Sharing",
+    "@premium_b_family_sharing_title": {
+        "description": "Title of the Apple Family Sharing Premium benefit"
+    },
+    "premium_b_family_sharing_description": "Share Tachimanga Premium with members of your Apple Family Sharing group.",
+    "@premium_b_family_sharing_description": {
+        "description": "Description of the Apple Family Sharing Premium benefit"
+    },
+    "premium_b_multiple_devices_title": "Premium on multiple devices",
+    "@premium_b_multiple_devices_title": {
+        "description": "Title of the multiple-device Premium benefit"
+    },
+    "premium_b_multiple_devices_description": "Use Premium on multiple supported devices without paying again. Sign in with the same Apple Account on each device.",
+    "@premium_b_multiple_devices_description": {
+        "description": "Description of the multiple-device Premium benefit"
+    },
+    "premium_b_app_store_rating_label": "5K+ U.S. App Store ratings",
+    "@premium_b_app_store_rating_label": {
+        "description": "Label shown beside the Tachimanga rating on the Premium purchase page"
     }
 }
