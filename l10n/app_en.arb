@@ -317,7 +317,7 @@
         "description": "Hint text to show that the nsfw switch cannot prevent incorrectly flagged extensions from surfacing"
     },
     "@numSelected": {
-        "description": "Title text to show the number of chapters selected in the Manga details screen and Updates screen",
+        "description": "Title shown in selection mode to indicate how many items are currently selected. Used for both manga and chapters; {num} is the number of selected items (for example, '23 Selected').",
         "placeholders": {
             "num": {
                 "example": "23",
@@ -2583,6 +2583,34 @@
     "@readerGesturesSectionTitle": {
         "description": "Section title for gesture-related reader settings"
     },
+    "reader_bottom_bar_style": "Bottom Toolbar",
+    "@reader_bottom_bar_style": {
+        "description": "Title for choosing the iOS 26 native reader bottom toolbar layout"
+    },
+    "reader_bottom_bar_style_description": "Choose how page progress and reader actions are arranged.",
+    "@reader_bottom_bar_style_description": {
+        "description": "Description for the native reader bottom toolbar layout setting"
+    },
+    "reader_bottom_bar_style_stacked": "Classic",
+    "@reader_bottom_bar_style_stacked": {
+        "description": "Display name for the classic reader toolbar layout; does not imply a fixed number of rows"
+    },
+    "reader_bottom_bar_style_inline": "Compact",
+    "@reader_bottom_bar_style_inline": {
+        "description": "Display name for the compact reader toolbar layout with centered controls"
+    },
+    "add_bookmark": "Add bookmark",
+    "@add_bookmark": {
+        "description": "Menu action that adds a bookmark to the selected chapters"
+    },
+    "remove_bookmark": "Remove bookmark",
+    "@remove_bookmark": {
+        "description": "Menu action that removes a bookmark from the selected chapters"
+    },
+    "mark_previous_as_read": "Mark previous as read",
+    "@mark_previous_as_read": {
+        "description": "Menu action that marks the selected chapter and all previous chapters as read"
+    },
     "reader_scroll_indicator_desc": "Show scroll position in Webtoon and Continuous Reading modes.",
     "@reader_scroll_indicator_desc": {
         "description": "Description for the reader scroll indicator setting"
@@ -3047,5 +3075,171 @@
     "premium_b_app_store_rating_label": "5K+ U.S. App Store ratings",
     "@premium_b_app_store_rating_label": {
         "description": "Label shown beside the Tachimanga rating on the Premium purchase page"
+	},
+    "importLocalManga": "Import local manga",
+    "@importLocalManga": {
+        "description": "Action to select and import local manga files, distinct from installing source extensions"
+    },
+    "tap_to_add_repository": "No repositories yet. Tap to add.",
+    "@tap_to_add_repository": {
+        "description": "Shown when no extension repositories have been added, prompting the user to tap the setting to open the management page and add one"
+    },
+    "tap_to_add_repository_b": "No extension stores yet. Tap to add.",
+    "@tap_to_add_repository_b": {
+        "description": "Shown when no extension stores have been added, prompting the user to tap the setting to open the management page and add one"
+    },
+    "tab_bar_tablet_labels_subtitle": "Switch between text-only and icon-only tabs.",
+    "@tab_bar_tablet_labels_subtitle": {
+        "description": "Explains the tablet top tab labels switch: on displays only text, off displays only icons"
+    },
+    "reader_toolbar_requires_paged": "Available in paged reading modes.",
+    "@reader_toolbar_requires_paged": {
+        "description": "Reader toolbar configuration or action message: Available in paged reading modes."
+    },
+    "reader_toolbar_requires_continuous": "Available in continuous reading modes.",
+    "@reader_toolbar_requires_continuous": {
+        "description": "Reader toolbar configuration or action message: Available in continuous reading modes."
+    },
+    "reader_toolbar_hold_unavailable_auto_scroll": "Turn off auto-scroll to use hold-to-scroll.",
+    "@reader_toolbar_hold_unavailable_auto_scroll": {
+        "description": "Reader toolbar configuration or action message: Turn off auto-scroll to use hold-to-scroll."
+    },
+    "reader_toolbar_custom": "Custom",
+    "@reader_toolbar_custom": {
+        "description": "Label for the custom reader toolbar style."
+    },
+    "reader_toolbar_slots_full": "All slots are filled. Remove a button to add another.",
+    "@reader_toolbar_slots_full": {
+        "description": "Shown when adding a reader toolbar action with no empty slots."
+    },
+    "reader_toolbar_actions_title": "Toolbar buttons",
+    "@reader_toolbar_actions_title": {
+        "description": "Section heading for actions users can add to or remove from the custom reader toolbar."
+    },
+    "reader_toolbar_unsaved_title": "Save toolbar changes?",
+    "@reader_toolbar_unsaved_title": {
+        "description": "Title of the confirmation shown when leaving with unsaved reader toolbar buttons."
+    },
+    "reader_toolbar_discard_changes": "Discard changes",
+    "@reader_toolbar_discard_changes": {
+        "description": "Leave the toolbar editor without saving button changes."
+    },
+    "premium_b_reader_toolbar_title": "Custom bottom toolbar",
+    "@premium_b_reader_toolbar_title": {
+        "description": "Premium feature title for customizing the reader's bottom toolbar."
+    },
+    "premium_b_reader_toolbar_description": "Choose and arrange your reader buttons, with separate layouts for iPhone and iPad. Requires Liquid Glass on iOS 26 or later.",
+    "@premium_b_reader_toolbar_description": {
+        "description": "Describes custom reader toolbar layouts and their Liquid Glass requirement."
+    },
+    "premium_only_feature": "This is a Premium-only feature.",
+    "@premium_only_feature": {
+        "description": "General notice that a feature requires Premium, shown regardless of the user's membership status."
+    },
+    "open_in_webview": "Open in Web View",
+    "@open_in_webview": {
+        "description": "Menu action to open a source, manga, or chapter in the app's built-in WebView rather than Safari."
+    },
+    "reset_manga_chapters": "Reset reading progress",
+    "@reset_manga_chapters": {
+        "description": "Manga details menu action to reset all chapter reading states and clear this manga's reading history."
+    },
+    "reset_manga_chapters_title": "Reset reading progress?",
+    "@reset_manga_chapters_title": {
+        "description": "Confirmation title for resetting all chapter reading states for one manga."
+    },
+    "reset_manga_chapters_description": "Mark all chapters of “{mangaTitle}” as unread and clear reading progress, last-read times, history, and total reading time.\n\nYour downloads and bookmarks will be kept, and the manga will stay in your library.\n\nThis cannot be undone.",
+    "@reset_manga_chapters_description": {
+        "description": "Explains exactly what is cleared and retained when resetting a manga's chapters, including chapters hidden by filters.",
+        "placeholders": {
+            "mangaTitle": {
+                "type": "String",
+                "example": "Example Manga"
+            }
+        }
+    },
+    "app_update_title": "Update available",
+    "@app_update_title": {
+        "description": "Title of the optional app update dialog."
+    },
+    "app_update_required_title": "Update required",
+    "@app_update_required_title": {
+        "description": "Title of the mandatory app update dialog."
+    },
+    "app_update_message": "A new version of Tachimanga is available on the App Store.",
+    "@app_update_message": {
+        "description": "Default optional update message."
+    },
+    "app_update_required_message": "Please update Tachimanga to continue using the app.",
+    "@app_update_required_message": {
+        "description": "Default mandatory update message."
+    },
+    "app_update_button": "Update now",
+    "@app_update_button": {
+        "description": "Button opening the App Store."
+    },
+    "app_update_later": "Remind me later",
+    "@app_update_later": {
+        "description": "Dismisses the update reminder until the next app launch."
+    },
+    "whats_new_title": "What’s New",
+    "@whats_new_title": {
+        "description": "Heading of the release highlights sheet shown after an app upgrade."
+    },
+    "whats_new_done": "Got it",
+    "@whats_new_done": {
+        "description": "Closes the release highlights and returns to the current screen."
+    },
+    "whats_new_changelogs": "View full changelogs",
+    "@whats_new_changelogs": {
+        "description": "Opens the full release notes on the Tachimanga website."
+    },
+    "whats_new_premium_message": "Looking for more from your reading experience?",
+    "@whats_new_premium_message": {
+        "description": "Gentle invitation above the Premium features link; hidden for Premium users."
+    },
+    "whats_new_premium_button": "Explore Premium",
+    "@whats_new_premium_button": {
+        "description": "Opens the Premium features introduction without initiating a purchase."
+    },
+    "whats_new_title_1": "Redesigned for Liquid Glass",
+    "@whats_new_title_1": {
+        "description": "Reusable release highlight 1 title. Update for each release; leave both title and message empty to hide this slot."
+    },
+    "whats_new_message_1": "A fresh design across Tachimanga, with Liquid Glass navigation, menus, and controls. Requires iOS 26 or later.",
+    "@whats_new_message_1": {
+        "description": "Reusable release highlight 1 message. Update for each release; leave both title and message empty to hide this slot."
+    },
+    "whats_new_title_2": "Customize Reader Toolbar",
+    "@whats_new_title_2": {
+        "description": "Reusable release highlight 2 title. Update for each release; leave both title and message empty to hide this slot."
+    },
+    "whats_new_message_2": "Personalize your reader toolbar to suit the way you read. Requires iOS 26 or later.",
+    "@whats_new_message_2": {
+        "description": "Reusable release highlight 2 message. Update for each release; leave both title and message empty to hide this slot."
+    },
+    "whats_new_title_3": "Liquid Glass on iPad",
+    "@whats_new_title_3": {
+        "description": "Reusable release highlight 3 title. Update for each release; leave both title and message empty to hide this slot."
+    },
+    "whats_new_message_3": "Enjoy the full Liquid Glass experience, with navigation and reader layouts that adapt to your window. Requires iPadOS 26 or later.",
+    "@whats_new_message_3": {
+        "description": "Reusable release highlight 3 message. Update for each release; leave both title and message empty to hide this slot."
+    },
+    "whats_new_title_4": "Improvements All Around",
+    "@whats_new_title_4": {
+        "description": "Reusable release highlight 4 title. Update for each release; leave both title and message empty to hide this slot."
+    },
+    "whats_new_message_4": "Bug fixes and performance improvements for everyday browsing and reading.",
+    "@whats_new_message_4": {
+        "description": "Reusable release highlight 4 message. Update for each release; leave both title and message empty to hide this slot."
+    },
+    "whats_new_title_5": "",
+    "@whats_new_title_5": {
+        "description": "Reusable release highlight 5 title. Update for each release; leave both title and message empty to hide this slot."
+    },
+    "whats_new_message_5": "",
+    "@whats_new_message_5": {
+        "description": "Reusable release highlight 5 message. Update for each release; leave both title and message empty to hide this slot."
     }
 }
