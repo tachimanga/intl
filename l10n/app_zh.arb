@@ -41,7 +41,7 @@
             }
         }
     },
-    "errorFilePickUnknownExtension": "请选择插件 {extensionName}",
+    "errorFilePickUnknownExtension": "请选择扩展名为 {extensionName} 的文件",
     "@errorFilePickUnknownExtension": {
         "description": "Error Description to show when user selected unknown extension file"
     },
@@ -123,7 +123,7 @@
     "@completed": {
         "description": "Checkbox text to filter Completed mangas in Library screen and Manga Grouping text in Update Summary screen"
     },
-    "defaultCategory": "默认添加到此库",
+    "defaultCategory": "默认添加到此分类",
     "@defaultCategory": {
         "description": "Checkbox description when creating a Category to add manga to the Category by Default"
     },
@@ -175,7 +175,7 @@
     "@errorExtension": {
         "description": "Error Description to show when user selected unknown extension from list"
     },
-    "errorLaunchURL": "打开失败\n详细记录{url}已经复制到剪贴板",
+    "errorLaunchURL": "打开失败\n{url}已经复制到剪贴板",
     "@errorLaunchURL": {
         "description": "Error Description to show when App failed to launch an URL and copied the URL to clipboard",
         "placeholders": {
@@ -311,7 +311,7 @@
     "@noUpdatesAvailable": {
         "description": "Text to show that the user is using the latest version of the app"
     },
-    "nsfw": "在图源和插件中显示",
+    "nsfw": "显示 NSFW 图源和插件",
     "@nsfw": {
         "description": "Switch text to show/hide the nsfw extensions"
     },
@@ -441,7 +441,7 @@
     "@sourceTypeFilter": {
         "description": "Tab text Filter for source screen type"
     },
-    "sourceTypePopular": "常用",
+    "sourceTypePopular": "热门",
     "@sourceTypePopular": {
         "description": "Tab text Popular for source screen type"
     },
@@ -698,8 +698,8 @@
     "autoBackupFailTip": "在恢复之前自动备份失败。请取消自动备份，然后重试。",
     "restartApp": "重启应用",
     "confirm": "确认",
-    "allScanlators": "所有Scanlators",
-    "scanlators": "Scanlators",
+    "allScanlators": "所有汉化组",
+    "scanlators": "汉化组",
     "onlySearchPinSource": "只包含固定来源",
     "noNextChapter": "后面没有啦",
     "readerScrollAnimation": "翻页动画",
@@ -855,7 +855,7 @@
     "download_queue": "下载队列",
     "download_settings": "下载设置",
     "remove_after_read": "阅读后删除下载",
-    "pinch_to_zoom": "捏合放大",
+    "pinch_to_zoom": "捏合缩放",
     "errorFilePickUnknownType": "请选择一个{suffix}文件",
     "attention_label": "⚠️注意",
     "homepage_label": "主页",
@@ -867,7 +867,7 @@
     "watch_ad_label": "观看广告",
     "backup_created_content": "您还应该在其他地方备份副本。\n请注意，下载的内容和本地来源不包含在备份中。",
     "display_as_single_page": "作为单页显示",
-    "clear_last_hour": "上个小时",
+    "clear_last_hour": "最近一小时",
     "clear_today": "今天",
     "clear_today_and_yesterday": "今天和昨天",
     "clear_all_time": "所有时间",
@@ -911,7 +911,7 @@
     "agree_label": "同意",
     "log_enable_tips": "成功启用日志记录。更改将在重新启动应用程序后生效。",
     "manga_auto_refresh_title": "自动刷新",
-    "manga_auto_refresh_desc": "查看标题时检查新章节.",
+    "manga_auto_refresh_desc": "查看漫画时检查新章节.",
     "migration_dialog_tips": "迁移不包含已下载章节。",
     "premium_month_price": "{price}/月",
     "premium_year_price": "{price}/年",
@@ -935,7 +935,7 @@
     "sync_settings": "同步设置",
     "syncing": "同步中",
     "synced_at_time": "于 {time} 同步",
-    "enable_sync_tip": "首次启用同步需要将整个库上传到同步服务器。根据标题数量和网络带宽可能需要几分钟。这可能暂时导致设备卡顿并消耗一定流量。",
+    "enable_sync_tip": "首次启用同步需要将整个库上传到同步服务器。根据漫画数量和网络带宽可能需要几分钟。这可能暂时导致设备卡顿并消耗一定流量。",
     "sync_time_tip": "同步过程依赖准确的设备时间来处理数据冲突，但当前设备时间与服务器时间有显著差异。请校准设备时间。\n当前设备时间：{deviceTime}。\n同步服务器时间：{serverTime}。",
     "sync_faq_q1": "什么是同步？",
     "sync_faq_a1": "同步会以近乎实时的方式，自动让您的 Tachimanga 书架和阅读数据在各设备间保持最新。在每台设备上登录同一账户并启用同步即可。",
@@ -1049,7 +1049,7 @@
     "scanlator_priority_enabled": "翻译组优先级已启用",
     "exclude_categories": "排除的分类",
     "exclude_categories_tips": "排除分类中的条目即使也在其他分类中也不会被更新。",
-    "skip_updating_titles": "跳过更新标题",
+    "skip_updating_titles": "跳过更新漫画",
     "skip_updating_titles_tips": "建议启用所有选项以加快更新速度并减少来源的负载。",
     "skip_updating_titles_with_unread_chapters": "有未读章节",
     "skip_updating_titles_that_havent_been_read": "未被阅读过",
@@ -1057,11 +1057,11 @@
     "none_label": "无",
     "update_completed_text_v2": "{x} 成功, {y} 跳过, {z} 失败.",
     "skipped": "已跳过",
-    "skip_titles_with_unread_chapters": "有未读章节的标题",
-    "skip_titles_that_havent_been_read": "未被阅读过的标题",
-    "skip_titles_with_completed_status": "已完成状态的标题",
-    "skip_titles_only_fetch_once": "标记为仅获取一次的标题",
-    "skip_titles_in_excluded_category": "排除分类中的标题",
+    "skip_titles_with_unread_chapters": "有未读章节的漫画",
+    "skip_titles_that_havent_been_read": "未被阅读过的漫画",
+    "skip_titles_with_completed_status": "已完成状态的漫画",
+    "skip_titles_only_fetch_once": "标记为仅获取一次的漫画",
+    "skip_titles_in_excluded_category": "排除分类中的漫画",
     "update_completed_label": "更新完成.",
     "force_update": "强制更新",
     "skip_duplicate_chapters": "跳过重复章节",
@@ -1388,7 +1388,7 @@
     "sync_realtime_mac": "Mac",
     "downloads_faq_title": "下载常见问题",
     "downloads_faq_speed_q": "哪些因素决定下载速度？",
-    "downloads_faq_speed_a": "多种因素会影响下载速度：\n\n• 图源：不同图源及不同时段的下载表现可能有所不同。若下载速度较慢，请尝试从其他可用图源下载同一标题，并比较结果。\n• 网络带宽：您的网络连接会直接影响下载速度。更高的带宽通常可实现更快的下载。\n• 并发下载：增加并发下载数量可能提升速度，但设置过高可能导致请求受限或失败。\n• 连接质量：您的网络与图源之间的连接会影响性能。在某些情况下，合适的 VPN 可能改善连接质量。",
+    "downloads_faq_speed_a": "多种因素会影响下载速度：\n\n• 图源：不同图源及不同时段的下载表现可能有所不同。若下载速度较慢，请尝试从其他可用图源下载同一漫画，并比较结果。\n• 网络带宽：您的网络连接会直接影响下载速度。更高的带宽通常可实现更快的下载。\n• 并发下载：增加并发下载数量可能提升速度，但设置过高可能导致请求受限或失败。\n• 连接质量：您的网络与图源之间的连接会影响性能。在某些情况下，合适的 VPN 可能改善连接质量。",
     "downloads_faq_background_q": "支持后台下载吗？",
     "downloads_faq_background_a": "iOS 26 及更高版本支持后台下载。打开“下载”，轻点“设置”，然后选择“后台下载”。iOS 会安排后台任务，因此系统资源有限时下载仍可能暂停。为提高可靠性，请将设备连接到电源和稳定的 Wi‑Fi，并关闭低电量模式和低数据模式。",
     "downloads_faq_failure_q": "为什么下载有时会失败？",
@@ -1565,7 +1565,7 @@
     "reader_toolbar_discard_changes": "放弃更改",
     "premium_b_reader_toolbar_title": "自定义底部工具栏",
     "premium_b_reader_toolbar_description": "选择并排列阅读器按钮，可分别为 iPhone 和 iPad 设置布局。需要 iOS 26 或更高版本的 Liquid Glass。",
-    "premium_only_feature": "这是仅限高级功能的功能。",
+    "premium_only_feature": "这是仅限高级版的功能。",
     "open_in_webview": "在网页视图中打开",
     "reset_manga_chapters": "重置阅读进度",
     "reset_manga_chapters_title": "重置阅读进度？",
