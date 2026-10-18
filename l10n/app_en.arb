@@ -1823,8 +1823,10 @@
     "@restart_required_content": {},
     "custom_tabs": "Customize Tabs",
     "@custom_tabs": {},
-    "custom_tabs_subtitle": "Arrange and customize your bottom tabs",
-    "@custom_tabs_subtitle": {},
+    "custom_tabs_subtitle": "Arrange and customize your navigation tabs",
+    "@custom_tabs_subtitle": {
+        "description": "Subtitle for Customize Tabs. Refers to main navigation tabs regardless of their position, including top tabs on iPad."
+    },
     "tab_bar_labels_title": "Labels",
     "@tab_bar_labels_title": {},
     "tab_bar_labels_subtitle": "Show or hide labels under icons.",
@@ -2263,13 +2265,20 @@
     "@enhanced_tracking": {
         "description": "Section title for source-aware automatic tracking services"
     },
-    "enhanced_tracking_info": "Tracks reading progress both ways for compatible sources. Entries are automatically tracked when added to your library.",
+    "enhanced_tracking_info": "Only supports the Komga, Kavita, and Suwayomi sources. Manga from these sources are automatically tracked when added to your library, with reading progress synced both ways.",
     "@enhanced_tracking_info": {
-        "description": "Information shown below the enhanced tracking section"
+        "description": "Information shown below the enhanced tracking section, explicitly limiting support to the Komga, Kavita, and Suwayomi sources and explaining automatic tracking and two-way reading progress sync."
     },
-    "enhanced_tracking_source_missing": "Install a compatible source to enable this tracker.",
+    "enhanced_tracking_source_missing": "Install the {sourceName} source to enable this tracker.",
     "@enhanced_tracking_source_missing": {
-        "description": "Message shown when an enhanced tracker's source is unavailable"
+        "description": "Message shown when an enhanced tracker's source is unavailable, naming the source the user needs to install.",
+        "placeholders": {
+            "sourceName": {
+                "type": "String",
+                "example": "Komga",
+                "description": "The source name, matching the enhanced tracker name: Komga, Kavita, or Suwayomi."
+            }
+        }
     },
     "enhanced_tracking_backfill_progress": "Matching library: {processed}/{total} ({bound} added)",
     "@enhanced_tracking_backfill_progress": {
@@ -2980,13 +2989,13 @@
     "@premium_b_app_icons_description": {
         "description": "Description of the alternate app icons Premium feature"
     },
-    "premium_b_bottom_tabs_title": "Custom bottom tabs",
+    "premium_b_bottom_tabs_title": "Custom navigation tabs",
     "@premium_b_bottom_tabs_title": {
-        "description": "Title of the custom bottom tabs Premium feature"
+        "description": "Title of the custom navigation tabs Premium feature, regardless of whether tabs appear at the top or bottom."
     },
     "premium_b_bottom_tabs_description": "Choose, hide, and reorder navigation tabs; hide labels where supported.",
     "@premium_b_bottom_tabs_description": {
-        "description": "Description of the custom bottom tabs Premium feature"
+        "description": "Description of the custom navigation tabs Premium feature, regardless of tab position."
     },
     "premium_b_manga_covers_title": "Custom manga covers",
     "@premium_b_manga_covers_title": {
@@ -3202,35 +3211,35 @@
     "@whats_new_premium_button": {
         "description": "Opens the Premium features introduction without initiating a purchase."
     },
-    "whats_new_title_1": "Redesigned for Liquid Glass",
+    "whats_new_title_1": "Ready for iPhone Duo",
     "@whats_new_title_1": {
         "description": "Reusable release highlight 1 title. Update for each release; leave both title and message empty to hide this slot."
     },
-    "whats_new_message_1": "A fresh design across Tachimanga, with Liquid Glass navigation, menus, and controls. Requires iOS 26 or later.",
+    "whats_new_message_1": "Your favorite manga, ready for iPhone Duo.",
     "@whats_new_message_1": {
         "description": "Reusable release highlight 1 message. Update for each release; leave both title and message empty to hide this slot."
     },
-    "whats_new_title_2": "Customize Reader Toolbar",
+    "whats_new_title_2": "Auto-Scroll Timer",
     "@whats_new_title_2": {
         "description": "Reusable release highlight 2 title. Update for each release; leave both title and message empty to hide this slot."
     },
-    "whats_new_message_2": "Personalize your reader toolbar to suit the way you read. Requires iOS 26 or later.",
+    "whats_new_message_2": "Set a timer to automatically stop scrolling, so you can relax and read at your own pace.",
     "@whats_new_message_2": {
         "description": "Reusable release highlight 2 message. Update for each release; leave both title and message empty to hide this slot."
     },
-    "whats_new_title_3": "Liquid Glass on iPad",
+    "whats_new_title_3": "Comick Tracking",
     "@whats_new_title_3": {
         "description": "Reusable release highlight 3 title. Update for each release; leave both title and message empty to hide this slot."
     },
-    "whats_new_message_3": "Enjoy the full Liquid Glass experience, with navigation and reader layouts that adapt to your window. Requires iPadOS 26 or later.",
+    "whats_new_message_3": "Connect your Comick account to keep track of your reading progress.",
     "@whats_new_message_3": {
         "description": "Reusable release highlight 3 message. Update for each release; leave both title and message empty to hide this slot."
     },
-    "whats_new_title_4": "Improvements All Around",
+    "whats_new_title_4": "",
     "@whats_new_title_4": {
         "description": "Reusable release highlight 4 title. Update for each release; leave both title and message empty to hide this slot."
     },
-    "whats_new_message_4": "Bug fixes and performance improvements for everyday browsing and reading.",
+    "whats_new_message_4": "",
     "@whats_new_message_4": {
         "description": "Reusable release highlight 4 message. Update for each release; leave both title and message empty to hide this slot."
     },
@@ -3241,5 +3250,91 @@
     "whats_new_message_5": "",
     "@whats_new_message_5": {
         "description": "Reusable release highlight 5 message. Update for each release; leave both title and message empty to hide this slot."
+    },
+    "image_content_not_image": "The returned content is not an image. Check in WebView or refresh.",
+    "@image_content_not_image": {
+        "description": "Shown when a reader image cannot be decoded because the cached response contains readable text."
+    },
+    "image_content_empty": "The image is empty. Check in WebView or refresh.",
+    "@image_content_empty": {
+        "description": "Shown when a reader image cannot be decoded because the cached file is empty."
+    },
+    "image_content_text_response": "The image request returned text instead of an image.",
+    "@image_content_text_response": {
+        "description": "Explains why an image is unavailable when its response contains a readable text excerpt."
+    },
+    "image_response_excerpt": "Response excerpt",
+    "@image_response_excerpt": {
+        "description": "Label above a short excerpt of the text returned by a failed image request."
+    },
+    "tracking_faq_q7": "How do I use an Enhanced Tracker?",
+    "@tracking_faq_q7": {
+        "description": "FAQ question about setting up and using an enhanced tracker, shown on the Tracking and Help screens."
+    },
+    "tracking_faq_a7": "Enhanced Tracking only supports the Komga, Kavita, and Suwayomi sources. You need access to a server for the source you want to use; installing the source alone does not provide manga.\n\n1. Install the corresponding source extension in Tachimanga.\n2. Configure the server address and any required credentials in the source's settings, then check that you can browse its manga.\n3. Go to More → Tracking and turn on the matching tracker under Enhanced tracking. No separate tracker sign-in is needed.\n4. Add manga from that source to your library to track them automatically. For manga already in your library, tap Confirm when \"Match existing library manga?\" appears after enabling the tracker.\n\nManga from other sources cannot use these trackers, even if the same titles exist on your server.",
+    "@tracking_faq_a7": {
+        "description": "Step-by-step enhanced tracking setup: server prerequisites, the three supported sources, source installation and configuration, enabling the matching tracker, automatic matching for new library manga, and confirming matching for existing library manga."
+    },
+    "enhanced_tracking_setup_guide": "Setup guide",
+    "@enhanced_tracking_setup_guide": {
+        "description": "Button below the missing-source message that opens the official installation and setup documentation for Kavita or Suwayomi."
+    },
+    "ipad_bottom_tabs_title": "Keep tabs at the bottom",
+    "@ipad_bottom_tabs_title": {
+        "description": "Premium iPad-only switch in Custom Tabs that keeps main navigation at the bottom regardless of window width. Disabled by default."
+    },
+    "ipad_bottom_tabs_subtitle": "Keep the tab bar at the bottom on iPad, in both portrait and landscape.",
+    "@ipad_bottom_tabs_subtitle": {
+        "description": "Explains that the iPad tab bar stays at the bottom in both portrait and landscape."
+    },
+    "remove_from_history": "Remove from history",
+    "@remove_from_history": {
+        "description": "Optional checkbox in the library batch Remove dialog. Removes reading history for the selected manga. Automatically checked when the Premium chapter reset is active because resetting chapters also clears history."
+	},
+    "library_category_scroll_position_title": "Keep category scroll position",
+    "@library_category_scroll_position_title": {
+        "description": "Library setting shown below Keep tab state when it is enabled. This child switch is off by default."
+    },
+    "library_category_scroll_position_subtitle": "Remember scroll positions when switching categories.",
+    "@library_category_scroll_position_subtitle": {
+        "description": "Explains that returning to a library category restores its scroll position only when this setting is enabled."
+	},
+    "auto_scroll_stop_after": "Auto-stop",
+    "@auto_scroll_stop_after": {
+        "description": "Auto-scroll setting shown only while enabled. Select a duration after which auto-scroll stops. Does not change the keep-screen-on preference."
+    },
+    "auto_scroll_no_limit": "No limit",
+    "@auto_scroll_no_limit": {
+        "description": "Default auto-scroll timer option: continue until the user stops scrolling."
+    },
+    "auto_scroll_minutes": "{minutes, plural, one{1 minute} other{{minutes} minutes}}",
+    "@auto_scroll_minutes": {
+        "description": "Duration option for the auto-scroll stop timer.",
+        "placeholders": {
+            "minutes": {
+                "type": "int",
+                "description": "Selected duration in minutes."
+            }
+        }
+    },
+    "auto_scroll_started_with_timer": "Auto-scroll started. Stops in {minutes, plural, one{1 minute} other{{minutes} minutes}}.",
+    "@auto_scroll_started_with_timer": {
+        "description": "Brief non-interactive toast shown only when auto-scroll is enabled from the reader toolbar with a finite stop timer. Not shown for no limit or when enabled from settings.",
+        "placeholders": {
+            "minutes": {
+                "type": "int",
+                "description": "Saved auto-scroll stop duration in minutes."
+            }
+        }
+    },
+    "auto_scroll_time_remaining": "{time} remaining",
+    "@auto_scroll_time_remaining": {
+        "description": "Live auto-scroll countdown displayed below the selected duration on the right side of the auto-stop setting.",
+        "placeholders": {
+            "time": {
+                "type": "String",
+                "description": "Remaining time formatted as MM:SS, for example 09:24."
+            }
+        }
     }
 }
