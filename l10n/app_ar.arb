@@ -1623,6 +1623,7 @@
     "whats_new_message_4": "",
     "whats_new_title_5": "",
     "whats_new_message_5": "",
+    "cropBorder": "قص حدود الصورة",
     "image_content_not_image": "المحتوى المُعاد ليس صورة. تحقّق منه في WebView أو حدّث الصفحة.",
     "image_content_empty": "الصورة فارغة. تحقّق منها في WebView أو حدّث الصفحة.",
     "image_content_text_response": "أعاد طلب الصورة نصًا بدلًا من صورة.",
