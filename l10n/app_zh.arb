@@ -1565,7 +1565,7 @@
     "reader_toolbar_discard_changes": "放弃更改",
     "premium_b_reader_toolbar_title": "自定义底部工具栏",
     "premium_b_reader_toolbar_description": "选择并排列阅读器按钮，可分别为 iPhone 和 iPad 设置布局。需要 iOS 26 或更高版本的 Liquid Glass。",
-    "premium_only_feature": "这是仅限高级功能的功能。",
+    "premium_only_feature": "这是仅限高级版的功能。",
     "open_in_webview": "在网页视图中打开",
     "reset_manga_chapters": "重置阅读进度",
     "reset_manga_chapters_title": "重置阅读进度？",
