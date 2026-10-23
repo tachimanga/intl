@@ -453,7 +453,7 @@
     "sync_faq_a1": "Senkronize Et, Tachimanga kütüphanenizi ve okuma verilerinizi cihazlarınız arasında neredeyse gerçek zamanlı olarak otomatik güncel tutar. Her cihazda aynı hesapla oturum açın ve Senkronize Et'i etkinleştirin.",
     "sync_faq_q2": "Hangi veriler senkronize edilir?",
     "sync_faq_a2": "Senkronize Et; kütüphanenizi ve kategorilerinizi, okuma geçmişinizi, bölüm ilerlemenizi ve yer imlerinizi, izleme kayıtlarınızı ve eklentilerinizi içerir.",
-    "sync_faq_q3": "Hangi veriler senkronize edilmez?",
+    "sync_faq_q3": "Hangi veriler eşitlenmedi?",
     "sync_faq_a3": "İndirmeler, yerel kaynak dosyaları, uygulama ayarları, eklenti ayarları ve izleme hizmeti oturum açma bilgileri senkronize edilmez.",
     "sync_faq_q4": "Senkronize Et ne zaman gerçekleşir?",
     "sync_faq_a4": "Senkronize Et etkinleştirildikten sonra değişiklikler neredeyse gerçek zamanlı olarak otomatik senkronize edilir. Ayrıca uygulama başlatıldığında veya ön plana döndüğünde değişiklikleri denetler. İstediğiniz zaman Şimdi Senkronize Et'i kullanabilirsiniz.",
