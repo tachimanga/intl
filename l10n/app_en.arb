@@ -284,7 +284,7 @@
         "description": "Text to show that there is no active downloads in Downloads Screen"
     },
     "@noMangaFound": {
-        "description": "Text to show that the Manga list is empty"
+        "description": "Neutral empty-list message covering manga, manhwa, manhua, and other results"
     },
     "@noOfChapters": {
         "description": "Title text to show the number of chapters in the Manga details screen",
@@ -588,7 +588,7 @@
     "noCategoryMangaFound": "Category is empty",
     "noChaptersFound": "No chapters found",
     "noDownloads": "No Downloads",
-    "noMangaFound": "No Mangas Found",
+    "noMangaFound": "No results found",
     "noOfChapters": "{count} Chapters",
     "noResultFound": "No results found",
     "noSourcesFound": "No sources found",
@@ -820,8 +820,10 @@
     "@imageSaveFail": {},
     "imageFileFetchFail": "Failed to download the image.",
     "@imageFileFetchFail": {},
-    "imageSaveWatermarkSwitch": "Image saved and shared with watermark",
-    "@imageSaveWatermarkSwitch": {},
+    "imageSaveWatermarkSwitch": "Save & share without watermarks",
+    "@imageSaveWatermarkSwitch": {
+        "description": "Reader setting title. Turning the switch on saves and shares images without the Tachimanga watermark."
+    },
     "mangaShareText": "{title} by {author} {link}\nShare from Tachimanga",
     "@mangaShareText": {},
     "chapterShareText": "{title} by {author}, {chapter} {link}\nShare from Tachimanga",
@@ -980,8 +982,6 @@
     "@migration_dialog_what_to_include": {},
     "migrate_action_migrate": "Migrate",
     "@migrate_action_migrate": {},
-    "migrate_action_copy": "Copy",
-    "@migrate_action_copy": {},
     "migrate_action_show_manga": "Show entry",
     "@migrate_action_show_manga": {},
     "chapters": "Chapters",
@@ -1010,8 +1010,10 @@
     "@lock_never": {},
     "secure_screen": "Secure screen",
     "@secure_screen": {},
-    "secure_screen_summary": "Secure screen hides app contents when switching apps",
-    "@secure_screen_summary": {},
+    "secure_screen_summary": "Hides app content in the app switcher.",
+    "@secure_screen_summary": {
+        "description": "Footer explaining that Secure screen hides app content in the iOS app switcher."
+    },
     "pref_incognito_mode": "Incognito mode",
     "@pref_incognito_mode": {},
     "pref_incognito_mode_summary": "Pauses reading history",
@@ -1204,8 +1206,6 @@
     "@manga_auto_refresh_title": {},
     "manga_auto_refresh_desc": "Check for new chapters when viewing the title.",
     "@manga_auto_refresh_desc": {},
-    "migration_dialog_tips": "Downloaded chapter(s) do not transfer with migrations.",
-    "@migration_dialog_tips": {},
     "premium_month_price": "{price}/month",
     "premium_month_price_only": "Only {price}/month",
     "@premium_month_price_only": {},
@@ -1811,8 +1811,6 @@
     "@migration_strategy_first_alternative": {},
     "migration_strategy_most_chapters": "Use source with the most chapters (slower)",
     "@migration_strategy_most_chapters": {},
-    "bulk_migration_dialog_what_to_include": "Data to include in migration",
-    "@bulk_migration_dialog_what_to_include": {},
     "migration_strategy_first_alternative_desc": "Goes through the sources that you selected in order and stops when it finds a matching entry.",
     "@migration_strategy_first_alternative_desc": {},
     "migration_strategy_most_chapters_desc": "Searches through all sources and returns the one with the most chapters.",
@@ -2721,7 +2719,7 @@
     "@premium_b_highlight_reading_title": {
         "description": "Title of the Premium reading highlight"
     },
-    "premium_b_highlight_reading_description": "Double-page layouts, autoscroll, custom colors, and border cropping.",
+    "premium_b_highlight_reading_description": "Page curl, double-page layouts, autoscroll, custom colors, and border cropping.",
     "@premium_b_highlight_reading_description": {
         "description": "Description of the Premium reading highlight"
     },
@@ -3211,29 +3209,29 @@
     "@whats_new_premium_button": {
         "description": "Opens the Premium features introduction without initiating a purchase."
     },
-    "whats_new_title_1": "Ready for iPhone Duo",
+    "whats_new_title_1": "Realistic Page Curl",
     "@whats_new_title_1": {
-        "description": "Reusable release highlight 1 title. Update for each release; leave both title and message empty to hide this slot."
+        "description": "Release 5.3 highlight 1 title for the Premium page curl animation. Leave both title and message empty to hide this slot."
     },
-    "whats_new_message_1": "Your favorite manga, ready for iPhone Duo.",
+    "whats_new_message_1": "Turn pages like a real book with a new page curl animation in horizontal paged mode.",
     "@whats_new_message_1": {
-        "description": "Reusable release highlight 1 message. Update for each release; leave both title and message empty to hide this slot."
+        "description": "Release 5.3 highlight 1 message explaining that page curl is available in horizontal paged mode. Leave both title and message empty to hide this slot."
     },
-    "whats_new_title_2": "Auto-Scroll Timer",
+    "whats_new_title_2": "Improved Extension Compatibility",
     "@whats_new_title_2": {
-        "description": "Reusable release highlight 2 title. Update for each release; leave both title and message empty to hide this slot."
+        "description": "Release 5.3 highlight 2 title for extension compatibility improvements. Leave both title and message empty to hide this slot."
     },
-    "whats_new_message_2": "Set a timer to automatically stop scrolling, so you can relax and read at your own pace.",
+    "whats_new_message_2": "Better support for verification challenges, input dialogs, and text pages.",
     "@whats_new_message_2": {
-        "description": "Reusable release highlight 2 message. Update for each release; leave both title and message empty to hide this slot."
+        "description": "Release 5.3 highlight 2 message covering extension verification, input dialogs, and text pages. Leave both title and message empty to hide this slot."
     },
-    "whats_new_title_3": "Comick Tracking",
+    "whats_new_title_3": "Fixes & Improvements",
     "@whats_new_title_3": {
-        "description": "Reusable release highlight 3 title. Update for each release; leave both title and message empty to hide this slot."
+        "description": "Release 5.3 highlight 3 title for bug fixes and refinements. Leave both title and message empty to hide this slot."
     },
-    "whats_new_message_3": "Connect your Comick account to keep track of your reading progress.",
+    "whats_new_message_3": "Bug fixes for Liquid Glass controls, iPhone Duo layouts, and more.",
     "@whats_new_message_3": {
-        "description": "Reusable release highlight 3 message. Update for each release; leave both title and message empty to hide this slot."
+        "description": "Release 5.3 highlight 3 message with examples of fixes for Liquid Glass controls and iPhone Duo layouts. Leave both title and message empty to hide this slot."
     },
     "whats_new_title_4": "",
     "@whats_new_title_4": {
@@ -3336,5 +3334,406 @@
                 "description": "Remaining time formatted as MM:SS, for example 09:24."
             }
         }
+    },
+    "migrate_select_target_title": "Select migration target",
+    "@migrate_select_target_title": {
+        "description": "Title of the dialog for choosing a replacement entry during manual bulk migration."
+    },
+    "migrate_select_target_action": "Select this entry",
+    "@migrate_select_target_action": {
+        "description": "Confirms the displayed entry as the replacement for the current bulk migration task. Does not start migration immediately."
+    },
+    "source_preference_check_input": "Please check your input.",
+    "@source_preference_check_input": {
+        "description": "Shown when an extension disables saving a source setting without providing an error message."
+    },
+    "reader_toolbar_close_reader": "Close reader",
+    "@reader_toolbar_close_reader": {
+        "description": "Optional custom reader toolbar action and accessibility label. Closes the reader and returns to the previous screen, matching the reader's back button."
+    },
+    "disable_content_sharing": "Disable content sharing",
+    "@disable_content_sharing": {
+        "description": "Premium security setting that blocks sharing manga, chapters, covers, and page images while keeping the share buttons visible."
+    },
+    "disable_content_sharing_summary": "Prevent accidental sharing of manga links and images.",
+    "@disable_content_sharing_summary": {
+        "description": "Explains what the premium content sharing restriction does."
+    },
+    "content_sharing_disabled_title": "Content sharing is disabled",
+    "@content_sharing_disabled_title": {
+        "description": "Title shown when a user taps a blocked content share button."
+    },
+    "content_sharing_disabled_message": "To share content again, go to {settings} → {security} and turn off “{setting}”.",
+    "@content_sharing_disabled_message": {
+        "description": "Explains how to restore sharing without offering a direct unblock action in the dialog.",
+        "placeholders": {
+            "settings": {"type": "String", "description": "Localized Settings page name."},
+            "security": {"type": "String", "description": "Localized Security page name."},
+            "setting": {"type": "String", "description": "Localized Disable content sharing setting name."}
+        }
+    },
+    "migration_help_title": "Migration FAQ",
+    "@migration_help_title": {
+        "description": "Title of the built-in migration FAQ page, available without opening a website."
+    },
+    "migration_faq_prepare_q": "What should I do before migrating?",
+    "@migration_faq_prepare_q": {
+        "description": "Migration FAQ question about preparation and backups."
+    },
+    "migration_faq_prepare_a": "Create a backup: Settings → Backup & Restore → Create Backup. Make sure your target sources are installed, enabled, and able to search and load chapters.\n\nBackups do not include downloaded chapters or local source files.",
+    "@migration_faq_prepare_a": {
+        "description": "Preparation steps and backup exclusions before migration."
+    },
+    "migration_faq_single_q": "How do I migrate one manga?",
+    "@migration_faq_single_q": {
+        "description": "Migration FAQ question about migrating a single entry."
+    },
+    "migration_faq_single_a": "1. Open the manga’s more menu → Migrate.\n2. Search for and select the target manga.\n3. Choose Chapters, Categories, and Tracking as needed, and set whether to keep the original entry and its downloads.\n4. Tap Start migration.",
+    "@migration_faq_single_a": {
+        "description": "Concise single migration workflow from manga details, including transfer options and the final action."
+    },
+    "migration_faq_bulk_q": "How do I migrate multiple manga?",
+    "@migration_faq_bulk_q": {
+        "description": "Migration FAQ question about the bulk migration workflow."
+    },
+    "migration_faq_bulk_a": "1. Long-press a manga in Library, select the entries to migrate, and choose Migrate. You can select manga from different sources. To filter by source first, use Sources in the Library filters.\n2. Select and order the target sources. In Migration Settings, choose the data to transfer, original-entry and download options, and matching strategy.\n3. Review the matches. To correct one, use Search manually → choose a target → Select this entry. Use Don’t migrate to skip an entry.\n4. Tap Continue, review the batch, enable Create a backup before migrating, and tap Start migration.\n\nMatching does not change your Library. Only matched entries you keep in the batch are migrated. After completion, check your Library and reading progress.",
+    "@migration_faq_bulk_a": {
+        "description": "Bulk migration workflow covering the Library source filter, setup, manual match correction, backup, and final confirmation."
+    },
+    "migration_faq_strategy_q": "Which matching strategy should I choose?",
+    "@migration_faq_strategy_q": {
+        "description": "Migration FAQ question about the two bulk matching strategies."
+    },
+    "migration_faq_strategy_a": "Choose a few reliable sources and put your preferred ones first.\n\n• Use first source with alternative: searches in order and stops at the first suitable match.\n• Use source with the most chapters (slower), Premium: compares matches across all selected sources and chooses the one with the most chapters.\n\nAutomatic matches may be a different edition or language. Review them before migrating.",
+    "@migration_faq_strategy_a": {
+        "description": "Target source priority, matching strategy differences, the Premium requirement, and automatic match verification."
+    },
+    "migration_faq_errors_q": "What if no match is found or migration fails?",
+    "@migration_faq_errors_q": {
+        "description": "Migration FAQ question about missing matches, incomplete matching, and failures."
+    },
+    "migration_faq_errors_a": "Try Search manually with a shorter title or an alternative name. If an expected source is missing, check Only search pinned sources.\n\nIf matching is unfinished, Wait lets the remaining searches finish. Migrate now stops them and proceeds with the matches already found.\n\nSome entries may succeed even if others fail. Check the completion summary and Library. Before retrying, verify that the remaining entries’ target sources can load their manga and chapters, then retry only entries that still need migration.",
+    "@migration_faq_errors_a": {
+        "description": "Manual matching, pinned-source filtering, ending unfinished searches, and checking target sources before retrying partial migration failures."
+    },
+    "backup_help_title": "Backup & Restore FAQ",
+    "@backup_help_title": {
+        "description": "Title of the built-in backup and restore help page."
+    },
+    "local_source_help_title": "Local Source FAQ",
+    "@local_source_help_title": {
+        "description": "Title of the built-in local source FAQ page."
+    },
+    "backup_faq_create_q": "How do I create and export a backup?",
+    "@backup_faq_create_q": {
+        "description": "Backup FAQ question about creating and exporting a native backup."
+    },
+    "backup_faq_create_a": "1. Open More → Backup & Restore → Create Backup.\n2. Once complete, open the backup’s menu → Export. Save a copy outside Tachimanga’s folder or transfer it to another device.\n\nLocal backups are stored in Files → On My iPhone or On My iPad → Tachimanga → backups.\n\nCreate a fresh backup before restoring, migrating, or changing devices. Uninstalling Tachimanga can delete backups stored inside the app.",
+    "@backup_faq_create_a": {
+        "description": "Concise creation and export workflow, local storage path, and the risk of losing in-app backups when uninstalling."
+    },
+    "backup_faq_restore_q": "How do I restore a Tachimanga backup?",
+    "@backup_faq_restore_q": {
+        "description": "Backup FAQ question about restoring a native backup."
+    },
+    "backup_faq_restore_a": "1. Open More → Backup & Restore → Restore Backup and select a .tmb or older Tachimanga .zip backup. For a listed backup, use its menu → Restore.\n2. Keep the option to back up current data enabled. Restoring replaces your current library and backed-up settings; it does not merge them.\n3. Confirm, wait for completion, and follow the restart prompt.\n\nIf the backup was created with a newer app build, update Tachimanga first.",
+    "@backup_faq_restore_a": {
+        "description": "Explains restore entry points, accepted native formats, replacement semantics, and build compatibility."
+    },
+    "backup_faq_included_q": "What is included in a backup?",
+    "@backup_faq_included_q": {
+        "description": "Backup FAQ question about included data and excluded content files."
+    },
+    "backup_faq_included_a": "Tachimanga backups include library records, categories, reading progress, bookmarks, reading history, tracking records, installed extensions, and backed-up settings.\n\nDownloaded chapters and local source files are excluded. Copy local files separately; downloaded chapters may need to be downloaded again.",
+    "@backup_faq_included_a": {
+        "description": "Summarizes native backup contents and the need to preserve local files or download chapters separately."
+    },
+    "backup_faq_automatic_q": "How do automatic backups work?",
+    "@backup_faq_automatic_q": {
+        "description": "Backup FAQ question about automatic backup settings."
+    },
+    "backup_faq_automatic_a": "Automatic Backup requires Premium. In Backup & Restore, set the backup frequency and retention limit. Older automatic backups may be removed when the limit is reached.\n\nCheck the latest backup date and export important backups outside the app.",
+    "@backup_faq_automatic_a": {
+        "description": "Explains the Premium requirement, backup frequency, retention, and keeping important exported copies."
+    },
+    "backup_faq_mihon_q": "How do I import a Mihon or compatible backup?",
+    "@backup_faq_mihon_q": {
+        "description": "Backup FAQ question about importing another app's backup."
+    },
+    "backup_faq_mihon_a": "In Backup & Restore, use Import Mihon Backup when available. Select the file, review the import options, and keep the option to back up current data enabled.\n\nThis imports supported library and reading data. Some settings and extensions may not transfer. Check the import result and your library afterward.",
+    "@backup_faq_mihon_a": {
+        "description": "Distinguishes compatible library imports from native Tachimanga restoration."
+    },
+    "local_source_faq_import_q": "How do I import local manga?",
+    "@local_source_faq_import_q": {
+        "description": "Local source FAQ question about the file import button."
+    },
+    "local_source_faq_import_a": "Open Browse → Sources → Local source, tap the + button, and select a ZIP, CBZ, or EPUB file from Files.\n\nEach imported file is placed in a manga folder named after the file and is treated as one chapter. To keep several chapters together as one manga, organize them in the local folder using the structure described below.\n\nLocal source reads files stored on your device and does not require a third-party extension.",
+    "@local_source_faq_import_a": {
+        "description": "Explains supported picker formats, single-file import behavior, and the purpose of local source."
+    },
+    "local_source_faq_folders_q": "How should I organize folders and chapters?",
+    "@local_source_faq_folders_q": {
+        "description": "Local source FAQ question about the required folder structure."
+    },
+    "local_source_faq_folders_a": "In Files, open On My iPhone or On My iPad → Tachimanga → local. Create one folder per manga, then place each chapter inside that folder as an archive or a folder of images.\n\nExamples:\nlocal/My Manga/Chapter 001.cbz\nlocal/My Manga/Chapter 002/001.jpg\nlocal/My Manga/Chapter 002/002.jpg\nlocal/My Manga/cover.jpg\n\nDo not place chapter archives directly inside local. For image chapters, keep the images directly inside the chapter folder. Use zero-padded names such as Chapter 001 and 001.jpg to keep chapter and page ordering predictable.",
+    "@local_source_faq_folders_a": {
+        "description": "Provides concrete folder and filename examples for archives and image chapters."
+    },
+    "local_source_faq_formats_q": "Which formats can Local source read?",
+    "@local_source_faq_formats_q": {
+        "description": "Local source FAQ question about supported formats and archive limits."
+    },
+    "local_source_faq_formats_a": "Local source supports chapter folders containing images, ZIP/CBZ, RAR/CBR, and EPUB. Common image formats include JPG, PNG, WebP, and GIF. The + import button accepts ZIP, CBZ, and EPUB; use Files to place other supported formats in the local folder.\n\nEach archive is one chapter. ZIP/CBZ images are read as pages within that chapter; folders inside the archive do not create separate chapters.\n\nImage folders and ZIP/CBZ are recommended. RAR/CBR compatibility is limited: RAR5, encrypted, solid, and multi-volume RAR archives are not supported. If an archive cannot be opened, extract its images and create a ZIP/CBZ file instead.",
+    "@local_source_faq_formats_a": {
+        "description": "Explains reader formats, picker restrictions, archive structure, and RAR compatibility."
+    },
+    "migration_keep_original": "Keep original entries in Library",
+    "@migration_keep_original": {
+        "description": "Saved preference shared by single migration confirmation and initial bulk migration settings. Off by default; applies to the whole batch."
+    },
+    "migration_delete_original_downloads": "Delete original downloads",
+    "@migration_delete_original_downloads": {
+        "description": "Deletion preference shown only when replacing original Library entries. Hidden when originals are kept, without changing the saved preference."
+    },
+    "migration_start": "Start migration",
+    "@migration_start": {
+        "description": "Single primary action in single and bulk migration confirmation, applying the selected original retention setting."
+    },
+    "migration_effect_keep_original": "Both entries and the original downloads will be kept. Downloads do not transfer to the target.",
+    "@migration_effect_keep_original": {
+        "description": "Shared explanation in single and bulk migration settings and final bulk confirmation when keeping originals."
+    },
+    "migration_effect_replace_keep_downloads": "The original Library entry will be replaced, but its downloads kept. Downloads do not transfer to the target.",
+    "@migration_effect_replace_keep_downloads": {
+        "description": "Shared explanation in single and bulk migration settings and final bulk confirmation when replacing originals and keeping their downloads."
+    },
+    "migration_effect_replace_delete_downloads": "The original Library entry will be replaced and its downloads deleted. Downloads do not transfer to the target.",
+    "@migration_effect_replace_delete_downloads": {
+        "description": "Shared explanation in single and bulk migration settings and final bulk confirmation when replacing originals and deleting their downloads."
+    },
+    "migration_original_entry_options": "Original entry handling",
+    "@migration_original_entry_options": {
+        "description": "Heading for keeping original Library entries and deleting original downloads, separate from the data-to-transfer section in single and bulk migration settings."
+    },
+    "migration_faq_from_source_q": "How do I migrate manga from one source?",
+    "@migration_faq_from_source_q": {
+        "description": "Migration FAQ question about migrating Library manga from a specific original source."
+    },
+    "migration_faq_from_source_a": "1. Open Browse → Migrate → original source. This lists your Library manga from that source.\n2. Open the more menu → Migrate all to migrate all entries shown, or long-press to select specific manga → Migrate.\n3. Follow the bulk migration steps below to choose target sources, review matches, and confirm.\n\nTo migrate just one manga, tap its row and follow the single-manga steps above.",
+    "@migration_faq_from_source_a": {
+        "description": "Source-specific entry point, Library-only scope, migrating all listed or selected entries, and references to shared bulk and single migration steps."
+    },
+    "migration_faq_same_source_q": "What if Library manga stop loading after a source update?",
+    "@migration_faq_same_source_q": {
+        "description": "Migration FAQ question about Library entries with outdated links after a website redesign and source update."
+    },
+    "migration_faq_same_source_a": "Major website changes can give manga new addresses. After the source is updated, existing Library entries may still point to the old pages.\n\nIf searching that source finds the manga and its chapters load normally, try migrating the old entry to the newly found one on the same source (A → A).\n\nFor multiple affected manga, follow the source migration steps above and select that same source as the target. Review the matches before confirming.",
+    "@migration_faq_same_source_a": {
+        "description": "Explains how migration within the same source can replace outdated Library entries with working entries found through current search, including bulk migration."
+    },
+    "selection_options": "Options",
+    "@selection_options": {
+        "description": "Button label and accessibility label for the selection menu containing commands such as Select all, Invert selection, and Select between."
+    },
+    "backup_import_failed": "Import failed",
+    "@backup_import_failed": {
+        "description": "Fallback title when importing a backup fails and the server provides no detailed message."
+    },
+    "backup_importing": "Importing...",
+    "@backup_importing": {
+        "description": "Fallback progress message while importing a backup when the server provides no detailed message."
+    },
+    "premium_faq_family_sharing_title": "Family Sharing Troubleshooting Guide",
+    "@premium_faq_family_sharing_title": {
+        "description": "Title of the expandable Family Sharing troubleshooting entry in the Premium FAQ."
+    },
+    "extension_repo_help_intro_title": "What are extension repositories?",
+    "@extension_repo_help_intro_title": {
+        "description": "First section heading in the local extension repository help document."
+    },
+    "extension_repo_help_intro_title_b": "What are extension stores?",
+    "@extension_repo_help_intro_title_b": {
+        "description": "Store terminology variant of the first section heading in the local extension repository help document."
+    },
+    "extension_repo_help_intro_content": "Extension stores, also called extension repositories, provide third-party extensions and their updates. Install an extension to add its manga sources to Tachimanga.\n\nTachimanga supports most Mihon extensions, so you can also use Mihon extension stores.\n\nAfter adding a store/repository, install the extensions you need in Browse → Extensions, then access their sources in Browse → Sources.",
+    "@extension_repo_help_intro_content": {
+        "description": "Explains extension stores and repositories, Mihon compatibility, and where to install extensions and access their sources."
+    },
+    "help_not_found": "Didn't find what you were looking for?",
+    "@help_not_found": {
+        "description": "Prompt below the Contact Us entry at the end of the Help screen."
+    },
+    "premium_faq_family_sharing_a": "1. Confirm that Premium works on the original purchaser's device and that both accounts belong to the same Apple family.\n\n2. Lifetime: the family organizer must enable Purchase Sharing. Both the purchaser AND the receiving family member must enable Share My Purchases. Make sure Tachimanga is not hidden from the purchaser's App Store purchases. Lifetime does not appear in the shared subscriptions list.\n\n3. Monthly or Yearly: on the purchaser's device, open Settings → [Your Name] → Subscriptions → Tachimanga and enable Share with Family for the eligible subscription. As an additional troubleshooting step, we recommend that the family organizer enable Purchase Sharing and that both the purchaser and the receiving family member enable Share My Purchases.\n\n4. The family member should use their own Apple Account. Check that Media & Purchases uses the account configured for purchases in Family settings. In Tachimanga, open Get Premium and tap Restore Purchase.\n\nStill locked? Tap Learn more for the full checklist. Do not purchase again while troubleshooting.",
+    "@premium_faq_family_sharing_a": {
+        "description": "Core Family Sharing troubleshooting steps: active purchase and same family, required purchase sharing settings for Lifetime, subscription sharing and recommended purchase sharing checks for Monthly or Yearly, recipient purchase account and restore, plus the full-guide link and avoiding repeat purchases."
+    },
+    "reader_page_curl": "Page curl",
+    "@reader_page_curl": {
+        "description": "Paper curl option in the page animation selector for horizontal paged readers."
+    },
+    "reader_page_curl_spine": "Show book spine",
+    "@reader_page_curl_spine": {
+        "description": "Global reader preference showing the book spine in realistic double-page mode, enabled for editing only while realistic page turns are enabled."
+    },
+    "reader_page_animation": "Page animation",
+    "@reader_page_animation": {
+        "description": "Title of the page animation selector shared by global reader settings and quick settings in horizontal paged readers."
+    },
+    "reader_page_slide": "Slide",
+    "@reader_page_slide": {
+        "description": "Default sliding transition option in the page animation selector."
+    },
+    "reader_page_animation_paged_only": "Only applies to horizontal paged reading modes.",
+    "@reader_page_animation_paged_only": {
+        "description": "Note inside the page animation dialog opened from global reader settings, explaining that it affects only horizontal paged readers."
+    },
+    "extension_store_faq_title": "Extension Repositories FAQ",
+    "@extension_store_faq_title": {
+        "description": "Title of the extension FAQ using repository terminology."
+    },
+    "extension_store_faq_title_b": "Extension Stores FAQ",
+    "@extension_store_faq_title_b": {
+        "description": "Title of the extension FAQ using store terminology."
+    },
+    "extension_store_faq_sources_q": "What are extensions and sources?",
+    "@extension_store_faq_sources_q": {
+        "description": "FAQ question explaining the difference between extensions and sources."
+    },
+    "extension_store_faq_sources_a": "An extension connects Tachimanga to a third-party manga website. A source is an entry you open in Tachimanga to browse and read manga from that website.\n\nInstalling an extension adds its sources to Browse → Sources. One extension may provide multiple sources, such as different languages or websites.",
+    "@extension_store_faq_sources_a": {
+        "description": "Explains extensions, sources, and where sources appear after installation."
+    },
+    "extension_store_faq_install_q": "How do I install an extension?",
+    "@extension_store_faq_install_q": {
+        "description": "FAQ question about installing extensions from files or stores."
+    },
+    "extension_store_faq_install_a": "We recommend installing and managing extensions through an extension store (also called a repository). This makes it easier to find, install, and update extensions in one place.\n\nFrom an extension store (recommended)\n\nAdd an extension store in Settings → Extensions → {storeName}. Then open Browse → Extensions, find the extension you want, and tap Install.\n\nFrom a file\n\nDownload a compatible extension file (.jar or .apk) to your device. Open Browse → Extensions, tap +, and choose Install extension if a menu appears. Select the file to install it.\n\nOnce installed, the extension’s sources will appear in Browse → Sources.",
+    "@extension_store_faq_install_a": {
+        "description": "Recommends stores/repositories for finding, installing, and updating extensions, followed by store and APK/JAR installation instructions. The final settings label follows the terminology setting.",
+        "placeholders": {
+            "storeName": {
+                "type": "String",
+                "description": "Localized Extension stores or Extension repositories settings label."
+            }
+        }
+    },
+    "extension_store_faq_stores_a": "Extension stores, also called extension repositories, provide third-party extensions and their updates.\n\nAdding a store makes its extensions available in Browse → Extensions. You can then choose which extensions to install.",
+    "@extension_store_faq_stores_a": {
+        "description": "Explains extension stores and the difference between adding a store and installing its extensions."
+    },
+    "extension_store_faq_find_q": "How do I find third-party extension repositories?",
+    "@extension_store_faq_find_q": {
+        "description": "FAQ question about finding repositories, using repository terminology."
+    },
+    "extension_store_faq_find_q_b": "How do I find third-party extension stores?",
+    "@extension_store_faq_find_q_b": {
+        "description": "FAQ question about finding stores, using store terminology."
+    },
+    "extension_store_faq_find_a": "Tachimanga supports most Mihon/Tachiyomi extensions, so you can use extension stores made for Mihon/Tachiyomi.",
+    "@extension_store_faq_find_a": {
+        "description": "Compatibility introduction for the store-finding Markdown answer, mentioning Mihon and Tachiyomi."
+    },
+    "extension_store_faq_find_a_b": "Tachimanga supports most Mihon extensions, so you can use extension stores made for Mihon.",
+    "@extension_store_faq_find_a_b": {
+        "description": "Compatibility introduction for the store-finding Markdown answer, mentioning Mihon only."
+    },
+    "extension_store_faq_find_tips": "No extensions or sources are included by default. You can search Google, YouTube, or other resources for Mihon extension stores.",
+    "@extension_store_faq_find_tips": {
+        "description": "Markdown tip about searching for third-party extension stores."
+    },
+    "extension_store_faq_find_tips_b": "No extensions or sources are included by default. You can ask AI or search Google, YouTube, or other resources for Mihon extension stores.",
+    "@extension_store_faq_find_tips_b": {
+        "description": "Markdown store-finding tip that also mentions asking AI."
+    },
+    "extension_store_faq_maintainer_tips": "Third-party extensions and extension stores are not developed or maintained by Tachimanga. For help with a specific extension or store, contact its maintainer.",
+    "@extension_store_faq_maintainer_tips": {
+        "description": "Markdown tip identifying third-party maintainers as the contact for extension or store support."
+    },
+    "extensions_faq_title": "Extensions FAQ",
+    "@extensions_faq_title": {
+        "description": "Title of the full extension FAQ covering extensions, sources, installation, and stores."
+    },
+    "sync_faq_title": "Sync FAQ",
+    "@sync_faq_title": {
+        "description": "Title of the built-in Sync FAQ page."
+    },
+    "tracking_faq_title": "Tracking FAQ",
+    "@tracking_faq_title": {
+        "description": "Title of the built-in tracking FAQ page."
+    },
+    "reader_free_trial_status": "Free trial · {seconds}s",
+    "@reader_free_trial_status": {
+        "description": "Compact status on the reader while a free trial is active.",
+        "placeholders": {
+            "seconds": {
+                "type": "int",
+                "description": "Remaining trial duration in seconds."
+            }
+        }
+    },
+    "reader_free_trial_feature_status": "Paid feature · Free trial ends in {seconds}s",
+    "@reader_free_trial_feature_status": {
+        "description": "Shown only after selecting a paid feature in reader settings.",
+        "placeholders": {
+            "seconds": {
+                "type": "int",
+                "description": "Remaining trial duration in seconds."
+            }
+        }
+    },
+    "reader_free_trial_wait": "{minutes, plural, =1{Free trial available again in 1 minute} other{Free trial available again in {minutes} minutes}}",
+    "@reader_free_trial_wait": {
+        "description": "Time until another shared reader free trial is available.",
+        "placeholders": {
+            "minutes": {
+                "type": "int",
+                "description": "Remaining wait rounded up to whole minutes."
+            }
+        }
+    },
+    "reader_free_trial_ended": "Free trial ended",
+    "@reader_free_trial_ended": {
+        "description": "Generic completion message shared by all reader trial features."
+    },
+    "reader_free_trial_unlock": "Unlock Premium",
+    "@reader_free_trial_unlock": {
+        "description": "Purchase action in the reader free trial UI."
+    },
+    "reader_free_trial_end": "End free trial",
+    "@reader_free_trial_end": {
+        "description": "Accessibility label for manually ending a reader free trial."
+    },
+    "reader_free_trial_continue": "Continue reading for free",
+    "@reader_free_trial_continue": {
+        "description": "Dismisses the trial completion sheet and resumes free reading."
+    },
+    "reader_free_trial_unlock_message": "Unlock Premium to use these reading features anytime.",
+    "@reader_free_trial_unlock_message": {
+        "description": "Generic upgrade message after trying one or more paid reader features."
+    },
+    "page_layout_automatic_description": "Two pages when unfolded in landscape; one when folded.",
+    "@page_layout_automatic_description": {
+        "description": "Shown only on iPhone Duo below the Automatic option in both global and per-manga page layout settings."
+    },
+    "premium": "Premium",
+    "@premium": {
+        "description": "Premium topic label in the Help screen, matching the other feature-only entry titles."
+    },
+    "premium_b_page_curl_title": "Realistic Page Curl",
+    "@premium_b_page_curl_title": {
+        "description": "Title of the page-curl benefit in the Premium reading feature list."
+    },
+    "premium_b_page_curl_description": "Enjoy natural page-curl animations in horizontal single-page and double-page reading modes.",
+    "@premium_b_page_curl_description": {
+        "description": "Description of the page-curl benefit in the Premium reading feature list."
+    },
+    "backup_invalid_format_title": "Invalid backup format",
+    "@backup_invalid_format_title": {
+        "description": "Title shown when restoring a backup with a known incompatible template or missing category UUIDs."
+    },
+    "backup_invalid_format_message": "This backup has a format problem and cannot be restored.\n\nIf it was generated by a third-party converter, use the original backup to generate a Tachiyomi/Mihon backup, then go to Backup & Restore → Import Mihon backup to import it for better compatibility.\n\nIf this backup was not generated by a converter, please contact us for help.",
+    "@backup_invalid_format_message": {
+        "description": "Explains how to regenerate an incompatible converted backup and asks users of other backups to contact support."
     }
 }
